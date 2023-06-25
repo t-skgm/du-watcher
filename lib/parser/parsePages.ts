@@ -26,7 +26,8 @@ export const parsePages = (htmls: string[]): UsedItem[] => {
         genre,
         cheapestItemPrice,
         cheapestItemStatus,
-        itemPageUrl: itemPageUrl && `${DU_BASE_URL}${itemPageUrl}`
+        itemPageUrl: itemPageUrl && `${DU_BASE_URL}${itemPageUrl}`,
+        crawledAt: new Date()
       })
     })
   })
@@ -43,6 +44,7 @@ export type UsedItem = {
   cheapestItemStatus: string | undefined
   itemPageUrl: string | undefined
   itemId: string | undefined
+  crawledAt: Date
 }
 
 const ItemIdRegexp = /udetail\/(.*)/

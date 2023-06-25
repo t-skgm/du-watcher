@@ -1,5 +1,5 @@
 // This is your Prisma schema file,
-// learn more about it in the docs: https://pris.ly/d/prisma-schema
+// learn more about it in the docs String
 
 generator client {
   provider        = "prisma-client-js"
@@ -27,9 +27,34 @@ model pages {
   url       String     @unique
   status    PageStatus
   createdAt DateTime   @default(now())
+
+  items pagesToItems[]
 }
 
 enum PageStatus {
   ACTIVE
   INACTIVE
+}
+
+model items {
+  itemId             String   @id
+  itemPageUrl        String
+  artist             String
+  productTitle       String
+  labelName          String
+  genre              String
+  cheapestItemPrice  String
+  cheapestItemStatus String
+  crawledAt          DateTime @default(now())
+
+  pages pagesToItems[]
+}
+
+model pagesToItems {
+  page   pages  @relation(fields: [pageId], references: [id])
+  pageId Int
+  item   items  @relation(fields: [itemId], references: [itemId])
+  itemId String
+
+  @@id([pageId, itemId])
 }
