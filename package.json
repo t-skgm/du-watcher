@@ -3,10 +3,13 @@
   "license": "MIT",
   "version": "0.0.0",
   "private": true,
+  "engines": {
+    "node": ">=18 <19"
+  },
   "scripts": {
     "dev": "prisma generate && next dev",
-    "build": "prisma generate && prisma db push && prisma db seed && next build",
-    "start": "next start",
+    "build": "prisma generate && prisma db push && next build",
+    "start": "next start -H 0.0.0.0",
     "lint": "next lint",
     "test": "vitest"
   },
