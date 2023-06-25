@@ -1,0 +1,22 @@
+# Services for dev
+
+services:
+  db:
+    image: postgres:15
+    command: postgres -c 'max_connections=200'
+    ports:
+      - 5432:5432
+    volumes:
+      - postgres:/pgdata
+    environment:
+      - POSTGRES_PASSWORD=password
+      - POSTGRES_DB=verceldb
+      - PGDATA=/pgdata
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  postgres: {}
