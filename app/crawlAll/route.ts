@@ -4,6 +4,7 @@ import { prisma } from '@/lib/prisma'
 const BASE_URL = process.env.VERCEL_BRANCH_URL ? `https://${process.env.VERCEL_BRANCH_URL}` : 'http://localhost:3000'
 
 export async function GET(_request: Request) {
+  console.log(`BASE: ${BASE_URL}`)
   const pages = await prisma.pages.findMany({
     where: { status: 'ACTIVE' }
   })
