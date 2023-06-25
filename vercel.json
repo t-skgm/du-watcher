@@ -1,4 +1,11 @@
 {
+  "$schema": "https://openapi.vercel.sh/vercel.json",
   "buildCommand": "pnpm turbo build",
-  "ignoreCommand": "pnpm dlx turbo-ignore"
+  "ignoreCommand": "pnpm dlx turbo-ignore",
+  "crons": [
+    {
+      "path": "/crawlAll",
+      "schedule": "0 0 0 0 0"
+    }
+  ]
 }

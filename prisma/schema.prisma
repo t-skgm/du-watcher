@@ -20,3 +20,16 @@ model users {
   image     String
   createdAt DateTime @default(now())
 }
+
+model pages {
+  id        Int        @id @default(autoincrement())
+  name      String?
+  url       String     @unique
+  status    PageStatus
+  createdAt DateTime   @default(now())
+}
+
+enum PageStatus {
+  ACTIVE
+  INACTIVE
+}
