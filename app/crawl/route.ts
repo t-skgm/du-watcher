@@ -7,7 +7,7 @@ export async function GET(request: Request) {
   const targetUrl = reqUrl.searchParams.get('u')
   const pageId = reqUrl.searchParams.get('page')
   if (targetUrl == null || pageId == null) {
-    return new Response('Invalid params', { status: 501 })
+    return new Response('Invalid params', { status: 400 })
   }
 
   console.log('[crawl] start crawling...')
