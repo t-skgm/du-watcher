@@ -1,7 +1,10 @@
 import { NextResponse } from 'next/server'
 import { prisma } from '@/lib/prisma'
 
-const BASE_URL = process.env.VERCEL_BRANCH_URL ? `https://${process.env.VERCEL_BRANCH_URL}` : 'http://localhost:3000'
+const BASE_URL =
+  process.env.VERCEL_URL || process.env.VERCEL_BRANCH_URL
+    ? `https://${process.env.VERCEL_URL ?? process.env.VERCEL_BRANCH_URL}`
+    : 'http://localhost:3000'
 
 export async function GET(_request: Request) {
   console.log(`BASE: ${BASE_URL}`)
@@ -12,11 +15,11 @@ export async function GET(_request: Request) {
   // only calling, not waiting
   void Promise.all(
     pages.map(async page => {
-      const pageUrl = `${BASE_URL}/crawl?p=${page.id}&u=${encodeURIComponent(page.url)}`
+      const pageUrl = `${BASE_URL}/crawl?page=${page.id}&u=${encodeURIComponent(page.url)}`
       console.log('[crawlAll] fetch', pageUrl)
       await fetch(pageUrl)
     })
   )
 
-  return NextResponse.json({ message: 'Start to crawling...' })
+  return NextResponse.json({ message: 'Start to crawling... base:' + BASE_URL })
 }

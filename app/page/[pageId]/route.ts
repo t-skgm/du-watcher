@@ -17,7 +17,7 @@ export async function POST(request: Request, { params }: { params: { pageId: str
   return NextResponse.json(updated)
 }
 
-type ItemsCreateInput = {
+export type ItemsCreateInput = {
   name?: string
   url?: string
   status?: PageStatus
