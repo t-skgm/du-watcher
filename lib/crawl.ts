@@ -1,20 +1,21 @@
-export const crawlHTML = async ({
-  targetUrl,
-  referer = REFERER_DU,
-}: {
-  targetUrl: string;
-  referer?: string;
-}): Promise<string> => {
-  const res = await fetch(targetUrl, {
-    headers: {
-      "User-Agent": UA,
-      referer,
-    },
-  });
-  const html = await res.text();
-  return html;
-};
+import { fetchHTML } from './fetchHTML'
+import { parseNextPageUrl } from './parser/parseNextPageUrl'
+import { parsePages } from './parser/parsePages'
+import { sleep } from './utils'
 
-const UA =
-  "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36";
-const REFERER_DU = "https://diskunion.net/used/";
+export const crawl = async ({ targetUrl }: { targetUrl: string }) => {
+  const htmls: string[] = []
+  let nextPageUrl: string | undefined = targetUrl
+
+  // fetch with pagenate
+  while (nextPageUrl != null) {
+    const firstHtml = await fetchHTML({ url: nextPageUrl })
+    nextPageUrl = parseNextPageUrl(firstHtml)
+    htmls.push(firstHtml)
+    sleep(300)
+  }
+
+  const result = parsePages(htmls)
+
+  return result
+}

@@ -1,21 +1,19 @@
-import { NextResponse } from "next/server";
-import { prisma } from "@/lib/prisma";
+import { NextResponse } from 'next/server'
+import { prisma } from '@/lib/prisma'
 
-const BASE_URL = process.env.VERCEL_BRANCH_URL
-  ? `https://${process.env.VERCEL_BRANCH_URL}`
-  : "http://localhost:3000";
+const BASE_URL = process.env.VERCEL_BRANCH_URL ? `https://${process.env.VERCEL_BRANCH_URL}` : 'http://localhost:3000'
 
 export async function GET(_request: Request) {
   const pages = await prisma.pages.findMany({
-    where: { status: "ACTIVE" },
-  });
+    where: { status: 'ACTIVE' }
+  })
 
   // only calling, not waiting
   void Promise.all(
-    pages.map(async (page) => {
-      await fetch(`${BASE_URL}/crawl?u=${encodeURIComponent(page.url)}`);
+    pages.map(async page => {
+      await fetch(`${BASE_URL}/crawl?u=${encodeURIComponent(page.url)}`)
     })
-  );
+  )
 
-  return NextResponse.json({ message: "Start to crawling..." });
+  return NextResponse.json({ message: 'Start to crawling...' })
 }
