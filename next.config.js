@@ -1,11 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   experimental: {
-    scrollRestoration: true,
-  },
-  images: {
-    domains: ["pbs.twimg.com"],
-  },
-};
+    scrollRestoration: true
+  }
+}
 
-module.exports = nextConfig;
+module.exports = nextConfig

@@ -1,14 +1,14 @@
-import Image from "next/image";
-import Link from "next/link";
-import { Suspense } from "react";
-import Table from "@/components/table";
-import TablePlaceholder from "@/components/table-placeholder";
-import ExpandingArrow from "@/components/expanding-arrow";
+import Image from 'next/image'
+import Link from 'next/link'
+import { Suspense } from 'react'
+import Table from '@/components/table'
+import TablePlaceholder from '@/components/table-placeholder'
+import ExpandingArrow from '@/components/expanding-arrow'
 
 // Prisma does not support Edge without the Data Proxy currently
 // export const runtime = 'edge'
-export const preferredRegion = "home";
-export const dynamic = "force-dynamic";
+export const preferredRegion = 'home'
+export const dynamic = 'force-dynamic'
 
 export default function Home() {
   return (
@@ -32,15 +32,15 @@ export default function Home() {
           className="font-medium underline underline-offset-4 hover:text-black transition-colors"
         >
           Vercel Postgres
-        </Link>{" "}
-        demo with{" "}
+        </Link>{' '}
+        demo with{' '}
         <Link
           href="https://prisma.io"
           className="font-medium underline underline-offset-4 hover:text-black transition-colors"
         >
           Prisma
-        </Link>{" "}
-        as the ORM. <br /> Built with{" "}
+        </Link>{' '}
+        as the ORM. <br /> Built with{' '}
         <Link
           href="https://nextjs.org/docs"
           className="font-medium underline underline-offset-4 hover:text-black transition-colors"
@@ -73,28 +73,16 @@ export default function Home() {
 
       <div className="sm:absolute sm:bottom-0 w-full px-20 py-10 flex justify-between">
         <Link href="https://vercel.com">
-          <Image
-            src="/vercel.svg"
-            alt="Vercel Logo"
-            width={100}
-            height={24}
-            priority
-          />
+          <Image src="/vercel.svg" alt="Vercel Logo" width={100} height={24} priority />
         </Link>
         <Link
           href="https://github.com/vercel/examples/tree/main/storage/postgres-prisma"
           className="flex items-center space-x-2"
         >
-          <Image
-            src="/github.svg"
-            alt="GitHub Logo"
-            width={24}
-            height={24}
-            priority
-          />
+          <Image src="/github.svg" alt="GitHub Logo" width={24} height={24} priority />
           <p className="font-light">Source</p>
         </Link>
       </div>
     </main>
-  );
+  )
 }

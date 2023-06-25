@@ -1,6 +1,10 @@
 import { NextResponse } from "next/server";
 import { prisma } from "@/lib/prisma";
 
+const BASE_URL = process.env.VERCEL_BRANCH_URL
+  ? `https://${process.env.VERCEL_BRANCH_URL}`
+  : "http://localhost:3000";
+
 export async function GET(_request: Request) {
   const pages = await prisma.pages.findMany({
     where: { status: "ACTIVE" },
@@ -9,7 +13,7 @@ export async function GET(_request: Request) {
   // only calling, not waiting
   void Promise.all(
     pages.map(async (page) => {
-      await fetch(page.url);
+      await fetch(`${BASE_URL}/crawl?u=${encodeURIComponent(page.url)}`);
     })
   );
 
