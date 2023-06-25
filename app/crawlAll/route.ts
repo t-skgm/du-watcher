@@ -11,7 +11,9 @@ export async function GET(_request: Request) {
   // only calling, not waiting
   void Promise.all(
     pages.map(async page => {
-      await fetch(`${BASE_URL}/crawl?p=${page.id}&u=${encodeURIComponent(page.url)}`)
+      const pageUrl = `${BASE_URL}/crawl?p=${page.id}&u=${encodeURIComponent(page.url)}`
+      console.log('[crawlAll] fetch', pageUrl)
+      await fetch(pageUrl)
     })
   )
 

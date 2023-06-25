@@ -1,4 +1,5 @@
 import { prisma } from '@/lib/prisma'
+import { EditPageButton } from '@/components/EditPageButton'
 
 const headers = ['Title', 'URL', 'Status', 'CreatedAt']
 
@@ -28,10 +29,7 @@ export const PageTable = async () => {
               <td className="px-6 py-4">{page.status === 'ACTIVE' ? <ActivePill /> : <InactivePill />}</td>
               <td className="px-6 py-4">{page.createdAt.toLocaleString()}</td>
               <td className="flex justify-end gap-4 px-6 py-4 font-medium">
-                <a href="">Delete</a>
-                <a href="" className="text-primary-700">
-                  Edit
-                </a>
+                <EditPageButton pageId={page.id} />
               </td>
             </tr>
           ))}
