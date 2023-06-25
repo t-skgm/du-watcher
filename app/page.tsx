@@ -1,19 +1,17 @@
-import Image from 'next/image'
-import Link from 'next/link'
+import { PageTable } from '@/components/PageTable'
 import { Suspense } from 'react'
-import Table from '@/components/table'
-import TablePlaceholder from '@/components/table-placeholder'
-import ExpandingArrow from '@/components/expanding-arrow'
 
 // Prisma does not support Edge without the Data Proxy currently
-// export const runtime = 'edge'
 export const preferredRegion = 'home'
 export const dynamic = 'force-dynamic'
 
 export default function Home() {
   return (
-    <main className="relative flex min-h-screen flex-col items-center justify-center">
-      <div></div>
+    <main className="relative flex min-h-screen flex-col p-8">
+      <h2 className="text-2xl mb-6">Pages List</h2>
+      <Suspense fallback={<div>Loading...</div>}>
+        <PageTable />
+      </Suspense>
     </main>
   )
 }
