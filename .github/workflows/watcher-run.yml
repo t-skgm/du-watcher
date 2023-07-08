@@ -16,4 +16,5 @@ jobs:
       - name: Install deps
         run: pnpm install --frozen-lockfile
 
-      # run
+      - name: Run crawl
+        run: pnpm run start:watcher
