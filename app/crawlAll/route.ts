@@ -1,10 +1,13 @@
 import { NextResponse } from 'next/server'
 import { prisma } from '@/lib/prisma'
+import { AppConfig } from 'next/dist/build/utils'
 
 const BASE_URL =
   process.env.VERCEL_URL || process.env.VERCEL_BRANCH_URL
     ? `https://${process.env.VERCEL_URL ?? process.env.VERCEL_BRANCH_URL}`
     : 'http://localhost:3000'
+
+export const dynamic: AppConfig['dynamic'] = 'force-dynamic'
 
 export async function GET(_request: Request) {
   console.log(`BASE: ${BASE_URL}`)

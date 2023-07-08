@@ -4,33 +4,38 @@
   "version": "0.0.0",
   "private": true,
   "engines": {
-    "node": ">=18 <19"
+    "node": "18"
   },
   "scripts": {
     "dev": "prisma generate && next dev",
-    "build": "prisma generate && prisma db push && next build",
-    "start": "next start -H 0.0.0.0",
+    "build": "prisma generate && next build",
+    "db:migrate": "prisma db push",
+    "start": "next start",
     "lint": "next lint",
-    "test": "vitest"
+    "test": "vitest",
+    "postinstall": "prisma generate"
   },
   "prisma": {
     "seed": "ts-node --compiler-options {\"module\":\"CommonJS\"} prisma/seed.ts"
   },
   "dependencies": {
-    "@prisma/client": "4.16.1",
-    "@types/node": "18.15.11",
-    "@types/react": "18.2.14",
-    "@types/react-dom": "18.2.6",
+    "@prisma/client": "4.16.2",
     "autoprefixer": "10.4.14",
-    "eslint": "8.43.0",
-    "eslint-config-next": "13.4.7",
     "next": "13.4.7",
     "node-html-parser": "^6.1.5",
     "postcss": "8.4.24",
-    "prisma": "^4.16.1",
+    "prisma": "4.16.2",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "tailwindcss": "3.3.2",
+    "tailwindcss": "3.3.2"
+  },
+  "devDependencies": {
+    "@types/node": "18.15.11",
+    "@types/react": "18.2.14",
+    "@types/react-dom": "18.2.6",
+    "esbuild": "^0.18.10",
+    "eslint": "8.43.0",
+    "eslint-config-next": "13.4.7",
     "ts-node": "^10.9.1",
     "turbo": "^1.10.6",
     "typescript": "5.1.3",
