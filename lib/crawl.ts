@@ -3,7 +3,8 @@ import { parseNextPageUrl } from './parser/parseNextPageUrl'
 import { parsePages } from './parser/parsePages'
 import { sleep } from './utils'
 
-export const crawl = async ({ targetUrl }: { targetUrl: string }) => {
+/** crawl (with sleeping) */
+export const crawl = async ({ targetUrl, sleepMs = 300 }: { targetUrl: string; sleepMs?: number }) => {
   const htmls: string[] = []
   let nextPageUrl: string | undefined = targetUrl
 
@@ -12,7 +13,7 @@ export const crawl = async ({ targetUrl }: { targetUrl: string }) => {
     const firstHtml = await fetchHTML({ url: nextPageUrl })
     nextPageUrl = parseNextPageUrl(firstHtml)
     htmls.push(firstHtml)
-    sleep(300)
+    sleep(sleepMs)
   }
 
   const result = parsePages(htmls)
