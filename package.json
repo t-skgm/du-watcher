@@ -9,7 +9,7 @@
   "scripts": {
     "dev": "prisma generate && next dev",
     "build": "prisma generate && next build",
-    "script": "node -r ts-node/register -r tsconfig-paths/register",
+    "script": "prisma generate && node -r ts-node/register -r tsconfig-paths/register",
     "db:migrate": "prisma db push",
     "start": "next start",
     "start:watcher": "pnpm script ./scripts/watcher.ts",
