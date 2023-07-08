@@ -2,7 +2,7 @@ name: 'Watcher: run'
 on: workflow_dispatch
 
 jobs:
-  build:
+  build-and-run:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -22,4 +22,8 @@ jobs:
         run: pnpm install --frozen-lockfile
 
       - name: Run crawl
+        env:
+          POSTGRES_URL: ${{ secrets.POSTGRES_URL }}
+          POSTGRES_URL_NON_POOLING: ${{ secrets.POSTGRES_URL }}
+          POSTGRES_PRISMA_URL: ${{ secrets.POSTGRES_URL }}
         run: pnpm run start:watcher
