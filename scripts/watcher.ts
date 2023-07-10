@@ -1,12 +1,12 @@
 import { PrismaClient } from '@prisma/client'
-import { prisma } from '../lib/prisma'
 import { crawl } from '../lib/crawl'
 import { saveItems } from '../lib/saveItems'
 
 const log = console.log
 
+const prisma = new PrismaClient()
+
 const run = async () => {
-  const prisma = new PrismaClient()
   await prisma.$connect()
 
   const pages = await prisma.pages.findMany({
@@ -28,10 +28,14 @@ const run = async () => {
   }
 
   log(`[crawl] all crawl finished! page size: ${pageCount}`)
-  await prisma.$disconnect()
 }
 
-run().catch(e => {
-  console.error(e)
-  process.exit(1)
-})
+run()
+  .then(async () => {
+    await prisma.$disconnect()
+  })
+  .catch(async e => {
+    console.error(e)
+    await prisma.$disconnect()
+    process.exit(1)
+  })
