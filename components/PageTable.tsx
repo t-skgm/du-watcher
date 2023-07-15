@@ -1,5 +1,7 @@
 import { prisma } from '@/lib/prisma'
 import { EditPageButton } from '@/components/EditPageButton'
+import { CreatePageButton } from './CreatePageButton'
+import { Modal } from './Modal'
 
 const headers = ['Title', 'URL', 'Status', 'CreatedAt']
 
@@ -8,6 +10,10 @@ export const PageTable = async () => {
 
   return (
     <div className="">
+      <div className="flex w-full justify-end">
+        <CreatePageButton />
+      </div>
+
       <table className="w-full border-collapse border border-gray-200 bg-white text-left text-sm text-gray-500">
         <thead className="bg-gray-50">
           <tr>
@@ -28,8 +34,8 @@ export const PageTable = async () => {
               <td className="px-6 py-4">{page.url}</td>
               <td className="px-6 py-4">{page.status === 'ACTIVE' ? <ActivePill /> : <InactivePill />}</td>
               <td className="px-6 py-4">{page.createdAt.toLocaleString()}</td>
-              <td className="flex justify-end gap-4 px-6 py-4 font-medium">
-                <EditPageButton pageId={page.id} />
+              <td className="justify-end gap-4 px-6 py-4 font-medium">
+                <EditPageButton pageId={page.id.toString()} />
               </td>
             </tr>
           ))}
