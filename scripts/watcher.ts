@@ -1,14 +1,14 @@
-import { PrismaClient } from '@prisma/client'
+import { prisma } from '../lib/prisma'
 import { crawl } from '../lib/crawl'
 import { saveItems } from '../lib/saveItems'
 
 const log = console.log
 
-const prisma = new PrismaClient()
-
 const run = async () => {
+  log(`[crawl] connect`)
   await prisma.$connect()
 
+  log(`[crawl] query existing pages`)
   const pages = await prisma.pages.findMany({
     where: { status: 'ACTIVE' }
   })
@@ -22,7 +22,7 @@ const run = async () => {
     log(`[crawl] crawl success`)
 
     log(`[crawl] save items... size: ${items.length}`)
-    await saveItems({ items, pageId: page.id })
+    await saveItems(prisma, { items, pageId: page.id })
 
     pageCount++
   }

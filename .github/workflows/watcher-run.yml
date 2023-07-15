@@ -1,5 +1,10 @@
 name: 'Watcher: run'
-on: workflow_dispatch
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 毎日 12:00 (03:00 UTC) 実行
+    - cron: '0 3 * * *'
 
 jobs:
   build-and-run:
@@ -28,6 +33,6 @@ jobs:
           POSTGRES_PRISMA_URL: ${{ secrets.POSTGRES_URL }}
         run: pnpm run start:watcher
 
-      - name: Debug with SSH
-        if: ${{ always() }}
-        uses: mxschmitt/action-tmate@v3
+      # - name: Debug with SSH
+      #   if: ${{ always() }}
+      #   uses: mxschmitt/action-tmate@v3
