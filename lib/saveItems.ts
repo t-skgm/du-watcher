@@ -1,7 +1,7 @@
-import { prisma } from '@/lib/prisma'
 import { UsedItem } from './parser/parsePages'
+import type { PrismaClient } from '@prisma/client'
 
-export const saveItems = async ({ items, pageId }: { items: UsedItem[]; pageId: number }) => {
+export const saveItems = async (prisma: PrismaClient, { items, pageId }: { items: UsedItem[]; pageId: number }) => {
   const upsertCommands = items.map(i =>
     prisma.items.upsert({
       where: { itemId: i.itemId! },
