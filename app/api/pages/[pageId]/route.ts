@@ -16,7 +16,7 @@ export type PagePutRequestBody = z.infer<typeof pagePutRequestBody>
 
 export async function PUT(req: Request, { params }: { params: { pageId: string } }) {
   try {
-    const input = pagePutRequestBody.parse(req.body)
+    const input = pagePutRequestBody.parse(await req.json())
     const { pageId } = params
 
     const result = await prisma.pages.update({

@@ -6,7 +6,9 @@ export const createPage = async (input: PagePostRequestBody) => {
     method: 'POST',
     body: JSON.stringify(input)
   })
-  console.log('[page] Created.', result)
+  const json = await result.json()
+  console.log('[page] Created.', json)
+  return json
 }
 
 export const updatePage = async (pageId: string, input: PagePutRequestBody) => {
@@ -14,5 +16,7 @@ export const updatePage = async (pageId: string, input: PagePutRequestBody) => {
     method: 'PUT',
     body: JSON.stringify(input)
   })
-  console.log('[page] Updated.', result)
+  const json = await result.json()
+  console.log('[page] Updated.', json)
+  return json
 }

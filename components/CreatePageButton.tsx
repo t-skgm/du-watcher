@@ -1,18 +1,9 @@
-'use client'
-
-import { createPage } from '@/lib/api/page'
+import Link from 'next/link'
 
 export const CreatePageButton = () => {
-  const onClick = async () => {
-    await createPage({
-      name: '',
-      url: ''
-    })
-  }
-
   return (
-    <button className="text-primary-700 p-2 mb-4 bg-cyan-100 border-cyan-500 border-2" onClick={onClick}>
-      Create
-    </button>
+    <Link href={`/pages/new`} className="text-primary-700 p-2 mb-4 bg-blue-100 border-blue-300 border-2 rounded-lg">
+      New
+    </Link>
   )
 }

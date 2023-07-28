@@ -15,7 +15,7 @@ export type PagePostRequestBody = z.infer<typeof pagePostRequestBody>
 
 export async function POST(req: Request) {
   try {
-    const input = pagePostRequestBody.parse(req.body)
+    const input = pagePostRequestBody.parse(await req.json())
 
     const result = await prisma.pages.create({
       data: {

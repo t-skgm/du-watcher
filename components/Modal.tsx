@@ -33,7 +33,7 @@ export const Modal = ({ children, title }: Props) => {
             <h3 className="text-lg font-medium text-secondary-900">{title}</h3>
             <div className="py-2">{children}</div>
           </div>
-          <div className="flex justify-end gap-3 bg-slate-50 px-6 py-3">
+          {/* <div className="flex justify-end gap-3 bg-slate-50 px-6 py-3">
             <button
               type="button"
               onClick={handleCancel}
@@ -48,7 +48,7 @@ export const Modal = ({ children, title }: Props) => {
             >
               Confirm
             </button>
-          </div>
+          </div> */}
         </div>
       </div>
     </>
