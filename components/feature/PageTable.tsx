@@ -1,7 +1,6 @@
 import { prisma } from '@/lib/prisma'
-import { EditPageButton } from '@/components/EditPageButton'
+import { EditPageButton } from '@/components/feature/EditPageButton'
 import { CreatePageButton } from './CreatePageButton'
-import { Modal } from './Modal'
 
 const headers = ['Title', 'URL', 'Status', 'CreatedAt']
 

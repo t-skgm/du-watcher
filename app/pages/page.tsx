@@ -1,4 +1,4 @@
-import { PageTable } from '@/components/PageTable'
+import { PageTable } from '@/components/feature/PageTable'
 import { Suspense } from 'react'
 
 // Prisma does not support Edge without the Data Proxy currently

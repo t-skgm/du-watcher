@@ -1,5 +1,5 @@
-import { CraetePageForm } from '@/components/CreatePageForm'
-import { Modal } from '@/components/Modal'
+import { CraetePageForm } from '@/components/feature/CreatePageForm'
+import { Modal } from '@/components/shared/Modal'
 
 type PageNewProps = {}
 

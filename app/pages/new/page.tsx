@@ -1,4 +1,4 @@
-import { CraetePageForm } from '@/components/CreatePageForm'
+import { CraetePageForm } from '@/components/feature/CreatePageForm'
 
 type PageNewProps = {}
 
