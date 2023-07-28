@@ -28,15 +28,16 @@ enum PageStatus {
 }
 
 model items {
-  itemId             String   @id
-  itemPageUrl        String
-  artist             String
-  productTitle       String
-  labelName          String
-  genre              String
-  cheapestItemPrice  String
-  cheapestItemStatus String
-  crawledAt          DateTime @default(now())
+  itemId               String   @id
+  itemPageUrl          String
+  artist               String
+  productTitle         String
+  labelName            String
+  genre                String
+  cheapestItemPrice    String
+  cheapestItemPriceYen Int      @default(0)
+  cheapestItemStatus   String
+  crawledAt            DateTime @default(now())
 
   pages pagesToItems[]
 }
