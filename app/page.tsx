@@ -8,7 +8,8 @@ export default function Home() {
   return (
     <main className="relative flex min-h-screen flex-col p-8">
       <h2 className="text-2xl mb-6">DU Watcher</h2>
-      <Link href={'/pages/'}>Go to pages</Link>
+      <Link href={'/pages'}>Go to pages</Link>
+      <Link href={'/items'}>Go to items</Link>
     </main>
   )
 }
