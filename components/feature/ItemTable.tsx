@@ -1,13 +1,24 @@
 import { prisma } from '@/lib/prisma'
 import { ItemTableHeaders } from './ItemTableHeaders'
+import { ItemOrderBy, OrderRule } from '@/domain/domain'
 
 type Props = {
   take?: number
   skip?: number
+  orderBy?: ItemOrderBy
+  orderRule?: OrderRule
 }
 
-export const ItemTable = async ({ take = 30, skip = 0 }: Props) => {
-  const items = await prisma.items.findMany({ take, skip, orderBy: [{ crawledAt: 'desc' }, { artist: 'asc' }] })
+export const ItemTable = async ({ take = 30, skip = 0, orderBy, orderRule }: Props) => {
+  const items = await prisma.items.findMany({
+    where: {
+      // NOTE: 0円は中古在庫なし
+      cheapestItemPriceYen: { not: 0 }
+    },
+    orderBy: orderBy ? { [orderBy]: orderRule } : [{ crawledAt: 'desc' }, { artist: 'asc' }],
+    take,
+    skip
+  })
 
   return (
     <div className="">

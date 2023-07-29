@@ -2,11 +2,10 @@
 
 import { usePathname, useSearchParams, useRouter } from 'next/navigation'
 import { useMemo } from 'react'
-import type { items } from '@prisma/client'
-import { OrderRule } from '@/domain/domain'
+import { ItemOrderBy, OrderRule } from '@/domain/domain'
 import { useUpdateQueryString } from '@/lib/useUpdateQueryString'
 
-type HeaderOption = { label: string; value: keyof items }
+type HeaderOption = { label: string; value: ItemOrderBy }
 
 const headers: HeaderOption[] = [
   { label: 'Artist', value: 'artist' },
@@ -23,7 +22,7 @@ export const ItemTableHeaders = () => {
   const searchParams = useSearchParams()!
   const updateQueryString = useUpdateQueryString()
 
-  const orderBy = useMemo(() => searchParams.get('orderBy') as keyof items | null, [searchParams])
+  const orderBy = useMemo(() => searchParams.get('orderBy') as ItemOrderBy | null, [searchParams])
   const orderRule = useMemo(() => searchParams.get('orderRule') as OrderRule | null, [searchParams])
 
   const handleHeaderClick = (value: string) => (_ev: unknown) => {
