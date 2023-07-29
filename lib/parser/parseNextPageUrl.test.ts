@@ -9,10 +9,10 @@ describe('parseNextPageUrl()', () => {
   let result: string | undefined
 
   beforeAll(() => {
-    result = parseNextPageUrl(snapshotHtml)
+    result = parseNextPageUrl(snapshotHtml, 'https://base-url.exmaple')
   })
 
   test('正しい', async () => {
-    expect(result).toEqual('https://diskunion.net/used/ct/indiealt/new_ulist/0/637/0/0/0103103162/2/50/2')
+    expect(result).toEqual('https://base-url.exmaple/used/ct/indiealt/new_ulist/0/637/0/0/0103103162/2/50/2')
   })
 })

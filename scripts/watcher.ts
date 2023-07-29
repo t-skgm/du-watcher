@@ -3,6 +3,7 @@ import { crawl } from '../lib/crawl'
 import { saveItems } from '../lib/saveItems'
 
 const log = console.log
+const BASE_URL = process.env.DU_SITE_BASE_URL!
 
 const run = async () => {
   log(`[crawl] connect`)
@@ -18,7 +19,7 @@ const run = async () => {
   let pageCount = 1
   for (const page of pages) {
     log(`[crawl] crawl #${pageCount}/${pages.length}, name: ${page.name}, url: ${page.url}`)
-    const items = await crawl({ targetUrl: page.url })
+    const items = await crawl({ targetUrl: page.url, baseUrl: BASE_URL })
     log(`[crawl] crawl success`)
 
     log(`[crawl] save items... size: ${items.length}`)

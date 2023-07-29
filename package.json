@@ -15,6 +15,7 @@
     "start:watcher": "pnpm script ./scripts/watcher.ts",
     "lint": "next lint",
     "test": "vitest",
+    "typecheck": "tsc -p . --noEmit",
     "postinstall": "prisma generate"
   },
   "prisma": {

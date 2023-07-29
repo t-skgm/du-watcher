@@ -1,7 +1,6 @@
 import { parse } from 'node-html-parser'
-import { DU_BASE_URL } from './const'
 
-export const parsePages = (htmls: string[]): UsedItem[] => {
+export const parsePages = (htmls: string[], baseUrl: string): UsedItem[] => {
   const results: UsedItem[] = []
 
   htmls.forEach(html => {
@@ -26,7 +25,7 @@ export const parsePages = (htmls: string[]): UsedItem[] => {
         genre,
         cheapestItemPrice,
         cheapestItemStatus,
-        itemPageUrl: itemPageUrl && `${DU_BASE_URL}${itemPageUrl}`,
+        itemPageUrl: itemPageUrl && `${baseUrl}${itemPageUrl}`,
         crawledAt: new Date()
       })
     })
