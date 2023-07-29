@@ -1,6 +1,5 @@
 import { prisma } from '@/lib/prisma'
-
-const headers = ['Artist', 'Title', 'Genre', 'Cheapest price', 'Cheapest status', 'Crawled']
+import { ItemTableHeaders } from './ItemTableHeaders'
 
 type Props = {
   take?: number
@@ -14,15 +13,7 @@ export const ItemTable = async ({ take = 30, skip = 0 }: Props) => {
     <div className="">
       <table className="w-full border-collapse border border-gray-200 bg-white text-left text-sm text-gray-500">
         <thead className="bg-gray-50">
-          <tr>
-            {headers.map(h => (
-              <th key={h} scope="col" className="px-6 py-4 font-medium text-gray-900">
-                {h}
-              </th>
-            ))}
-            {/* Action col header */}
-            <th scope="col" className="px-6 py-4 font-medium text-gray-900"></th>
-          </tr>
+          <ItemTableHeaders />
         </thead>
 
         <tbody className="divide-y divide-gray-100 border-t border-gray-100">

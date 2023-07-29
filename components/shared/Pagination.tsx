@@ -1,5 +1,6 @@
 'use client'
 
+import { useUpdateQueryString } from '@/lib/useUpdateQueryString'
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
 
@@ -12,6 +13,15 @@ type Props = {
 export const Pagination = (props: Props) => {
   const pathname = usePathname()
   const { currentPage, nextSkip, previousSkip, totalPages, hasNextPage, hasPreviousPage } = getPaginateProps(props)
+  const updateQueryString = useUpdateQueryString()
+
+  const getPathnameWithQS = (skipValue: number) => {
+    const qs = updateQueryString([
+      { name: 'skip', value: skipValue },
+      { name: 'take', value: props.take }
+    ])
+    return `${pathname}?${qs}`
+  }
 
   return (
     <div className="flex justify-center">
@@ -19,7 +29,7 @@ export const Pagination = (props: Props) => {
         <ul className="inline-flex items-center space-x-1 rounded-md text-sm">
           <li>
             <Link
-              href={hasPreviousPage ? `${pathname}?take=${props.take}&skip=${previousSkip}` : '#'}
+              href={hasPreviousPage ? getPathnameWithQS(previousSkip) : '#'}
               className="inline-flex items-center space-x-2 rounded-full border border-gray-300 bg-white px-2 py-2 font-medium text-gray-500 hover:bg-gray-50"
             >
               <LeftArrow />
@@ -32,7 +42,7 @@ export const Pagination = (props: Props) => {
           </li>
           <li>
             <Link
-              href={hasNextPage ? `${pathname}?take=${props.take}&skip=${nextSkip}` : '#'}
+              href={hasNextPage ? getPathnameWithQS(nextSkip) : '#'}
               className="inline-flex items-center space-x-2 rounded-full border border-gray-300 bg-white px-2 py-2 font-medium text-gray-500 hover:bg-gray-50"
             >
               <RightArrow />
