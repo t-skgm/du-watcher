@@ -9,9 +9,9 @@ type Props = {
   skip?: number
 }
 
-export const Paginate = (props: Props) => {
+export const Pagination = (props: Props) => {
   const pathname = usePathname()
-  const { currentPage, nextSkip, previousSkip, totalPages } = getPaginateProps(props)
+  const { currentPage, nextSkip, previousSkip, totalPages, hasNextPage, hasPreviousPage } = getPaginateProps(props)
 
   return (
     <div className="flex justify-center">
@@ -19,7 +19,7 @@ export const Paginate = (props: Props) => {
         <ul className="inline-flex items-center space-x-1 rounded-md text-sm">
           <li>
             <Link
-              href={`${pathname}?take=${props.take}&skip=${previousSkip}`}
+              href={hasPreviousPage ? `${pathname}?take=${props.take}&skip=${previousSkip}` : '#'}
               className="inline-flex items-center space-x-2 rounded-full border border-gray-300 bg-white px-2 py-2 font-medium text-gray-500 hover:bg-gray-50"
             >
               <LeftArrow />
@@ -32,7 +32,7 @@ export const Paginate = (props: Props) => {
           </li>
           <li>
             <Link
-              href={`${pathname}?take=${props.take}&skip=${nextSkip}`}
+              href={hasNextPage ? `${pathname}?take=${props.take}&skip=${nextSkip}` : '#'}
               className="inline-flex items-center space-x-2 rounded-full border border-gray-300 bg-white px-2 py-2 font-medium text-gray-500 hover:bg-gray-50"
             >
               <RightArrow />
@@ -50,11 +50,16 @@ const getPaginateProps = ({ skip, take, totalItemCount }: Props) => {
   const previousSkip = currentPage > 1 ? (currentPage - 2) * take : 0
   const totalPages = Math.ceil(totalItemCount / take)
 
+  const hasPreviousPage = currentPage > 1
+  const hasNextPage = currentPage < totalPages
+
   return {
     currentPage,
     nextSkip,
     previousSkip,
-    totalPages
+    totalPages,
+    hasNextPage,
+    hasPreviousPage
   }
 }
 

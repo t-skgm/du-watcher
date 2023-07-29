@@ -1,4 +1,4 @@
-import { ItemPaginate } from '@/components/feature/ItemPaginate'
+import { ItemPagination } from '@/components/feature/ItemPagination'
 import { ItemTable } from '@/components/feature/ItemTable'
 import { Suspense } from 'react'
 
@@ -23,7 +23,7 @@ export default function ItemIndexProps({ searchParams }: ItemIndexProps) {
 
       <div className="my-6 p-4 bg-white">
         <Suspense fallback={<div>Loading...</div>}>
-          <ItemPaginate take={take} skip={skip} />
+          <ItemPagination take={take} skip={skip} />
         </Suspense>
       </div>
 
@@ -33,7 +33,7 @@ export default function ItemIndexProps({ searchParams }: ItemIndexProps) {
 
       <div className="my-6 p-4 bg-white">
         <Suspense fallback={<div>Loading...</div>}>
-          <ItemPaginate take={take} skip={skip} />
+          <ItemPagination take={take} skip={skip} />
         </Suspense>
       </div>
     </main>
