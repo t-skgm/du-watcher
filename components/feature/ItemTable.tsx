@@ -1,6 +1,6 @@
 import { prisma } from '@/lib/prisma'
 
-const headers = ['Artist', 'Title', 'Label', 'Genre', 'Cheapest price', 'Cheapest status', 'Crawled']
+const headers = ['Artist', 'Title', 'Genre', 'Cheapest price', 'Cheapest status', 'Crawled']
 
 type Props = {
   take?: number
@@ -37,16 +37,16 @@ export const ItemTable = async ({ take = 30, skip = 0 }: Props) => {
                   rel="noopener noreferrer"
                 >
                   {item.productTitle}
-                </a>
+                </a>{' '}
+                ({item.labelName})
               </td>
-              <td className="px-6 py-4">{item.labelName}</td>
               <td className="px-6 py-4">{item.genre}</td>
-              <td className="px-6 py-4">
-                <span className="font-bold">{item.cheapestItemPrice}</span>
+              <td className="px-6 py-4 text-right">
+                <span className="font-bold">{item.cheapestItemPriceYen.toLocaleString()}円</span>
               </td>
               <td className="px-6 py-4">{item.cheapestItemStatus}</td>
               <td className="px-6 py-4">{item.crawledAt.toLocaleString()}</td>
-              <td className="justify-end gap-4 px-6 py-4 font-medium">Action</td>
+              <td className="justify-end gap-4 px-6 py-4 font-medium">!</td>
             </tr>
           ))}
         </tbody>

@@ -14,14 +14,14 @@ type ItemIndexProps = {
 }
 
 export default function ItemIndexProps({ searchParams }: ItemIndexProps) {
-  const take = searchParams.take ? Number(searchParams.take) : 50
-  const skip = searchParams.skip ? Number(searchParams.skip) : 0
+  const take = searchParams.take != null ? Number(searchParams.take) : 50
+  const skip = searchParams.skip != null ? Number(searchParams.skip) : 0
 
   return (
-    <main className="relative flex min-h-screen flex-col p-8 bg-white">
+    <main className="relative flex min-h-screen flex-col p-8">
       <h2 className="text-2xl mb-6">Items List</h2>
 
-      <div className="my-6">
+      <div className="my-6 p-4 bg-white">
         <Suspense fallback={<div>Loading...</div>}>
           <ItemPaginate take={take} skip={skip} />
         </Suspense>
@@ -31,7 +31,7 @@ export default function ItemIndexProps({ searchParams }: ItemIndexProps) {
         <ItemTable take={take} skip={skip} />
       </Suspense>
 
-      <div className="my-6">
+      <div className="my-6 p-4 bg-white">
         <Suspense fallback={<div>Loading...</div>}>
           <ItemPaginate take={take} skip={skip} />
         </Suspense>
