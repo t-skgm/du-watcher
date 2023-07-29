@@ -24,6 +24,12 @@ const run = async () => {
     log(`[crawl] save items... size: ${items.length}`)
     await saveItems(prisma, { items, pageId: page.id })
 
+    log(`[crawl] update page`)
+    await prisma.pages.update({
+      where: { id: page.id },
+      data: { lastCrawledAt: new Date() }
+    })
+
     pageCount++
   }
 

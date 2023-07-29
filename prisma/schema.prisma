@@ -13,11 +13,12 @@ datasource db {
 }
 
 model pages {
-  id        Int        @id @default(autoincrement())
-  name      String?
-  url       String     @unique
-  status    PageStatus
-  createdAt DateTime   @default(now())
+  id            Int        @id @default(autoincrement())
+  name          String?
+  url           String     @unique
+  status        PageStatus
+  createdAt     DateTime   @default(now())
+  lastCrawledAt DateTime?
 
   items pagesToItems[]
 }

@@ -2,7 +2,7 @@ import { prisma } from '@/lib/prisma'
 import { EditPageButton } from '@/components/feature/EditPageButton'
 import { CreatePageButton } from './CreatePageButton'
 
-const headers = ['Title', 'URL', 'Status', 'CreatedAt']
+const headers = ['Title', 'URL', 'Status', 'CreatedAt', 'LastCrawledAt']
 
 export const PageTable = async () => {
   const pages = await prisma.pages.findMany({ take: 10 })
@@ -33,6 +33,7 @@ export const PageTable = async () => {
               <td className="px-6 py-4">{page.url}</td>
               <td className="px-6 py-4">{page.status === 'ACTIVE' ? <ActivePill /> : <InactivePill />}</td>
               <td className="px-6 py-4">{page.createdAt.toLocaleString()}</td>
+              <td className="px-6 py-4">{page.lastCrawledAt?.toLocaleString() ?? ''}</td>
               <td className="justify-end gap-4 px-6 py-4 font-medium">
                 <EditPageButton pageId={page.id.toString()} />
               </td>
