@@ -1,3 +1,4 @@
+import { parsePriceStr } from './formatPrice'
 import { UsedItem } from './parser/parsePages'
 import type { PrismaClient } from '@prisma/client'
 
@@ -13,6 +14,7 @@ export const saveItems = async (prisma: PrismaClient, { items, pageId }: { items
         genre: i.genre ?? '',
         labelName: i.labelName ?? '',
         cheapestItemPrice: i.cheapestItemPrice ?? '',
+        cheapestItemPriceYen: i.cheapestItemPrice != null ? parsePriceStr(i.cheapestItemPrice) : undefined,
         cheapestItemStatus: i.cheapestItemStatus ?? '',
         crawledAt: i.crawledAt,
         pages: { create: { page: { connect: { id: Number(pageId) } } } }
@@ -24,6 +26,7 @@ export const saveItems = async (prisma: PrismaClient, { items, pageId }: { items
         genre: i.genre ?? undefined,
         labelName: i.labelName ?? undefined,
         cheapestItemPrice: i.cheapestItemPrice ?? undefined,
+        cheapestItemPriceYen: i.cheapestItemPrice != null ? parsePriceStr(i.cheapestItemPrice) : undefined,
         cheapestItemStatus: i.cheapestItemStatus ?? undefined,
         crawledAt: i.crawledAt
       }
