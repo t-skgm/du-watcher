@@ -31,8 +31,5 @@ jobs:
           POSTGRES_URL: ${{ secrets.POSTGRES_URL }}
           POSTGRES_URL_NON_POOLING: ${{ secrets.POSTGRES_URL }}
           POSTGRES_PRISMA_URL: ${{ secrets.POSTGRES_URL }}
+          DU_SITE_BASE_URL: ${{ secrets.DU_SITE_BASE_URL }}
         run: pnpm run start:watcher
-
-      # - name: Debug with SSH
-      #   if: ${{ always() }}
-      #   uses: mxschmitt/action-tmate@v3
