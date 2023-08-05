@@ -26,10 +26,16 @@ jobs:
       - name: Install deps
         run: pnpm install --frozen-lockfile
 
-      - name: Run crawl
+      # - name: Run crawl (with rdb/prisma)
+      #   env:
+      #     POSTGRES_URL: ${{ secrets.POSTGRES_URL }}
+      #     POSTGRES_URL_NON_POOLING: ${{ secrets.POSTGRES_URL }}
+      #     POSTGRES_PRISMA_URL: ${{ secrets.POSTGRES_URL }}
+      #     DU_SITE_BASE_URL: ${{ secrets.DU_SITE_BASE_URL }}
+      #   run: pnpm run start:watcher
+
+      - name: Run crawl (with notion)
         env:
-          POSTGRES_URL: ${{ secrets.POSTGRES_URL }}
-          POSTGRES_URL_NON_POOLING: ${{ secrets.POSTGRES_URL }}
-          POSTGRES_PRISMA_URL: ${{ secrets.POSTGRES_URL }}
+          NOTION_API_SECRET: ${{ secrets.NOTION_API_SECRET }}
           DU_SITE_BASE_URL: ${{ secrets.DU_SITE_BASE_URL }}
-        run: pnpm run start:watcher
+        run: pnpm run start:watcher-notion

@@ -9,10 +9,12 @@
   "scripts": {
     "dev": "prisma generate && next dev",
     "build": "prisma generate && next build",
-    "script": "prisma generate && node -r ts-node/register -r tsconfig-paths/register",
+    "script:prisma": "prisma generate && node -r ts-node/register -r tsconfig-paths/register",
+    "script": "node -r ts-node/register -r tsconfig-paths/register -r dotenv/config",
     "db:migrate": "prisma db push",
     "start": "next start",
-    "start:watcher": "pnpm script ./scripts/watcher.ts",
+    "start:watcher": "pnpm script:prisma ./scripts/watcher.ts",
+    "start:watcher-notion": "pnpm script ./scripts/watcherWithNotion.ts",
     "lint": "next lint",
     "test": "vitest",
     "typecheck": "tsc -p . --noEmit",
@@ -22,11 +24,13 @@
     "seed": "ts-node --compiler-options {\"module\":\"CommonJS\"} prisma/seed.ts"
   },
   "dependencies": {
+    "@notionhq/client": "^2.2.10",
     "@prisma/client": "5.0.0",
     "@radix-ui/react-dialog": "^1.0.4",
     "@radix-ui/react-form": "^0.0.3",
     "@tailwindcss/forms": "^0.5.4",
     "autoprefixer": "10.4.14",
+    "dotenv": "^16.3.1",
     "immer": "^10.0.2",
     "next": "13.4.12",
     "node-html-parser": "^6.1.5",
