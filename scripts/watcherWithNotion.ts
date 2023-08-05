@@ -16,13 +16,16 @@ const run = async () => {
   log(`[crawl] query existing pages`)
   const pagesRes = await client.databases.query({ database_id: notionPages.pagesDbID, page_size: MAX_PAGE_SIZE })
 
-  const pages = (pagesRes.results as PagePage[]).map(p => ({
-    id: p.id,
-    url: p.properties.URL.url ?? undefined,
-    title: p.properties.Title.title[0].plain_text,
-    lastCrawledAt: p.properties.LastCrawled.date?.start,
-    status: p.properties.Status.select?.name
-  }))
+  const pages = (pagesRes.results as PagePage[])
+    .map(p => ({
+      id: p.id,
+      url: p.properties.URL.url ?? undefined,
+      title: p.properties.Title.title[0].plain_text,
+      lastCrawledAt: p.properties.LastCrawled.date?.start,
+      status: p.properties.Status.select?.name
+    }))
+    .filter(p => p.status === 'ACTIVE')
+
   log(`[crawl] crawl starting: ${pages.length} pages`)
 
   let pageCount = 0
