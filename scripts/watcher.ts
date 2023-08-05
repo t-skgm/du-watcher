@@ -1,6 +1,6 @@
 import { prisma } from '../lib/prisma'
 import { crawl } from '../lib/crawl'
-import { saveItems } from '../lib/saveItems'
+import { saveItems } from '../lib/saveItemsPrisma'
 
 const log = console.log
 const BASE_URL = process.env.DU_SITE_BASE_URL!
