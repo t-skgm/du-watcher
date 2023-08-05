@@ -25,7 +25,10 @@ export const saveItems = async (notionClient: Client, { items, pageId }: { items
       if (params.properties) {
         if (item.itemId) params.properties.ItemID = { title: [{ text: { content: item.itemId } }] }
         if (item.artist) params.properties.Artist = { rich_text: [{ text: { content: item.artist } }] }
-        if (item.productTitle) params.properties.Title = { rich_text: [{ text: { content: item.productTitle } }] }
+        if (item.productTitle)
+          params.properties.Title = {
+            rich_text: [{ text: { content: item.productTitle, link: { url: item.itemPageUrl ?? '' } } }]
+          }
         if (item.labelName) params.properties.Label = { rich_text: [{ text: { content: item.labelName } }] }
         if (item.cheapestItemPrice != null)
           params.properties.CheapestPriceYen = { number: parsePriceStr(item.cheapestItemPrice) ?? 0 }
@@ -45,7 +48,7 @@ export const saveItems = async (notionClient: Client, { items, pageId }: { items
         properties: {
           ItemPageURL: { url: item.itemPageUrl ?? null },
           Artist: { rich_text: [{ text: { content: item.artist ?? '' } }] },
-          Title: { rich_text: [{ text: { content: item.productTitle ?? '' } }] },
+          Title: { rich_text: [{ text: { content: item.productTitle ?? '', link: { url: item.itemPageUrl ?? '' } } }] },
           Label: { rich_text: [{ text: { content: item.labelName ?? '' } }] },
           CheapestPriceYen: { number: parsePriceStr(item.cheapestItemPrice ?? '0') ?? 0 },
           CheapestStatus: { select: { name: item.cheapestItemStatus ?? '' } },
