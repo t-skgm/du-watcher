@@ -3,7 +3,7 @@ import { readFileSync } from 'fs'
 import { resolve } from 'path'
 import { UsedItem, parsePages } from './parsePages'
 
-const snapshotHtml = readFileSync(resolve(__dirname, './test.snapshot.html'), { encoding: 'utf-8' })
+const snapshotHtml = readFileSync(resolve(__dirname, './samples/list-normal.snapshot.html'), { encoding: 'utf-8' })
 
 describe('parsePages()', () => {
   beforeEach(() => {
