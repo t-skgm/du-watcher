@@ -1,30 +1,18 @@
-import { PagePage } from '@/domain/notion'
 import { crawl } from '../lib/crawl'
 import { saveItems } from '../lib/saveItemsNotion'
 import { createNotionClient, notionPages } from '@/lib/notion'
+import { queryExistingNotionPages } from '@/lib/queryExistingNotionPages'
 
 const log = console.log
-const logMore = (...args: any[]) => console.dir(...args, { depth: 10 })
+// const logMore = (...args: any[]) => console.dir(...args, { depth: 10 })
 const BASE_URL = process.env.DU_SITE_BASE_URL!
-
-const MAX_PAGE_SIZE = 100
 
 const run = async () => {
   log(`[crawl] start`)
   const client = createNotionClient()
 
   log(`[crawl] query existing pages`)
-  const pagesRes = await client.databases.query({ database_id: notionPages.pagesDbID, page_size: MAX_PAGE_SIZE })
-
-  const pages = (pagesRes.results as PagePage[])
-    .map(p => ({
-      id: p.id,
-      url: p.properties.URL.url ?? undefined,
-      title: p.properties.Title.title[0].plain_text,
-      lastCrawledAt: p.properties.LastCrawled.date?.start,
-      status: p.properties.Status.select?.name
-    }))
-    .filter(p => p.status === 'ACTIVE')
+  const pages = await queryExistingNotionPages(client, { pagesDbID: notionPages.pagesDbID })
 
   log(`[crawl] crawl starting: ${pages.length} pages`)
 

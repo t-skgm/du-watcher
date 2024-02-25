@@ -1,12 +1,25 @@
+import retry from 'async-retry'
+
 export const fetchHTML = async ({ url, referer = '' }: { url: string; referer: string }): Promise<string> => {
-  const res = await fetch(url, {
-    headers: {
-      'User-Agent': UA,
-      referer
+  return retry(
+    async () => {
+      const res = await fetch(url, {
+        headers: {
+          'User-Agent': UA,
+          referer
+        }
+      })
+      const html = await res.text()
+      return html
+    },
+    {
+      retries: 3,
+      onRetry: (e, attempt) => {
+        console.log(`[fetchHTML] retry... #${attempt}, url: ${url}`)
+        console.error(e)
+      }
     }
-  })
-  const html = await res.text()
-  return html
+  )
 }
 
 const UA =

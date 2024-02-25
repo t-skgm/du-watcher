@@ -1,4 +1,5 @@
 import { Client } from '@notionhq/client'
+import retry from 'async-retry'
 import { UsedItem } from './parser/parsePages'
 import { notionPages } from './notion'
 import { parsePriceStr } from './formatPrice'
@@ -44,28 +45,46 @@ export const saveItems = async (notionClient: Client, { items, pageId }: { items
       }
 
       // update
-      await notionClient.pages.update(params)
+      await retry(() => notionClient.pages.update(params), {
+        retries: 3,
+        onRetry: (e, attempt) => {
+          console.log(`[saveItems] update retry... #${attempt}, item: ${item.itemId}`)
+          console.error(e)
+        }
+      })
     } else {
       console.log('[saveItems] insert! item:', item.itemId)
       // insert
-      await notionClient.pages.create({
-        parent: { database_id: notionPages.itemsDbID },
-        properties: {
-          ItemPageURL: { url: item.itemPageUrl ?? null },
-          Artist: { rich_text: [{ text: { content: item.artist ?? '' } }] },
-          Title: { rich_text: [{ text: { content: item.productTitle ?? '', link: { url: item.itemPageUrl ?? '' } } }] },
-          Label: { rich_text: [{ text: { content: item.labelName ?? '' } }] },
-          Discounted: { checkbox: item.isDiscountedPrice },
-          DiscountRate: { number: parsePriceStr(item.discountRatePercentage ?? '0') ?? 0 },
-          CheapestPriceYen: { number: parsePriceStr(item.cheapestItemPrice ?? '0') ?? 0 },
-          CheapestStatus: { select: { name: item.cheapestItemStatus ?? '' } },
-          Media: { select: { name: item.media ?? '' } },
-          Genre: { select: { name: item.genre ?? '' } },
-          ItemID: { title: [{ text: { content: item.itemId ?? '' } }] },
-          Crawled: { date: { start: item.crawledAt.toISOString() } },
-          Page: { relation: [{ id: pageId }] }
+      await retry(
+        () =>
+          notionClient.pages.create({
+            parent: { database_id: notionPages.itemsDbID },
+            properties: {
+              ItemPageURL: { url: item.itemPageUrl ?? null },
+              Artist: { rich_text: [{ text: { content: item.artist ?? '' } }] },
+              Title: {
+                rich_text: [{ text: { content: item.productTitle ?? '', link: { url: item.itemPageUrl ?? '' } } }]
+              },
+              Label: { rich_text: [{ text: { content: item.labelName ?? '' } }] },
+              Discounted: { checkbox: item.isDiscountedPrice },
+              DiscountRate: { number: parsePriceStr(item.discountRatePercentage ?? '0') ?? 0 },
+              CheapestPriceYen: { number: parsePriceStr(item.cheapestItemPrice ?? '0') ?? 0 },
+              CheapestStatus: { select: { name: item.cheapestItemStatus ?? '' } },
+              Media: { select: { name: item.media ?? '' } },
+              Genre: { select: { name: item.genre ?? '' } },
+              ItemID: { title: [{ text: { content: item.itemId ?? '' } }] },
+              Crawled: { date: { start: item.crawledAt.toISOString() } },
+              Page: { relation: [{ id: pageId }] }
+            }
+          }),
+        {
+          retries: 3,
+          onRetry: (e, attempt) => {
+            console.log(`[saveItems] insert retry... #${attempt}, item: ${item.itemId}`)
+            console.error(e)
+          }
         }
-      })
+      )
     }
   }
 
