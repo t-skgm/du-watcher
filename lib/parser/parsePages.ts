@@ -78,7 +78,7 @@ const parseSearchResults = (resultList: HTMLElement[], baseUrl: string) => {
       ? formatters.cutOffText(item.querySelector('p.u-priceDiscount')?.textContent?.trim())
       : item.querySelector('p.u-priceNormal--Blue')?.textContent?.trim()
 
-    const cheapestItemStatus = item.querySelector('figure.searchAll__thumb > span > span')?.textContent?.trim()
+    const cheapestItemStatus = item.querySelector('.tag-menbersSale')?.textContent?.trim()
 
     const genre = item.querySelector('p.searchAll__tag')?.textContent?.trim()
     const itemPageUrl = item.querySelector('h2.searchAll__name a')?.getAttribute('href')

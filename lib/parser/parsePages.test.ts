@@ -155,7 +155,7 @@ describe('parsePages()', () => {
         {
           "artist": "DUNGEN ドゥンエン",
           "cheapestItemPrice": "1,980円(税込)",
-          "cheapestItemStatus": undefined,
+          "cheapestItemStatus": "OUTLET",
           "crawledAt": 2112-07-02T15:00:00.000Z,
           "discountRatePercentage": "60",
           "genre": "ROCK / POPS / INDIE",
@@ -171,7 +171,7 @@ describe('parsePages()', () => {
         {
           "artist": "KING KRULE キング・クルール",
           "cheapestItemPrice": "1,672円(税込)",
-          "cheapestItemStatus": undefined,
+          "cheapestItemStatus": "OUTLET",
           "crawledAt": 2112-07-02T15:00:00.000Z,
           "discountRatePercentage": "60",
           "genre": "ROCK / POPS / INDIE",
@@ -187,7 +187,7 @@ describe('parsePages()', () => {
         {
           "artist": "CHIME SCHOOL チャイム・スクール",
           "cheapestItemPrice": "1,496円(税込)",
-          "cheapestItemStatus": undefined,
+          "cheapestItemStatus": "OUTLET",
           "crawledAt": 2112-07-02T15:00:00.000Z,
           "discountRatePercentage": "20",
           "genre": "ROCK / POPS / INDIE",
