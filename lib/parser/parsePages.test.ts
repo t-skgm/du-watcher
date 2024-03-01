@@ -139,7 +139,7 @@ describe('parsePages()', () => {
     })
   })
 
-  describe.skip('all: discounted', () => {
+  describe('all: discounted', () => {
     const snapshotHtml = readFileSync(resolve(__dirname, './samples/list-all-discount.snapshot.html'), {
       encoding: 'utf-8'
     })
@@ -153,50 +153,50 @@ describe('parsePages()', () => {
       const result = parsePages([snapshotHtml], 'https://base-url.exmaple')
       expect(result[0]).toMatchInlineSnapshot(`
         {
-          "artist": "A'S (INDIE)",
-          "cheapestItemPrice": "1,709円(税込)",
-          "cheapestItemStatus": "B",
+          "artist": "DUNGEN ドゥンエン",
+          "cheapestItemPrice": "1,980円(税込)",
+          "cheapestItemStatus": undefined,
           "crawledAt": 2112-07-02T15:00:00.000Z,
-          "discountRatePercentage": "5",
+          "discountRatePercentage": "60",
           "genre": "ROCK / POPS / INDIE",
           "isDiscountedPrice": true,
-          "itemId": "1008509505",
-          "itemPageUrl": "https://base-url.exmaple/used/ct/indiealt/udetail/1008509505",
-          "labelName": "PSYCHIC HOTLINE",
+          "itemId": "1008525007",
+          "itemPageUrl": "https://base-url.exmaple/indiealt/ct/detail/1008525007",
+          "labelName": "MEXICAN SUMMER",
           "media": "LP(レコード)",
-          "productTitle": "FRUIT (BLACK VINYL)",
+          "productTitle": "EN AR FOR MYCKET OCH TUSEN ALDRIG NOG(COLOR VINYL)",
         }
       `)
       expect(result[1]).toMatchInlineSnapshot(`
         {
-          "artist": "ALEX CALDER",
-          "cheapestItemPrice": "1,045円(税込)",
-          "cheapestItemStatus": "B",
+          "artist": "KING KRULE キング・クルール",
+          "cheapestItemPrice": "1,672円(税込)",
+          "cheapestItemStatus": undefined,
           "crawledAt": 2112-07-02T15:00:00.000Z,
-          "discountRatePercentage": "5",
+          "discountRatePercentage": "60",
           "genre": "ROCK / POPS / INDIE",
           "isDiscountedPrice": true,
-          "itemId": "AWS150123-AC1",
-          "itemPageUrl": "https://base-url.exmaple/used/ct/indiealt/udetail/AWS150123-AC1",
-          "labelName": "CAPTURED TRACKS",
+          "itemId": "1008365027",
+          "itemPageUrl": "https://base-url.exmaple/indiealt/ct/detail/1008365027",
+          "labelName": "XL RECORDINGS",
           "media": "LP(レコード)",
-          "productTitle": "STRANGE DREAMS (LP)",
+          "productTitle": "YOU HEAT ME UP, YOU COOL ME DOWN(LP)",
         }
       `)
       expect(result[2]).toMatchInlineSnapshot(`
         {
-          "artist": "ALEX G アレックス・G",
-          "cheapestItemPrice": "2,232円(税込)",
-          "cheapestItemStatus": "S",
+          "artist": "CHIME SCHOOL チャイム・スクール",
+          "cheapestItemPrice": "1,496円(税込)",
+          "cheapestItemStatus": undefined,
           "crawledAt": 2112-07-02T15:00:00.000Z,
-          "discountRatePercentage": "5",
+          "discountRatePercentage": "20",
           "genre": "ROCK / POPS / INDIE",
           "isDiscountedPrice": true,
-          "itemId": "1008448920",
-          "itemPageUrl": "https://base-url.exmaple/used/ct/indiealt/udetail/1008448920",
-          "labelName": "LUCKY NUMBER",
-          "media": "LP(レコード)",
-          "productTitle": "RULES (LP+7\\")",
+          "itemId": "1008523216",
+          "itemPageUrl": "https://base-url.exmaple/indiealt/ct/detail/1008523216",
+          "labelName": "SLUMBERLAND",
+          "media": "CASSETTE TAPE",
+          "productTitle": "CHIME SCHOOL (CASSETTE TAPE)",
         }
       `)
     })
