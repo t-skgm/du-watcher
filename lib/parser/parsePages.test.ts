@@ -13,8 +13,10 @@ describe('parsePages()', () => {
     vi.useRealTimers()
   })
 
-  describe('normal', () => {
-    const snapshotHtml = readFileSync(resolve(__dirname, './samples/list-normal.snapshot.html'), { encoding: 'utf-8' })
+  describe('genre: normal', () => {
+    const snapshotHtml = readFileSync(resolve(__dirname, './samples/list-genre-normal.snapshot.html'), {
+      encoding: 'utf-8'
+    })
     test('件数', async () => {
       const result = parsePages([snapshotHtml], 'https://base-url.exmaple')
 
@@ -74,8 +76,8 @@ describe('parsePages()', () => {
     })
   })
 
-  describe('discounted', () => {
-    const snapshotHtml = readFileSync(resolve(__dirname, './samples/list-discount.snapshot.html'), {
+  describe('genre: discounted', () => {
+    const snapshotHtml = readFileSync(resolve(__dirname, './samples/list-genre-discount.snapshot.html'), {
       encoding: 'utf-8'
     })
     test('件数', async () => {
@@ -96,7 +98,7 @@ describe('parsePages()', () => {
           "genre": "ROCK / POPS / INDIE",
           "isDiscountedPrice": true,
           "itemId": "1008509505",
-          "itemPageUrl": "https://base-url.exmaplehttps://diskunion.net/used/ct/indiealt/udetail/1008509505",
+          "itemPageUrl": "https://base-url.exmaple/used/ct/indiealt/udetail/1008509505",
           "labelName": "PSYCHIC HOTLINE",
           "media": "LP(レコード)",
           "productTitle": "FRUIT (BLACK VINYL)",
@@ -112,7 +114,7 @@ describe('parsePages()', () => {
           "genre": "ROCK / POPS / INDIE",
           "isDiscountedPrice": true,
           "itemId": "AWS150123-AC1",
-          "itemPageUrl": "https://base-url.exmaplehttps://diskunion.net/used/ct/indiealt/udetail/AWS150123-AC1",
+          "itemPageUrl": "https://base-url.exmaple/used/ct/indiealt/udetail/AWS150123-AC1",
           "labelName": "CAPTURED TRACKS",
           "media": "LP(レコード)",
           "productTitle": "STRANGE DREAMS (LP)",
@@ -128,7 +130,70 @@ describe('parsePages()', () => {
           "genre": "ROCK / POPS / INDIE",
           "isDiscountedPrice": true,
           "itemId": "1008448920",
-          "itemPageUrl": "https://base-url.exmaplehttps://diskunion.net/used/ct/indiealt/udetail/1008448920",
+          "itemPageUrl": "https://base-url.exmaple/used/ct/indiealt/udetail/1008448920",
+          "labelName": "LUCKY NUMBER",
+          "media": "LP(レコード)",
+          "productTitle": "RULES (LP+7\\")",
+        }
+      `)
+    })
+  })
+
+  describe.skip('all: discounted', () => {
+    const snapshotHtml = readFileSync(resolve(__dirname, './samples/list-all-discount.snapshot.html'), {
+      encoding: 'utf-8'
+    })
+    test('件数', async () => {
+      const result = parsePages([snapshotHtml], 'https://base-url.exmaple')
+
+      expect(result).length(50)
+    })
+
+    test('最初の3件', async () => {
+      const result = parsePages([snapshotHtml], 'https://base-url.exmaple')
+      expect(result[0]).toMatchInlineSnapshot(`
+        {
+          "artist": "A'S (INDIE)",
+          "cheapestItemPrice": "1,709円(税込)",
+          "cheapestItemStatus": "B",
+          "crawledAt": 2112-07-02T15:00:00.000Z,
+          "discountRatePercentage": "5",
+          "genre": "ROCK / POPS / INDIE",
+          "isDiscountedPrice": true,
+          "itemId": "1008509505",
+          "itemPageUrl": "https://base-url.exmaple/used/ct/indiealt/udetail/1008509505",
+          "labelName": "PSYCHIC HOTLINE",
+          "media": "LP(レコード)",
+          "productTitle": "FRUIT (BLACK VINYL)",
+        }
+      `)
+      expect(result[1]).toMatchInlineSnapshot(`
+        {
+          "artist": "ALEX CALDER",
+          "cheapestItemPrice": "1,045円(税込)",
+          "cheapestItemStatus": "B",
+          "crawledAt": 2112-07-02T15:00:00.000Z,
+          "discountRatePercentage": "5",
+          "genre": "ROCK / POPS / INDIE",
+          "isDiscountedPrice": true,
+          "itemId": "AWS150123-AC1",
+          "itemPageUrl": "https://base-url.exmaple/used/ct/indiealt/udetail/AWS150123-AC1",
+          "labelName": "CAPTURED TRACKS",
+          "media": "LP(レコード)",
+          "productTitle": "STRANGE DREAMS (LP)",
+        }
+      `)
+      expect(result[2]).toMatchInlineSnapshot(`
+        {
+          "artist": "ALEX G アレックス・G",
+          "cheapestItemPrice": "2,232円(税込)",
+          "cheapestItemStatus": "S",
+          "crawledAt": 2112-07-02T15:00:00.000Z,
+          "discountRatePercentage": "5",
+          "genre": "ROCK / POPS / INDIE",
+          "isDiscountedPrice": true,
+          "itemId": "1008448920",
+          "itemPageUrl": "https://base-url.exmaple/used/ct/indiealt/udetail/1008448920",
           "labelName": "LUCKY NUMBER",
           "media": "LP(レコード)",
           "productTitle": "RULES (LP+7\\")",
