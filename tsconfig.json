@@ -4,7 +4,8 @@
     "noPropertyAccessFromIndexSignature": false,
     "paths": {
       "@/*": ["./code/*"]
-    }
+    },
+    "types": ["bun-types"]
   },
   "include": ["./code/**/*.ts"],
   "exclude": ["node_modules"]
