@@ -11,7 +11,7 @@
   "scripts": {
     "start:watcher": "bun run ./code/watcher.ts",
     "lint": "eslint ./code --ext .ts",
-    "test": "vitest",
+    "test": "bun test",
     "typecheck": "tsc -p . --noEmit"
   },
   "dependencies": {
