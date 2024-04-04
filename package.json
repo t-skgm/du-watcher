@@ -10,6 +10,7 @@
   },
   "scripts": {
     "start:watcher": "bun run ./code/watcher.ts",
+    "start:delete-old-items": "bun run ./code/delete-old-items.ts",
     "lint": "eslint ./code --ext .ts",
     "test": "bun test",
     "typecheck": "tsc -p . --noEmit"
