@@ -1,10 +1,10 @@
 import type { UpdatePageParameters } from '@notionhq/client/build/src/api-endpoints'
 import { Client } from '@notionhq/client'
-import { sleep } from '@/utils/sleep'
 import retry from 'async-retry'
 import type { UsedItem } from '@/lib/crawler/parser/parsePages'
 import { parsePriceStr } from '@/utils/formatPrice'
 import { notionPages } from './notion'
+import { sleep } from 'bun'
 
 export const saveItems = async (notionClient: Client, { items, pageId }: { items: UsedItem[]; pageId: string }) => {
   const upsertItem = async (item: UsedItem) => {
