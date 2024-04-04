@@ -10,7 +10,7 @@
   },
   "scripts": {
     "start:watcher": "bun run ./code/watcher.ts",
-    "lint": "next lint",
+    "lint": "eslint ./code --ext .ts",
     "test": "vitest",
     "typecheck": "tsc -p . --noEmit"
   },
@@ -24,9 +24,10 @@
     "@tsconfig/bun": "^1.0.5",
     "@types/async-retry": "^1.4.8",
     "@types/bun": "^1.0.12",
-    "esbuild": "^0.18.17",
-    "eslint": "8.46.0",
-    "typescript": "^5.4.3",
-    "vitest": "^0.33.0"
+    "@typescript-eslint/eslint-plugin": "^7.5.0",
+    "@typescript-eslint/parser": "^7.5.0",
+    "eslint": "^8.57.0",
+    "prettier": "^3.2.5",
+    "typescript": "^5.4.3"
   }
 }
