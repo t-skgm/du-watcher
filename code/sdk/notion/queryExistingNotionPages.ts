@@ -1,4 +1,4 @@
-import { PagePage } from '@/domain/notion'
+import type { PagePage } from './notion.interface'
 import { Client } from '@notionhq/client'
 import retry from 'async-retry'
 

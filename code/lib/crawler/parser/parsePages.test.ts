@@ -1,7 +1,7 @@
-import { afterEach, beforeAll, beforeEach, describe, expect, test, vi } from 'vitest'
+import { afterEach, beforeEach, describe, expect, test, vi } from 'vitest'
 import { readFileSync } from 'fs'
 import { resolve } from 'path'
-import { UsedItem, parsePages } from './parsePages'
+import { parsePages } from './parsePages'
 
 describe('parsePages()', () => {
   beforeEach(() => {

@@ -1,7 +1,7 @@
-import { crawl } from '../lib/crawl'
-import { saveItems } from '../lib/saveItemsNotion'
-import { createNotionClient, notionPages } from '@/lib/notion'
-import { queryExistingNotionPages } from '@/lib/queryExistingNotionPages'
+import { crawl } from '@/lib/crawler/crawl'
+import { saveItems } from '@/sdk/notion/saveItemsNotion'
+import { createNotionClient, notionPages } from '@/sdk/notion/notion'
+import { queryExistingNotionPages } from '@/sdk/notion/queryExistingNotionPages'
 
 const log = console.log
 // const logMore = (...args: any[]) => console.dir(...args, { depth: 10 })

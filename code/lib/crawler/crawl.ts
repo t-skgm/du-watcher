@@ -1,7 +1,7 @@
 import { fetchHTML } from './fetchHTML'
 import { parseNextPageUrl } from './parser/parseNextPageUrl'
 import { parsePages } from './parser/parsePages'
-import { sleep } from './utils'
+import { sleep } from '@/utils/sleep'
 
 /** crawl (with sleeping) */
 export const crawl = async ({

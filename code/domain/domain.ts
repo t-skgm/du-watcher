@@ -1,5 +1,3 @@
-import { items } from '@prisma/client'
-
 export const PageStatus = {
   ACTIVE: 'ACTIVE',
   INACTIVE: 'INACTIVE'
@@ -13,5 +11,3 @@ export const OrderRule = {
 } as const
 
 export type OrderRule = (typeof OrderRule)[keyof typeof OrderRule]
-
-export type ItemOrderBy = keyof items
