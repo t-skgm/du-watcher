@@ -24,7 +24,6 @@
     "@tsconfig/bun": "^1.0.5",
     "@types/async-retry": "^1.4.8",
     "@types/bun": "^1.0.12",
-    "@types/node": "18.15.11",
     "esbuild": "^0.18.17",
     "eslint": "8.46.0",
     "typescript": "^5.4.3",
