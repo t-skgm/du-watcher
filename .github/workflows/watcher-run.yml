@@ -23,4 +23,4 @@ jobs:
         env:
           NOTION_API_SECRET: ${{ secrets.NOTION_API_SECRET }}
           DU_SITE_BASE_URL: ${{ secrets.DU_SITE_BASE_URL }}
-        run: pnpm run start:watcher
+        run: bun run start:watcher
