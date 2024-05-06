@@ -1,8 +1,7 @@
-import { createNotionClient, notionPages } from '@/sdk/notion/notion'
+import { createNotionClient } from '@/sdk/notion/notion'
 import { sleep } from 'bun'
-
-const log = console.log
-// const logMore = (...args: any[]) => console.dir(...args, { depth: 10 })
+import { log } from './utils/log'
+import { notionPages } from './sdk/notion/constant'
 
 const deleteOldItems = async () => {
   log(`[crawl] start`)

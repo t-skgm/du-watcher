@@ -1,26 +1,19 @@
 import type { PagePage } from './notion.interface'
 import { Client } from '@notionhq/client'
+import { type QueryDatabaseParameters } from '@notionhq/client/build/src/api-endpoints'
 import retry from 'async-retry'
+import { duPageMapper } from './duPageMapper'
 
 const MAX_PAGE_SIZE = 100
 
-export const queryExistingNotionPages = async (notionClient: Client, { pagesDbID }: { pagesDbID: string }) => {
+export const queryExistingNotionPages = async (
+  notionClient: Client,
+  { pagesDbID, filter }: { pagesDbID: string; filter?: QueryDatabaseParameters['filter'] }
+) => {
   const pagesRes = await retry(
-    () => notionClient.databases.query({ database_id: pagesDbID, page_size: MAX_PAGE_SIZE }),
-    {
-      retries: 3
-    }
+    () => notionClient.databases.query({ database_id: pagesDbID, page_size: MAX_PAGE_SIZE, filter }),
+    { retries: 3 }
   )
 
-  const pages = (pagesRes.results as PagePage[])
-    .map(p => ({
-      id: p.id,
-      url: p.properties.URL.url ?? undefined,
-      title: p.properties.Title.title[0].plain_text,
-      lastCrawledAt: p.properties.LastCrawled.date?.start,
-      status: p.properties.Status.select?.name
-    }))
-    .filter(p => p.status === 'ACTIVE')
-
-  return pages
+  return (pagesRes.results as PagePage[]).map(duPageMapper).filter(p => p.status === 'ACTIVE')
 }

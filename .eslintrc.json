@@ -1,3 +1,4 @@
 {
-  "extends": ["plugin:@typescript-eslint/recommended"]
+  "plugins": ["neverthrow"],
+  "extends": ["plugin:@typescript-eslint/recommended", "neverthrow/recommended"]
 }
