@@ -4,7 +4,8 @@ export async function up(db: Kysely<any>): Promise<void> {
   // pages
   await db.schema
     .createTable('pages')
-    .addColumn('url', 'text', col => col.primaryKey())
+    .addColumn('id', 'integer', col => col.primaryKey().autoIncrement())
+    .addColumn('url', 'text', col => col.notNull().unique())
     .addColumn('title', 'text', col => col.notNull())
     .addColumn('status', 'text', col => col.notNull())
     // 取得するページ数
