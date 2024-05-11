@@ -10,6 +10,7 @@
   },
   "scripts": {
     "start:watcher": "bun run ./code/watcher.ts",
+    "start:watcher:db": "bun run ./code/watcher.db.ts",
     "start:feed": "bun run ./code/build-feed.ts",
     "start:delete-old-items": "bun run ./code/delete-old-items.ts",
     "migration:run": "bun run ./script/migration.ts",
@@ -26,6 +27,7 @@
     "kysely-bun-sqlite": "^0.3.2",
     "neverthrow": "^6.2.1",
     "node-html-parser": "^6.1.13",
+    "remeda": "^1.61.0",
     "ts-pattern": "^5.1.1"
   },
   "devDependencies": {

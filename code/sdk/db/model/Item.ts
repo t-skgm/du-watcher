@@ -5,12 +5,13 @@ export type ItemTable = {
 
   artist: string
   productTitle: string
+  url: string
   labelName: string | null
   genre: string
   cheapestItemPrice: number
   cheapestItemStatus: string
   isDiscountedPrice: boolean
-  discountRatePercentage: string
+  discountRatePercentage: number
   media: string
   itemId: string
   crawledAt: Date
@@ -20,4 +21,4 @@ export type ItemTable = {
   pageId: string
 }
 
-export type Page = Selectable<ItemTable>
+export type Item = Selectable<ItemTable>

@@ -15,4 +15,6 @@ const dialect = new BunSqliteDialect({
   database: new Database(dbPath)
 })
 
-export const createDB = () => new Kysely<KyselyDatabase>({ dialect })
+export type DB = Kysely<KyselyDatabase>
+
+export const createDB = (): DB => new Kysely<KyselyDatabase>({ dialect })
