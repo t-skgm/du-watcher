@@ -5,8 +5,8 @@ import { Database } from 'bun:sqlite'
 import { BunSqliteDialect } from 'kysely-bun-sqlite'
 
 export type KyselyDatabase = {
-  item: ItemTable
-  page: PageTable
+  items: ItemTable
+  pages: PageTable
 }
 
 const dbPath = 'db.sqlite'

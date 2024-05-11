@@ -6,7 +6,7 @@ export type PageTable = {
 
   title: string
   status: PageStatus
-  lastCrawled: Date
+  lastCrawledAt: Date
 }
 
 export type Page = Selectable<PageTable>
