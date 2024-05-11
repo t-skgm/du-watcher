@@ -5,6 +5,7 @@ import { getEnv } from './lib/env'
 import { notionPages } from './sdk/notion/constant'
 import { ResultAsync } from 'neverthrow'
 import { duPageMapper, isPagePage } from './sdk/notion/duPageMapper'
+import { getLatestDate } from './utils/date'
 
 const buildFeed = async () => {
   log(`[feed] start`)
@@ -15,14 +16,12 @@ const buildFeed = async () => {
   const client = clientResult.value
 
   return (
-    queryDatabase(client, { pagesDbID: notionPages.pagesDbID })
+    queryDatabase(client, {
+      pagesDbID: notionPages.pagesDbID,
+      filter: { property: 'Status', select: { equals: 'ACTIVE' } }
+    })
       // to page obj
-      .map(queryRes =>
-        queryRes
-          .filter(isPagePage)
-          .map(duPageMapper)
-          .filter(p => p.status === 'ACTIVE')
-      )
+      .map(queryRes => queryRes.filter(isPagePage).map(duPageMapper).slice(0, 1))
       // get items of each page
       .andThen(pages =>
         ResultAsync.combine(
@@ -33,29 +32,27 @@ const buildFeed = async () => {
                 and: [
                   {
                     property: 'Page',
-                    relation: {
-                      contains: page.id
-                    }
+                    relation: { contains: page.id }
                   },
                   {
-                    property: 'Created',
+                    property: 'Updated',
                     date: {
-                      after: new Date(new Date().setMonth(new Date().getMonth() - 1)).toISOString()
+                      after: getLatestDate(new Date()).toISOString()
                     }
                   }
                 ]
               }
             })
           )
-        ).map(v => v.map((pageItems, idx) => ({ page: pages[idx], items: pageItems })))
-      )
-      .map(pageItems =>
-        pageItems.map(v => {
-          // rss feed化
-          return v
+        ).map(v => {
+          console.log(v)
+          return v.map((pageItems, idx) => ({ page: pages[idx], items: pageItems }))
         })
       )
-      .map(v => v)
+      .map(pageItems => {
+        // console.log(pageItems)
+        return pageItems
+      })
   )
 }
 

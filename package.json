@@ -10,6 +10,7 @@
   },
   "scripts": {
     "start:watcher": "bun run ./code/watcher.ts",
+    "start:feed": "bun run ./code/build-feed.ts",
     "start:delete-old-items": "bun run ./code/delete-old-items.ts",
     "lint": "eslint ./code --ext .ts",
     "test": "bun test",
@@ -18,6 +19,7 @@
   "dependencies": {
     "@notionhq/client": "^2.2.10",
     "async-retry": "^1.3.3",
+    "dayjs": "^1.11.11",
     "dotenv": "^16.3.1",
     "neverthrow": "^6.2.1",
     "node-html-parser": "^6.1.13",

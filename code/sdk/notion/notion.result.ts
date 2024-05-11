@@ -19,9 +19,12 @@ export const queryDatabase = ResultAsync.fromThrowable(
     { pagesDbID, filter }: { pagesDbID: string; filter?: QueryDatabaseParameters['filter'] }
   ) => {
     let hasMore = true
+    let pageCount = 1
     const results: QueryDatabaseResponse['results'] = []
 
     while (hasMore) {
+      console.log('[queryDatabase] pageCount', pageCount)
+
       const pagesRes = await retry(
         async bail => {
           try {
@@ -44,8 +47,11 @@ export const queryDatabase = ResultAsync.fromThrowable(
         { retries: 3 }
       )
 
+      console.log(results)
+
       results.push(...pagesRes.results)
       hasMore = pagesRes.has_more
+      pageCount += 1
 
       await sleep(50)
     }
