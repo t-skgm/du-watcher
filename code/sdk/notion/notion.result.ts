@@ -1,5 +1,5 @@
 import type { Env } from '@/lib/env'
-import { Client, RequestTimeoutError, type NotionClientError } from '@notionhq/client'
+import { Client, RequestTimeoutError } from '@notionhq/client'
 import { type QueryDatabaseResponse, type QueryDatabaseParameters } from '@notionhq/client/build/src/api-endpoints'
 import { Result, ResultAsync } from 'neverthrow'
 import retry from 'async-retry'

@@ -5,6 +5,7 @@ import { sleep } from 'bun'
 import type { Updateable } from 'kysely'
 import { ResultAsync } from 'neverthrow'
 import { omitBy } from 'remeda'
+import { SQLiteError } from 'bun:sqlite'
 
 export const saveItemsAction = ({ db }: { db: DB }) =>
   ResultAsync.fromThrowable(
@@ -19,7 +20,7 @@ export const saveItemsAction = ({ db }: { db: DB }) =>
           .executeTakeFirst()
 
         if (existItem != null) {
-          console.log('[saveItems] update! item:', item)
+          // console.log('[saveItems] update! item:', item)
           const updateArg: Updateable<ItemTable> = omitBy(
             {
               artist: item.artist,
@@ -44,7 +45,7 @@ export const saveItemsAction = ({ db }: { db: DB }) =>
           // update
           await db.updateTable('items').set(updateArg).where('itemId', '=', item.itemId).execute()
         } else {
-          console.log('[saveItems] insert! item:', item)
+          // console.log('[saveItems] insert! item:', item)
 
           // insert
           await db
@@ -78,7 +79,12 @@ export const saveItemsAction = ({ db }: { db: DB }) =>
         await sleep(5)
       }
     },
-    err => err as Error
+    err => {
+      if (err instanceof SQLiteError) {
+        return err
+      }
+      return err as Error
+    }
   )
 
 /** "1,709円(税込)" の書式から 1709 を得る */

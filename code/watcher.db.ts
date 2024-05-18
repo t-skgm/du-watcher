@@ -2,7 +2,7 @@ import { crawl } from '@/lib/crawler/crawl'
 import { log } from './utils/log'
 import { createDB } from './sdk/db/createDB'
 import { saveItemsAction } from './action/saveItems'
-import { ResultAsync, err, okAsync } from 'neverthrow'
+import { ResultAsync, okAsync } from 'neverthrow'
 import type { UpdateResult } from 'kysely'
 
 const BASE_URL = process.env.DU_SITE_BASE_URL!
@@ -29,25 +29,8 @@ const run = (): ResultAsync<number, Error> => {
         log(`[crawl] crawl #${pageCount}/${pages.length}, title: ${page.title}, url: ${page.url}`)
 
         const result = prevResult
-          .andThen(
-            () =>
-              okAsync([
-                {
-                  itemId: '1008485133',
-                  artist: 'ZUSAMMEN CLARK',
-                  productTitle: 'EARLIER',
-                  labelName: 'BRUIT DIRECT DISQUES',
-                  genre: 'ROCK / POPS / INDIE',
-                  cheapestItemPrice: '2,450円(税込)',
-                  cheapestItemStatus: 'B',
-                  media: 'LP(レコード)',
-                  isDiscountedPrice: false,
-                  discountRatePercentage: undefined,
-                  itemPageUrl: 'https://diskunion.net/used/ct/indiealt/udetail/1008485133',
-                  crawledAt: new Date('2024-05-12T03:02:00.549Z')
-                }
-              ])
-            // ResultAsync.fromPromise(crawl({ targetUrl: page.url, baseUrl: BASE_URL }), err => err as Error)
+          .andThen(() =>
+            ResultAsync.fromPromise(crawl({ targetUrl: page.url, baseUrl: BASE_URL }), err => err as Error)
           )
           .andThen(items => {
             log(`[crawl] save items... size: ${items.length}`)
