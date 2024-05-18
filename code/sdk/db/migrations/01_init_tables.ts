@@ -10,7 +10,7 @@ export async function up(db: Kysely<any>): Promise<void> {
     .addColumn('status', 'text', col => col.notNull())
     // 取得するページ数
     .addColumn('limitPageNum', 'integer', col => col.notNull().defaultTo(5))
-    .addColumn('lastCrawledAt', 'datetime', col => col.notNull().defaultTo(sql`(DATETIME('now', 'localtime'))`))
+    .addColumn('lastCrawledAt', 'text', col => col.notNull().defaultTo(sql`(DATETIME('now', 'localtime'))`))
     .execute()
 
   // item table
@@ -27,9 +27,9 @@ export async function up(db: Kysely<any>): Promise<void> {
     .addColumn('isDiscountedPrice', 'boolean', col => col.notNull().defaultTo(false))
     .addColumn('discountRatePercentage', 'integer', col => col.notNull().defaultTo(0.0))
     .addColumn('media', 'text', col => col.notNull())
-    .addColumn('crawledAt', 'datetime', col => col.notNull())
-    .addColumn('createdAt', 'datetime', col => col.notNull().defaultTo(sql`(DATETIME('now', 'localtime'))`))
-    .addColumn('updatedAt', 'datetime', col => col.notNull().defaultTo(sql`(DATETIME('now', 'localtime'))`))
+    .addColumn('crawledAt', 'text', col => col.notNull())
+    .addColumn('createdAt', 'text', col => col.notNull().defaultTo(sql`(DATETIME('now', 'localtime'))`))
+    .addColumn('updatedAt', 'text', col => col.notNull().defaultTo(sql`(DATETIME('now', 'localtime'))`))
     .addColumn('pageId', 'text', col => col.notNull().references('pages.id').onDelete('cascade'))
     .execute()
 }

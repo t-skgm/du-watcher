@@ -1,4 +1,4 @@
-import { type Selectable } from 'kysely'
+import { type ColumnType, type Selectable } from 'kysely'
 
 export type ItemTable = {
   itemId: string
@@ -12,9 +12,9 @@ export type ItemTable = {
   isDiscountedPrice: boolean
   discountRatePercentage: number
   media: string
-  crawledAt: Date
-  createdAt: Date
-  updatedAt: Date
+  crawledAt: ColumnType<string, string, string>
+  createdAt: ColumnType<string, string | undefined, string>
+  updatedAt: ColumnType<string, string | undefined, string>
 
   pageId: string
 }
