@@ -8,6 +8,7 @@
     "npm": "use bun!",
     "yarn": "use bun!"
   },
+  "type": "module",
   "scripts": {
     "start:watcher": "bun run ./code/watcher.ts",
     "start:watcher:db": "bun run ./code/watcher.db.ts",
@@ -15,7 +16,7 @@
     "start:delete-old-items": "bun run ./code/delete-old-items.ts",
     "start:delete-old-items:db": "bun run ./code/delete-old-items.db.ts",
     "migration:run": "bun run ./script/migration.ts",
-    "lint": "eslint ./code --ext .ts",
+    "lint": "eslint ./code",
     "test": "bun test",
     "typecheck": "tsc -p . --noEmit"
   },

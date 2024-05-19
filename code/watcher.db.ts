@@ -27,10 +27,7 @@ const run = () => {
 
           log(`[crawl] crawl #${pageCount}/${pages.length}, title: ${page.title}, url: ${page.url}`)
 
-          const result = await ResultAsync.fromPromise(
-            crawl({ targetUrl: page.url, baseUrl: BASE_URL }),
-            err => err as Error
-          )
+          await ResultAsync.fromPromise(crawl({ targetUrl: page.url, baseUrl: BASE_URL }), err => err as Error)
             .andThen(items => {
               log(`[crawl] save items... size: ${items.length}`)
               return saveItemsAction({ db })({ items, pageId: page.id })
@@ -39,10 +36,14 @@ const run = () => {
               log(`[crawl] update page crawled time`)
               return savePageToCrawledAtAction({ db, pageId: page.id })
             })
-
-          if (result.isErr()) {
-            log(`[crawl] error: ${result.error.message} on ${page.title}, but continue.`)
-          }
+            .match(
+              ([result]) => {
+                log(`[crawl] save success: ${result}`)
+              },
+              error => {
+                log(`[crawl] error: ${error.message} on ${page.title}, but continue.`)
+              }
+            )
         }
 
         return pageCount
