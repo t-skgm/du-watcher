@@ -1,67 +1,62 @@
 import { crawl } from '@/lib/crawler/crawl'
 import { log } from './utils/log'
-import { createDB } from './sdk/db/createDB'
+import { createDB, type DB } from './sdk/db/createDB'
 import { saveItemsAction } from './action/saveItems'
-import { ResultAsync } from 'neverthrow'
-import { SQLiteError } from 'bun:sqlite'
+import { ResultAsync, ok, safeTry } from 'neverthrow'
 import { getPagesAction } from './action/getPages'
 import { savePageToCrawledAtAction } from './action/savePageToCrawledAt'
+import type { Page } from './sdk/db/model/Page'
 
 const BASE_URL = process.env.DU_SITE_BASE_URL!
 
-const run = () => {
-  log(`[crawl] start`)
-  const db = createDB()
+/* eslint-disable neverthrow/must-use-result -- ResultAsync対応してない？ */
 
-  log(`[crawl] query existing pages`)
-  return getPagesAction({ db }).andThen(
-    ResultAsync.fromThrowable(
-      async pages => {
-        log(`[crawl] crawl starting: ${pages.length} pages`)
+const run = () =>
+  safeTry(async function* () {
+    log(`[crawl] start`)
+    const db = createDB()
 
-        let pageCount = 0
+    log(`[crawl] query existing pages`)
+    const pages = yield* getPagesAction({ db }).safeUnwrap()
 
-        for (const page of pages) {
-          if (page.url == null) continue
-          pageCount++
+    log(`[crawl] crawl starting: ${pages.length} pages`)
+    let pageCount = 1
+    for (const page of pages) {
+      if (page.url == null) continue
+      log(`[crawl] crawl #${pageCount}/${pages.length}, title: ${page.title}, url: ${page.url}`)
+      await _crawlAndSavePage(db, page)
+      pageCount++
+    }
 
-          log(`[crawl] crawl #${pageCount}/${pages.length}, title: ${page.title}, url: ${page.url}`)
+    return ok(pageCount)
+  })
 
-          const result = await ResultAsync.fromPromise(
-            crawl({ targetUrl: page.url, baseUrl: BASE_URL }),
-            err => err as Error
-          )
-            .andThen(items => {
-              log(`[crawl] save items... size: ${items.length}`)
-              return saveItemsAction({ db })({ items, pageId: page.id })
-            })
-            .andThen(() => {
-              log(`[crawl] update page crawled time`)
-              return savePageToCrawledAtAction({ db, pageId: page.id })
-            })
+const _crawlAndSavePage = async (db: DB, page: Page) =>
+  safeTry(async function* () {
+    const items = yield* ResultAsync.fromPromise(
+      crawl({ targetUrl: page.url, baseUrl: BASE_URL }),
+      err => err as Error
+    ).safeUnwrap()
 
-          if (result.isErr()) {
-            log(`[crawl] error: ${result.error.message} on ${page.title}, but continue.`)
-          }
-        }
+    log(`[crawl] save items... size: ${items.length}`)
+    yield* saveItemsAction({ db })({ items, pageId: page.id }).safeUnwrap()
 
-        return pageCount
-      },
-      err => err as Error | SQLiteError
-    )
-  )
-}
+    log(`[crawl] update page crawled time`)
+    const [saveResult] = yield* savePageToCrawledAtAction({ db, pageId: page.id }).safeUnwrap()
 
-run()
-  .match(
+    log(`[crawl] save success: ${saveResult}`)
+
+    return ok(null)
+  })
+
+run().then(result =>
+  result.match(
     pageCount => {
       log(`[crawl] all crawl finished! page size: ${pageCount}`)
     },
     err => {
-      throw err
+      console.error(err)
+      process.exit(1)
     }
   )
-  .catch(err => {
-    console.error(err)
-    process.exit(1)
-  })
+)
