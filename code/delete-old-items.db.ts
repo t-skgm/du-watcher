@@ -2,24 +2,32 @@ import { log } from './utils/log'
 import { createDB } from './sdk/db/createDB'
 import dayjs from 'dayjs'
 import { getOldItemsActions } from './action/getOldItems'
+import { ok, safeTry } from 'neverthrow'
 
-const run = () => {
-  log(`[crawl] start`)
-  const db = createDB({ log: ['query'] })
+/* eslint-disable neverthrow/must-use-result -- ResultAsync対応してない？ */
 
-  // １ヶ月以上前のデータを取得
-  const oneMonthAgo = dayjs().subtract(1, 'month')
-  console.log(`[crawl] delete items before: ${oneMonthAgo.toISOString()}`)
+const run = () =>
+  safeTry(async function* () {
+    log(`[crawl] start`)
+    const db = createDB({ log: ['query'] })
 
-  return getOldItemsActions(db, oneMonthAgo.toDate())
-}
+    // １ヶ月以上前のデータを取得
+    const oneMonthAgo = dayjs().subtract(1, 'month')
+    console.log(`[crawl] delete items before: ${oneMonthAgo.toISOString()}`)
 
-await run().match(
-  ([result]) => {
-    log(`[crawl] delete items finished. count:`, result.numDeletedRows.toString())
-  },
-  err => {
-    console.error(err)
-    process.exit(1)
-  }
+    const updated = yield* getOldItemsActions(db, oneMonthAgo.toDate()).safeUnwrap()
+
+    return ok(updated)
+  })
+
+await run().then(result =>
+  result.match(
+    ([updated]) => {
+      log(`[crawl] delete items finished. count:`, updated.numDeletedRows.toString())
+    },
+    err => {
+      console.error(err)
+      process.exit(1)
+    }
+  )
 )
