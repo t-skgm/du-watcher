@@ -13,6 +13,7 @@
     "start:watcher:db": "bun run ./code/watcher.db.ts",
     "start:feed": "bun run ./code/build-feed.ts",
     "start:delete-old-items": "bun run ./code/delete-old-items.ts",
+    "start:delete-old-items:db": "bun run ./code/delete-old-items.db.ts",
     "migration:run": "bun run ./script/migration.ts",
     "lint": "eslint ./code --ext .ts",
     "test": "bun test",
