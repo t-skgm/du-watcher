@@ -15,7 +15,7 @@ const run = () =>
     const oneMonthAgo = dayjs().subtract(1, 'month')
     console.log(`[crawl] delete items before: ${oneMonthAgo.toISOString()}`)
 
-    const updated = yield* getOldItemsActions(db, oneMonthAgo.toDate()).safeUnwrap()
+    const updated = yield* getOldItemsActions({ db, dateBefore: oneMonthAgo.toDate() }).safeUnwrap()
 
     return ok(updated)
   })
