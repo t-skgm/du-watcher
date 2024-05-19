@@ -11,11 +11,13 @@ const run = () =>
     log(`[feed] start`)
     const db = createDB()
     // １ヶ月以内のデータを取得
-    const oneMonthAgo = dayjs().subtract(1, 'month')
+    const oneMonthAgo = dayjs().subtract(3, 'month')
 
     const items = yield* getLatestUpdatedItemsAction({ db, dateAfter: oneMonthAgo.toDate() }).safeUnwrap()
 
-    const feed = yield* buildFeedFromItemsAction({ items }).safeUnwrap()
+    const limitedItems = items.slice(0, 100)
+
+    const feed = yield* buildFeedFromItemsAction({ items: limitedItems }).safeUnwrap()
 
     yield* saveToFileAction({ text: feed.atom1(), filePath: 'pages/feed.xml' }).safeUnwrap()
 
