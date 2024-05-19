@@ -42,7 +42,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: data/feed.xml
+          path: pages/
 
   deploy:
     runs-on: ubuntu-latest

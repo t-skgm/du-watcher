@@ -17,7 +17,7 @@ const run = () =>
 
     const feed = yield* buildFeedFromItemsAction({ items }).safeUnwrap()
 
-    yield* saveToFileAction({ text: feed.atom1(), filePath: 'data/feed.xml' }).safeUnwrap()
+    yield* saveToFileAction({ text: feed.atom1(), filePath: 'pages/feed.xml' }).safeUnwrap()
 
     return ok(null)
   })
