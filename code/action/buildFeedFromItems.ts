@@ -12,7 +12,8 @@ export const buildFeedFromItemsAction = Result.fromThrowable(({ items }: { items
     generator: 'du-watcher',
     author: {
       name: 't-skgm'
-    }
+    },
+    feed: 'https://t-skgm.github.io/du-watcher/feed.xml'
   })
 
   items.forEach(item => {
