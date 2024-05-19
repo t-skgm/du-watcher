@@ -15,6 +15,7 @@
     "start:feed": "bun run ./code/build-feed.ts",
     "start:delete-old-items": "bun run ./code/delete-old-items.ts",
     "start:delete-old-items:db": "bun run ./code/delete-old-items.db.ts",
+    "start:build-feed:db": "bun run ./code/build-feed.db.ts",
     "migration:run": "bun run ./script/migration.ts",
     "lint": "eslint ./code",
     "test": "bun test",

@@ -9,7 +9,7 @@ export type KyselyDatabase = {
   pages: PageTable
 }
 
-const dbPath = 'db.sqlite'
+const dbPath = 'data/db.sqlite'
 
 const dialect = new BunSqliteDialect({
   database: new Database(dbPath)
