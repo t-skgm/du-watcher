@@ -1,3 +1,7 @@
 {
-  "extends": ["plugin:@typescript-eslint/recommended"]
+  "plugins": ["neverthrow"],
+  "extends": ["plugin:@typescript-eslint/recommended"],
+  "rules": {
+    "neverthrow/must-use-result": "error"
+  }
 }

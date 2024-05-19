@@ -1,10 +1,10 @@
 import { crawl } from '@/lib/crawler/crawl'
 import { saveItems } from '@/sdk/notion/saveItemsNotion'
-import { createNotionClient, notionPages } from '@/sdk/notion/notion'
+import { createNotionClient } from '@/sdk/notion/notion'
 import { queryExistingNotionPages } from '@/sdk/notion/queryExistingNotionPages'
+import { log } from './utils/log'
+import { notionPages } from './sdk/notion/constant'
 
-const log = console.log
-// const logMore = (...args: any[]) => console.dir(...args, { depth: 10 })
 const BASE_URL = process.env.DU_SITE_BASE_URL!
 
 const run = async () => {
