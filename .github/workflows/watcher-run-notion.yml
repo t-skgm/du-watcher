@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     # 毎日 12:00 (03:00 UTC) 実行
-    - cron: '0 3 * * *'
+    - cron: '0 6 * * *'
 
 jobs:
   build-and-run:

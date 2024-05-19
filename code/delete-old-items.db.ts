@@ -1,7 +1,7 @@
 import { log } from './utils/log'
 import { createDB } from './sdk/db/createDB'
 import dayjs from 'dayjs'
-import { getOldItemsActions } from './action/getOldItems'
+import { getOldItemsAction } from './action'
 import { ok, safeTry } from 'neverthrow'
 
 /* eslint-disable neverthrow/must-use-result -- ResultAsync対応してない？ */
@@ -15,7 +15,7 @@ const run = () =>
     const oneMonthAgo = dayjs().subtract(1, 'month')
     console.log(`[crawl] delete items before: ${oneMonthAgo.toISOString()}`)
 
-    const updated = yield* getOldItemsActions(db, oneMonthAgo.toDate()).safeUnwrap()
+    const updated = yield* getOldItemsAction({ db, dateBefore: oneMonthAgo.toDate() }).safeUnwrap()
 
     return ok(updated)
   })

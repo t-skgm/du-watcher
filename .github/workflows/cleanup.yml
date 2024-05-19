@@ -24,3 +24,8 @@ jobs:
           NOTION_API_SECRET: ${{ secrets.NOTION_API_SECRET }}
           DU_SITE_BASE_URL: ${{ secrets.DU_SITE_BASE_URL }}
         run: bun run start:delete-old-items
+
+      - name: Run delete-old-items [DB]
+        env:
+          DU_SITE_BASE_URL: ${{ secrets.DU_SITE_BASE_URL }}
+        run: bun run start:delete-old-items:db
