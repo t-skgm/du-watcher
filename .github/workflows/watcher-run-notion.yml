@@ -1,10 +1,10 @@
-name: 'Clean up: run'
+name: 'Watcher: run'
 
 on:
   workflow_dispatch:
   schedule:
-    # 毎日 00:00 (15:00 UTC) 実行
-    - cron: '0 15 * * *'
+    # 毎日 12:00 (03:00 UTC) 実行
+    - cron: '0 6 * * *'
 
 jobs:
   build-and-run:
@@ -19,13 +19,8 @@ jobs:
       - name: Install deps
         run: bun install
 
-      - name: Run delete-old-items
+      - name: Run crawl (with notion)
         env:
           NOTION_API_SECRET: ${{ secrets.NOTION_API_SECRET }}
           DU_SITE_BASE_URL: ${{ secrets.DU_SITE_BASE_URL }}
-        run: bun run start:delete-old-items
-
-      - name: Run delete-old-items [DB]
-        env:
-          DU_SITE_BASE_URL: ${{ secrets.DU_SITE_BASE_URL }}
-        run: bun run start:delete-old-items:db
+        run: bun run start:watcher

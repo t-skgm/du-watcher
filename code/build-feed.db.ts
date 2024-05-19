@@ -1,10 +1,8 @@
 import { log } from './utils/log'
-import { getLatestUpdatedItemsAction } from './action'
+import { getLatestUpdatedItemsAction, buildFeedFromItemsAction, saveToFileAction } from './action'
 import { createDB } from './sdk/db/createDB'
 import dayjs from 'dayjs'
 import { ok, safeTry } from 'neverthrow'
-import { buildFeedFromItems } from './action/buildFeedFromItems'
-import { saveToFile } from './action/saveToFile'
 
 /* eslint-disable neverthrow/must-use-result -- ResultAsync対応してない？ */
 
@@ -17,9 +15,9 @@ const run = () =>
 
     const items = yield* getLatestUpdatedItemsAction({ db, dateAfter: oneMonthAgo.toDate() }).safeUnwrap()
 
-    const feed = yield* buildFeedFromItems({ items }).safeUnwrap()
+    const feed = yield* buildFeedFromItemsAction({ items }).safeUnwrap()
 
-    yield* saveToFile({ text: feed.atom1(), filePath: 'data/feed.xml' }).safeUnwrap()
+    yield* saveToFileAction({ text: feed.atom1(), filePath: 'data/feed.xml' }).safeUnwrap()
 
     return ok(null)
   })

@@ -2,7 +2,7 @@ import { Feed } from 'feed'
 import type { Item } from '@/sdk/db/model/Item'
 import { Result } from 'neverthrow'
 
-export const buildFeedFromItems = Result.fromThrowable(({ items }: { items: Item[] }) => {
+export const buildFeedFromItemsAction = Result.fromThrowable(({ items }: { items: Item[] }) => {
   const feed = new Feed({
     title: 'DU Watcher',
     description: 'DU Watcher feed',

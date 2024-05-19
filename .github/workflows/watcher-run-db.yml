@@ -1,4 +1,4 @@
-name: 'Watcher: run'
+name: 'Watcher: run [DB]'
 
 on:
   workflow_dispatch:
@@ -19,8 +19,10 @@ jobs:
       - name: Install deps
         run: bun install
 
-      - name: Run crawl (with notion)
+      - name: Run crawl (with DB)
         env:
-          NOTION_API_SECRET: ${{ secrets.NOTION_API_SECRET }}
           DU_SITE_BASE_URL: ${{ secrets.DU_SITE_BASE_URL }}
-        run: bun run start:watcher
+        run: bun run start:watcher:db
+
+      - name: Build feed
+        run: bun run start:build-feed:db
