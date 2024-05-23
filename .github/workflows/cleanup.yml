@@ -39,5 +39,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "github-actions[bot]"
           git add data/ pages/
-          git commit -m "Cleanup result: $(date "+%Y-%m-%d %H:%M:%S")"
-          git push origin main
+          git commit -m "Cleanup result: $(date "+%Y-%m-%d %H:%M:%S")" \
+            && git push origin main || true
