@@ -3,6 +3,7 @@ import { getLatestUpdatedItemsAction, buildFeedFromItemsAction, saveToFileAction
 import { createDB } from './sdk/db/createDB'
 import dayjs from 'dayjs'
 import { ok, safeTry } from 'neverthrow'
+import { sortBy } from 'remeda'
 
 /* eslint-disable neverthrow/must-use-result -- ResultAsync対応してない？ */
 
@@ -13,11 +14,17 @@ const run = () =>
     // １ヶ月以内のデータを取得
     const oneMonthAgo = dayjs().subtract(1, 'month')
 
-    const items = yield* getLatestUpdatedItemsAction({ db, dateAfter: oneMonthAgo.toDate() }).safeUnwrap()
+    const items = yield* getLatestUpdatedItemsAction({
+      db,
+      params: {
+        dateAfter: oneMonthAgo.toDate(),
+        limit: 100
+      }
+    }).safeUnwrap()
 
-    const limitedItems = items.slice(0, 100)
+    const orderedItems = sortBy(items, item => item.updatedAt)
 
-    const feed = yield* buildFeedFromItemsAction({ items: limitedItems }).safeUnwrap()
+    const feed = yield* buildFeedFromItemsAction({ items: orderedItems }).safeUnwrap()
 
     yield* saveToFileAction({ text: feed.atom1(), filePath: 'pages/feed.xml' }).safeUnwrap()
 
