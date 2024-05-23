@@ -11,7 +11,7 @@ const run = () =>
     log(`[feed] start`)
     const db = createDB()
     // １ヶ月以内のデータを取得
-    const oneMonthAgo = dayjs().subtract(3, 'month')
+    const oneMonthAgo = dayjs().subtract(1, 'month')
 
     const items = yield* getLatestUpdatedItemsAction({ db, dateAfter: oneMonthAgo.toDate() }).safeUnwrap()
 
