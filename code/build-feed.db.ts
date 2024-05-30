@@ -18,7 +18,7 @@ const run = () =>
       db,
       params: {
         dateAfter: oneMonthAgo.toDate(),
-        limit: 100
+        limit: 150
       }
     }).safeUnwrap()
 
