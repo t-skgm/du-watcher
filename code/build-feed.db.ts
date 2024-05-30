@@ -11,14 +11,14 @@ const run = () =>
   safeTry(async function* () {
     log(`[feed] start`)
     const db = createDB()
-    // １ヶ月以内のデータを取得
-    const oneMonthAgo = dayjs().subtract(1, 'month')
+    // 2日以内作成のデータを取得
+    const dateAfter = dayjs().subtract(2, 'day').toDate()
 
     const items = yield* getLatestUpdatedItemsAction({
       db,
       params: {
-        dateAfter: oneMonthAgo.toDate(),
-        limit: 150
+        dateAfter,
+        limit: 100
       }
     }).safeUnwrap()
 
