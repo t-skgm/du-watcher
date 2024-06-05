@@ -1,9 +1,10 @@
 import { Kysely, sql } from 'kysely'
+import { tableNames } from '../model/tableNames'
 
 export async function up(db: Kysely<unknown>): Promise<void> {
   // pages
   await db.schema
-    .createTable('pages')
+    .createTable(tableNames.pages)
     .addColumn('id', 'integer', col => col.primaryKey().autoIncrement())
     .addColumn('url', 'text', col => col.notNull().unique())
     .addColumn('title', 'text', col => col.notNull())
@@ -15,7 +16,7 @@ export async function up(db: Kysely<unknown>): Promise<void> {
 
   // item table
   await db.schema
-    .createTable('items')
+    .createTable(tableNames.items)
     .addColumn('itemId', 'text', col => col.primaryKey())
     .addColumn('itemPageUrl', 'text', col => col.notNull())
     .addColumn('artist', 'text', col => col.notNull())
@@ -35,6 +36,6 @@ export async function up(db: Kysely<unknown>): Promise<void> {
 }
 
 export async function down(db: Kysely<unknown>): Promise<void> {
-  await db.schema.dropTable('pages').execute()
-  await db.schema.dropTable('items').execute()
+  await db.schema.dropTable(tableNames.pages).execute()
+  await db.schema.dropTable(tableNames.items).execute()
 }

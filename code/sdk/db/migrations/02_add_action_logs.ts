@@ -1,9 +1,10 @@
 import { Kysely, sql } from 'kysely'
+import { tableNames } from '../model/tableNames'
 
 export async function up(db: Kysely<unknown>): Promise<void> {
   // item table
   await db.schema
-    .createTable('action_logs')
+    .createTable(tableNames.actionLogs)
     .addColumn('id', 'integer', col => col.primaryKey().autoIncrement())
     .addColumn('actionType', 'text', col => col.notNull())
     .addColumn('metadata', 'text', col => col.notNull())
@@ -12,5 +13,5 @@ export async function up(db: Kysely<unknown>): Promise<void> {
 }
 
 export async function down(db: Kysely<unknown>): Promise<void> {
-  await db.schema.dropTable('action_logs').execute()
+  await db.schema.dropTable(tableNames.actionLogs).execute()
 }

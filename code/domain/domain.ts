@@ -11,3 +11,11 @@ export const OrderRule = {
 } as const
 
 export type OrderRule = (typeof OrderRule)[keyof typeof OrderRule]
+
+export const ActionType = {
+  crawlStart: 'crawlStart',
+  crawlEnd: 'crawlEnd',
+  buildFeed: 'buildFeed'
+} as const
+
+export type ActionType = (typeof ActionType)[keyof typeof ActionType]
