@@ -16,7 +16,8 @@
     "start:delete-old-items": "bun run ./code/delete-old-items.ts",
     "start:delete-old-items:db": "bun run ./code/delete-old-items.db.ts",
     "start:build-feed:db": "bun run ./code/build-feed.db.ts",
-    "migration:run": "bun run ./script/migration.ts",
+    "migration:up": "bun run ./script/migration.ts up",
+    "migration:down": "bun run ./script/migration.ts down",
     "lint": "eslint ./code",
     "test": "bun test",
     "typecheck": "tsc -p . --noEmit"
