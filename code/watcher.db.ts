@@ -51,7 +51,9 @@ const _crawlAndSavePage = async (db: DB, page: Page) =>
     log(`[crawl] update page crawled time`)
     const [saveResult] = yield* savePageToCrawledAtAction({ db, pageId: page.id }).safeUnwrap()
 
-    log(`[crawl] save success: ${JSON.stringify(saveResult)}`)
+    log(
+      `[crawl] save success. changed: ${saveResult.numChangedRows?.toString()}, updated: ${saveResult.numUpdatedRows?.toString()}`
+    )
 
     return ok(null)
   })
