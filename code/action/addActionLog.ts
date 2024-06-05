@@ -17,7 +17,8 @@ export const addActionLogAction = ({
       .insertInto('action_logs')
       .values({
         actionType: actionType,
-        metadata: JSON.stringify(metadata)
+        metadata: JSON.stringify(metadata),
+        createdAt: new Date().toISOString()
       })
       .execute(),
     err => err as SQLiteError
