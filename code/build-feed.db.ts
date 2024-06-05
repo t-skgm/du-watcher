@@ -4,6 +4,8 @@ import { createDB } from './sdk/db/createDB'
 import dayjs from 'dayjs'
 import { ok, safeTry } from 'neverthrow'
 import { sortBy } from 'remeda'
+import { findLastActionLogAction } from './action/findLastActionLog'
+import { addActionLogAction } from './action/addActionLog'
 
 /* eslint-disable neverthrow/must-use-result -- ResultAsync対応してない？ */
 
@@ -11,14 +13,20 @@ const run = () =>
   safeTry(async function* () {
     log(`[feed] start`)
     const db = createDB()
-    // 2日以内作成のデータを取得
-    const dateAfter = dayjs().subtract(2, 'day').toDate()
+    const lastAcionLog = yield* findLastActionLogAction({ db, actionType: 'crawlStart' }).safeUnwrap()
+
+    const dateAfter = lastAcionLog?.createdAt
+      ? dayjs(lastAcionLog.createdAt).toDate()
+      : // crawl logがなければ前日から
+        dayjs().subtract(1, 'day').toDate()
+
+    log(`[feed] find items updated after: ${dateAfter.toLocaleString('ja')}`)
 
     const items = yield* getLatestUpdatedItemsAction({
       db,
       params: {
         dateAfter,
-        limit: 100
+        limit: 200
       }
     }).safeUnwrap()
 
@@ -27,6 +35,8 @@ const run = () =>
     const feed = yield* buildFeedFromItemsAction({ items: orderedItems }).safeUnwrap()
 
     yield* saveToFileAction({ text: feed.atom1(), filePath: 'pages/feed.xml' }).safeUnwrap()
+
+    yield* addActionLogAction({ db, actionType: 'buildFeed', metadata: { itemCount: items.length } }).safeUnwrap()
 
     return ok(null)
   })
