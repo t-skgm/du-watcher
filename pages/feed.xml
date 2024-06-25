@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher</id>
     <title>DU Watcher</title>
-    <updated>2024-06-24T16:05:37.142Z</updated>
+    <updated>2024-06-25T16:05:16.492Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -12,842 +12,612 @@
     <subtitle>DU Watcher feed</subtitle>
     <rights>t-skgm</rights>
     <entry>
-        <title type="html"><![CDATA[IVY アイヴィー - APARTMENT LIFE (LP)]]></title>
-        <id>https://diskunion.net/used/ct/indiealt/udetail/1008613752</id>
-        <link href="https://diskunion.net/used/ct/indiealt/udetail/1008613752"/>
-        <updated>2024-06-24T16:03:10.287Z</updated>
+        <title type="html"><![CDATA[NOUVELLE VAGUE ヌーヴェル・ヴァーグ - SHOULD I STAY OR SHOULD I GO? (LP)]]></title>
+        <id>https://diskunion.net/used/ct/indiealt/udetail/1008774431</id>
+        <link href="https://diskunion.net/used/ct/indiealt/udetail/1008774431"/>
+        <updated>2024-06-25T16:02:53.677Z</updated>
         <content type="html"><![CDATA[
-        <b>IVY アイヴィー - APARTMENT LIFE (LP)</b><br>
+        <b>NOUVELLE VAGUE ヌーヴェル・ヴァーグ - SHOULD I STAY OR SHOULD I GO? (LP)</b><br>
         <br>
         価格: 3050円<br>
+        盤質: B+<br>
+        <br>
+        <br>
+        ジャンル: ROCK / POPS / INDIE<br>
+        レーベル: PIAS<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2024-06-25T16:02:53.677Z<br>
+        更新日: 2024-06-25T16:02:53.677Z<br>
+        クロール日: 2024-06-25T16:03:16.716Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/indiealt/udetail/1008774431">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[STROKES ザ・ストロークス - LAST NITE]]></title>
+        <id>https://diskunion.net/used/ct/indiealt/udetail/XATW-00089238</id>
+        <link href="https://diskunion.net/used/ct/indiealt/udetail/XATW-00089238"/>
+        <updated>2024-06-25T16:02:53.771Z</updated>
+        <content type="html"><![CDATA[
+        <b>STROKES ザ・ストロークス - LAST NITE</b><br>
+        <br>
+        価格: 3700円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: ROCK / POPS / INDIE<br>
+        レーベル: ROUGH TRADE<br>
+        フォーマット: 7"(レコード)<br>
+        <br>
+        登録日: 2024-06-25T16:02:53.771Z<br>
+        更新日: 2024-06-25T16:02:53.771Z<br>
+        クロール日: 2024-06-25T16:03:16.719Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/indiealt/udetail/XATW-00089238">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KLF - CHILL OUT ALBUM (2017 CLEAR VINYL RE-ISSUE)]]></title>
+        <id>https://diskunion.net/used/ct/indiealt/udetail/1007458947</id>
+        <link href="https://diskunion.net/used/ct/indiealt/udetail/1007458947"/>
+        <updated>2024-06-25T16:03:16.900Z</updated>
+        <content type="html"><![CDATA[
+        <b>KLF - CHILL OUT ALBUM (2017 CLEAR VINYL RE-ISSUE)</b><br>
+        <br>
+        価格: 6500円<br>
+        盤質: A<br>
+        <br>
+        <br>
+        ジャンル: CLUB/DANCE<br>
+        レーベル: KLF<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2024-06-25T16:03:16.900Z<br>
+        更新日: 2024-06-25T16:03:16.900Z<br>
+        クロール日: 2024-06-25T16:03:16.715Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/indiealt/udetail/1007458947">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ROLLING BLACKOUTS COASTAL FEVER ローリング・ブラックアウツ・コースタル・フィーヴァー - SIDEWAYS TO NEW ITALY]]></title>
+        <id>https://diskunion.net/used/ct/indiealt/udetail/1008120010</id>
+        <link href="https://diskunion.net/used/ct/indiealt/udetail/1008120010"/>
+        <updated>2024-06-25T16:03:16.908Z</updated>
+        <content type="html"><![CDATA[
+        <b>ROLLING BLACKOUTS COASTAL FEVER ローリング・ブラックアウツ・コースタル・フィーヴァー - SIDEWAYS TO NEW ITALY</b><br>
+        <br>
+        価格: 1500円<br>
         盤質: S<br>
         <br>
         <br>
         ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: BAR/NONE<br>
+        レーベル: BASEMENT'S BASEMENT<br>
         フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2024-06-24T16:03:10.287Z<br>
-        更新日: 2024-06-24T16:03:10.287Z<br>
-        クロール日: 2024-06-24T16:03:36.973Z<br>
+        登録日: 2024-06-25T16:03:16.908Z<br>
+        更新日: 2024-06-25T16:03:16.908Z<br>
+        クロール日: 2024-06-25T16:03:16.715Z<br>
         <br>
-        <a href="https://diskunion.net/used/ct/indiealt/udetail/1008613752">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/indiealt/udetail/1008120010">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[IVY アイヴィー - APARTMENT LIFE DEMOS [LP]]]></title>
-        <id>https://diskunion.net/used/ct/indiealt/udetail/1008628435</id>
-        <link href="https://diskunion.net/used/ct/indiealt/udetail/1008628435"/>
-        <updated>2024-06-24T16:03:10.294Z</updated>
+        <title type="html"><![CDATA[PARQUET COURTS パーケイ・コーツ - SYMPATHY FOR LIFE (特殊アウター・スリーヴ付デラックス盤)]]></title>
+        <id>https://diskunion.net/used/ct/indiealt/udetail/1008357974</id>
+        <link href="https://diskunion.net/used/ct/indiealt/udetail/1008357974"/>
+        <updated>2024-06-25T16:03:16.922Z</updated>
         <content type="html"><![CDATA[
-        <b>IVY アイヴィー - APARTMENT LIFE DEMOS [LP]</b><br>
-        <br>
-        価格: 2850円<br>
-        盤質: S<br>
-        <br>
-        <br>
-        ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: SECRETLY CANADIAN<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2024-06-24T16:03:10.294Z<br>
-        更新日: 2024-06-24T16:03:10.294Z<br>
-        クロール日: 2024-06-24T16:03:10.052Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/indiealt/udetail/1008628435">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LAURA LEE & THE JETTES ローラ・リー・アンド・ザ・ジェティーズ - WASTELAND (VINYL)]]></title>
-        <id>https://diskunion.net/used/ct/indiealt/udetail/1008378814</id>
-        <link href="https://diskunion.net/used/ct/indiealt/udetail/1008378814"/>
-        <updated>2024-06-24T16:03:10.315Z</updated>
-        <content type="html"><![CDATA[
-        <b>LAURA LEE & THE JETTES ローラ・リー・アンド・ザ・ジェティーズ - WASTELAND (VINYL)</b><br>
+        <b>PARQUET COURTS パーケイ・コーツ - SYMPATHY FOR LIFE (特殊アウター・スリーヴ付デラックス盤)</b><br>
         <br>
         価格: 1900円<br>
         盤質: B<br>
         <br>
         <br>
         ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: DUCHESS BOX<br>
+        レーベル: ROUGH TRADE<br>
         フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2024-06-24T16:03:10.315Z<br>
-        更新日: 2024-06-24T16:03:10.315Z<br>
-        クロール日: 2024-06-24T16:03:10.052Z<br>
+        登録日: 2024-06-25T16:03:16.922Z<br>
+        更新日: 2024-06-25T16:03:16.922Z<br>
+        クロール日: 2024-06-25T16:03:16.715Z<br>
         <br>
-        <a href="https://diskunion.net/used/ct/indiealt/udetail/1008378814">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/indiealt/udetail/1008357974">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MONOCHROME SET モノクローム・セット - COSMONAUT (LP+CD)]]></title>
-        <id>https://diskunion.net/used/ct/indiealt/udetail/AWS161004-ST2</id>
-        <link href="https://diskunion.net/used/ct/indiealt/udetail/AWS161004-ST2"/>
-        <updated>2024-06-24T16:03:10.379Z</updated>
+        <title type="html"><![CDATA[HOOD フッド - THE HOOD TAPES (VINYL)]]></title>
+        <id>https://diskunion.net/used/ct/indiealt/udetail/1008387118</id>
+        <link href="https://diskunion.net/used/ct/indiealt/udetail/1008387118"/>
+        <updated>2024-06-25T16:03:16.929Z</updated>
         <content type="html"><![CDATA[
-        <b>MONOCHROME SET モノクローム・セット - COSMONAUT (LP+CD)</b><br>
+        <b>HOOD フッド - THE HOOD TAPES (VINYL)</b><br>
         <br>
-        価格: 1700円<br>
+        価格: 2250円<br>
         盤質: B<br>
         <br>
         <br>
         ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: TAPETE RECORDS<br>
-        フォーマット: LP(レコード)+CD<br>
+        レーベル: ACUARELA<br>
+        フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2024-06-24T16:03:10.379Z<br>
-        更新日: 2024-06-24T16:03:10.379Z<br>
-        クロール日: 2024-06-24T16:03:10.054Z<br>
+        登録日: 2024-06-25T16:03:16.929Z<br>
+        更新日: 2024-06-25T16:03:16.929Z<br>
+        クロール日: 2024-06-25T16:03:16.715Z<br>
         <br>
-        <a href="https://diskunion.net/used/ct/indiealt/udetail/AWS161004-ST2">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/indiealt/udetail/1008387118">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SOKO - MY DREAMS DICTATE MY REALITY (LP+CD)]]></title>
-        <id>https://diskunion.net/used/ct/indiealt/udetail/AWY150319-SK2</id>
-        <link href="https://diskunion.net/used/ct/indiealt/udetail/AWY150319-SK2"/>
-        <updated>2024-06-24T16:03:10.485Z</updated>
+        <title type="html"><![CDATA[KRISTO RODZEVSKI クリスト・ロドゼヴスキ - Bitter Almonds (LP)]]></title>
+        <id>https://diskunion.net/used/ct/indiealt/udetail/1008511879</id>
+        <link href="https://diskunion.net/used/ct/indiealt/udetail/1008511879"/>
+        <updated>2024-06-25T16:03:16.957Z</updated>
         <content type="html"><![CDATA[
-        <b>SOKO - MY DREAMS DICTATE MY REALITY (LP+CD)</b><br>
+        <b>KRISTO RODZEVSKI クリスト・ロドゼヴスキ - Bitter Almonds (LP)</b><br>
         <br>
-        価格: 3450円<br>
-        盤質: B<br>
+        価格: 1800円<br>
+        盤質: S<br>
+        <br>
+        <br>
+        ジャンル: JAZZ<br>
+        レーベル: MUCH PREFER RECORDS<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2024-06-25T16:03:16.957Z<br>
+        更新日: 2024-06-25T16:03:16.957Z<br>
+        クロール日: 2024-06-25T16:03:26.561Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/indiealt/udetail/1008511879">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ADRIANNE LENKER エイドリアン・レンカー - BRIGHT FUTURE (リサイクル・カラー・ヴァイナル・日本語帯付)]]></title>
+        <id>https://diskunion.net/used/ct/indiealt/udetail/1008798420</id>
+        <link href="https://diskunion.net/used/ct/indiealt/udetail/1008798420"/>
+        <updated>2024-06-25T16:03:16.972Z</updated>
+        <content type="html"><![CDATA[
+        <b>ADRIANNE LENKER エイドリアン・レンカー - BRIGHT FUTURE (リサイクル・カラー・ヴァイナル・日本語帯付)</b><br>
+        <br>
+        価格: 3650円<br>
+        盤質: B+<br>
         <br>
         <br>
         ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: BECAUSE<br>
-        フォーマット: LP(レコード)+CD<br>
+        レーベル: 4AD<br>
+        フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2024-06-24T16:03:10.485Z<br>
-        更新日: 2024-06-24T16:03:10.485Z<br>
-        クロール日: 2024-06-24T16:03:36.976Z<br>
+        登録日: 2024-06-25T16:03:16.972Z<br>
+        更新日: 2024-06-25T16:03:16.972Z<br>
+        クロール日: 2024-06-25T16:03:26.562Z<br>
         <br>
-        <a href="https://diskunion.net/used/ct/indiealt/udetail/AWY150319-SK2">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/indiealt/udetail/1008798420">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SONIC YOUTH ソニック・ユース - DAYDREAM NATION (4LP BOX SET/REMASTERED)]]></title>
-        <id>https://diskunion.net/used/ct/indiealt/udetail/04IA11757</id>
-        <link href="https://diskunion.net/used/ct/indiealt/udetail/04IA11757"/>
-        <updated>2024-06-24T16:03:37.189Z</updated>
+        <title type="html"><![CDATA[NINE INCH NAILS ナイン・インチ・ネイルズ - THE DOWNWARD SPIRAL (2LP/180G/REMASTER/DEFINITIVE EDITION)]]></title>
+        <id>https://diskunion.net/used/ct/indiealt/udetail/AWS171201NIN1</id>
+        <link href="https://diskunion.net/used/ct/indiealt/udetail/AWS171201NIN1"/>
+        <updated>2024-06-25T16:03:17.008Z</updated>
         <content type="html"><![CDATA[
-        <b>SONIC YOUTH ソニック・ユース - DAYDREAM NATION (4LP BOX SET/REMASTERED)</b><br>
+        <b>NINE INCH NAILS ナイン・インチ・ネイルズ - THE DOWNWARD SPIRAL (2LP/180G/REMASTER/DEFINITIVE EDITION)</b><br>
         <br>
         価格: 7850円<br>
         盤質: B<br>
         <br>
         <br>
         ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: GEFFEN<br>
+        レーベル: INTERSCOPE<br>
         フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2024-06-24T16:03:37.189Z<br>
-        更新日: 2024-06-24T16:03:37.189Z<br>
-        クロール日: 2024-06-24T16:03:36.970Z<br>
+        登録日: 2024-06-25T16:03:17.008Z<br>
+        更新日: 2024-06-25T16:03:17.008Z<br>
+        クロール日: 2024-06-25T16:03:16.718Z<br>
         <br>
-        <a href="https://diskunion.net/used/ct/indiealt/udetail/04IA11757">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/indiealt/udetail/AWS171201NIN1">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[YO LA TENGO ヨ・ラ・テンゴ - I CAN HEAR THE HEART BEATING AS ONE]]></title>
-        <id>https://diskunion.net/used/ct/indiealt/udetail/04IA18780</id>
-        <link href="https://diskunion.net/used/ct/indiealt/udetail/04IA18780"/>
-        <updated>2024-06-24T16:03:37.202Z</updated>
+        <title type="html"><![CDATA[CHAD SMITH & JOSH KLINGHOFFER - JEEPSTER / MONOLITH [7"]]]></title>
+        <id>https://diskunion.net/used/ct/indiealt/udetail/AWY190413RSD027</id>
+        <link href="https://diskunion.net/used/ct/indiealt/udetail/AWY190413RSD027"/>
+        <updated>2024-06-25T16:03:17.015Z</updated>
         <content type="html"><![CDATA[
-        <b>YO LA TENGO ヨ・ラ・テンゴ - I CAN HEAR THE HEART BEATING AS ONE</b><br>
+        <b>CHAD SMITH & JOSH KLINGHOFFER - JEEPSTER / MONOLITH [7"]</b><br>
         <br>
-        価格: 10850円<br>
-        盤質: B+<br>
+        価格: 900円<br>
+        盤質: S<br>
         <br>
         <br>
         ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: MATADOR<br>
-        フォーマット: LP(レコード)<br>
+        レーベル: ORG MUSIC<br>
+        フォーマット: 7"(レコード)<br>
         <br>
-        登録日: 2024-06-24T16:03:37.202Z<br>
-        更新日: 2024-06-24T16:03:37.202Z<br>
-        クロール日: 2024-06-24T16:03:36.970Z<br>
+        登録日: 2024-06-25T16:03:17.015Z<br>
+        更新日: 2024-06-25T16:03:17.015Z<br>
+        クロール日: 2024-06-25T16:03:16.718Z<br>
         <br>
-        <a href="https://diskunion.net/used/ct/indiealt/udetail/04IA18780">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/indiealt/udetail/AWY190413RSD027">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GIRLS ガールズ - ALBUM]]></title>
-        <id>https://diskunion.net/used/ct/indiealt/udetail/04IA19759</id>
-        <link href="https://diskunion.net/used/ct/indiealt/udetail/04IA19759"/>
-        <updated>2024-06-24T16:03:37.210Z</updated>
+        <title type="html"><![CDATA[!!! (CHK CHK CHK) チックチックチック - LOUDEN UP NOW]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/XATW-00000115</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/XATW-00000115"/>
+        <updated>2024-06-25T16:03:17.036Z</updated>
         <content type="html"><![CDATA[
-        <b>GIRLS ガールズ - ALBUM</b><br>
+        <b>!!! (CHK CHK CHK) チックチックチック - LOUDEN UP NOW</b><br>
         <br>
-        価格: 5850円<br>
+        価格: 2250円<br>
         盤質: B<br>
         <br>
         <br>
         ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: TRUE PANTHER<br>
+        レーベル: WARP<br>
         フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2024-06-24T16:03:37.210Z<br>
-        更新日: 2024-06-24T16:03:37.210Z<br>
-        クロール日: 2024-06-24T16:03:36.970Z<br>
+        登録日: 2024-06-25T16:03:17.036Z<br>
+        更新日: 2024-06-25T16:03:17.036Z<br>
+        クロール日: 2024-06-25T16:04:18.323Z<br>
         <br>
-        <a href="https://diskunion.net/used/ct/indiealt/udetail/04IA19759">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/punk/udetail/XATW-00000115">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V.A. (ALTERNATIVE ROCK) - HE'S A LIQUID (LP)]]></title>
-        <id>https://diskunion.net/used/ct/indiealt/udetail/1007038046</id>
-        <link href="https://diskunion.net/used/ct/indiealt/udetail/1007038046"/>
-        <updated>2024-06-24T16:03:37.225Z</updated>
+        <title type="html"><![CDATA[JON SPENCER BLUES EXPLOSION ジョン・スペンサー・ブルース・エクスプロージョン - CRYPT STYLE]]></title>
+        <id>https://diskunion.net/used/ct/indiealt/udetail/XATW-00048811</id>
+        <link href="https://diskunion.net/used/ct/indiealt/udetail/XATW-00048811"/>
+        <updated>2024-06-25T16:03:17.043Z</updated>
         <content type="html"><![CDATA[
-        <b>V.A. (ALTERNATIVE ROCK) - HE'S A LIQUID (LP)</b><br>
-        <br>
-        価格: 1100円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: METAMATIC<br>
-        フォーマット: 12"(レコード)<br>
-        <br>
-        登録日: 2024-06-24T16:03:37.225Z<br>
-        更新日: 2024-06-24T16:03:37.225Z<br>
-        クロール日: 2024-06-24T16:03:36.971Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/indiealt/udetail/1007038046">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MINA TINDLE - SISTER (LP)]]></title>
-        <id>https://diskunion.net/used/ct/indiealt/udetail/1008166377</id>
-        <link href="https://diskunion.net/used/ct/indiealt/udetail/1008166377"/>
-        <updated>2024-06-24T16:03:37.232Z</updated>
-        <content type="html"><![CDATA[
-        <b>MINA TINDLE - SISTER (LP)</b><br>
+        <b>JON SPENCER BLUES EXPLOSION ジョン・スペンサー・ブルース・エクスプロージョン - CRYPT STYLE</b><br>
         <br>
         価格: 1900円<br>
-        盤質: A<br>
+        盤質: B<br>
         <br>
         <br>
         ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: 37D03<br>
+        レーベル: CRYPT<br>
         フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2024-06-24T16:03:37.232Z<br>
-        更新日: 2024-06-24T16:03:37.232Z<br>
-        クロール日: 2024-06-24T16:03:47.632Z<br>
+        登録日: 2024-06-25T16:03:17.043Z<br>
+        更新日: 2024-06-25T16:03:17.043Z<br>
+        クロール日: 2024-06-25T16:03:16.719Z<br>
         <br>
-        <a href="https://diskunion.net/used/ct/indiealt/udetail/1008166377">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/indiealt/udetail/XATW-00048811">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CASSANDRA JENKINS カサンドラ・ジェンキンス - AN OVERVIEW ON PHENOMENAL NATURE (LP)]]></title>
-        <id>https://diskunion.net/used/ct/indiealt/udetail/1008262408</id>
-        <link href="https://diskunion.net/used/ct/indiealt/udetail/1008262408"/>
-        <updated>2024-06-24T16:03:37.239Z</updated>
+        <title type="html"><![CDATA[PROMISE RING プロミスリング - HORSE LATITUDES (12")]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/1007850427</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/1007850427"/>
+        <updated>2024-06-25T16:03:30.848Z</updated>
         <content type="html"><![CDATA[
-        <b>CASSANDRA JENKINS カサンドラ・ジェンキンス - AN OVERVIEW ON PHENOMENAL NATURE (LP)</b><br>
+        <b>PROMISE RING プロミスリング - HORSE LATITUDES (12")</b><br>
         <br>
-        価格: 3400円<br>
-        盤質: B+<br>
+        価格: 3200円<br>
+        盤質: S<br>
         <br>
         <br>
-        ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: BA DA BING!<br>
-        フォーマット: LP(レコード)<br>
+        ジャンル: PUNK<br>
+        レーベル: EPITAPH<br>
+        フォーマット: 12"(レコード)<br>
         <br>
-        登録日: 2024-06-24T16:03:37.239Z<br>
-        更新日: 2024-06-24T16:03:37.239Z<br>
-        クロール日: 2024-06-24T16:03:47.632Z<br>
+        登録日: 2024-06-25T16:03:30.848Z<br>
+        更新日: 2024-06-25T16:03:30.848Z<br>
+        クロール日: 2024-06-25T16:03:30.844Z<br>
         <br>
-        <a href="https://diskunion.net/used/ct/indiealt/udetail/1008262408">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/punk/udetail/1007850427">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LUGGAGE ラゲッジ - HAPPINESS (LP)]]></title>
-        <id>https://diskunion.net/used/ct/indiealt/udetail/1008327213</id>
-        <link href="https://diskunion.net/used/ct/indiealt/udetail/1008327213"/>
-        <updated>2024-06-24T16:03:37.246Z</updated>
+        <title type="html"><![CDATA[PROMISE RING プロミスリング - 30 DEGREES EVERYWHERE (LP)]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/1008265360</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/1008265360"/>
+        <updated>2024-06-25T16:03:30.855Z</updated>
         <content type="html"><![CDATA[
-        <b>LUGGAGE ラゲッジ - HAPPINESS (LP)</b><br>
+        <b>PROMISE RING プロミスリング - 30 DEGREES EVERYWHERE (LP)</b><br>
+        <br>
+        価格: 3200円<br>
+        盤質: S<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        レーベル: EPITAPH<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2024-06-25T16:03:30.855Z<br>
+        更新日: 2024-06-25T16:03:30.855Z<br>
+        クロール日: 2024-06-25T16:03:30.844Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/1008265360">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SUNNY DAY REAL ESTATE サニ-・デイ・リアル・エステイト - DIARY (LP / 2009 EDITION)【解説付、帯付】]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/1008784146</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/1008784146"/>
+        <updated>2024-06-25T16:03:30.862Z</updated>
+        <content type="html"><![CDATA[
+        <b>SUNNY DAY REAL ESTATE サニ-・デイ・リアル・エステイト - DIARY (LP / 2009 EDITION)【解説付、帯付】</b><br>
+        <br>
+        価格: 7000円<br>
+        盤質: S<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        レーベル: ULTRA-VYBE, INC.<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2024-06-25T16:03:30.862Z<br>
+        更新日: 2024-06-25T16:03:30.862Z<br>
+        クロール日: 2024-06-25T16:03:30.844Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/1008784146">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CHAOTIX:GREEN カオティックス：グリーン - NORTH ISLAND THRASH ATTACK (7")]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/PNK0407-278</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/PNK0407-278"/>
+        <updated>2024-06-25T16:03:30.870Z</updated>
+        <content type="html"><![CDATA[
+        <b>CHAOTIX:GREEN カオティックス：グリーン - NORTH ISLAND THRASH ATTACK (7")</b><br>
         <br>
         価格: 680円<br>
         盤質: B<br>
         <br>
         <br>
-        ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: HUSKY PANTS RECORDS<br>
-        フォーマット: LP(レコード)<br>
+        ジャンル: PUNK<br>
+        レーベル: 男道　(DANDOH / DAN-DOH)<br>
+        フォーマット: JPN<br>
         <br>
-        登録日: 2024-06-24T16:03:37.246Z<br>
-        更新日: 2024-06-24T16:03:37.246Z<br>
-        クロール日: 2024-06-24T16:03:36.971Z<br>
+        登録日: 2024-06-25T16:03:30.870Z<br>
+        更新日: 2024-06-25T16:03:30.870Z<br>
+        クロール日: 2024-06-25T16:03:30.844Z<br>
         <br>
-        <a href="https://diskunion.net/used/ct/indiealt/udetail/1008327213">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/punk/udetail/PNK0407-278">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DELICATE STEVE デリケート・スティーヴ - AFTER HOURS (VINYL)]]></title>
-        <id>https://diskunion.net/used/ct/indiealt/udetail/1008472586</id>
-        <link href="https://diskunion.net/used/ct/indiealt/udetail/1008472586"/>
-        <updated>2024-06-24T16:03:37.253Z</updated>
+        <title type="html"><![CDATA[!!! (CHK CHK CHK) チックチックチック - !!!]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/XATW-00000109</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/XATW-00000109"/>
+        <updated>2024-06-25T16:03:30.877Z</updated>
         <content type="html"><![CDATA[
-        <b>DELICATE STEVE デリケート・スティーヴ - AFTER HOURS (VINYL)</b><br>
+        <b>!!! (CHK CHK CHK) チックチックチック - !!!</b><br>
         <br>
         価格: 2650円<br>
         盤質: B<br>
         <br>
         <br>
         ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: ANTI-<br>
+        レーベル: GSL<br>
         フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2024-06-24T16:03:37.253Z<br>
-        更新日: 2024-06-24T16:03:37.253Z<br>
-        クロール日: 2024-06-24T16:03:36.972Z<br>
+        登録日: 2024-06-25T16:03:30.877Z<br>
+        更新日: 2024-06-25T16:03:30.877Z<br>
+        クロール日: 2024-06-25T16:03:30.845Z<br>
         <br>
-        <a href="https://diskunion.net/used/ct/indiealt/udetail/1008472586">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/punk/udetail/XATW-00000109">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SAMUEL SEO - VULTURE (FEAT. DEANDRE') / DUST]]></title>
-        <id>https://diskunion.net/used/ct/indiealt/udetail/1008501636</id>
-        <link href="https://diskunion.net/used/ct/indiealt/udetail/1008501636"/>
-        <updated>2024-06-24T16:03:37.274Z</updated>
+        <title type="html"><![CDATA[!!! (CHK CHK CHK) チックチックチック - MYTH TAKES]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/XATW-00000114</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/XATW-00000114"/>
+        <updated>2024-06-25T16:03:30.884Z</updated>
         <content type="html"><![CDATA[
-        <b>SAMUEL SEO - VULTURE (FEAT. DEANDRE') / DUST</b><br>
+        <b>!!! (CHK CHK CHK) チックチックチック - MYTH TAKES</b><br>
         <br>
-        価格: 880円<br>
+        価格: 4650円<br>
         盤質: B<br>
         <br>
         <br>
-        ジャンル: SOUL/BLUES/GOSPEL<br>
-        レーベル: Bside / Lawson Entertainment, Inc.(HMV record shop)<br>
-        フォーマット: JPN<br>
-        <br>
-        登録日: 2024-06-24T16:03:37.274Z<br>
-        更新日: 2024-06-24T16:03:37.274Z<br>
-        クロール日: 2024-06-24T16:03:47.632Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/indiealt/udetail/1008501636">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DIIV ダイヴ - SOMETIME / HUMAN / GEIST (3X7" - ECO MIX)]]></title>
-        <id>https://diskunion.net/used/ct/indiealt/udetail/1008516126</id>
-        <link href="https://diskunion.net/used/ct/indiealt/udetail/1008516126"/>
-        <updated>2024-06-24T16:03:37.282Z</updated>
-        <content type="html"><![CDATA[
-        <b>DIIV ダイヴ - SOMETIME / HUMAN / GEIST (3X7" - ECO MIX)</b><br>
-        <br>
-        価格: 3251円<br>
-        盤質: S<br>
-        <br>
-        <br>
-        ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: CAPTURED TRACKS<br>
-        フォーマット: 7"(レコード)<br>
-        <br>
-        登録日: 2024-06-24T16:03:37.282Z<br>
-        更新日: 2024-06-24T16:03:37.282Z<br>
-        クロール日: 2024-06-24T16:03:36.972Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/indiealt/udetail/1008516126">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TORTOISE トータス - TNT (LIMITED EDITION 2023 REISSUE / 2LP / COLORED VINYL)]]></title>
-        <id>https://diskunion.net/used/ct/indiealt/udetail/1008718149</id>
-        <link href="https://diskunion.net/used/ct/indiealt/udetail/1008718149"/>
-        <updated>2024-06-24T16:03:37.324Z</updated>
-        <content type="html"><![CDATA[
-        <b>TORTOISE トータス - TNT (LIMITED EDITION 2023 REISSUE / 2LP / COLORED VINYL)</b><br>
-        <br>
-        価格: 5750円<br>
-        盤質: S<br>
-        <br>
-        <br>
-        ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: THRILL JOCKEY<br>
+        ジャンル: PUNK<br>
+        レーベル: WARP<br>
         フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2024-06-24T16:03:37.324Z<br>
-        更新日: 2024-06-24T16:03:37.324Z<br>
-        クロール日: 2024-06-24T16:03:36.974Z<br>
+        登録日: 2024-06-25T16:03:30.884Z<br>
+        更新日: 2024-06-25T16:03:30.884Z<br>
+        クロール日: 2024-06-25T16:03:30.845Z<br>
         <br>
-        <a href="https://diskunion.net/used/ct/indiealt/udetail/1008718149">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/punk/udetail/XATW-00000114">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MICHAEL NAU マイケル・ナウ - ACCOMPANY (CD)]]></title>
-        <id>https://diskunion.net/used/ct/indiealt/udetail/1008760198</id>
-        <link href="https://diskunion.net/used/ct/indiealt/udetail/1008760198"/>
-        <updated>2024-06-24T16:03:37.331Z</updated>
+        <title type="html"><![CDATA[GRIMPLE グリンプル - UP YOUR ASS (LP/RED VINYL)]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/1008400117</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/1008400117"/>
+        <updated>2024-06-25T16:04:18.616Z</updated>
         <content type="html"><![CDATA[
-        <b>MICHAEL NAU マイケル・ナウ - ACCOMPANY (CD)</b><br>
+        <b>GRIMPLE グリンプル - UP YOUR ASS (LP/RED VINYL)</b><br>
         <br>
-        価格: 1300円<br>
-        盤質: S<br>
-        <br>
-        <br>
-        ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: Karma Chief Records、Colemine Records<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2024-06-24T16:03:37.331Z<br>
-        更新日: 2024-06-24T16:03:37.331Z<br>
-        クロール日: 2024-06-24T16:03:36.974Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/indiealt/udetail/1008760198">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GLASS BEACH - PLASTIC DEATH (2LP / COLORED VINYL)]]></title>
-        <id>https://diskunion.net/used/ct/indiealt/udetail/1008764554</id>
-        <link href="https://diskunion.net/used/ct/indiealt/udetail/1008764554"/>
-        <updated>2024-06-24T16:03:37.338Z</updated>
-        <content type="html"><![CDATA[
-        <b>GLASS BEACH - PLASTIC DEATH (2LP / COLORED VINYL)</b><br>
-        <br>
-        価格: 3450円<br>
+        価格: 1200円<br>
         盤質: B+<br>
         <br>
         <br>
-        ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: RUN FOR COVER<br>
+        ジャンル: PUNK<br>
+        レーベル: PRANK<br>
         フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2024-06-24T16:03:37.338Z<br>
-        更新日: 2024-06-24T16:03:37.338Z<br>
-        クロール日: 2024-06-24T16:03:36.974Z<br>
+        登録日: 2024-06-25T16:04:18.616Z<br>
+        更新日: 2024-06-25T16:04:18.616Z<br>
+        クロール日: 2024-06-25T16:04:18.320Z<br>
         <br>
-        <a href="https://diskunion.net/used/ct/indiealt/udetail/1008764554">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/punk/udetail/1008400117">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DINOSAUR JR. ダイナソー・ジュニア - THE BLACK SESSION - LIVE IN PARIS 1993 (12" / COLORED VINYL)]]></title>
-        <id>https://diskunion.net/used/ct/indiealt/udetail/1008793020</id>
-        <link href="https://diskunion.net/used/ct/indiealt/udetail/1008793020"/>
-        <updated>2024-06-24T16:03:37.345Z</updated>
+        <title type="html"><![CDATA[FASTBACKS ファストバックス - Z2 (LP)]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/1008682460</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/1008682460"/>
+        <updated>2024-06-25T16:04:18.623Z</updated>
         <content type="html"><![CDATA[
-        <b>DINOSAUR JR. ダイナソー・ジュニア - THE BLACK SESSION - LIVE IN PARIS 1993 (12" / COLORED VINYL)</b><br>
+        <b>FASTBACKS ファストバックス - Z2 (LP)</b><br>
         <br>
-        価格: 4650円<br>
-        盤質: S<br>
-        <br>
-        <br>
-        ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: CHERRY RED<br>
-        フォーマット: 12"(レコード)<br>
-        <br>
-        登録日: 2024-06-24T16:03:37.345Z<br>
-        更新日: 2024-06-24T16:03:37.345Z<br>
-        クロール日: 2024-06-24T16:03:36.974Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/indiealt/udetail/1008793020">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MUDHONEY マッドハニー - SUCK YOU DRY: THE REPRISE YEARS [5LP] (GREEN, PINK, RED & WHITE 140 GRAM VINYL, LIMITED, INDIE-EXCLUSIVE)]]></title>
-        <id>https://diskunion.net/used/ct/indiealt/udetail/1008813415</id>
-        <link href="https://diskunion.net/used/ct/indiealt/udetail/1008813415"/>
-        <updated>2024-06-24T16:03:37.358Z</updated>
-        <content type="html"><![CDATA[
-        <b>MUDHONEY マッドハニー - SUCK YOU DRY: THE REPRISE YEARS [5LP] (GREEN, PINK, RED & WHITE 140 GRAM VINYL, LIMITED, INDIE-EXCLUSIVE)</b><br>
-        <br>
-        価格: 18000円<br>
-        盤質: S<br>
-        <br>
-        <br>
-        ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: RHINO<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2024-06-24T16:03:37.358Z<br>
-        更新日: 2024-06-24T16:03:37.358Z<br>
-        クロール日: 2024-06-24T16:03:36.975Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/indiealt/udetail/1008813415">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YO LA TENGO ヨ・ラ・テンゴ - THERE'S A RIOT GOING ON (2LP/ORANGE VINYL/LTD)]]></title>
-        <id>https://diskunion.net/used/ct/indiealt/udetail/AWS180126YOLA4</id>
-        <link href="https://diskunion.net/used/ct/indiealt/udetail/AWS180126YOLA4"/>
-        <updated>2024-06-24T16:03:37.373Z</updated>
-        <content type="html"><![CDATA[
-        <b>YO LA TENGO ヨ・ラ・テンゴ - THERE'S A RIOT GOING ON (2LP/ORANGE VINYL/LTD)</b><br>
-        <br>
-        価格: 3400円<br>
+        価格: 2650円<br>
         盤質: B+<br>
         <br>
         <br>
-        ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: MATADOR<br>
+        ジャンル: PUNK<br>
+        レーベル: NO THREES<br>
         フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2024-06-24T16:03:37.373Z<br>
-        更新日: 2024-06-24T16:03:37.373Z<br>
-        クロール日: 2024-06-24T16:03:36.975Z<br>
+        登録日: 2024-06-25T16:04:18.623Z<br>
+        更新日: 2024-06-25T16:04:18.623Z<br>
+        クロール日: 2024-06-25T16:04:18.320Z<br>
         <br>
-        <a href="https://diskunion.net/used/ct/indiealt/udetail/AWS180126YOLA4">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/punk/udetail/1008682460">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MOLDY PEACHES モルディ・ピーチズ - THE MOLDY PEACHES (LP+7"/RED VINYL/LTD)]]></title>
-        <id>https://diskunion.net/used/ct/indiealt/udetail/AWS180808MOLDY</id>
-        <link href="https://diskunion.net/used/ct/indiealt/udetail/AWS180808MOLDY"/>
-        <updated>2024-06-24T16:03:37.387Z</updated>
+        <title type="html"><![CDATA[SICK FIZZ - THE FUTURE IS THE PITS (LP)]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/1008804436</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/1008804436"/>
+        <updated>2024-06-25T16:04:18.638Z</updated>
         <content type="html"><![CDATA[
-        <b>MOLDY PEACHES モルディ・ピーチズ - THE MOLDY PEACHES (LP+7"/RED VINYL/LTD)</b><br>
+        <b>SICK FIZZ - THE FUTURE IS THE PITS (LP)</b><br>
+        <br>
+        価格: 3200円<br>
+        盤質: S<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        レーベル: DEAD BEAT<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2024-06-25T16:04:18.638Z<br>
+        更新日: 2024-06-25T16:04:18.638Z<br>
+        クロール日: 2024-06-25T16:04:18.320Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/1008804436">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PARAMORE パラモア - THIS IS WHY (REMIX + STANDARD) (2LP)]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/1008814972</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/1008814972"/>
+        <updated>2024-06-25T16:04:18.645Z</updated>
+        <content type="html"><![CDATA[
+        <b>PARAMORE パラモア - THIS IS WHY (REMIX + STANDARD) (2LP)</b><br>
+        <br>
+        価格: 6001円<br>
+        盤質: S<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        レーベル: ATLANTIC<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2024-06-25T16:04:18.645Z<br>
+        更新日: 2024-06-25T16:04:18.645Z<br>
+        クロール日: 2024-06-25T16:04:18.320Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/1008814972">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PETER BELSITO / BOB DAVIS - HARDCORE CALIFORNIA A HISTORY OF PUNK AND NEW WAVE]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/DFS230216-059</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/DFS230216-059"/>
+        <updated>2024-06-25T16:04:18.672Z</updated>
+        <content type="html"><![CDATA[
+        <b>PETER BELSITO / BOB DAVIS - HARDCORE CALIFORNIA A HISTORY OF PUNK AND NEW WAVE</b><br>
+        <br>
+        価格: 1500円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        レーベル: LAST GASP<br>
+        フォーマット: BOOK<br>
+        <br>
+        登録日: 2024-06-25T16:04:18.672Z<br>
+        更新日: 2024-06-25T16:04:18.672Z<br>
+        クロール日: 2024-06-25T16:04:18.320Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/DFS230216-059">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LARRY AND HIS FLASK - ALL THAT WE KNOW]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/DI170308-68</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/DI170308-68"/>
+        <updated>2024-06-25T16:04:18.686Z</updated>
+        <content type="html"><![CDATA[
+        <b>LARRY AND HIS FLASK - ALL THAT WE KNOW</b><br>
+        <br>
+        価格: 6750円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2024-06-25T16:04:18.686Z<br>
+        更新日: 2024-06-25T16:04:18.686Z<br>
+        クロール日: 2024-06-25T16:04:18.320Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/DI170308-68">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CONFLICT (PUNK) コンフリクト - INCREASE THE PRESSURE]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/DI170508-058</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/DI170508-058"/>
+        <updated>2024-06-25T16:04:18.694Z</updated>
+        <content type="html"><![CDATA[
+        <b>CONFLICT (PUNK) コンフリクト - INCREASE THE PRESSURE</b><br>
         <br>
         価格: 2850円<br>
         盤質: B<br>
         <br>
         <br>
-        ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: ROUGH TRADE<br>
-        フォーマット: LP+7"(レコード)<br>
-        <br>
-        登録日: 2024-06-24T16:03:37.387Z<br>
-        更新日: 2024-06-24T16:03:37.387Z<br>
-        クロール日: 2024-06-24T16:03:36.975Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/indiealt/udetail/AWS180808MOLDY">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DEFLORE AND JAZ COLEMAN - PARTY IN THE CHAOS (12"/COLORED VINYL)]]></title>
-        <id>https://diskunion.net/used/ct/indiealt/udetail/AWS190813DEFLORE</id>
-        <link href="https://diskunion.net/used/ct/indiealt/udetail/AWS190813DEFLORE"/>
-        <updated>2024-06-24T16:03:37.401Z</updated>
-        <content type="html"><![CDATA[
-        <b>DEFLORE AND JAZ COLEMAN - PARTY IN THE CHAOS (12"/COLORED VINYL)</b><br>
-        <br>
-        価格: 2650円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: SUBSOUND<br>
-        フォーマット: 12"(レコード)<br>
-        <br>
-        登録日: 2024-06-24T16:03:37.401Z<br>
-        更新日: 2024-06-24T16:03:37.401Z<br>
-        クロール日: 2024-06-24T16:03:36.976Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/indiealt/udetail/AWS190813DEFLORE">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JULEE CRUISE - THREE DEMOS (12")]]></title>
-        <id>https://diskunion.net/used/ct/indiealt/udetail/DIN180615-001</id>
-        <link href="https://diskunion.net/used/ct/indiealt/udetail/DIN180615-001"/>
-        <updated>2024-06-24T16:03:37.421Z</updated>
-        <content type="html"><![CDATA[
-        <b>JULEE CRUISE - THREE DEMOS (12")</b><br>
-        <br>
-        価格: 2250円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: SACRED BONES<br>
-        フォーマット: 12"(レコード)<br>
-        <br>
-        登録日: 2024-06-24T16:03:37.421Z<br>
-        更新日: 2024-06-24T16:03:37.421Z<br>
-        クロール日: 2024-06-24T16:03:36.977Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/indiealt/udetail/DIN180615-001">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LEMONHEADS レモンヘッズ - LICK [LP]RSD_DROPS_2021_0612]]></title>
-        <id>https://diskunion.net/used/ct/indiealt/udetail/XAT-1245485037</id>
-        <link href="https://diskunion.net/used/ct/indiealt/udetail/XAT-1245485037"/>
-        <updated>2024-06-24T16:03:37.435Z</updated>
-        <content type="html"><![CDATA[
-        <b>LEMONHEADS レモンヘッズ - LICK [LP]RSD_DROPS_2021_0612</b><br>
-        <br>
-        価格: 2250円<br>
-        盤質: S<br>
-        <br>
-        <br>
-        ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: TAANG!<br>
+        ジャンル: PUNK<br>
+        
         フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2024-06-24T16:03:37.435Z<br>
-        更新日: 2024-06-24T16:03:37.435Z<br>
-        クロール日: 2024-06-24T16:03:36.977Z<br>
+        登録日: 2024-06-25T16:04:18.694Z<br>
+        更新日: 2024-06-25T16:04:18.694Z<br>
+        クロール日: 2024-06-25T16:04:18.320Z<br>
         <br>
-        <a href="https://diskunion.net/used/ct/indiealt/udetail/XAT-1245485037">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/punk/udetail/DI170508-058">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JON SPENCER BLUES EXPLOSION ジョン・スペンサー・ブルース・エクスプロージョン - WAIL - 2nd, LTD COL/VINYL]]></title>
-        <id>https://diskunion.net/used/ct/indiealt/udetail/XATW-00048843</id>
-        <link href="https://diskunion.net/used/ct/indiealt/udetail/XATW-00048843"/>
-        <updated>2024-06-24T16:03:37.443Z</updated>
+        <title type="html"><![CDATA[LEATHERFACE / HOT WATER MUSIC - BYO SPLIT SERIES / VOLUME I]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/DI190531-041</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/DI190531-041"/>
+        <updated>2024-06-25T16:04:18.708Z</updated>
         <content type="html"><![CDATA[
-        <b>JON SPENCER BLUES EXPLOSION ジョン・スペンサー・ブルース・エクスプロージョン - WAIL - 2nd, LTD COL/VINYL</b><br>
-        <br>
-        価格: 680円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: MUTE<br>
-        フォーマット: 7"(レコード)<br>
-        <br>
-        登録日: 2024-06-24T16:03:37.443Z<br>
-        更新日: 2024-06-24T16:03:37.443Z<br>
-        クロール日: 2024-06-24T16:03:36.977Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/indiealt/udetail/XATW-00048843">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CHRISTIAN LEE HUTSON - BEGINNERS (BLACK VINYL)]]></title>
-        <id>https://diskunion.net/used/ct/indiealt/udetail/1008151507</id>
-        <link href="https://diskunion.net/used/ct/indiealt/udetail/1008151507"/>
-        <updated>2024-06-24T16:03:47.678Z</updated>
-        <content type="html"><![CDATA[
-        <b>CHRISTIAN LEE HUTSON - BEGINNERS (BLACK VINYL)</b><br>
-        <br>
-        価格: 1900円<br>
-        盤質: A<br>
-        <br>
-        <br>
-        ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: ANTI<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2024-06-24T16:03:47.678Z<br>
-        更新日: 2024-06-24T16:03:47.678Z<br>
-        クロール日: 2024-06-24T16:03:47.632Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/indiealt/udetail/1008151507">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GRACIE ABRAMS グレイシー・エイブラムス - THIS IS WHAT IT FEELS LIKE [VINYL]]]></title>
-        <id>https://diskunion.net/used/ct/indiealt/udetail/1008468700</id>
-        <link href="https://diskunion.net/used/ct/indiealt/udetail/1008468700"/>
-        <updated>2024-06-24T16:03:47.708Z</updated>
-        <content type="html"><![CDATA[
-        <b>GRACIE ABRAMS グレイシー・エイブラムス - THIS IS WHAT IT FEELS LIKE [VINYL]</b><br>
-        <br>
-        価格: 1700円<br>
-        盤質: A<br>
-        <br>
-        <br>
-        ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: INTERSCORPE<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2024-06-24T16:03:47.708Z<br>
-        更新日: 2024-06-24T16:03:47.708Z<br>
-        クロール日: 2024-06-24T16:03:47.632Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/indiealt/udetail/1008468700">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GIA MARGARET ジア・マーガレット - ROMANTIC PIANO (国内盤仕様LP)]]></title>
-        <id>https://diskunion.net/used/ct/indiealt/udetail/1008674162</id>
-        <link href="https://diskunion.net/used/ct/indiealt/udetail/1008674162"/>
-        <updated>2024-06-24T16:03:47.736Z</updated>
-        <content type="html"><![CDATA[
-        <b>GIA MARGARET ジア・マーガレット - ROMANTIC PIANO (国内盤仕様LP)</b><br>
-        <br>
-        価格: 3850円<br>
-        盤質: B+<br>
-        <br>
-        <br>
-        ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: ウルトラ・ヴァイヴ<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2024-06-24T16:03:47.736Z<br>
-        更新日: 2024-06-24T16:03:47.736Z<br>
-        クロール日: 2024-06-24T16:03:47.632Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/indiealt/udetail/1008674162">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LAPSLEY ラプスリー - UNDERSTUDY (12")]]></title>
-        <id>https://diskunion.net/used/ct/indiealt/udetail/AWY141225-LL1</id>
-        <link href="https://diskunion.net/used/ct/indiealt/udetail/AWY141225-LL1"/>
-        <updated>2024-06-24T16:03:47.764Z</updated>
-        <content type="html"><![CDATA[
-        <b>LAPSLEY ラプスリー - UNDERSTUDY (12")</b><br>
-        <br>
-        価格: 580円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: XL RECORDINGS<br>
-        フォーマット: XLT673<br>
-        <br>
-        登録日: 2024-06-24T16:03:47.764Z<br>
-        更新日: 2024-06-24T16:03:47.764Z<br>
-        クロール日: 2024-06-24T16:03:47.633Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/indiealt/udetail/AWY141225-LL1">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SOKO - FEEL FEELINGS]]></title>
-        <id>https://diskunion.net/used/ct/indiealt/udetail/DIN200529-004</id>
-        <link href="https://diskunion.net/used/ct/indiealt/udetail/DIN200529-004"/>
-        <updated>2024-06-24T16:03:47.778Z</updated>
-        <content type="html"><![CDATA[
-        <b>SOKO - FEEL FEELINGS</b><br>
-        <br>
-        価格: 2250円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: BABYCAT<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2024-06-24T16:03:47.778Z<br>
-        更新日: 2024-06-24T16:03:47.778Z<br>
-        クロール日: 2024-06-24T16:03:47.633Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/indiealt/udetail/DIN200529-004">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[125, RUE MONTMARTRE - DISCOGRAPHY (LP)]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/1007898047</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/1007898047"/>
-        <updated>2024-06-24T16:03:51.795Z</updated>
-        <content type="html"><![CDATA[
-        <b>125, RUE MONTMARTRE - DISCOGRAPHY (LP)</b><br>
+        <b>LEATHERFACE / HOT WATER MUSIC - BYO SPLIT SERIES / VOLUME I</b><br>
         <br>
         価格: 2450円<br>
         盤質: B+<br>
         <br>
         <br>
         ジャンル: PUNK<br>
-        レーベル: BELLADONNA<br>
+        
         フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2024-06-24T16:03:51.795Z<br>
-        更新日: 2024-06-24T16:03:51.795Z<br>
-        クロール日: 2024-06-24T16:03:51.791Z<br>
+        登録日: 2024-06-25T16:04:18.708Z<br>
+        更新日: 2024-06-25T16:04:18.708Z<br>
+        クロール日: 2024-06-25T16:04:18.321Z<br>
         <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/1007898047">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/punk/udetail/DI190531-041">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GARRISON ギャリソン - TV OR THE ATOM BOMB (LP)]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/1008186170</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/1008186170"/>
-        <updated>2024-06-24T16:03:51.816Z</updated>
+        <title type="html"><![CDATA[CHAOS U.K - SINGLES]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/DS0507-178</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/DS0507-178"/>
+        <updated>2024-06-25T16:04:18.722Z</updated>
         <content type="html"><![CDATA[
-        <b>GARRISON ギャリソン - TV OR THE ATOM BOMB (LP)</b><br>
-        <br>
-        価格: 1900円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: PUNK<br>
-        レーベル: ARCTIC RODEO<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2024-06-24T16:03:51.816Z<br>
-        更新日: 2024-06-24T16:03:51.816Z<br>
-        クロール日: 2024-06-24T16:03:51.791Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/1008186170">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ASUNOJOKEI 明日の叙景 - A BIRD IN THE FAULT (12")]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/1008736537</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/1008736537"/>
-        <updated>2024-06-24T16:03:51.823Z</updated>
-        <content type="html"><![CDATA[
-        <b>ASUNOJOKEI 明日の叙景 - A BIRD IN THE FAULT (12")</b><br>
-        <br>
-        価格: 3850円<br>
-        盤質: B+<br>
-        <br>
-        <br>
-        ジャンル: PUNK<br>
-        レーベル: DOG KNIGHTS PRODUCTIONS<br>
-        フォーマット: 12"(レコード)<br>
-        <br>
-        登録日: 2024-06-24T16:03:51.823Z<br>
-        更新日: 2024-06-24T16:03:51.823Z<br>
-        クロール日: 2024-06-24T16:03:51.791Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/1008736537">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MILWAUKEES ミルウォーキー - THIS IS A STICKUP]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/PNK0305-019A</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/PNK0305-019A"/>
-        <updated>2024-06-24T16:03:51.837Z</updated>
-        <content type="html"><![CDATA[
-        <b>MILWAUKEES ミルウォーキー - THIS IS A STICKUP</b><br>
-        <br>
-        価格: 1100円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: PUNK<br>
-        レーベル: BOSS TUNEAGE RECORDS<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2024-06-24T16:03:51.837Z<br>
-        更新日: 2024-06-24T16:03:51.837Z<br>
-        クロール日: 2024-06-24T16:03:51.791Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/PNK0305-019A">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ELLIOTT エリオット - SONGS IN A TRANSIT WIND (レコード) 【RECORD STORE DAY 4.20.2013】]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/PNK1304-152</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/PNK1304-152"/>
-        <updated>2024-06-24T16:03:51.851Z</updated>
-        <content type="html"><![CDATA[
-        <b>ELLIOTT エリオット - SONGS IN A TRANSIT WIND (レコード) 【RECORD STORE DAY 4.20.2013】</b><br>
+        <b>CHAOS U.K - SINGLES</b><br>
         <br>
         価格: 1500円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: PUNK<br>
-        レーベル: SIMBA<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2024-06-24T16:03:51.851Z<br>
-        更新日: 2024-06-24T16:03:51.851Z<br>
-        クロール日: 2024-06-24T16:03:51.792Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/PNK1304-152">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LITTLE EXPLORER - S/T & SIDERALI]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/TT-DS7-221117-1008340714</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DS7-221117-1008340714"/>
-        <updated>2024-06-24T16:03:51.857Z</updated>
-        <content type="html"><![CDATA[
-        <b>LITTLE EXPLORER - S/T & SIDERALI</b><br>
-        <br>
-        価格: 3251円<br>
         盤質: B<br>
         <br>
         <br>
@@ -855,344 +625,206 @@
         
         フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2024-06-24T16:03:51.857Z<br>
-        更新日: 2024-06-24T16:03:51.857Z<br>
-        クロール日: 2024-06-24T16:03:51.792Z<br>
+        登録日: 2024-06-25T16:04:18.722Z<br>
+        更新日: 2024-06-25T16:04:18.722Z<br>
+        クロール日: 2024-06-25T16:04:18.321Z<br>
         <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DS7-221117-1008340714">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/punk/udetail/DS0507-178">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NUMBERTWO - I WAS HERE]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/1008325406</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/1008325406"/>
-        <updated>2024-06-24T16:04:39.149Z</updated>
+        <title type="html"><![CDATA[DISCHARGE ディスチャージ - NIGHTMARE CONTINUES]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/DS160523-620</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/DS160523-620"/>
+        <updated>2024-06-25T16:04:18.729Z</updated>
         <content type="html"><![CDATA[
-        <b>NUMBERTWO - I WAS HERE</b><br>
+        <b>DISCHARGE ディスチャージ - NIGHTMARE CONTINUES</b><br>
         <br>
-        価格: 880円<br>
+        価格: 2250円<br>
         盤質: B<br>
         <br>
         <br>
         ジャンル: PUNK<br>
-        レーベル: DEMOS GRIT<br>
-        フォーマット: 7"(レコード)<br>
+        
+        フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2024-06-24T16:04:39.149Z<br>
-        更新日: 2024-06-24T16:04:39.149Z<br>
-        クロール日: 2024-06-24T16:04:38.835Z<br>
+        登録日: 2024-06-25T16:04:18.729Z<br>
+        更新日: 2024-06-25T16:04:18.729Z<br>
+        クロール日: 2024-06-25T16:04:18.321Z<br>
         <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/1008325406">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/punk/udetail/DS160523-620">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LAURA JANE GRACE - HOLE IN MY HEAD (LP)]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/1008769270</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/1008769270"/>
-        <updated>2024-06-24T16:04:39.158Z</updated>
+        <title type="html"><![CDATA[STUPIDS - RETARD PICNIC]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/DS170708-181</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/DS170708-181"/>
+        <updated>2024-06-25T16:04:18.736Z</updated>
         <content type="html"><![CDATA[
-        <b>LAURA JANE GRACE - HOLE IN MY HEAD (LP)</b><br>
+        <b>STUPIDS - RETARD PICNIC</b><br>
         <br>
-        価格: 3251円<br>
-        盤質: S<br>
+        価格: 2850円<br>
+        盤質: B+<br>
         <br>
         <br>
         ジャンル: PUNK<br>
-        レーベル: POLYVINYL<br>
+        
         フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2024-06-24T16:04:39.158Z<br>
-        更新日: 2024-06-24T16:04:39.158Z<br>
-        クロール日: 2024-06-24T16:04:38.835Z<br>
+        登録日: 2024-06-25T16:04:18.736Z<br>
+        更新日: 2024-06-25T16:04:18.736Z<br>
+        クロール日: 2024-06-25T16:04:18.321Z<br>
         <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/1008769270">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/punk/udetail/DS170708-181">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[STRUNG OUT ストラングアウト - XL/TWISTED BY DESIGN T-SHIRTS]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/1008800453</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/1008800453"/>
-        <updated>2024-06-24T16:04:39.165Z</updated>
+        <title type="html"><![CDATA[HOLD STEADY - BOYS AND GIRLS IN AMERICA]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/DS180626-002</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/DS180626-002"/>
+        <updated>2024-06-25T16:04:18.743Z</updated>
         <content type="html"><![CDATA[
-        <b>STRUNG OUT ストラングアウト - XL/TWISTED BY DESIGN T-SHIRTS</b><br>
+        <b>HOLD STEADY - BOYS AND GIRLS IN AMERICA</b><br>
         <br>
-        価格: 4950円<br>
+        価格: 5750円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2024-06-25T16:04:18.743Z<br>
+        更新日: 2024-06-25T16:04:18.743Z<br>
+        クロール日: 2024-06-25T16:04:18.321Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/DS180626-002">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[V.A. (FAT WRECK CHORDS) - PEEPSHOW (DVD)]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/PNK0205-065</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/PNK0205-065"/>
+        <updated>2024-06-25T16:04:18.750Z</updated>
+        <content type="html"><![CDATA[
+        <b>V.A. (FAT WRECK CHORDS) - PEEPSHOW (DVD)</b><br>
+        <br>
+        価格: 380円<br>
         盤質: B<br>
         <br>
         <br>
         ジャンル: PUNK<br>
         レーベル: FAT WRECK CHORDS<br>
-        フォーマット: APPAREL(アパレル)<br>
+        フォーマット: DVD<br>
         <br>
-        登録日: 2024-06-24T16:04:39.165Z<br>
-        更新日: 2024-06-24T16:04:39.165Z<br>
-        クロール日: 2024-06-24T16:04:38.836Z<br>
+        登録日: 2024-06-25T16:04:18.750Z<br>
+        更新日: 2024-06-25T16:04:18.750Z<br>
+        クロール日: 2024-06-25T16:04:18.321Z<br>
         <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/1008800453">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/punk/udetail/PNK0205-065">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SEX PISTOLS セックス・ピストルズ - GREAT ROCK 'N' ROLL SWINDLE]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/DFS200127-307</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/DFS200127-307"/>
-        <updated>2024-06-24T16:04:39.188Z</updated>
+        <title type="html"><![CDATA[SOCIAL DISTORTION ソーシャル・ディストーション - GREATEST HITS (レコード)]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/PNK0707-045</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/PNK0707-045"/>
+        <updated>2024-06-25T16:04:18.771Z</updated>
         <content type="html"><![CDATA[
-        <b>SEX PISTOLS セックス・ピストルズ - GREAT ROCK 'N' ROLL SWINDLE</b><br>
+        <b>SOCIAL DISTORTION ソーシャル・ディストーション - GREATEST HITS (レコード)</b><br>
+        <br>
+        価格: 4050円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        レーベル: TIME BOMB (US)<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2024-06-25T16:04:18.770Z<br>
+        更新日: 2024-06-25T16:04:18.771Z<br>
+        クロール日: 2024-06-25T16:04:18.321Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/PNK0707-045">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PENNYWISE ペニーワイズ - ALL OR NOTHING (LP)]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/PNK1205-131</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/PNK1205-131"/>
+        <updated>2024-06-25T16:04:18.784Z</updated>
+        <content type="html"><![CDATA[
+        <b>PENNYWISE ペニーワイズ - ALL OR NOTHING (LP)</b><br>
+        <br>
+        価格: 2550円<br>
+        盤質: B+<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        レーベル: EPITAPH<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2024-06-25T16:04:18.784Z<br>
+        更新日: 2024-06-25T16:04:18.784Z<br>
+        クロール日: 2024-06-25T16:04:18.322Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/PNK1205-131">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WEHRMACHT - SHARK ATTACK]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/TT-DIB-231006-1006147332</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DIB-231006-1006147332"/>
+        <updated>2024-06-25T16:04:18.791Z</updated>
+        <content type="html"><![CDATA[
+        <b>WEHRMACHT - SHARK ATTACK</b><br>
         <br>
         価格: 2650円<br>
         盤質: B<br>
         <br>
         <br>
         ジャンル: PUNK<br>
-        レーベル: VIRGIN<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2024-06-24T16:04:39.188Z<br>
-        更新日: 2024-06-24T16:04:39.188Z<br>
-        クロール日: 2024-06-24T16:04:38.836Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/DFS200127-307">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRASS - CHRIST-THE ALBUM / WELL FORKED-BUT NOT DEAD]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/DFS210120-080</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/DFS210120-080"/>
-        <updated>2024-06-24T16:04:39.195Z</updated>
-        <content type="html"><![CDATA[
-        <b>CRASS - CHRIST-THE ALBUM / WELL FORKED-BUT NOT DEAD</b><br>
-        <br>
-        価格: 3650円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: PUNK<br>
-        レーベル: CRASS<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2024-06-24T16:04:39.195Z<br>
-        更新日: 2024-06-24T16:04:39.195Z<br>
-        クロール日: 2024-06-24T16:04:38.836Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/DFS210120-080">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SUB ZERO サブゼロ - HAPPINESS WITHOUT PEACE]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/DI0623-44</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/DI0623-44"/>
-        <updated>2024-06-24T16:04:39.202Z</updated>
-        <content type="html"><![CDATA[
-        <b>SUB ZERO サブゼロ - HAPPINESS WITHOUT PEACE</b><br>
-        <br>
-        価格: 2250円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: PUNK<br>
         
         フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2024-06-24T16:04:39.202Z<br>
-        更新日: 2024-06-24T16:04:39.202Z<br>
-        クロール日: 2024-06-24T16:04:38.836Z<br>
+        登録日: 2024-06-25T16:04:18.791Z<br>
+        更新日: 2024-06-25T16:04:18.791Z<br>
+        クロール日: 2024-06-25T16:04:18.322Z<br>
         <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/DI0623-44">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DIB-231006-1006147332">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CHINA DRUM - BARRIER]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/DI180131-141</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/DI180131-141"/>
-        <updated>2024-06-24T16:04:39.216Z</updated>
+        <title type="html"><![CDATA[SWARRRM - T-SHIRT]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/TT-DIB-240422-1008581600</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DIB-240422-1008581600"/>
+        <updated>2024-06-25T16:04:18.798Z</updated>
         <content type="html"><![CDATA[
-        <b>CHINA DRUM - BARRIER</b><br>
+        <b>SWARRRM - T-SHIRT</b><br>
         <br>
-        価格: 880円<br>
+        価格: 1100円<br>
         盤質: B<br>
         <br>
         <br>
         ジャンル: PUNK<br>
         
-        フォーマット: 12"(レコード)<br>
+        フォーマット: APPAREL(アパレル)<br>
         <br>
-        登録日: 2024-06-24T16:04:39.216Z<br>
-        更新日: 2024-06-24T16:04:39.216Z<br>
-        クロール日: 2024-06-24T16:04:38.836Z<br>
+        登録日: 2024-06-25T16:04:18.798Z<br>
+        更新日: 2024-06-25T16:04:18.798Z<br>
+        クロール日: 2024-06-25T16:04:18.322Z<br>
         <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/DI180131-141">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DIB-240422-1008581600">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BLATZ：FILTH - SHIT SPLIT]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/DI180314-970</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/DI180314-970"/>
-        <updated>2024-06-24T16:04:39.223Z</updated>
+        <title type="html"><![CDATA[BAD RELIGION バッド・レリジョン - NO SUBSTANCE]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/TT-DM-240205-1008782692</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DM-240205-1008782692"/>
+        <updated>2024-06-25T16:04:18.805Z</updated>
         <content type="html"><![CDATA[
-        <b>BLATZ：FILTH - SHIT SPLIT</b><br>
+        <b>BAD RELIGION バッド・レリジョン - NO SUBSTANCE</b><br>
         <br>
-        価格: 2250円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: PUNK<br>
-        
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2024-06-24T16:04:39.223Z<br>
-        更新日: 2024-06-24T16:04:39.223Z<br>
-        クロール日: 2024-06-24T16:04:38.836Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/DI180314-970">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[V.A.  オムニバス - パンク・イン・ロンドン]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/DS0924-125</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/DS0924-125"/>
-        <updated>2024-06-24T16:04:39.237Z</updated>
-        <content type="html"><![CDATA[
-        <b>V.A.  オムニバス - パンク・イン・ロンドン</b><br>
-        <br>
-        価格: 1500円<br>
-        盤質: A<br>
-        <br>
-        <br>
-        ジャンル: PUNK<br>
-        レーベル: キングレコード<br>
-        フォーマット: DVD<br>
-        <br>
-        登録日: 2024-06-24T16:04:39.237Z<br>
-        更新日: 2024-06-24T16:04:39.237Z<br>
-        クロール日: 2024-06-24T16:04:38.836Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/DS0924-125">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JACKSHIT ジャックシット - KEAL HILL]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/PNK0706-213</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/PNK0706-213"/>
-        <updated>2024-06-24T16:04:39.250Z</updated>
-        <content type="html"><![CDATA[
-        <b>JACKSHIT ジャックシット - KEAL HILL</b><br>
-        <br>
-        価格: 380円<br>
-        盤質: B+<br>
-        <br>
-        <br>
-        ジャンル: PUNK<br>
-        レーベル: WATERSLIDE RECORDS<br>
-        フォーマット: 7"(レコード)<br>
-        <br>
-        登録日: 2024-06-24T16:04:39.250Z<br>
-        更新日: 2024-06-24T16:04:39.250Z<br>
-        クロール日: 2024-06-24T16:04:38.837Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/PNK0706-213">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VINDICTIVES ヴィンディクティヴズ - LEAVE HOME]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/TT-DN-231101-1002952197</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DN-231101-1002952197"/>
-        <updated>2024-06-24T16:04:39.263Z</updated>
-        <content type="html"><![CDATA[
-        <b>VINDICTIVES ヴィンディクティヴズ - LEAVE HOME</b><br>
-        <br>
-        価格: 1500円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: PUNK<br>
-        
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2024-06-24T16:04:39.263Z<br>
-        更新日: 2024-06-24T16:04:39.263Z<br>
-        クロール日: 2024-06-24T16:04:38.837Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DN-231101-1002952197">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トゥナイト - サーチマイフェイス]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/TT-DN-240309-1000514002</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DN-240309-1000514002"/>
-        <updated>2024-06-24T16:04:39.270Z</updated>
-        <content type="html"><![CDATA[
-        <b>トゥナイト - サーチマイフェイス</b><br>
-        <br>
-        価格: 380円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: PUNK<br>
-        
-        フォーマット: 7"(レコード)<br>
-        <br>
-        登録日: 2024-06-24T16:04:39.270Z<br>
-        更新日: 2024-06-24T16:04:39.270Z<br>
-        クロール日: 2024-06-24T16:04:38.837Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DN-240309-1000514002">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CITIZEN FISH シチズンフィッシュ - DISPOSABLE DREAM]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/TT-DS13-220405-1005210428</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DS13-220405-1005210428"/>
-        <updated>2024-06-24T16:04:39.277Z</updated>
-        <content type="html"><![CDATA[
-        <b>CITIZEN FISH シチズンフィッシュ - DISPOSABLE DREAM</b><br>
-        <br>
-        価格: 480円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: PUNK<br>
-        レーベル: LOOKOUT<br>
-        フォーマット: 7"(レコード)<br>
-        <br>
-        登録日: 2024-06-24T16:04:39.277Z<br>
-        更新日: 2024-06-24T16:04:39.277Z<br>
-        クロール日: 2024-06-24T16:04:38.837Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DS13-220405-1005210428">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QUEERS:SINKHOLE - SPLIT]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/TT-DS7-231117-1000517400</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DS7-231117-1000517400"/>
-        <updated>2024-06-24T16:04:39.284Z</updated>
-        <content type="html"><![CDATA[
-        <b>QUEERS:SINKHOLE - SPLIT</b><br>
-        <br>
-        価格: 780円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: PUNK<br>
-        
-        フォーマット: 7"(レコード)<br>
-        <br>
-        登録日: 2024-06-24T16:04:39.284Z<br>
-        更新日: 2024-06-24T16:04:39.284Z<br>
-        クロール日: 2024-06-24T16:04:38.838Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DS7-231117-1000517400">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HUMPERS - LIVE FOREVER OR DIE TRYING]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/XATW-00042431</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/XATW-00042431"/>
-        <updated>2024-06-24T16:04:39.291Z</updated>
-        <content type="html"><![CDATA[
-        <b>HUMPERS - LIVE FOREVER OR DIE TRYING</b><br>
-        <br>
-        価格: 680円<br>
+        価格: 2350円<br>
         盤質: B<br>
         <br>
         <br>
@@ -1200,57 +832,218 @@
         レーベル: EPITAPH<br>
         フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2024-06-24T16:04:39.290Z<br>
-        更新日: 2024-06-24T16:04:39.291Z<br>
-        クロール日: 2024-06-24T16:04:38.838Z<br>
+        登録日: 2024-06-25T16:04:18.805Z<br>
+        更新日: 2024-06-25T16:04:18.805Z<br>
+        クロール日: 2024-06-25T16:04:18.322Z<br>
         <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/XATW-00042431">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DM-240205-1008782692">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[STROKES ザ・ストロークス - COMEDOWN MACHINE (YELLOW AND RED MARBLED VINYL)]]></title>
-        <id>https://diskunion.net/indiealt/ct/detail/1008683297</id>
-        <link href="https://diskunion.net/indiealt/ct/detail/1008683297"/>
-        <updated>2024-06-24T16:05:14.927Z</updated>
+        <title type="html"><![CDATA[KORTATU コルタトゥ - EL ESTADO DE LAS COS]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/TT-DN-240616-1008872543</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DN-240616-1008872543"/>
+        <updated>2024-06-25T16:04:18.812Z</updated>
         <content type="html"><![CDATA[
-        <b>STROKES ザ・ストロークス - COMEDOWN MACHINE (YELLOW AND RED MARBLED VINYL)</b><br>
+        <b>KORTATU コルタトゥ - EL ESTADO DE LAS COS</b><br>
         <br>
-        価格: 3432円<br>
-        盤質: OUTLET<br>
-        割引率: 20%<br>
+        価格: 2250円<br>
+        盤質: B<br>
         <br>
-        ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: RCA LEGACY<br>
+        <br>
+        ジャンル: PUNK<br>
+        
         フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2024-06-24T16:05:14.927Z<br>
-        更新日: 2024-06-24T16:05:14.927Z<br>
-        クロール日: 2024-06-24T16:05:14.683Z<br>
+        登録日: 2024-06-25T16:04:18.812Z<br>
+        更新日: 2024-06-25T16:04:18.812Z<br>
+        クロール日: 2024-06-25T16:04:18.322Z<br>
         <br>
-        <a href="https://diskunion.net/indiealt/ct/detail/1008683297">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DN-240616-1008872543">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ELECTRONIC エレクトロニック - GET THE MESSAGE: THE BEST OF ELECTRONIC [2LP VINYL]]]></title>
-        <id>https://diskunion.net/indiealt/ct/detail/1008722766</id>
-        <link href="https://diskunion.net/indiealt/ct/detail/1008722766"/>
-        <updated>2024-06-24T16:05:14.985Z</updated>
+        <title type="html"><![CDATA[DOG EAT DOG ドッグ・イート・ドッグ - STEP RIGHT IN]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/TT-DS16-240406-1000017553</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DS16-240406-1000017553"/>
+        <updated>2024-06-25T16:04:18.819Z</updated>
         <content type="html"><![CDATA[
-        <b>ELECTRONIC エレクトロニック - GET THE MESSAGE: THE BEST OF ELECTRONIC [2LP VINYL]</b><br>
+        <b>DOG EAT DOG ドッグ・イート・ドッグ - STEP RIGHT IN</b><br>
         <br>
-        価格: 5104円<br>
-        盤質: OUTLET<br>
-        割引率: 20%<br>
+        価格: 400円<br>
+        盤質: B<br>
         <br>
-        ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: WM UK<br>
+        <br>
+        ジャンル: PUNK<br>
+        レーベル: ROADRUNNER<br>
+        フォーマット: 12"(レコード)<br>
+        <br>
+        登録日: 2024-06-25T16:04:18.819Z<br>
+        更新日: 2024-06-25T16:04:18.819Z<br>
+        クロール日: 2024-06-25T16:04:18.322Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DS16-240406-1000017553">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SUPERSUCKERS スーパーサッカーズ - GRAVITY BILL]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/TT-DS7-230602-1005325956</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DS7-230602-1005325956"/>
+        <updated>2024-06-25T16:04:18.825Z</updated>
+        <content type="html"><![CDATA[
+        <b>SUPERSUCKERS スーパーサッカーズ - GRAVITY BILL</b><br>
+        <br>
+        価格: 580円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        
+        フォーマット: 7"(レコード)<br>
+        <br>
+        登録日: 2024-06-25T16:04:18.825Z<br>
+        更新日: 2024-06-25T16:04:18.825Z<br>
+        クロール日: 2024-06-25T16:04:18.322Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DS7-230602-1005325956">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MAANALAINEN PELASTUS - KAASUA]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/TT-DS7-240504-1005204840</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DS7-240504-1005204840"/>
+        <updated>2024-06-25T16:04:18.846Z</updated>
+        <content type="html"><![CDATA[
+        <b>MAANALAINEN PELASTUS - KAASUA</b><br>
+        <br>
+        価格: 680円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        
+        フォーマット: 7"(レコード)<br>
+        <br>
+        登録日: 2024-06-25T16:04:18.846Z<br>
+        更新日: 2024-06-25T16:04:18.846Z<br>
+        クロール日: 2024-06-25T16:04:18.323Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DS7-240504-1005204840">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[STRUNG OUT ストラングアウト - SUBURBAN TEENAGE WASTELAND BLU]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/XAT-1245496504</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/XAT-1245496504"/>
+        <updated>2024-06-25T16:04:18.855Z</updated>
+        <content type="html"><![CDATA[
+        <b>STRUNG OUT ストラングアウト - SUBURBAN TEENAGE WASTELAND BLU</b><br>
+        <br>
+        価格: 2300円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        レーベル: FAT WRECK CHORDS<br>
+        フォーマット: XAT-1245496504<br>
+        <br>
+        登録日: 2024-06-25T16:04:18.855Z<br>
+        更新日: 2024-06-25T16:04:18.855Z<br>
+        クロール日: 2024-06-25T16:04:18.323Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/XAT-1245496504">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DOG EAT DOG ドッグ・イート・ドッグ - AMPED]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/XATW-00026204</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/XATW-00026204"/>
+        <updated>2024-06-25T16:04:18.875Z</updated>
+        <content type="html"><![CDATA[
+        <b>DOG EAT DOG ドッグ・イート・ドッグ - AMPED</b><br>
+        <br>
+        価格: 700円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        レーベル: ROADRUNNER<br>
         フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2024-06-24T16:05:14.985Z<br>
-        更新日: 2024-06-24T16:05:14.985Z<br>
-        クロール日: 2024-06-24T16:05:14.683Z<br>
+        登録日: 2024-06-25T16:04:18.875Z<br>
+        更新日: 2024-06-25T16:04:18.875Z<br>
+        クロール日: 2024-06-25T16:04:18.323Z<br>
         <br>
-        <a href="https://diskunion.net/indiealt/ct/detail/1008722766">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/punk/udetail/XATW-00026204">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PENNYWISE ペニーワイズ - UNKNOWN ROAD (LP)]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/XATW-00072232</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/XATW-00072232"/>
+        <updated>2024-06-25T16:04:18.882Z</updated>
+        <content type="html"><![CDATA[
+        <b>PENNYWISE ペニーワイズ - UNKNOWN ROAD (LP)</b><br>
+        <br>
+        価格: 2550円<br>
+        盤質: B+<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        レーベル: EPITAPH<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2024-06-25T16:04:18.882Z<br>
+        更新日: 2024-06-25T16:04:18.882Z<br>
+        クロール日: 2024-06-25T16:04:18.323Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/XATW-00072232">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SNUFF スナッフ - DO DO DO E.P. - LIMITED]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/XATW-00085779</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/XATW-00085779"/>
+        <updated>2024-06-25T16:04:18.896Z</updated>
+        <content type="html"><![CDATA[
+        <b>SNUFF スナッフ - DO DO DO E.P. - LIMITED</b><br>
+        <br>
+        価格: 580円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        レーベル: DECEPTIVE<br>
+        フォーマット: 7"(レコード)<br>
+        <br>
+        登録日: 2024-06-25T16:04:18.896Z<br>
+        更新日: 2024-06-25T16:04:18.896Z<br>
+        クロール日: 2024-06-25T16:04:18.323Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/XATW-00085779">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SWINDLE スウィンドル - IN THE CITY - IMPORT]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/XATW-00090462</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/XATW-00090462"/>
+        <updated>2024-06-25T16:04:18.902Z</updated>
+        <content type="html"><![CDATA[
+        <b>SWINDLE スウィンドル - IN THE CITY - IMPORT</b><br>
+        <br>
+        価格: 880円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        レーベル: GRILLED CHEESE<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2024-06-25T16:04:18.902Z<br>
+        更新日: 2024-06-25T16:04:18.902Z<br>
+        クロール日: 2024-06-25T16:04:18.323Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/XATW-00090462">商品ページ</a>
         ]]></content>
     </entry>
 </feed>
