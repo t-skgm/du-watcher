@@ -2,27 +2,28 @@ import { Feed } from 'feed'
 import type { Item } from '@/sdk/db/model/Item'
 import { Result } from 'neverthrow'
 
-export const buildFeedFromItemsAction = Result.fromThrowable(({ items }: { items: Item[] }) => {
-  const feed = new Feed({
-    title: 'DU Watcher',
-    description: 'DU Watcher feed',
-    id: 'https://github.com/t-skgm/du-watcher',
-    link: 'https://github.com/t-skgm/du-watcher',
-    copyright: 't-skgm',
-    generator: 'du-watcher',
-    author: {
-      name: 't-skgm'
-    },
-    feed: 'https://t-skgm.github.io/du-watcher/feed.xml'
-  })
+export const buildFeedFromItemsAction = Result.fromThrowable(
+  ({ items, feedItem }: { items: Item[]; feedItem: { feedId: string; name: string; description: string } }) => {
+    const feed = new Feed({
+      title: `DU Watcher: ${feedItem.name}`,
+      description: `DU Watcher feed: ${feedItem.description}`,
+      id: `https://github.com/t-skgm/du-watcher/${feedItem.feedId}`,
+      link: 'https://github.com/t-skgm/du-watcher',
+      copyright: 't-skgm',
+      generator: 'du-watcher',
+      author: {
+        name: 't-skgm'
+      },
+      feed: `https://t-skgm.github.io/du-watcher/feed_${feedItem.feedId}.xml`
+    })
 
-  items.forEach(item => {
-    feed.addItem({
-      id: item.itemPageUrl,
-      title: `${item.artist} - ${item.productTitle}`,
-      date: new Date(item.updatedAt),
-      link: item.itemPageUrl,
-      content: `
+    items.forEach(item => {
+      feed.addItem({
+        id: item.itemPageUrl,
+        title: `${item.artist} - ${item.productTitle}`,
+        date: new Date(item.updatedAt),
+        link: item.itemPageUrl,
+        content: `
         <b>${item.artist} - ${item.productTitle}</b><br>
         <br>
         価格: ${item.cheapestItemPrice}円<br>
@@ -39,8 +40,9 @@ export const buildFeedFromItemsAction = Result.fromThrowable(({ items }: { items
         <br>
         <a href="${item.itemPageUrl}">商品ページ</a>
         `
+      })
     })
-  })
 
-  return feed
-})
+    return feed
+  }
+)

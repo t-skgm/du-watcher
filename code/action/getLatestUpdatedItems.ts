@@ -4,10 +4,11 @@ import { SQLiteError } from 'bun:sqlite'
 
 export const getLatestUpdatedItemsAction = ({
   db,
-  params: { dateAfter, limit = 100 }
+  params: { dateAfter, feedId, limit = 100 }
 }: {
   db: DB
   params: {
+    feedId: string
     dateAfter: Date
     limit?: number
   }
@@ -17,6 +18,7 @@ export const getLatestUpdatedItemsAction = ({
       .selectFrom('items')
       .selectAll()
       .where('updatedAt', '>=', dateAfter.toISOString())
+      .where('pageId', 'in', db.selectFrom('pages').select('id').where('feedId', '=', feedId))
       .orderBy('updatedAt', 'desc')
       .limit(limit)
       .execute(),

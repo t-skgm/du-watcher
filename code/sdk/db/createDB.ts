@@ -4,10 +4,12 @@ import { BunSqliteDialect } from 'kysely-bun-sqlite'
 import type { ItemTable } from './model/Item.ts'
 import type { PageTable } from './model/Page.ts'
 import type { ActionLogTable } from './model/ActionLog.ts'
+import type { FeedTable } from './model/Feed.ts'
 
 export type KyselyDatabase = {
   items: ItemTable
   pages: PageTable
+  feeds: FeedTable
   action_logs: ActionLogTable
 }
 
