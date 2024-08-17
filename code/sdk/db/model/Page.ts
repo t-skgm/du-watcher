@@ -9,6 +9,8 @@ export type PageTable = {
   status: PageStatus
   limitPageNum: number
   lastCrawledAt: ColumnType<string, string, string>
+
+  feedId: string
 }
 
 export type Page = Selectable<PageTable>
