@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2024-08-23T16:06:08.799Z</updated>
+    <updated>2024-08-24T16:05:38.106Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,27 +11,4 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_outlet-analog-1.xml"/>
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
-    <entry>
-        <title type="html"><![CDATA[JUNGLE'S ジャングルズ - Hey! Child c/w 21st Centuy Arabian Night]]></title>
-        <id>https://diskunion.net/punk/ct/detail/XAT-1245756899</id>
-        <link href="https://diskunion.net/punk/ct/detail/XAT-1245756899"/>
-        <updated>2024-08-23T16:06:07.965Z</updated>
-        <content type="html"><![CDATA[
-        <b>JUNGLE'S ジャングルズ - Hey! Child c/w 21st Centuy Arabian Night</b><br>
-        <br>
-        価格: 1980円<br>
-        盤質: OUTLET<br>
-        割引率: 10%<br>
-        <br>
-        ジャンル: 日本のロック<br>
-        レーベル: Pヴァイン<br>
-        フォーマット: 7"(レコード)<br>
-        <br>
-        登録日: 2024-08-23T16:06:07.965Z<br>
-        更新日: 2024-08-23T16:06:07.965Z<br>
-        クロール日: 2024-08-23T16:06:06.175Z<br>
-        <br>
-        <a href="https://diskunion.net/punk/ct/detail/XAT-1245756899">商品ページ</a>
-        ]]></content>
-    </entry>
 </feed>
