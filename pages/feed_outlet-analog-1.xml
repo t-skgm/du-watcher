@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2024-08-30T16:05:47.099Z</updated>
+    <updated>2024-08-31T16:05:42.850Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,27 +11,4 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_outlet-analog-1.xml"/>
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
-    <entry>
-        <title type="html"><![CDATA[PIGEON ピジョン - BACKSLIDER]]></title>
-        <id>https://diskunion.net/indiealt/ct/detail/1008678950</id>
-        <link href="https://diskunion.net/indiealt/ct/detail/1008678950"/>
-        <updated>2024-08-30T16:05:13.330Z</updated>
-        <content type="html"><![CDATA[
-        <b>PIGEON ピジョン - BACKSLIDER</b><br>
-        <br>
-        価格: 2475円<br>
-        盤質: WEB特別価格<br>
-        割引率: 10%<br>
-        <br>
-        ジャンル: LATIN / BRAZIL<br>
-        レーベル: SOUNDWAY<br>
-        フォーマット: 12"(レコード)<br>
-        <br>
-        登録日: 2024-08-30T16:05:13.330Z<br>
-        更新日: 2024-08-30T16:05:13.330Z<br>
-        クロール日: 2024-08-30T16:05:10.289Z<br>
-        <br>
-        <a href="https://diskunion.net/indiealt/ct/detail/1008678950">商品ページ</a>
-        ]]></content>
-    </entry>
 </feed>
