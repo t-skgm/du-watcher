@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2024-10-09T16:05:37.824Z</updated>
+    <updated>2024-10-10T16:05:43.961Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,50 +11,4 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_outlet-analog-1.xml"/>
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
-    <entry>
-        <title type="html"><![CDATA[PACHYMAN - IN DUB]]></title>
-        <id>https://diskunion.net/indiealt/ct/detail/1008836031</id>
-        <link href="https://diskunion.net/indiealt/ct/detail/1008836031"/>
-        <updated>2024-10-09T16:05:17.019Z</updated>
-        <content type="html"><![CDATA[
-        <b>PACHYMAN - IN DUB</b><br>
-        <br>
-        価格: 3080円<br>
-        盤質: OUTLET<br>
-        割引率: 30%<br>
-        <br>
-        ジャンル: REGGAE<br>
-        レーベル: ATO RECORDS<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2024-10-09T16:05:17.019Z<br>
-        更新日: 2024-10-09T16:05:17.019Z<br>
-        クロール日: 2024-10-09T16:05:16.722Z<br>
-        <br>
-        <a href="https://diskunion.net/indiealt/ct/detail/1008836031">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PACHYMAN - AT 333 HOUSE]]></title>
-        <id>https://diskunion.net/indiealt/ct/detail/1008836035</id>
-        <link href="https://diskunion.net/indiealt/ct/detail/1008836035"/>
-        <updated>2024-10-09T16:05:17.026Z</updated>
-        <content type="html"><![CDATA[
-        <b>PACHYMAN - AT 333 HOUSE</b><br>
-        <br>
-        価格: 3080円<br>
-        盤質: OUTLET<br>
-        割引率: 30%<br>
-        <br>
-        ジャンル: REGGAE<br>
-        レーベル: ATO RECORDS<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2024-10-09T16:05:17.026Z<br>
-        更新日: 2024-10-09T16:05:17.026Z<br>
-        クロール日: 2024-10-09T16:05:16.722Z<br>
-        <br>
-        <a href="https://diskunion.net/indiealt/ct/detail/1008836035">商品ページ</a>
-        ]]></content>
-    </entry>
 </feed>
