@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2024-10-24T16:06:44.108Z</updated>
+    <updated>2024-10-25T16:06:20.990Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -12,26 +12,26 @@
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
     <entry>
-        <title type="html"><![CDATA[ANOUK - WHO'S YOUR MOMMA]]></title>
-        <id>https://diskunion.net/indiealt/ct/detail/1008533444</id>
-        <link href="https://diskunion.net/indiealt/ct/detail/1008533444"/>
-        <updated>2024-10-24T16:06:24.721Z</updated>
+        <title type="html"><![CDATA[DAYNIM - IN YOUR BAD DAY (7")]]></title>
+        <id>https://diskunion.net/indiealt/ct/detail/1008796752</id>
+        <link href="https://diskunion.net/indiealt/ct/detail/1008796752"/>
+        <updated>2024-10-25T16:05:58.271Z</updated>
         <content type="html"><![CDATA[
-        <b>ANOUK - WHO'S YOUR MOMMA</b><br>
+        <b>DAYNIM - IN YOUR BAD DAY (7")</b><br>
         <br>
-        価格: 1000円<br>
+        価格: 990円<br>
         盤質: OUTLET<br>
-        割引率: 0%<br>
+        割引率: 50%<br>
         <br>
         ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: MUSIC ON VINYL<br>
-        フォーマット: LP(レコード)<br>
+        レーベル: TYP!CAL<br>
+        フォーマット: 7"(レコード)<br>
         <br>
-        登録日: 2024-10-24T16:06:24.721Z<br>
-        更新日: 2024-10-24T16:06:24.721Z<br>
-        クロール日: 2024-10-24T16:06:24.450Z<br>
+        登録日: 2024-10-25T16:05:58.271Z<br>
+        更新日: 2024-10-25T16:05:58.271Z<br>
+        クロール日: 2024-10-25T16:05:58.011Z<br>
         <br>
-        <a href="https://diskunion.net/indiealt/ct/detail/1008533444">商品ページ</a>
+        <a href="https://diskunion.net/indiealt/ct/detail/1008796752">商品ページ</a>
         ]]></content>
     </entry>
 </feed>
