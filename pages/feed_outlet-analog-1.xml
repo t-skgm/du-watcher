@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2024-10-25T16:06:20.990Z</updated>
+    <updated>2024-10-26T16:06:33.977Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,27 +11,4 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_outlet-analog-1.xml"/>
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
-    <entry>
-        <title type="html"><![CDATA[DAYNIM - IN YOUR BAD DAY (7")]]></title>
-        <id>https://diskunion.net/indiealt/ct/detail/1008796752</id>
-        <link href="https://diskunion.net/indiealt/ct/detail/1008796752"/>
-        <updated>2024-10-25T16:05:58.271Z</updated>
-        <content type="html"><![CDATA[
-        <b>DAYNIM - IN YOUR BAD DAY (7")</b><br>
-        <br>
-        価格: 990円<br>
-        盤質: OUTLET<br>
-        割引率: 50%<br>
-        <br>
-        ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: TYP!CAL<br>
-        フォーマット: 7"(レコード)<br>
-        <br>
-        登録日: 2024-10-25T16:05:58.271Z<br>
-        更新日: 2024-10-25T16:05:58.271Z<br>
-        クロール日: 2024-10-25T16:05:58.011Z<br>
-        <br>
-        <a href="https://diskunion.net/indiealt/ct/detail/1008796752">商品ページ</a>
-        ]]></content>
-    </entry>
 </feed>
