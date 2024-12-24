@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2024-12-23T16:14:30.472Z</updated>
+    <updated>2024-12-24T16:35:11.361Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,4 +11,27 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_outlet-analog-1.xml"/>
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
+    <entry>
+        <title type="html"><![CDATA[STAZIONE SUICIDA スタツィオーネ・スイサイダ - STAZIONE SUICIDA (LP)]]></title>
+        <id>https://diskunion.net/punk/ct/detail/TT-DM-240507-1000519473</id>
+        <link href="https://diskunion.net/punk/ct/detail/TT-DM-240507-1000519473"/>
+        <updated>2024-12-24T16:08:05.977Z</updated>
+        <content type="html"><![CDATA[
+        <b>STAZIONE SUICIDA スタツィオーネ・スイサイダ - STAZIONE SUICIDA (LP)</b><br>
+        <br>
+        価格: 2673円<br>
+        盤質: WEB特別価格<br>
+        割引率: 10%<br>
+        <br>
+        ジャンル: PUNK<br>
+        レーベル: FLOWERS OF GRAIN<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2024-12-24T16:08:05.977Z<br>
+        更新日: 2024-12-24T16:08:05.977Z<br>
+        クロール日: 2024-12-24T16:08:05.875Z<br>
+        <br>
+        <a href="https://diskunion.net/punk/ct/detail/TT-DM-240507-1000519473">商品ページ</a>
+        ]]></content>
+    </entry>
 </feed>
