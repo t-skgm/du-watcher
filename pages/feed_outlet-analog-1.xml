@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2025-01-15T16:13:52.302Z</updated>
+    <updated>2025-01-16T16:15:30.049Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,4 +11,50 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_outlet-analog-1.xml"/>
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
+    <entry>
+        <title type="html"><![CDATA[PIXIES ピクシーズ - THE NIGHT THE ZOMBIES CAME (LIMITED, INDIE-RETAIL EXCLUSIVE COLORED VINYL)]]></title>
+        <id>https://diskunion.net/indiealt/ct/detail/1008924726</id>
+        <link href="https://diskunion.net/indiealt/ct/detail/1008924726"/>
+        <updated>2025-01-16T16:06:36.909Z</updated>
+        <content type="html"><![CDATA[
+        <b>PIXIES ピクシーズ - THE NIGHT THE ZOMBIES CAME (LIMITED, INDIE-RETAIL EXCLUSIVE COLORED VINYL)</b><br>
+        <br>
+        価格: 4851円<br>
+        盤質: OUTLET<br>
+        割引率: 30%<br>
+        <br>
+        ジャンル: ROCK / POPS / INDIE<br>
+        レーベル: BMG<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2025-01-16T16:06:36.909Z<br>
+        更新日: 2025-01-16T16:06:36.909Z<br>
+        クロール日: 2025-01-16T16:06:36.678Z<br>
+        <br>
+        <a href="https://diskunion.net/indiealt/ct/detail/1008924726">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KITTY LIV キティ・リヴ - EASY TIGER / イージー・タイガー (COLOUR VINYL)]]></title>
+        <id>https://diskunion.net/punk/ct/detail/1008849946</id>
+        <link href="https://diskunion.net/punk/ct/detail/1008849946"/>
+        <updated>2025-01-16T16:06:36.924Z</updated>
+        <content type="html"><![CDATA[
+        <b>KITTY LIV キティ・リヴ - EASY TIGER / イージー・タイガー (COLOUR VINYL)</b><br>
+        <br>
+        価格: 4620円<br>
+        盤質: OUTLET<br>
+        割引率: 30%<br>
+        <br>
+        ジャンル: ROCK / POPS / INDIE<br>
+        レーベル: Pヴァイン<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2025-01-16T16:06:36.924Z<br>
+        更新日: 2025-01-16T16:06:36.924Z<br>
+        クロール日: 2025-01-16T16:06:46.961Z<br>
+        <br>
+        <a href="https://diskunion.net/punk/ct/detail/1008849946">商品ページ</a>
+        ]]></content>
+    </entry>
 </feed>
