@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2025-01-17T16:27:53.188Z</updated>
+    <updated>2025-01-18T16:13:56.358Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,27 +11,4 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_outlet-analog-1.xml"/>
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
-    <entry>
-        <title type="html"><![CDATA[TRASHCAN SINATRAS - CAKE (VINYL)]]></title>
-        <id>https://diskunion.net/indiealt/ct/detail/1008746319</id>
-        <link href="https://diskunion.net/indiealt/ct/detail/1008746319"/>
-        <updated>2025-01-17T16:07:21.793Z</updated>
-        <content type="html"><![CDATA[
-        <b>TRASHCAN SINATRAS - CAKE (VINYL)</b><br>
-        <br>
-        価格: 3850円<br>
-        盤質: OUTLET<br>
-        割引率: 30%<br>
-        <br>
-        ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: PAST NIGHT FROM GLASGOW<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2025-01-17T16:07:21.793Z<br>
-        更新日: 2025-01-17T16:07:21.793Z<br>
-        クロール日: 2025-01-17T16:07:21.562Z<br>
-        <br>
-        <a href="https://diskunion.net/indiealt/ct/detail/1008746319">商品ページ</a>
-        ]]></content>
-    </entry>
 </feed>
