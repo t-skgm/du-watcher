@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2025-01-29T16:13:56.902Z</updated>
+    <updated>2025-01-30T16:14:17.267Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,4 +11,27 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_outlet-analog-1.xml"/>
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
+    <entry>
+        <title type="html"><![CDATA[JAPANESE BREAKFAST ジャパニーズ・ブレックファスト - JUBILEE (LP)]]></title>
+        <id>https://diskunion.net/indiealt/ct/detail/1008328633</id>
+        <link href="https://diskunion.net/indiealt/ct/detail/1008328633"/>
+        <updated>2025-01-30T16:06:30.077Z</updated>
+        <content type="html"><![CDATA[
+        <b>JAPANESE BREAKFAST ジャパニーズ・ブレックファスト - JUBILEE (LP)</b><br>
+        <br>
+        価格: 2585円<br>
+        盤質: OUTLET<br>
+        割引率: 50%<br>
+        <br>
+        ジャンル: ROCK / POPS / INDIE<br>
+        レーベル: DEAD OCEANS<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2025-01-30T16:06:30.077Z<br>
+        更新日: 2025-01-30T16:06:30.077Z<br>
+        クロール日: 2025-01-30T16:06:29.722Z<br>
+        <br>
+        <a href="https://diskunion.net/indiealt/ct/detail/1008328633">商品ページ</a>
+        ]]></content>
+    </entry>
 </feed>
