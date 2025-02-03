@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2025-02-02T16:14:33.494Z</updated>
+    <updated>2025-02-03T16:14:59.602Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,4 +11,50 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_outlet-analog-1.xml"/>
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
+    <entry>
+        <title type="html"><![CDATA[MALL GRAB モール・グラブ - WHAT I BREATHE]]></title>
+        <id>https://diskunion.net/punk/ct/detail/1008489518</id>
+        <link href="https://diskunion.net/punk/ct/detail/1008489518"/>
+        <updated>2025-02-03T16:06:08.381Z</updated>
+        <content type="html"><![CDATA[
+        <b>MALL GRAB モール・グラブ - WHAT I BREATHE</b><br>
+        <br>
+        価格: 2200円<br>
+        盤質: OUTLET<br>
+        割引率: 50%<br>
+        <br>
+        ジャンル: CLUB/DANCE<br>
+        レーベル: LOOKING FOR TROUBLE<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2025-02-03T16:06:08.381Z<br>
+        更新日: 2025-02-03T16:06:08.381Z<br>
+        クロール日: 2025-02-03T16:06:56.306Z<br>
+        <br>
+        <a href="https://diskunion.net/punk/ct/detail/1008489518">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NOTHING ナッシング - GUILTY OF EVERYTHING (10 YEAR ANNIVERSARY EDITION)]]></title>
+        <id>https://diskunion.net/indiealt/ct/detail/1008766393</id>
+        <link href="https://diskunion.net/indiealt/ct/detail/1008766393"/>
+        <updated>2025-02-03T16:06:08.448Z</updated>
+        <content type="html"><![CDATA[
+        <b>NOTHING ナッシング - GUILTY OF EVERYTHING (10 YEAR ANNIVERSARY EDITION)</b><br>
+        <br>
+        価格: 2002円<br>
+        盤質: OUTLET<br>
+        割引率: 30%<br>
+        <br>
+        ジャンル: ROCK / POPS / INDIE<br>
+        レーベル: RELAPSE RECORDS<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2025-02-03T16:06:08.448Z<br>
+        更新日: 2025-02-03T16:06:08.448Z<br>
+        クロール日: 2025-02-03T16:06:08.077Z<br>
+        <br>
+        <a href="https://diskunion.net/indiealt/ct/detail/1008766393">商品ページ</a>
+        ]]></content>
+    </entry>
 </feed>
