@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2025-02-14T16:14:34.336Z</updated>
+    <updated>2025-02-15T16:14:04.614Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,27 +11,4 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_outlet-analog-1.xml"/>
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
-    <entry>
-        <title type="html"><![CDATA[BONNY LIGHT HORSEMAN - ROLLING GOLDEN HOLY (LP)]]></title>
-        <id>https://diskunion.net/indiealt/ct/detail/1008509492</id>
-        <link href="https://diskunion.net/indiealt/ct/detail/1008509492"/>
-        <updated>2025-02-14T16:07:54.635Z</updated>
-        <content type="html"><![CDATA[
-        <b>BONNY LIGHT HORSEMAN - ROLLING GOLDEN HOLY (LP)</b><br>
-        <br>
-        価格: 2728円<br>
-        盤質: OUTLET<br>
-        割引率: 20%<br>
-        <br>
-        ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: 37d03d<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2025-02-14T16:07:54.635Z<br>
-        更新日: 2025-02-14T16:07:54.635Z<br>
-        クロール日: 2025-02-14T16:07:54.376Z<br>
-        <br>
-        <a href="https://diskunion.net/indiealt/ct/detail/1008509492">商品ページ</a>
-        ]]></content>
-    </entry>
 </feed>
