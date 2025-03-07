@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2025-03-06T16:14:46.741Z</updated>
+    <updated>2025-03-07T16:16:00.938Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,4 +11,27 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_outlet-analog-1.xml"/>
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
+    <entry>
+        <title type="html"><![CDATA[DJ HASEBE aka OLD NICK DJハセベ aka オールドニック - Salt feat. 磯野くん (YONA YONA WEEKENDERS)(7INCH)]]></title>
+        <id>https://diskunion.net/punk/ct/detail/1008874386</id>
+        <link href="https://diskunion.net/punk/ct/detail/1008874386"/>
+        <updated>2025-03-07T16:05:52.185Z</updated>
+        <content type="html"><![CDATA[
+        <b>DJ HASEBE aka OLD NICK DJハセベ aka オールドニック - Salt feat. 磯野くん (YONA YONA WEEKENDERS)(7INCH)</b><br>
+        <br>
+        価格: 1980円<br>
+        盤質: OUTLET<br>
+        割引率: 10%<br>
+        <br>
+        ジャンル: HIPHOP/R&B<br>
+        レーベル: インセンスミュージックワークス<br>
+        フォーマット: 7"(レコード)<br>
+        <br>
+        登録日: 2025-03-07T16:05:52.185Z<br>
+        更新日: 2025-03-07T16:05:52.185Z<br>
+        クロール日: 2025-03-07T16:05:51.935Z<br>
+        <br>
+        <a href="https://diskunion.net/punk/ct/detail/1008874386">商品ページ</a>
+        ]]></content>
+    </entry>
 </feed>
