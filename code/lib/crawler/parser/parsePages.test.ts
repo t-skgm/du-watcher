@@ -53,6 +53,25 @@ describe('parsePages()', () => {
     const snapshotHtml = readFileSync(resolve(__dirname, './samples/list-all-discount.snapshot.html'), {
       encoding: 'utf-8'
     })
+
+    test('件数', async () => {
+      const result = parsePages([snapshotHtml], 'https://base-url.exmaple')
+
+      expect(result).toHaveLength(50)
+    })
+
+    test('最初の3件', async () => {
+      const result = parsePages([snapshotHtml], 'https://base-url.exmaple')
+      expect(result[0]).toMatchSnapshot()
+      expect(result[1]).toMatchSnapshot()
+      expect(result[2]).toMatchSnapshot()
+    })
+  })
+
+  describe('jrock', () => {
+    const snapshotHtml = readFileSync(resolve(__dirname, './samples/list-jrock.snapshot.html'), {
+      encoding: 'utf-8'
+    })
     test('件数', async () => {
       const result = parsePages([snapshotHtml], 'https://base-url.exmaple')
 

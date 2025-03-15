@@ -102,6 +102,58 @@ exports[`parsePages() genre: discounted 最初の3件 3`] = `
 }
 `;
 
+
+exports[`parsePages() jrock 最初の3件 1`] = `
+{
+  "artist": "BLANKEY JET CITY ブランキー・ジェット・シティ",
+  "cheapestItemPrice": "5,300円(税込)",
+  "cheapestItemStatus": "A",
+  "crawledAt": 2112-07-02T15:00:00.000Z,
+  "discountRatePercentage": undefined,
+  "genre": "日本のロック",
+  "isDiscountedPrice": false,
+  "itemId": "1008930066",
+  "itemPageUrl": "https://base-url.exmaple/jp/ct/detail/1008930066",
+  "labelName": "ユニバーサルミュージック",
+  "media": "LP(レコード)",
+  "productTitle": "THE SIX",
+}
+`;
+
+exports[`parsePages() jrock 最初の3件 2`] = `
+{
+  "artist": "TAKESHI INOMATA 猪俣猛",
+  "cheapestItemPrice": "2,650円(税込)",
+  "cheapestItemStatus": "A",
+  "crawledAt": 2112-07-02T15:00:00.000Z,
+  "discountRatePercentage": "30",
+  "genre": "JAZZ",
+  "isDiscountedPrice": true,
+  "itemId": "1008861334",
+  "itemPageUrl": "https://base-url.exmaple/jp/ct/detail/1008861334",
+  "labelName": "ユニバーサルミュージック",
+  "media": "LP(レコード)",
+  "productTitle": "New Rock In Europe(LP)",
+}
+`;
+
+exports[`parsePages() jrock 最初の3件 3`] = `
+{
+  "artist": "帯化",
+  "cheapestItemPrice": "2,000円(税込)",
+  "cheapestItemStatus": "OUTLET",
+  "crawledAt": 2112-07-02T15:00:00.000Z,
+  "discountRatePercentage": undefined,
+  "genre": "日本のロック",
+  "isDiscountedPrice": true,
+  "itemId": "1008900421",
+  "itemPageUrl": "https://base-url.exmaple/jp/ct/detail/1008900421",
+  "labelName": "造園計画",
+  "media": "LP(レコード)",
+  "productTitle": "御池塘自治 (LP)",
+}
+`;
+
 exports[`parsePages() all: discounted 最初の3件 1`] = `
 {
   "artist": "DUNGEN ドゥンエン",

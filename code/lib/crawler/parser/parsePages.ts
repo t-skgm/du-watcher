@@ -1,9 +1,10 @@
+import { parsePriceStr } from '@/utils/formatPrice'
 import { HTMLElement, parse } from 'node-html-parser'
 
 export const parsePages = (htmls: string[], baseUrl: string): UsedItem[] => {
   const results: UsedItem[] = []
 
-  htmls.forEach(html => {
+  for (const html of htmls) {
     const doc = parse(html)
     const subGenreList = doc.querySelectorAll('.subGenreResult > .subGenreResult__li')
 
@@ -13,7 +14,7 @@ export const parsePages = (htmls: string[], baseUrl: string): UsedItem[] => {
       const searchList = doc.querySelectorAll('.subGenreResult > .searchAll__li')
       results.push(...parseSearchResults(searchList, baseUrl))
     }
-  })
+  }
 
   return results
 }
@@ -21,7 +22,7 @@ export const parsePages = (htmls: string[], baseUrl: string): UsedItem[] => {
 const parseSubGenreResults = (resultList: HTMLElement[], baseUrl: string) => {
   const results: UsedItem[] = []
 
-  resultList.forEach(item => {
+  for (const item of resultList) {
     const artist = item.querySelector('h3.subGenreResult__artist a')?.textContent?.trim()
     const productTitle = item.querySelector('h2.subGenreResult__name a')?.textContent?.trim()
     const labelName = item.querySelector('p.subGenreResult__other a')?.textContent?.trim()
@@ -56,7 +57,7 @@ const parseSubGenreResults = (resultList: HTMLElement[], baseUrl: string) => {
       itemPageUrl: itemPageUrl ? `${baseUrl}${itemPageUrl}` : undefined,
       crawledAt: new Date()
     })
-  })
+  }
 
   return results
 }
@@ -64,7 +65,7 @@ const parseSubGenreResults = (resultList: HTMLElement[], baseUrl: string) => {
 const parseSearchResults = (resultList: HTMLElement[], baseUrl: string) => {
   const results: UsedItem[] = []
 
-  resultList.forEach(item => {
+  for (const item of resultList) {
     const artist = item.querySelector('h2.searchAll__artist a')?.textContent?.trim()
     const productTitle = item.querySelector('h2.searchAll__name a')?.textContent?.replace(/\s+/g, ' ')?.trim()
     const labelName = item.querySelector('p.searchAll__other a')?.textContent?.trim()
@@ -73,12 +74,18 @@ const parseSearchResults = (resultList: HTMLElement[], baseUrl: string) => {
     const discountRatePercentage = formatters.pickDiscountedRate(
       item.querySelector('.u-discountRate')?.textContent?.trim()
     )
+    const normalItemPrice = isDiscountedPrice
+      ? getPriceString(item.querySelector('p.u-priceDiscount'))
+      : getPriceString(item.querySelector('p.u-priceNormal--Blue'))
+    const normalItemStatus = item.querySelector('.tag-menbersSale')?.textContent?.trim()
 
-    const cheapestItemPrice = isDiscountedPrice
-      ? formatters.cutOffText(item.querySelector('p.u-priceDiscount')?.textContent?.trim())
-      : item.querySelector('p.u-priceNormal--Blue')?.textContent?.trim()
+    const subGenreUsedPrice = getPriceString(item.querySelector('.priceUsed__price'))
+    // 最初のStatus
+    const subGenreUsedStatus = item.querySelector('.qualityArea__li')?.textContent?.trim()
 
-    const cheapestItemStatus = item.querySelector('.tag-menbersSale')?.textContent?.trim()
+    const isNormalItemCheapest = normalItemPrice < subGenreUsedPrice
+    const cheapestItemPrice = formatters.numberToPrice(isNormalItemCheapest ? normalItemPrice : subGenreUsedPrice)
+    const cheapestItemStatus = isNormalItemCheapest ? normalItemStatus : subGenreUsedStatus
 
     const genre = item.querySelector('p.searchAll__tag')?.textContent?.trim()
     const itemPageUrl = item.querySelector('h2.searchAll__name a')?.getAttribute('href')
@@ -99,7 +106,7 @@ const parseSearchResults = (resultList: HTMLElement[], baseUrl: string) => {
       itemPageUrl: itemPageUrl ? `${baseUrl}${itemPageUrl}` : undefined,
       crawledAt: new Date()
     })
-  })
+  }
 
   return results
 }
@@ -125,5 +132,13 @@ const formatters = {
   // X%OFF -> X
   pickDiscountedRate: (text: string | undefined) => text?.replace(/(\d+)%OFF$/, '$1'),
   cutOffText: (text: string | undefined) => text?.replace(/^\d+%OFF\s*/, ''),
-  pickMediaText: (text: string | undefined) => text?.replace(/\s+/g, ' ')?.split(' / ')[2].trim()
+  pickMediaText: (text: string | undefined) => text?.replace(/\s+/g, ' ')?.split(' / ')[2].trim(),
+  // ex. 1000 -> 1,000円
+  numberToPrice: (priceNum: number) => `${priceNum.toLocaleString()}円(税込)`
+}
+
+const getPriceString = (priceNode: HTMLElement | null): number => {
+  if (!priceNode) return Number.MAX_SAFE_INTEGER
+  priceNode.querySelectorAll('span').forEach(span => span.remove())
+  return parsePriceStr(priceNode.textContent.trim()) ?? Number.MAX_SAFE_INTEGER
 }
