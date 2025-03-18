@@ -3,8 +3,8 @@ name: 'Watcher: run [DB]'
 on:
   workflow_dispatch:
   schedule:
-    # 毎日 01:00 (16:00 UTC) 実行
-    - cron: '0 16 * * *'
+    # 毎日 12:00 (4:00 UTC) 実行
+    - cron: '0 4 * * *'
 
 jobs:
   watch-and-build-feed:
