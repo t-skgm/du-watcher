@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2025-03-20T04:17:57.448Z</updated>
+    <updated>2025-03-21T04:42:52.855Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,50 +11,4 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_outlet-analog-1.xml"/>
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
-    <entry>
-        <title type="html"><![CDATA[HOLLIE COOK ホリー・クック - THAT VERY NIGHT]]></title>
-        <id>https://diskunion.net/indiealt/ct/detail/REGGAE-180626-03</id>
-        <link href="https://diskunion.net/indiealt/ct/detail/REGGAE-180626-03"/>
-        <updated>2025-03-20T04:06:44.294Z</updated>
-        <content type="html"><![CDATA[
-        <b>HOLLIE COOK ホリー・クック - THAT VERY NIGHT</b><br>
-        <br>
-        価格: 1540円<br>
-        盤質: OUTLET<br>
-        割引率: 30%<br>
-        <br>
-        ジャンル: REGGAE<br>
-        レーベル: MR.BONGO<br>
-        フォーマット: 7"(レコード)<br>
-        <br>
-        登録日: 2025-03-20T04:06:44.294Z<br>
-        更新日: 2025-03-20T04:06:44.294Z<br>
-        クロール日: 2025-03-20T04:06:43.900Z<br>
-        <br>
-        <a href="https://diskunion.net/indiealt/ct/detail/REGGAE-180626-03">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NEW AGE STEPPERS ニュー・エイジ・ステッパーズ - ACTION BATTLEFIELD]]></title>
-        <id>https://diskunion.net/indiealt/ct/detail/1008252801</id>
-        <link href="https://diskunion.net/indiealt/ct/detail/1008252801"/>
-        <updated>2025-03-20T04:06:44.307Z</updated>
-        <content type="html"><![CDATA[
-        <b>NEW AGE STEPPERS ニュー・エイジ・ステッパーズ - ACTION BATTLEFIELD</b><br>
-        <br>
-        価格: 2849円<br>
-        盤質: OUTLET<br>
-        割引率: 30%<br>
-        <br>
-        ジャンル: REGGAE<br>
-        レーベル: ON-U<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2025-03-20T04:06:44.307Z<br>
-        更新日: 2025-03-20T04:06:44.307Z<br>
-        クロール日: 2025-03-20T04:06:43.900Z<br>
-        <br>
-        <a href="https://diskunion.net/indiealt/ct/detail/1008252801">商品ページ</a>
-        ]]></content>
-    </entry>
 </feed>
