@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2025-04-01T04:21:51.948Z</updated>
+    <updated>2025-04-02T04:20:34.172Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,4 +11,50 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_outlet-analog-1.xml"/>
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
+    <entry>
+        <title type="html"><![CDATA[MARIBOU STATE マリブー・ステート - HALLUCINATING LOVE ORANGE VINYL LP (数量限定/オレンジ・ヴァイナル)]]></title>
+        <id>https://diskunion.net/indiealt/ct/detail/1008931927</id>
+        <link href="https://diskunion.net/indiealt/ct/detail/1008931927"/>
+        <updated>2025-04-02T04:07:12.324Z</updated>
+        <content type="html"><![CDATA[
+        <b>MARIBOU STATE マリブー・ステート - HALLUCINATING LOVE ORANGE VINYL LP (数量限定/オレンジ・ヴァイナル)</b><br>
+        <br>
+        価格: 3801円<br>
+        盤質: B+<br>
+        割引率: 10%<br>
+        <br>
+        ジャンル: CLUB/DANCE<br>
+        レーベル: NINJA TUNE<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2025-04-02T04:07:12.324Z<br>
+        更新日: 2025-04-02T04:07:12.324Z<br>
+        クロール日: 2025-04-02T04:07:09.394Z<br>
+        <br>
+        <a href="https://diskunion.net/indiealt/ct/detail/1008931927">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TYCHO ティコ - INFINITE HEALTH(数量限定/日本語帯付き/解説書封入/スカイブルー・ヴァイナル)]]></title>
+        <id>https://diskunion.net/indiealt/ct/detail/1008963052</id>
+        <link href="https://diskunion.net/indiealt/ct/detail/1008963052"/>
+        <updated>2025-04-02T04:07:12.393Z</updated>
+        <content type="html"><![CDATA[
+        <b>TYCHO ティコ - INFINITE HEALTH(数量限定/日本語帯付き/解説書封入/スカイブルー・ヴァイナル)</b><br>
+        <br>
+        価格: 4800円<br>
+        盤質: A<br>
+        割引率: 10%<br>
+        <br>
+        ジャンル: CLUB/DANCE<br>
+        レーベル: NINJA TUNE/BEAT<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2025-04-02T04:07:12.393Z<br>
+        更新日: 2025-04-02T04:07:12.393Z<br>
+        クロール日: 2025-04-02T04:07:09.395Z<br>
+        <br>
+        <a href="https://diskunion.net/indiealt/ct/detail/1008963052">商品ページ</a>
+        ]]></content>
+    </entry>
 </feed>
