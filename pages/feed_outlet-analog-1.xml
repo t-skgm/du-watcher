@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2025-04-09T04:19:00.962Z</updated>
+    <updated>2025-04-10T04:18:06.842Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,50 +11,4 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_outlet-analog-1.xml"/>
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
-    <entry>
-        <title type="html"><![CDATA[CHRISTOPHER OWENS クリストファー・オウエンス - I WANNA RUN BAREFOOT THROUGH YOUR HAIR [LP]]]></title>
-        <id>https://diskunion.net/indiealt/ct/detail/1008913954</id>
-        <link href="https://diskunion.net/indiealt/ct/detail/1008913954"/>
-        <updated>2025-04-09T04:07:24.841Z</updated>
-        <content type="html"><![CDATA[
-        <b>CHRISTOPHER OWENS クリストファー・オウエンス - I WANNA RUN BAREFOOT THROUGH YOUR HAIR [LP]</b><br>
-        <br>
-        価格: 3784円<br>
-        盤質: OUTLET<br>
-        割引率: 20%<br>
-        <br>
-        ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: VIRGIN<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2025-04-09T04:07:24.841Z<br>
-        更新日: 2025-04-09T04:07:24.841Z<br>
-        クロール日: 2025-04-09T04:07:24.424Z<br>
-        <br>
-        <a href="https://diskunion.net/indiealt/ct/detail/1008913954">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BJORK & ROSALIA (SPAIN) - ORAL (COLOURED LP)]]></title>
-        <id>https://diskunion.net/indiealt/ct/detail/1008912359</id>
-        <link href="https://diskunion.net/indiealt/ct/detail/1008912359"/>
-        <updated>2025-04-09T04:07:24.850Z</updated>
-        <content type="html"><![CDATA[
-        <b>BJORK & ROSALIA (SPAIN) - ORAL (COLOURED LP)</b><br>
-        <br>
-        価格: 4136円<br>
-        盤質: OUTLET<br>
-        割引率: 20%<br>
-        <br>
-        ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: ONE LITTLE INDEPENDENT<br>
-        フォーマット: 12"(レコード)<br>
-        <br>
-        登録日: 2025-04-09T04:07:24.850Z<br>
-        更新日: 2025-04-09T04:07:24.850Z<br>
-        クロール日: 2025-04-09T04:07:24.424Z<br>
-        <br>
-        <a href="https://diskunion.net/indiealt/ct/detail/1008912359">商品ページ</a>
-        ]]></content>
-    </entry>
 </feed>
