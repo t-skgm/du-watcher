@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2025-04-11T04:16:25.178Z</updated>
+    <updated>2025-04-12T04:18:51.939Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,50 +11,4 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_outlet-analog-1.xml"/>
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
-    <entry>
-        <title type="html"><![CDATA[CASSIA カッシア - HOME SOON...]]></title>
-        <id>https://diskunion.net/indiealt/ct/detail/1008766127</id>
-        <link href="https://diskunion.net/indiealt/ct/detail/1008766127"/>
-        <updated>2025-04-11T04:06:56.098Z</updated>
-        <content type="html"><![CDATA[
-        <b>CASSIA カッシア - HOME SOON...</b><br>
-        <br>
-        価格: 1496円<br>
-        盤質: OUTLET<br>
-        割引率: 60%<br>
-        <br>
-        ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: CASSIA<br>
-        フォーマット: 12"(レコード)<br>
-        <br>
-        登録日: 2025-04-11T04:06:56.098Z<br>
-        更新日: 2025-04-11T04:06:56.098Z<br>
-        クロール日: 2025-04-11T04:06:55.753Z<br>
-        <br>
-        <a href="https://diskunion.net/indiealt/ct/detail/1008766127">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ANOTHER SKY - BEACH DAY [LP/LIMITED]]]></title>
-        <id>https://diskunion.net/indiealt/ct/detail/1008781001</id>
-        <link href="https://diskunion.net/indiealt/ct/detail/1008781001"/>
-        <updated>2025-04-11T04:06:56.111Z</updated>
-        <content type="html"><![CDATA[
-        <b>ANOTHER SKY - BEACH DAY [LP/LIMITED]</b><br>
-        <br>
-        価格: 1617円<br>
-        盤質: OUTLET<br>
-        割引率: 70%<br>
-        <br>
-        ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: VIRGIN<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2025-04-11T04:06:56.111Z<br>
-        更新日: 2025-04-11T04:06:56.111Z<br>
-        クロール日: 2025-04-11T04:06:55.754Z<br>
-        <br>
-        <a href="https://diskunion.net/indiealt/ct/detail/1008781001">商品ページ</a>
-        ]]></content>
-    </entry>
 </feed>
