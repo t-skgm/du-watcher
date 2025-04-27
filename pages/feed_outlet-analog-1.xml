@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2025-04-26T04:18:20.462Z</updated>
+    <updated>2025-04-27T04:17:34.871Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,50 +11,4 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_outlet-analog-1.xml"/>
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
-    <entry>
-        <title type="html"><![CDATA[TRADEN (TRAD GRAS OCH STENAR) - TRADEN: LIMITED MULTI-COLOR DOUBLE VINYL]]></title>
-        <id>https://diskunion.net/indiealt/ct/detail/1008948603</id>
-        <link href="https://diskunion.net/indiealt/ct/detail/1008948603"/>
-        <updated>2025-04-26T04:06:26.570Z</updated>
-        <content type="html"><![CDATA[
-        <b>TRADEN (TRAD GRAS OCH STENAR) - TRADEN: LIMITED MULTI-COLOR DOUBLE VINYL</b><br>
-        <br>
-        価格: 6435円<br>
-        盤質: OUTLET<br>
-        割引率: 10%<br>
-        <br>
-        ジャンル: PROGRESSIVE ROCK<br>
-        レーベル: SUBLIMINAL SOUNDS<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2025-04-26T04:06:26.570Z<br>
-        更新日: 2025-04-26T04:06:26.570Z<br>
-        クロール日: 2025-04-26T04:06:26.237Z<br>
-        <br>
-        <a href="https://diskunion.net/indiealt/ct/detail/1008948603">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DUNKELZIFFER ドンクルツイッファー - COLOURS AND SOUL - LIMITED VINYL/REMASTER]]></title>
-        <id>https://diskunion.net/indiealt/ct/detail/1008327624</id>
-        <link href="https://diskunion.net/indiealt/ct/detail/1008327624"/>
-        <updated>2025-04-26T04:06:26.608Z</updated>
-        <content type="html"><![CDATA[
-        <b>DUNKELZIFFER ドンクルツイッファー - COLOURS AND SOUL - LIMITED VINYL/REMASTER</b><br>
-        <br>
-        価格: 4356円<br>
-        盤質: OUTLET<br>
-        割引率: 10%<br>
-        <br>
-        ジャンル: PROGRESSIVE ROCK<br>
-        レーベル: BUREAU B<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2025-04-26T04:06:26.608Z<br>
-        更新日: 2025-04-26T04:06:26.608Z<br>
-        クロール日: 2025-04-26T04:06:26.238Z<br>
-        <br>
-        <a href="https://diskunion.net/indiealt/ct/detail/1008327624">商品ページ</a>
-        ]]></content>
-    </entry>
 </feed>
