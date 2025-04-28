@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/used-analog-jrock</id>
     <title>DU Watcher: 中古アナログ/日本のロック</title>
-    <updated>2025-04-27T04:17:34.872Z</updated>
+    <updated>2025-04-28T04:18:25.343Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -12,256 +12,141 @@
     <subtitle>DU Watcher feed: 中古アナログ/日本のロック</subtitle>
     <rights>t-skgm</rights>
     <entry>
-        <title type="html"><![CDATA[DUB MASTER X ダブ・マスター・エックス - タイミング / 銀河鉄道999]]></title>
-        <id>https://diskunion.net/jp/ct/detail/1008960574</id>
-        <link href="https://diskunion.net/jp/ct/detail/1008960574"/>
-        <updated>2025-04-27T04:17:11.784Z</updated>
+        <title type="html"><![CDATA[TAKUYA TAKAHASHI 高橋拓也 - FANTASTIC LOVE IN WONDERLAND]]></title>
+        <id>https://diskunion.net/jp/ct/detail/XAT-1245771255</id>
+        <link href="https://diskunion.net/jp/ct/detail/XAT-1245771255"/>
+        <updated>2025-04-28T04:18:04.807Z</updated>
         <content type="html"><![CDATA[
-        <b>DUB MASTER X ダブ・マスター・エックス - タイミング / 銀河鉄道999</b><br>
+        <b>TAKUYA TAKAHASHI 高橋拓也 - FANTASTIC LOVE IN WONDERLAND</b><br>
         <br>
-        価格: 2650円<br>
-        盤質: B+<br>
-        <br>
-        <br>
-        ジャンル: REGGAE<br>
-        レーベル: エイベックス<br>
-        フォーマット: 7"(レコード)<br>
-        <br>
-        登録日: 2025-04-27T04:17:11.784Z<br>
-        更新日: 2025-04-27T04:17:11.784Z<br>
-        クロール日: 2025-04-27T04:17:10.014Z<br>
-        <br>
-        <a href="https://diskunion.net/jp/ct/detail/1008960574">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HAPPY END はっぴいえんど - 風街ろまん]]></title>
-        <id>https://diskunion.net/jp/ct/detail/XAT-1245783853</id>
-        <link href="https://diskunion.net/jp/ct/detail/XAT-1245783853"/>
-        <updated>2025-04-27T04:17:11.801Z</updated>
-        <content type="html"><![CDATA[
-        <b>HAPPY END はっぴいえんど - 風街ろまん</b><br>
-        <br>
-        価格: 4600円<br>
+        価格: 2250円<br>
         盤質: B+<br>
         <br>
         <br>
         ジャンル: 日本のロック<br>
-        レーベル: ソニー・ミュージックダイレクト<br>
+        レーベル: ポニーキャニオン<br>
         フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2025-04-27T04:17:11.801Z<br>
-        更新日: 2025-04-27T04:17:11.801Z<br>
-        クロール日: 2025-04-27T04:17:10.014Z<br>
+        登録日: 2025-04-28T04:18:04.807Z<br>
+        更新日: 2025-04-28T04:18:04.807Z<br>
+        クロール日: 2025-04-28T04:18:03.028Z<br>
         <br>
-        <a href="https://diskunion.net/jp/ct/detail/XAT-1245783853">商品ページ</a>
+        <a href="https://diskunion.net/jp/ct/detail/XAT-1245771255">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HUMBERT HUMBERT ハンバートハンバート - むかしぼくはみじめだった(LP)]]></title>
-        <id>https://diskunion.net/jp/ct/detail/1008877326</id>
-        <link href="https://diskunion.net/jp/ct/detail/1008877326"/>
-        <updated>2025-04-27T04:17:11.808Z</updated>
+        <title type="html"><![CDATA[CHIAKI SATO 佐藤千亜妃 - TIME LEAP(LP)]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1008623979</id>
+        <link href="https://diskunion.net/jp/ct/detail/1008623979"/>
+        <updated>2025-04-28T04:18:04.816Z</updated>
         <content type="html"><![CDATA[
-        <b>HUMBERT HUMBERT ハンバートハンバート - むかしぼくはみじめだった(LP)</b><br>
+        <b>CHIAKI SATO 佐藤千亜妃 - TIME LEAP(LP)</b><br>
         <br>
-        価格: 3650円<br>
+        価格: 2850円<br>
+        盤質: B+<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: A.S.A.B / 株式会社ローソンエンタテインメント(HMV record shop)<br>
+        フォーマット: JPN<br>
+        <br>
+        登録日: 2025-04-28T04:18:04.816Z<br>
+        更新日: 2025-04-28T04:18:04.816Z<br>
+        クロール日: 2025-04-28T04:18:03.028Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1008623979">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HAJIME TACHIBANA 立花ハジメ - H(LP)]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1008972307</id>
+        <link href="https://diskunion.net/jp/ct/detail/1008972307"/>
+        <updated>2025-04-28T04:18:04.876Z</updated>
+        <content type="html"><![CDATA[
+        <b>HAJIME TACHIBANA 立花ハジメ - H(LP)</b><br>
+        <br>
+        価格: 3500円<br>
         盤質: A<br>
         <br>
         <br>
         ジャンル: 日本のロック<br>
-        レーベル: SPACE SHOWER MUSIC<br>
+        レーベル: ソニー・ミュージックレーベルズ<br>
         フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2025-04-27T04:17:11.808Z<br>
-        更新日: 2025-04-27T04:17:11.808Z<br>
-        クロール日: 2025-04-27T04:17:10.015Z<br>
+        登録日: 2025-04-28T04:18:04.876Z<br>
+        更新日: 2025-04-28T04:18:04.876Z<br>
+        クロール日: 2025-04-28T04:18:03.029Z<br>
         <br>
-        <a href="https://diskunion.net/jp/ct/detail/1008877326">商品ページ</a>
+        <a href="https://diskunion.net/jp/ct/detail/1008972307">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SPEED - STARTING OVER]]></title>
-        <id>https://diskunion.net/jp/ct/detail/1008678687</id>
-        <link href="https://diskunion.net/jp/ct/detail/1008678687"/>
-        <updated>2025-04-27T04:17:11.845Z</updated>
+        <title type="html"><![CDATA[moonriders + nanaco sato ムーンライダーズ+佐藤奈々子 - Radio Moon and Roses 1979Hz(LP)]]></title>
+        <id>https://diskunion.net/jp/ct/detail/XAT-1245764017</id>
+        <link href="https://diskunion.net/jp/ct/detail/XAT-1245764017"/>
+        <updated>2025-04-28T04:18:04.948Z</updated>
         <content type="html"><![CDATA[
-        <b>SPEED - STARTING OVER</b><br>
+        <b>moonriders + nanaco sato ムーンライダーズ+佐藤奈々子 - Radio Moon and Roses 1979Hz(LP)</b><br>
         <br>
-        価格: 4650円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: 平成J-POP<br>
-        レーベル: 株式会社ローソンエンタテインメント(HMV record shop)<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2025-04-27T04:17:11.845Z<br>
-        更新日: 2025-04-27T04:17:11.845Z<br>
-        クロール日: 2025-04-27T04:17:10.015Z<br>
-        <br>
-        <a href="https://diskunion.net/jp/ct/detail/1008678687">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shuta Hasunuma Philharmonic Orchestra 蓮沼執太フィル - symphil (TAPE)]]></title>
-        <id>https://diskunion.net/jp/ct/detail/1008663213</id>
-        <link href="https://diskunion.net/jp/ct/detail/1008663213"/>
-        <updated>2025-04-27T04:17:11.854Z</updated>
-        <content type="html"><![CDATA[
-        <b>Shuta Hasunuma Philharmonic Orchestra 蓮沼執太フィル - symphil (TAPE)</b><br>
-        <br>
-        価格: 1500円<br>
+        価格: 1900円<br>
         盤質: B+<br>
         <br>
         <br>
         ジャンル: 日本のロック<br>
-        レーベル: B.J.L.×AWDR/LR2<br>
-        フォーマット: CASSETTE TAPE<br>
+        レーベル: 日本コロムビア<br>
+        フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2025-04-27T04:17:11.854Z<br>
-        更新日: 2025-04-27T04:17:11.854Z<br>
-        クロール日: 2025-04-27T04:17:10.016Z<br>
+        登録日: 2025-04-28T04:18:04.948Z<br>
+        更新日: 2025-04-28T04:18:04.948Z<br>
+        クロール日: 2025-04-28T04:18:03.030Z<br>
         <br>
-        <a href="https://diskunion.net/jp/ct/detail/1008663213">商品ページ</a>
+        <a href="https://diskunion.net/jp/ct/detail/XAT-1245764017">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Shin Sakiura - このまま夢で feat.AAAMYYY / このまま夢で (Home Session)(7")]]></title>
-        <id>https://diskunion.net/jp/ct/detail/1008112894</id>
-        <link href="https://diskunion.net/jp/ct/detail/1008112894"/>
-        <updated>2025-04-27T04:17:11.874Z</updated>
+        <title type="html"><![CDATA[TAKAO NANRI - SING OUT ASIA]]></title>
+        <id>https://diskunion.net/jp/ct/detail/DFNRP-SPL-26179</id>
+        <link href="https://diskunion.net/jp/ct/detail/DFNRP-SPL-26179"/>
+        <updated>2025-04-28T04:18:05.082Z</updated>
         <content type="html"><![CDATA[
-        <b>Shin Sakiura - このまま夢で feat.AAAMYYY / このまま夢で (Home Session)(7")</b><br>
+        <b>TAKAO NANRI - SING OUT ASIA</b><br>
         <br>
         価格: 880円<br>
-        盤質: B+<br>
-        <br>
-        <br>
-        ジャンル: SOUL/BLUES/GOSPEL<br>
-        レーベル: Kissing Fish Records<br>
-        フォーマット: 7"(レコード)<br>
-        <br>
-        登録日: 2025-04-27T04:17:11.874Z<br>
-        更新日: 2025-04-27T04:17:11.874Z<br>
-        クロール日: 2025-04-27T04:17:10.016Z<br>
-        <br>
-        <a href="https://diskunion.net/jp/ct/detail/1008112894">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KATSUHISA HATTORI 服部克久 - 江戸の旋風]]></title>
-        <id>https://diskunion.net/jp/ct/detail/1008279244</id>
-        <link href="https://diskunion.net/jp/ct/detail/1008279244"/>
-        <updated>2025-04-27T04:17:11.881Z</updated>
-        <content type="html"><![CDATA[
-        <b>KATSUHISA HATTORI 服部克久 - 江戸の旋風</b><br>
-        <br>
-        価格: 2950円<br>
-        盤質: B+<br>
-        <br>
-        <br>
-        ジャンル: 日本のロック<br>
-        レーベル: 東宝ミュージック株式会社 / 株式会社ローソンエンタテインメント(HMV record shop)<br>
-        フォーマット: JPN<br>
-        <br>
-        登録日: 2025-04-27T04:17:11.881Z<br>
-        更新日: 2025-04-27T04:17:11.881Z<br>
-        クロール日: 2025-04-27T04:17:10.017Z<br>
-        <br>
-        <a href="https://diskunion.net/jp/ct/detail/1008279244">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[でんぱ組.inc - あした地球がこなごなになっても(完全生産限定盤アナログ)]]></title>
-        <id>https://diskunion.net/jp/ct/detail/1006787220</id>
-        <link href="https://diskunion.net/jp/ct/detail/1006787220"/>
-        <updated>2025-04-27T04:17:11.906Z</updated>
-        <content type="html"><![CDATA[
-        <b>でんぱ組.inc - あした地球がこなごなになっても(完全生産限定盤アナログ)</b><br>
-        <br>
-        価格: 580円<br>
         盤質: B<br>
         <br>
         <br>
         ジャンル: 日本のロック<br>
-        レーベル: Toy's Factory<br>
-        フォーマット: 7"(レコード)<br>
+        
+        フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2025-04-27T04:17:11.906Z<br>
-        更新日: 2025-04-27T04:17:11.906Z<br>
-        クロール日: 2025-04-27T04:17:10.017Z<br>
+        登録日: 2025-04-28T04:18:05.082Z<br>
+        更新日: 2025-04-28T04:18:05.082Z<br>
+        クロール日: 2025-04-28T04:18:03.032Z<br>
         <br>
-        <a href="https://diskunion.net/jp/ct/detail/1006787220">商品ページ</a>
+        <a href="https://diskunion.net/jp/ct/detail/DFNRP-SPL-26179">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[THE RIGANNIES ザ・リガニーズ - シロイユリ]]></title>
-        <id>https://diskunion.net/jp/ct/detail/DFNRP-SPL-10219</id>
-        <link href="https://diskunion.net/jp/ct/detail/DFNRP-SPL-10219"/>
-        <updated>2025-04-27T04:17:11.987Z</updated>
+        <title type="html"><![CDATA[V.A.(MULE MUSIQ) - MIDNIGHT IN TOKYO VOL.3 (2LP)]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1007813035</id>
+        <link href="https://diskunion.net/jp/ct/detail/1007813035"/>
+        <updated>2025-04-28T04:18:05.531Z</updated>
         <content type="html"><![CDATA[
-        <b>THE RIGANNIES ザ・リガニーズ - シロイユリ</b><br>
+        <b>V.A.(MULE MUSIQ) - MIDNIGHT IN TOKYO VOL.3 (2LP)</b><br>
         <br>
-        価格: 380円<br>
+        価格: 3450円<br>
         盤質: B<br>
         <br>
         <br>
-        ジャンル: 日本のロック<br>
-        レーベル: 東芝<br>
-        フォーマット: 7"(レコード)<br>
+        ジャンル: CLUB/DANCE<br>
+        レーベル: STUDIO MULE<br>
+        フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2025-04-27T04:17:11.987Z<br>
-        更新日: 2025-04-27T04:17:11.987Z<br>
-        クロール日: 2025-04-27T04:17:10.018Z<br>
+        登録日: 2025-04-28T04:18:05.531Z<br>
+        更新日: 2025-04-28T04:18:05.531Z<br>
+        クロール日: 2025-04-28T04:18:03.088Z<br>
         <br>
-        <a href="https://diskunion.net/jp/ct/detail/DFNRP-SPL-10219">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[藤野明美 - スイート・ハート・アイランド / スイート・ハート・アイランド(Original Karaoke)]]></title>
-        <id>https://diskunion.net/jp/ct/detail/1008461151</id>
-        <link href="https://diskunion.net/jp/ct/detail/1008461151"/>
-        <updated>2025-04-27T04:17:12.167Z</updated>
-        <content type="html"><![CDATA[
-        <b>藤野明美 - スイート・ハート・アイランド / スイート・ハート・アイランド(Original Karaoke)</b><br>
-        <br>
-        価格: 2250円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: 日本のロック<br>
-        レーベル: 株式会社バップ / 株式会社ローソンエンタテインメント(HMV record shop)<br>
-        フォーマット: JPN<br>
-        <br>
-        登録日: 2025-04-27T04:17:12.167Z<br>
-        更新日: 2025-04-27T04:17:12.167Z<br>
-        クロール日: 2025-04-27T04:17:10.042Z<br>
-        <br>
-        <a href="https://diskunion.net/jp/ct/detail/1008461151">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[武田と哲也 / G.RINA - 愛をさがして feat G.RINA/LOVE SOUND]]></title>
-        <id>https://diskunion.net/jp/ct/detail/XAT-1245738381</id>
-        <link href="https://diskunion.net/jp/ct/detail/XAT-1245738381"/>
-        <updated>2025-04-27T04:17:12.234Z</updated>
-        <content type="html"><![CDATA[
-        <b>武田と哲也 / G.RINA - 愛をさがして feat G.RINA/LOVE SOUND</b><br>
-        <br>
-        価格: 6750円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: 日本のロック<br>
-        レーベル: ソニー・ミュージックダイレクト<br>
-        フォーマット: 7"(レコード)<br>
-        <br>
-        登録日: 2025-04-27T04:17:12.234Z<br>
-        更新日: 2025-04-27T04:17:12.234Z<br>
-        クロール日: 2025-04-27T04:17:10.043Z<br>
-        <br>
-        <a href="https://diskunion.net/jp/ct/detail/XAT-1245738381">商品ページ</a>
+        <a href="https://diskunion.net/jp/ct/detail/1007813035">商品ページ</a>
         ]]></content>
     </entry>
 </feed>
