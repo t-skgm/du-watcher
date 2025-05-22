@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2025-05-21T04:21:31.069Z</updated>
+    <updated>2025-05-22T04:18:02.958Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,50 +11,4 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_outlet-analog-1.xml"/>
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
-    <entry>
-        <title type="html"><![CDATA[MARIAH CAREY マライア・キャリー - MERRY CHRISTMAS (MOBILE FIDELITY VINYL 33RPM 1LP ONE-STEP)]]></title>
-        <id>https://diskunion.net/indiealt/ct/detail/1008947080</id>
-        <link href="https://diskunion.net/indiealt/ct/detail/1008947080"/>
-        <updated>2025-05-21T04:08:38.408Z</updated>
-        <content type="html"><![CDATA[
-        <b>MARIAH CAREY マライア・キャリー - MERRY CHRISTMAS (MOBILE FIDELITY VINYL 33RPM 1LP ONE-STEP)</b><br>
-        <br>
-        価格: 9800円<br>
-        盤質: OUTLET<br>
-        割引率: 0%<br>
-        <br>
-        ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: MOBILE FIDELITY SOUND LAB<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2025-05-21T04:08:38.408Z<br>
-        更新日: 2025-05-21T04:08:38.408Z<br>
-        クロール日: 2025-05-21T04:08:38.101Z<br>
-        <br>
-        <a href="https://diskunion.net/indiealt/ct/detail/1008947080">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MARIAH CAREY マライア・キャリー - メリー・クリスマス ~30TH ANNIVERSARY EDITION~ (PITCURE VINYL)]]></title>
-        <id>https://diskunion.net/indiealt/ct/detail/1008908564</id>
-        <link href="https://diskunion.net/indiealt/ct/detail/1008908564"/>
-        <updated>2025-05-21T04:08:38.424Z</updated>
-        <content type="html"><![CDATA[
-        <b>MARIAH CAREY マライア・キャリー - メリー・クリスマス ~30TH ANNIVERSARY EDITION~ (PITCURE VINYL)</b><br>
-        <br>
-        価格: 4000円<br>
-        盤質: OUTLET<br>
-        割引率: 0%<br>
-        <br>
-        ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: ソニー<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2025-05-21T04:08:38.424Z<br>
-        更新日: 2025-05-21T04:08:38.424Z<br>
-        クロール日: 2025-05-21T04:08:38.101Z<br>
-        <br>
-        <a href="https://diskunion.net/indiealt/ct/detail/1008908564">商品ページ</a>
-        ]]></content>
-    </entry>
 </feed>
