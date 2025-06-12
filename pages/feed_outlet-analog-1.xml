@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2025-06-11T04:23:41.705Z</updated>
+    <updated>2025-06-12T04:22:32.890Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,73 +11,4 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_outlet-analog-1.xml"/>
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
-    <entry>
-        <title type="html"><![CDATA[BLANCMANGE ブラマンジェ - EVERYTHING IS CONNECTED TOO]]></title>
-        <id>https://diskunion.net/indiealt/ct/detail/1009004354</id>
-        <link href="https://diskunion.net/indiealt/ct/detail/1009004354"/>
-        <updated>2025-06-11T04:11:58.096Z</updated>
-        <content type="html"><![CDATA[
-        <b>BLANCMANGE ブラマンジェ - EVERYTHING IS CONNECTED TOO</b><br>
-        <br>
-        価格: 4235円<br>
-        盤質: OUTLET<br>
-        割引率: 30%<br>
-        <br>
-        ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: LONDON RECORDS<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2025-06-11T04:11:58.096Z<br>
-        更新日: 2025-06-11T04:11:58.096Z<br>
-        クロール日: 2025-06-11T04:11:57.772Z<br>
-        <br>
-        <a href="https://diskunion.net/indiealt/ct/detail/1009004354">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALISON MOYET アリソン・モイエ - HOMETIME [LP]]]></title>
-        <id>https://diskunion.net/indiealt/ct/detail/1009002717</id>
-        <link href="https://diskunion.net/indiealt/ct/detail/1009002717"/>
-        <updated>2025-06-11T04:11:58.105Z</updated>
-        <content type="html"><![CDATA[
-        <b>ALISON MOYET アリソン・モイエ - HOMETIME [LP]</b><br>
-        <br>
-        価格: 5742円<br>
-        盤質: OUTLET<br>
-        割引率: 40%<br>
-        <br>
-        ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: COOKING VINYL<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2025-06-11T04:11:58.105Z<br>
-        更新日: 2025-06-11T04:11:58.105Z<br>
-        クロール日: 2025-06-11T04:11:57.772Z<br>
-        <br>
-        <a href="https://diskunion.net/indiealt/ct/detail/1009002717">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JAMIROQUAI ジャミロクワイ - A FUNK ODYSSEY (12INCH CORNER OF THE BLUE GREEN EARTH SPLATTER VINYL FOR RSD)]]></title>
-        <id>https://diskunion.net/indiealt/ct/detail/1009006022</id>
-        <link href="https://diskunion.net/indiealt/ct/detail/1009006022"/>
-        <updated>2025-06-11T04:11:58.112Z</updated>
-        <content type="html"><![CDATA[
-        <b>JAMIROQUAI ジャミロクワイ - A FUNK ODYSSEY (12INCH CORNER OF THE BLUE GREEN EARTH SPLATTER VINYL FOR RSD)</b><br>
-        <br>
-        価格: 5236円<br>
-        盤質: OUTLET<br>
-        割引率: 30%<br>
-        <br>
-        ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: EPIC<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2025-06-11T04:11:58.112Z<br>
-        更新日: 2025-06-11T04:11:58.112Z<br>
-        クロール日: 2025-06-11T04:11:57.772Z<br>
-        <br>
-        <a href="https://diskunion.net/indiealt/ct/detail/1009006022">商品ページ</a>
-        ]]></content>
-    </entry>
 </feed>
