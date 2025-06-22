@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2025-06-21T04:18:07.699Z</updated>
+    <updated>2025-06-22T04:25:25.529Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,27 +11,4 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_outlet-analog-1.xml"/>
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
-    <entry>
-        <title type="html"><![CDATA[V.A. (DISCHORD RECORDS) オムニバス (DISCHORD RECORDS) - FOUR OLD SEVEN INCHES ON A TWELVE INCH (LP)]]></title>
-        <id>https://diskunion.net/punk/ct/detail/PNK0707-151</id>
-        <link href="https://diskunion.net/punk/ct/detail/PNK0707-151"/>
-        <updated>2025-06-21T04:08:44.128Z</updated>
-        <content type="html"><![CDATA[
-        <b>V.A. (DISCHORD RECORDS) オムニバス (DISCHORD RECORDS) - FOUR OLD SEVEN INCHES ON A TWELVE INCH (LP)</b><br>
-        <br>
-        価格: 3069円<br>
-        盤質: OUTLET<br>
-        割引率: 10%<br>
-        <br>
-        ジャンル: PUNK<br>
-        レーベル: DISCHORD<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2025-06-21T04:08:44.128Z<br>
-        更新日: 2025-06-21T04:08:44.128Z<br>
-        クロール日: 2025-06-21T04:08:44.031Z<br>
-        <br>
-        <a href="https://diskunion.net/punk/ct/detail/PNK0707-151">商品ページ</a>
-        ]]></content>
-    </entry>
 </feed>
