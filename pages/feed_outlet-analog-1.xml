@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2025-07-09T04:26:51.328Z</updated>
+    <updated>2025-07-10T04:26:40.159Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,27 +11,4 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_outlet-analog-1.xml"/>
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
-    <entry>
-        <title type="html"><![CDATA[THE 5.6.7.8.'S - TEENAGE MOJO WORKOUT (LP)]]></title>
-        <id>https://diskunion.net/punk/ct/detail/DI170531-065</id>
-        <link href="https://diskunion.net/punk/ct/detail/DI170531-065"/>
-        <updated>2025-07-09T04:17:04.529Z</updated>
-        <content type="html"><![CDATA[
-        <b>THE 5.6.7.8.'S - TEENAGE MOJO WORKOUT (LP)</b><br>
-        <br>
-        価格: 1568円<br>
-        盤質: OUTLET<br>
-        割引率: 5%<br>
-        <br>
-        ジャンル: PUNK<br>
-        レーベル: TIME BOMB<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2025-07-09T04:17:04.529Z<br>
-        更新日: 2025-07-09T04:17:04.529Z<br>
-        クロール日: 2025-07-09T04:17:04.326Z<br>
-        <br>
-        <a href="https://diskunion.net/punk/ct/detail/DI170531-065">商品ページ</a>
-        ]]></content>
-    </entry>
 </feed>
