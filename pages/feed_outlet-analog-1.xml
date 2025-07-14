@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2025-07-13T04:30:38.023Z</updated>
+    <updated>2025-07-14T04:32:33.847Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,27 +11,4 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_outlet-analog-1.xml"/>
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
-    <entry>
-        <title type="html"><![CDATA[爆裂女子/リンダ&マーヤ - miracle story]]></title>
-        <id>https://diskunion.net/punk/ct/detail/1008106500</id>
-        <link href="https://diskunion.net/punk/ct/detail/1008106500"/>
-        <updated>2025-07-13T04:20:11.015Z</updated>
-        <content type="html"><![CDATA[
-        <b>爆裂女子/リンダ&マーヤ - miracle story</b><br>
-        <br>
-        価格: 300円<br>
-        盤質: OUTLET<br>
-        割引率: 0%<br>
-        <br>
-        ジャンル: 日本のロック<br>
-        レーベル: BURST RECORDS<br>
-        フォーマット: 7"(レコード)<br>
-        <br>
-        登録日: 2025-07-13T04:20:11.015Z<br>
-        更新日: 2025-07-13T04:20:11.015Z<br>
-        クロール日: 2025-07-13T04:20:09.427Z<br>
-        <br>
-        <a href="https://diskunion.net/punk/ct/detail/1008106500">商品ページ</a>
-        ]]></content>
-    </entry>
 </feed>
