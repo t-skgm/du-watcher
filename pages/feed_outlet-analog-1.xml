@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2025-08-14T04:23:34.889Z</updated>
+    <updated>2025-08-15T04:23:49.993Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,4 +11,27 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_outlet-analog-1.xml"/>
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
+    <entry>
+        <title type="html"><![CDATA[HET ZWEET ヘット・ズウィート - HET ZWEET (2LP)]]></title>
+        <id>https://diskunion.net/indiealt/ct/detail/1009010211</id>
+        <link href="https://diskunion.net/indiealt/ct/detail/1009010211"/>
+        <updated>2025-08-15T04:13:55.458Z</updated>
+        <content type="html"><![CDATA[
+        <b>HET ZWEET ヘット・ズウィート - HET ZWEET (2LP)</b><br>
+        <br>
+        価格: 4950円<br>
+        盤質: S<br>
+        割引率: 10%<br>
+        <br>
+        ジャンル: LATIN/BRAZIL/WORLD<br>
+        レーベル: HEAT CRIMES<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2025-08-15T04:13:55.458Z<br>
+        更新日: 2025-08-15T04:13:55.458Z<br>
+        クロール日: 2025-08-15T04:13:54.900Z<br>
+        <br>
+        <a href="https://diskunion.net/indiealt/ct/detail/1009010211">商品ページ</a>
+        ]]></content>
+    </entry>
 </feed>
