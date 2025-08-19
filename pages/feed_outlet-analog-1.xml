@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2025-08-18T04:29:01.782Z</updated>
+    <updated>2025-08-19T04:17:50.835Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,4 +11,27 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_outlet-analog-1.xml"/>
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
+    <entry>
+        <title type="html"><![CDATA[JUNIOR DELL & THE D-LITES - JUST CANT GET ENOUGH]]></title>
+        <id>https://diskunion.net/indiealt/ct/detail/1008993128</id>
+        <link href="https://diskunion.net/indiealt/ct/detail/1008993128"/>
+        <updated>2025-08-19T04:08:09.691Z</updated>
+        <content type="html"><![CDATA[
+        <b>JUNIOR DELL & THE D-LITES - JUST CANT GET ENOUGH</b><br>
+        <br>
+        価格: 2156円<br>
+        盤質: OUTLET<br>
+        割引率: 30%<br>
+        <br>
+        ジャンル: REGGAE<br>
+        レーベル: ORIGINAL GRAVITY<br>
+        フォーマット: 7"(レコード)<br>
+        <br>
+        登録日: 2025-08-19T04:08:09.691Z<br>
+        更新日: 2025-08-19T04:08:09.691Z<br>
+        クロール日: 2025-08-19T04:08:09.212Z<br>
+        <br>
+        <a href="https://diskunion.net/indiealt/ct/detail/1008993128">商品ページ</a>
+        ]]></content>
+    </entry>
 </feed>
