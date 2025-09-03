@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2025-09-02T04:24:25.956Z</updated>
+    <updated>2025-09-03T04:18:15.585Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,4 +11,50 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_outlet-analog-1.xml"/>
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
+    <entry>
+        <title type="html"><![CDATA[V.A. (ROCK / POPS) - THE PROBLEM OF LEISURE [STANDARD WEIGHT BLACK VINYL 2LP IN GATEFOLD SLEEVE]]]></title>
+        <id>https://diskunion.net/indiealt/ct/detail/1008279505</id>
+        <link href="https://diskunion.net/indiealt/ct/detail/1008279505"/>
+        <updated>2025-09-03T04:07:15.471Z</updated>
+        <content type="html"><![CDATA[
+        <b>V.A. (ROCK / POPS) - THE PROBLEM OF LEISURE [STANDARD WEIGHT BLACK VINYL 2LP IN GATEFOLD SLEEVE]</b><br>
+        <br>
+        価格: 1254円<br>
+        盤質: OUTLET<br>
+        割引率: 70%<br>
+        <br>
+        ジャンル: ROCK / POPS / INDIE<br>
+        レーベル: GILL MUSIC<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2025-09-03T04:07:15.471Z<br>
+        更新日: 2025-09-03T04:07:15.471Z<br>
+        クロール日: 2025-09-03T04:07:15.370Z<br>
+        <br>
+        <a href="https://diskunion.net/indiealt/ct/detail/1008279505">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LA DISPUTE ラ・ディスピュート - HERE, HEAR IV (12" EP)]]></title>
+        <id>https://diskunion.net/punk/ct/detail/1008841003</id>
+        <link href="https://diskunion.net/punk/ct/detail/1008841003"/>
+        <updated>2025-09-03T04:07:15.479Z</updated>
+        <content type="html"><![CDATA[
+        <b>LA DISPUTE ラ・ディスピュート - HERE, HEAR IV (12" EP)</b><br>
+        <br>
+        価格: 1000円<br>
+        盤質: S<br>
+        割引率: 80%<br>
+        <br>
+        ジャンル: ROCK / POPS / INDIE<br>
+        レーベル: MANY HATS<br>
+        フォーマット: 12"(レコード)<br>
+        <br>
+        登録日: 2025-09-03T04:07:15.479Z<br>
+        更新日: 2025-09-03T04:07:15.479Z<br>
+        クロール日: 2025-09-03T04:07:29.105Z<br>
+        <br>
+        <a href="https://diskunion.net/punk/ct/detail/1008841003">商品ページ</a>
+        ]]></content>
+    </entry>
 </feed>
