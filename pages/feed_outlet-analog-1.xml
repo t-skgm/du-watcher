@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2025-09-05T04:18:11.533Z</updated>
+    <updated>2025-09-06T04:17:23.951Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,27 +11,4 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_outlet-analog-1.xml"/>
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
-    <entry>
-        <title type="html"><![CDATA[BLATANT FRUSTRATION - NO REFUGE - DEMO 1986 (DIEHARD MARBLED VINYL (ORANGE-YELLOW MIXED WITH RED)]]></title>
-        <id>https://diskunion.net/punk/ct/detail/1009059825</id>
-        <link href="https://diskunion.net/punk/ct/detail/1009059825"/>
-        <updated>2025-09-05T04:08:31.233Z</updated>
-        <content type="html"><![CDATA[
-        <b>BLATANT FRUSTRATION - NO REFUGE - DEMO 1986 (DIEHARD MARBLED VINYL (ORANGE-YELLOW MIXED WITH RED)</b><br>
-        <br>
-        価格: 4158円<br>
-        盤質: WEB特別価格<br>
-        割引率: 10%<br>
-        <br>
-        ジャンル: HARDROCK & HEAVYMETAL<br>
-        レーベル: F.O.A.D.<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2025-09-05T04:08:31.233Z<br>
-        更新日: 2025-09-05T04:08:31.233Z<br>
-        クロール日: 2025-09-05T04:08:31.095Z<br>
-        <br>
-        <a href="https://diskunion.net/punk/ct/detail/1009059825">商品ページ</a>
-        ]]></content>
-    </entry>
 </feed>
