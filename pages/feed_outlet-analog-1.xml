@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2025-09-19T04:17:55.399Z</updated>
+    <updated>2025-09-20T04:16:42.772Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -12,49 +12,141 @@
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
     <entry>
-        <title type="html"><![CDATA[LEE RANALDO & MICHAEL VALLERA - EARLY NEW YORK SILVER]]></title>
-        <id>https://diskunion.net/indiealt/ct/detail/1009007111</id>
-        <link href="https://diskunion.net/indiealt/ct/detail/1009007111"/>
-        <updated>2025-09-19T04:07:12.062Z</updated>
+        <title type="html"><![CDATA[HIROE - WIELD: LIMITED CRYSTAL CLEAR VINYL]]></title>
+        <id>https://diskunion.net/indiealt/ct/detail/1009058378</id>
+        <link href="https://diskunion.net/indiealt/ct/detail/1009058378"/>
+        <updated>2025-09-20T04:07:02.116Z</updated>
         <content type="html"><![CDATA[
-        <b>LEE RANALDO & MICHAEL VALLERA - EARLY NEW YORK SILVER</b><br>
+        <b>HIROE - WIELD: LIMITED CRYSTAL CLEAR VINYL</b><br>
         <br>
-        価格: 4312円<br>
+        価格: 4455円<br>
         盤質: OUTLET<br>
-        割引率: 30%<br>
+        割引率: 10%<br>
         <br>
-        ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: AMISH RECORDS<br>
+        ジャンル: PROGRESSIVE ROCK<br>
+        レーベル: PELAGIC<br>
         フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2025-09-19T04:07:12.062Z<br>
-        更新日: 2025-09-19T04:07:12.062Z<br>
-        クロール日: 2025-09-19T04:07:11.620Z<br>
+        登録日: 2025-09-20T04:07:02.116Z<br>
+        更新日: 2025-09-20T04:07:02.116Z<br>
+        クロール日: 2025-09-20T04:07:01.615Z<br>
         <br>
-        <a href="https://diskunion.net/indiealt/ct/detail/1009007111">商品ページ</a>
+        <a href="https://diskunion.net/indiealt/ct/detail/1009058378">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KEANE キーン - LIVE FROM MEXICO CITY 2024 (COLOURED LP)]]></title>
-        <id>https://diskunion.net/indiealt/ct/detail/1009004484</id>
-        <link href="https://diskunion.net/indiealt/ct/detail/1009004484"/>
-        <updated>2025-09-19T04:07:12.070Z</updated>
+        <title type="html"><![CDATA[HIROE - WIELD: LIMITED VINYL]]></title>
+        <id>https://diskunion.net/indiealt/ct/detail/1009043261</id>
+        <link href="https://diskunion.net/indiealt/ct/detail/1009043261"/>
+        <updated>2025-09-20T04:07:02.123Z</updated>
         <content type="html"><![CDATA[
-        <b>KEANE キーン - LIVE FROM MEXICO CITY 2024 (COLOURED LP)</b><br>
+        <b>HIROE - WIELD: LIMITED VINYL</b><br>
         <br>
-        価格: 4697円<br>
+        価格: 3564円<br>
+        盤質: OUTLET<br>
+        割引率: 10%<br>
+        <br>
+        ジャンル: PROGRESSIVE ROCK<br>
+        レーベル: PELAGIC<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2025-09-20T04:07:02.123Z<br>
+        更新日: 2025-09-20T04:07:02.123Z<br>
+        クロール日: 2025-09-20T04:07:01.615Z<br>
+        <br>
+        <a href="https://diskunion.net/indiealt/ct/detail/1009043261">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CHEER-ACCIDENT チア・アクシデント - ADMISSION: LIMITED RANDOM COLOR VINYL]]></title>
+        <id>https://diskunion.net/indiealt/ct/detail/1009043755</id>
+        <link href="https://diskunion.net/indiealt/ct/detail/1009043755"/>
+        <updated>2025-09-20T04:07:02.130Z</updated>
+        <content type="html"><![CDATA[
+        <b>CHEER-ACCIDENT チア・アクシデント - ADMISSION: LIMITED RANDOM COLOR VINYL</b><br>
+        <br>
+        価格: 4059円<br>
+        盤質: OUTLET<br>
+        割引率: 10%<br>
+        <br>
+        ジャンル: PROGRESSIVE ROCK<br>
+        レーベル: SKIN GRAFT<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2025-09-20T04:07:02.130Z<br>
+        更新日: 2025-09-20T04:07:02.130Z<br>
+        クロール日: 2025-09-20T04:07:01.615Z<br>
+        <br>
+        <a href="https://diskunion.net/indiealt/ct/detail/1009043755">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CREATION REBEL クリエイション・レベル - STARSHIP AFRICA]]></title>
+        <id>https://diskunion.net/indiealt/ct/detail/RGY170401RSD170422009</id>
+        <link href="https://diskunion.net/indiealt/ct/detail/RGY170401RSD170422009"/>
+        <updated>2025-09-20T04:07:02.637Z</updated>
+        <content type="html"><![CDATA[
+        <b>CREATION REBEL クリエイション・レベル - STARSHIP AFRICA</b><br>
+        <br>
+        価格: 3080円<br>
         盤質: OUTLET<br>
         割引率: 30%<br>
         <br>
-        ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: ISLAND<br>
+        ジャンル: REGGAE<br>
+        レーベル: ON-U<br>
         フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2025-09-19T04:07:12.070Z<br>
-        更新日: 2025-09-19T04:07:12.070Z<br>
-        クロール日: 2025-09-19T04:07:11.620Z<br>
+        登録日: 2025-09-20T04:07:02.637Z<br>
+        更新日: 2025-09-20T04:07:02.637Z<br>
+        クロール日: 2025-09-20T04:07:01.660Z<br>
         <br>
-        <a href="https://diskunion.net/indiealt/ct/detail/1009004484">商品ページ</a>
+        <a href="https://diskunion.net/indiealt/ct/detail/RGY170401RSD170422009">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE VISION - FAR AWAY: 6 SONGS OF REGGAE & DUB MUSIC]]></title>
+        <id>https://diskunion.net/indiealt/ct/detail/1008962983</id>
+        <link href="https://diskunion.net/indiealt/ct/detail/1008962983"/>
+        <updated>2025-09-20T04:07:02.644Z</updated>
+        <content type="html"><![CDATA[
+        <b>THE VISION - FAR AWAY: 6 SONGS OF REGGAE & DUB MUSIC</b><br>
+        <br>
+        価格: 2600円<br>
+        盤質: A<br>
+        割引率: 30%<br>
+        <br>
+        ジャンル: REGGAE<br>
+        レーベル: EMOTIONAL RESCUE<br>
+        フォーマット: 10"(レコード)<br>
+        <br>
+        登録日: 2025-09-20T04:07:02.644Z<br>
+        更新日: 2025-09-20T04:07:02.644Z<br>
+        クロール日: 2025-09-20T04:07:01.661Z<br>
+        <br>
+        <a href="https://diskunion.net/indiealt/ct/detail/1008962983">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[V.A. - SAFE TRAVEL]]></title>
+        <id>https://diskunion.net/punk/ct/detail/REGGAE-1343</id>
+        <link href="https://diskunion.net/punk/ct/detail/REGGAE-1343"/>
+        <updated>2025-09-20T04:07:15.224Z</updated>
+        <content type="html"><![CDATA[
+        <b>V.A. - SAFE TRAVEL</b><br>
+        <br>
+        価格: 3080円<br>
+        盤質: OUTLET<br>
+        割引率: 30%<br>
+        <br>
+        ジャンル: REGGAE<br>
+        レーベル: PRESSURE SOUNDS<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2025-09-20T04:07:15.224Z<br>
+        更新日: 2025-09-20T04:07:15.224Z<br>
+        クロール日: 2025-09-20T04:07:15.147Z<br>
+        <br>
+        <a href="https://diskunion.net/punk/ct/detail/REGGAE-1343">商品ページ</a>
         ]]></content>
     </entry>
 </feed>
