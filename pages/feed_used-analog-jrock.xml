@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/used-analog-jrock</id>
     <title>DU Watcher: 中古アナログ/日本のロック</title>
-    <updated>2025-09-20T04:16:42.775Z</updated>
+    <updated>2025-09-21T04:17:21.527Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -12,279 +12,555 @@
     <subtitle>DU Watcher feed: 中古アナログ/日本のロック</subtitle>
     <rights>t-skgm</rights>
     <entry>
-        <title type="html"><![CDATA[Yorushika ヨルシカ - 盗作(2LP)]]></title>
-        <id>https://diskunion.net/jp/ct/detail/1009042183</id>
-        <link href="https://diskunion.net/jp/ct/detail/1009042183"/>
-        <updated>2025-09-20T04:16:16.693Z</updated>
+        <title type="html"><![CDATA[Les Rallizes Denudes 裸のラリーズ - 拾得 Jittoku ’76(2LP)]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1009057017</id>
+        <link href="https://diskunion.net/jp/ct/detail/1009057017"/>
+        <updated>2025-09-21T04:16:57.609Z</updated>
         <content type="html"><![CDATA[
-        <b>Yorushika ヨルシカ - 盗作(2LP)</b><br>
+        <b>Les Rallizes Denudes 裸のラリーズ - 拾得 Jittoku ’76(2LP)</b><br>
         <br>
-        価格: 4650円<br>
+        価格: 6250円<br>
         盤質: B+<br>
         <br>
         <br>
         ジャンル: 日本のロック<br>
-        レーベル: ユニバーサルミュージック<br>
-        フォーマット: LP(レコード)<br>
+        レーベル: The Last One Musique / Tuff Beats<br>
+        フォーマット: JPN<br>
         <br>
-        登録日: 2025-09-20T04:16:16.693Z<br>
-        更新日: 2025-09-20T04:16:16.693Z<br>
-        クロール日: 2025-09-20T04:16:14.616Z<br>
+        登録日: 2025-09-21T04:16:57.609Z<br>
+        更新日: 2025-09-21T04:16:57.609Z<br>
+        クロール日: 2025-09-21T04:16:55.265Z<br>
         <br>
-        <a href="https://diskunion.net/jp/ct/detail/1009042183">商品ページ</a>
+        <a href="https://diskunion.net/jp/ct/detail/1009057017">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MAKOTO KAWAMOTO 川本真琴 - Lovely]]></title>
-        <id>https://diskunion.net/jp/ct/detail/1009042566</id>
-        <link href="https://diskunion.net/jp/ct/detail/1009042566"/>
-        <updated>2025-09-20T04:16:16.715Z</updated>
+        <title type="html"><![CDATA[OHZORA KIMISHIMA 君島大空 - 音のする部屋(LP)]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1009051766</id>
+        <link href="https://diskunion.net/jp/ct/detail/1009051766"/>
+        <updated>2025-09-21T04:16:57.616Z</updated>
         <content type="html"><![CDATA[
-        <b>MAKOTO KAWAMOTO 川本真琴 - Lovely</b><br>
+        <b>OHZORA KIMISHIMA 君島大空 - 音のする部屋(LP)</b><br>
         <br>
-        価格: 1500円<br>
+        価格: 3450円<br>
+        盤質: B+<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: APOLLO SOUNDS<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2025-09-21T04:16:57.616Z<br>
+        更新日: 2025-09-21T04:16:57.616Z<br>
+        クロール日: 2025-09-21T04:16:55.266Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1009051766">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tuki. - 15(LP)]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1009024532</id>
+        <link href="https://diskunion.net/jp/ct/detail/1009024532"/>
+        <updated>2025-09-21T04:16:57.692Z</updated>
+        <content type="html"><![CDATA[
+        <b>tuki. - 15(LP)</b><br>
+        <br>
+        価格: 5250円<br>
+        盤質: B+<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: 月面着陸計画<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2025-09-21T04:16:57.692Z<br>
+        更新日: 2025-09-21T04:16:57.692Z<br>
+        クロール日: 2025-09-21T04:16:55.266Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1009024532">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sunny Day Service サニーデイ・サービス - Live!(LP)]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1008844315</id>
+        <link href="https://diskunion.net/jp/ct/detail/1008844315"/>
+        <updated>2025-09-21T04:16:57.814Z</updated>
+        <content type="html"><![CDATA[
+        <b>Sunny Day Service サニーデイ・サービス - Live!(LP)</b><br>
+        <br>
+        価格: 2850円<br>
         盤質: B<br>
         <br>
         <br>
         ジャンル: 日本のロック<br>
-        レーベル: MY BEST!<br>
-        フォーマット: CASSETTE TAPE<br>
+        レーベル: ROSE RECORDS<br>
+        フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2025-09-20T04:16:16.715Z<br>
-        更新日: 2025-09-20T04:16:16.715Z<br>
-        クロール日: 2025-09-20T04:16:14.616Z<br>
+        登録日: 2025-09-21T04:16:57.814Z<br>
+        更新日: 2025-09-21T04:16:57.814Z<br>
+        クロール日: 2025-09-21T04:16:55.268Z<br>
         <br>
-        <a href="https://diskunion.net/jp/ct/detail/1009042566">商品ページ</a>
+        <a href="https://diskunion.net/jp/ct/detail/1008844315">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[THE CRO-MAGNONS ザ・クロマニヨンズ - 光の魔人(7")]]></title>
-        <id>https://diskunion.net/jp/ct/detail/1008319207</id>
-        <link href="https://diskunion.net/jp/ct/detail/1008319207"/>
-        <updated>2025-09-20T04:16:16.789Z</updated>
+        <title type="html"><![CDATA[SAKI TAKAOKA 高岡早紀 - トーキョームーン / ひとつだけ]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1008757804</id>
+        <link href="https://diskunion.net/jp/ct/detail/1008757804"/>
+        <updated>2025-09-21T04:16:57.821Z</updated>
         <content type="html"><![CDATA[
-        <b>THE CRO-MAGNONS ザ・クロマニヨンズ - 光の魔人(7")</b><br>
+        <b>SAKI TAKAOKA 高岡早紀 - トーキョームーン / ひとつだけ</b><br>
         <br>
-        価格: 1100円<br>
+        価格: 3251円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: Hydra Records / 株式会社ローソンエンタテインメント(HMV record shop)<br>
+        フォーマット: JPN<br>
+        <br>
+        登録日: 2025-09-21T04:16:57.821Z<br>
+        更新日: 2025-09-21T04:16:57.821Z<br>
+        クロール日: 2025-09-21T04:16:55.268Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1008757804">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ANNA TAKEUCHI 竹内アンナ - at FIVE]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1008679901</id>
+        <link href="https://diskunion.net/jp/ct/detail/1008679901"/>
+        <updated>2025-09-21T04:16:57.828Z</updated>
+        <content type="html"><![CDATA[
+        <b>ANNA TAKEUCHI 竹内アンナ - at FIVE</b><br>
+        <br>
+        価格: 980円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: テイチクエンタテインメント<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2025-09-21T04:16:57.828Z<br>
+        更新日: 2025-09-21T04:16:57.828Z<br>
+        クロール日: 2025-09-21T04:16:55.268Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1008679901">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TAKEHARA PISTOL 竹原ピストル - STILL GOING ON(LP)]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1008335196</id>
+        <link href="https://diskunion.net/jp/ct/detail/1008335196"/>
+        <updated>2025-09-21T04:16:57.835Z</updated>
+        <content type="html"><![CDATA[
+        <b>TAKEHARA PISTOL 竹原ピストル - STILL GOING ON(LP)</b><br>
+        <br>
+        価格: 2250円<br>
         盤質: B+<br>
         <br>
         <br>
         ジャンル: 日本のロック<br>
-        レーベル: ソニー・ミュージックレーベルズ<br>
-        フォーマット: 7"(レコード)<br>
+        レーベル: ビクターエンタテインメント<br>
+        フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2025-09-20T04:16:16.789Z<br>
-        更新日: 2025-09-20T04:16:16.789Z<br>
-        クロール日: 2025-09-20T04:16:14.618Z<br>
+        登録日: 2025-09-21T04:16:57.835Z<br>
+        更新日: 2025-09-21T04:16:57.835Z<br>
+        クロール日: 2025-09-21T04:16:55.268Z<br>
         <br>
-        <a href="https://diskunion.net/jp/ct/detail/1008319207">商品ページ</a>
+        <a href="https://diskunion.net/jp/ct/detail/1008335196">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HARUOMI HOSONO 細野晴臣 - omni Sight Seeing]]></title>
-        <id>https://diskunion.net/jp/ct/detail/1008183336</id>
-        <link href="https://diskunion.net/jp/ct/detail/1008183336"/>
-        <updated>2025-09-20T04:16:16.796Z</updated>
+        <title type="html"><![CDATA[NORIO MAEDA 前田憲男 - ロック・コミュニケーション 八木節]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1007485047</id>
+        <link href="https://diskunion.net/jp/ct/detail/1007485047"/>
+        <updated>2025-09-21T04:16:57.841Z</updated>
         <content type="html"><![CDATA[
-        <b>HARUOMI HOSONO 細野晴臣 - omni Sight Seeing</b><br>
+        <b>NORIO MAEDA 前田憲男 - ロック・コミュニケーション 八木節</b><br>
         <br>
-        価格: 9851円<br>
+        価格: 3850円<br>
+        盤質: B+<br>
+        <br>
+        <br>
+        ジャンル: JAZZ<br>
+        レーベル: TEICHIKU ENTERTAINMENT<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2025-09-21T04:16:57.841Z<br>
+        更新日: 2025-09-21T04:16:57.841Z<br>
+        クロール日: 2025-09-21T04:16:55.268Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1007485047">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ATSUKO HIYAJO 比屋定篤子 - 風と鱗<LP>]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1007654582</id>
+        <link href="https://diskunion.net/jp/ct/detail/1007654582"/>
+        <updated>2025-09-21T04:16:57.854Z</updated>
+        <content type="html"><![CDATA[
+        <b>ATSUKO HIYAJO 比屋定篤子 - 風と鱗<LP></b><br>
+        <br>
+        価格: 3650円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: Kissing Fish Records<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2025-09-21T04:16:57.854Z<br>
+        更新日: 2025-09-21T04:16:57.854Z<br>
+        クロール日: 2025-09-21T04:16:55.268Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1007654582">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASAKO TOKI 土岐麻子 - WEEKEND SHUFFLE]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1007911265</id>
+        <link href="https://diskunion.net/jp/ct/detail/1007911265"/>
+        <updated>2025-09-21T04:16:57.861Z</updated>
+        <content type="html"><![CDATA[
+        <b>ASAKO TOKI 土岐麻子 - WEEKEND SHUFFLE</b><br>
+        <br>
+        価格: 8850円<br>
+        盤質: B+<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: 宇田川カフェレコード<br>
+        フォーマット: 12"(レコード)<br>
+        <br>
+        登録日: 2025-09-21T04:16:57.861Z<br>
+        更新日: 2025-09-21T04:16:57.861Z<br>
+        クロール日: 2025-09-21T04:16:55.268Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1007911265">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WANIMA - Everybody!! (2LP)]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1007593288</id>
+        <link href="https://diskunion.net/jp/ct/detail/1007593288"/>
+        <updated>2025-09-21T04:16:57.868Z</updated>
+        <content type="html"><![CDATA[
+        <b>WANIMA - Everybody!! (2LP)</b><br>
+        <br>
+        価格: 2850円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        レーベル: ワーナーミュージック・ジャパン<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2025-09-21T04:16:57.868Z<br>
+        更新日: 2025-09-21T04:16:57.868Z<br>
+        クロール日: 2025-09-21T04:16:55.269Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1007593288">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Suiyobi No Campanella 水曜日のカンパネラ - ガラパゴス]]></title>
+        <id>https://diskunion.net/jp/ct/detail/XAT-1245691338</id>
+        <link href="https://diskunion.net/jp/ct/detail/XAT-1245691338"/>
+        <updated>2025-09-21T04:16:57.874Z</updated>
+        <content type="html"><![CDATA[
+        <b>Suiyobi No Campanella 水曜日のカンパネラ - ガラパゴス</b><br>
+        <br>
+        価格: 4850円<br>
         盤質: A<br>
         <br>
         <br>
-        ジャンル: 日本のロック<br>
-        レーベル: GREAT TRACKS<br>
+        ジャンル: 平成J-POP<br>
+        レーベル: ワーナーミュージック・ジャパン<br>
         フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2025-09-20T04:16:16.796Z<br>
-        更新日: 2025-09-20T04:16:16.796Z<br>
-        クロール日: 2025-09-20T04:16:14.618Z<br>
+        登録日: 2025-09-21T04:16:57.874Z<br>
+        更新日: 2025-09-21T04:16:57.874Z<br>
+        クロール日: 2025-09-21T04:16:55.269Z<br>
         <br>
-        <a href="https://diskunion.net/jp/ct/detail/1008183336">商品ページ</a>
+        <a href="https://diskunion.net/jp/ct/detail/XAT-1245691338">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Milk (RITSUKO/RIE) ミルク - Milk]]></title>
-        <id>https://diskunion.net/jp/ct/detail/1007966887</id>
-        <link href="https://diskunion.net/jp/ct/detail/1007966887"/>
-        <updated>2025-09-20T04:16:16.810Z</updated>
+        <title type="html"><![CDATA[SAKI TAKAOKA 高岡早紀 - I See Your Face (Yukihiro Fukutomi Remix)/ Love Squall (Cee's VCD Remix)]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1007514758</id>
+        <link href="https://diskunion.net/jp/ct/detail/1007514758"/>
+        <updated>2025-09-21T04:16:57.881Z</updated>
         <content type="html"><![CDATA[
-        <b>Milk (RITSUKO/RIE) ミルク - Milk</b><br>
+        <b>SAKI TAKAOKA 高岡早紀 - I See Your Face (Yukihiro Fukutomi Remix)/ Love Squall (Cee's VCD Remix)</b><br>
         <br>
-        価格: 2650円<br>
+        価格: 4250円<br>
         盤質: B<br>
         <br>
         <br>
         ジャンル: 日本のロック<br>
-        レーベル: plusGROUND / Victor Entertainment<br>
-        フォーマット: JPN<br>
-        <br>
-        登録日: 2025-09-20T04:16:16.810Z<br>
-        更新日: 2025-09-20T04:16:16.810Z<br>
-        クロール日: 2025-09-20T04:16:14.618Z<br>
-        <br>
-        <a href="https://diskunion.net/jp/ct/detail/1007966887">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SPEEDER-X - SPEEDOM 01]]></title>
-        <id>https://diskunion.net/jp/ct/detail/1007033291</id>
-        <link href="https://diskunion.net/jp/ct/detail/1007033291"/>
-        <updated>2025-09-20T04:16:16.832Z</updated>
-        <content type="html"><![CDATA[
-        <b>SPEEDER-X - SPEEDOM 01</b><br>
-        <br>
-        価格: 1900円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: 日本のロック<br>
-        レーベル: VINYL STAR INTERNATIONAL<br>
+        レーベル: HYDRA (JP)<br>
         フォーマット: 7"(レコード)<br>
         <br>
-        登録日: 2025-09-20T04:16:16.832Z<br>
-        更新日: 2025-09-20T04:16:16.832Z<br>
-        クロール日: 2025-09-20T04:16:14.618Z<br>
+        登録日: 2025-09-21T04:16:57.881Z<br>
+        更新日: 2025-09-21T04:16:57.881Z<br>
+        クロール日: 2025-09-21T04:16:55.269Z<br>
         <br>
-        <a href="https://diskunion.net/jp/ct/detail/1007033291">商品ページ</a>
+        <a href="https://diskunion.net/jp/ct/detail/1007514758">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AKARI MACHI 町あかり - もぐらたたきのような人(アナログ)]]></title>
-        <id>https://diskunion.net/jp/ct/detail/1007039911</id>
-        <link href="https://diskunion.net/jp/ct/detail/1007039911"/>
-        <updated>2025-09-20T04:16:16.839Z</updated>
+        <title type="html"><![CDATA[MASAHARU FUKUYAMA 福山雅治 - 魂リク]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1006684291</id>
+        <link href="https://diskunion.net/jp/ct/detail/1006684291"/>
+        <updated>2025-09-21T04:16:57.888Z</updated>
         <content type="html"><![CDATA[
-        <b>AKARI MACHI 町あかり - もぐらたたきのような人(アナログ)</b><br>
+        <b>MASAHARU FUKUYAMA 福山雅治 - 魂リク</b><br>
         <br>
-        価格: 2450円<br>
+        価格: 9851円<br>
         盤質: B<br>
         <br>
         <br>
-        ジャンル: 日本のロック<br>
-        レーベル: ExT Recordings<br>
-        フォーマット: 7"(レコード)<br>
-        <br>
-        登録日: 2025-09-20T04:16:16.839Z<br>
-        更新日: 2025-09-20T04:16:16.839Z<br>
-        クロール日: 2025-09-20T04:16:14.618Z<br>
-        <br>
-        <a href="https://diskunion.net/jp/ct/detail/1007039911">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KANKE カンケ - サマー・ブリーズ / レッツ・キス・ベイビー]]></title>
-        <id>https://diskunion.net/jp/ct/detail/1006298072</id>
-        <link href="https://diskunion.net/jp/ct/detail/1006298072"/>
-        <updated>2025-09-20T04:16:16.846Z</updated>
-        <content type="html"><![CDATA[
-        <b>KANKE カンケ - サマー・ブリーズ / レッツ・キス・ベイビー</b><br>
-        <br>
-        価格: 1300円<br>
-        盤質: B+<br>
-        <br>
-        <br>
-        ジャンル: 日本のロック<br>
-        レーベル: THINK! RECORDS<br>
-        フォーマット: 7"(レコード)<br>
-        <br>
-        登録日: 2025-09-20T04:16:16.846Z<br>
-        更新日: 2025-09-20T04:16:16.846Z<br>
-        クロール日: 2025-09-20T04:16:14.618Z<br>
-        <br>
-        <a href="https://diskunion.net/jp/ct/detail/1006298072">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AKIHIRO MIWA 美輪明宏 - 白呪]]></title>
-        <id>https://diskunion.net/jp/ct/detail/DI190109-092</id>
-        <link href="https://diskunion.net/jp/ct/detail/DI190109-092"/>
-        <updated>2025-09-20T04:16:16.889Z</updated>
-        <content type="html"><![CDATA[
-        <b>AKIHIRO MIWA 美輪明宏 - 白呪</b><br>
-        <br>
-        価格: 7300円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: 日本のロック<br>
-        レーベル: ELEC<br>
+        ジャンル: 平成J-POP<br>
+        レーベル: ユニバーサルミュージック<br>
         フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2025-09-20T04:16:16.889Z<br>
-        更新日: 2025-09-20T04:16:16.889Z<br>
-        クロール日: 2025-09-20T04:16:14.619Z<br>
+        登録日: 2025-09-21T04:16:57.888Z<br>
+        更新日: 2025-09-21T04:16:57.888Z<br>
+        クロール日: 2025-09-21T04:16:55.269Z<br>
         <br>
-        <a href="https://diskunion.net/jp/ct/detail/DI190109-092">商品ページ</a>
+        <a href="https://diskunion.net/jp/ct/detail/1006684291">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[T.P.O. (TINY PANX ORGANIZATION) - HIROSHI'S DUB REMIX]]></title>
-        <id>https://diskunion.net/jp/ct/detail/DFS210907-106</id>
-        <link href="https://diskunion.net/jp/ct/detail/DFS210907-106"/>
-        <updated>2025-09-20T04:16:16.919Z</updated>
+        <title type="html"><![CDATA[Southern All Stars サザンオールスターズ - 葡萄(完全生産限定アナログ盤)]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1006551247</id>
+        <link href="https://diskunion.net/jp/ct/detail/1006551247"/>
+        <updated>2025-09-21T04:16:57.902Z</updated>
         <content type="html"><![CDATA[
-        <b>T.P.O. (TINY PANX ORGANIZATION) - HIROSHI'S DUB REMIX</b><br>
+        <b>Southern All Stars サザンオールスターズ - 葡萄(完全生産限定アナログ盤)</b><br>
         <br>
-        価格: 1900円<br>
+        価格: 26850円<br>
         盤質: B<br>
         <br>
         <br>
-        ジャンル: CLUB/DANCE<br>
-        レーベル: ファイル・レコード<br>
-        フォーマット: 12"(レコード)<br>
+        ジャンル: 日本のロック<br>
+        レーベル: ビクターエンタテインメント<br>
+        フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2025-09-20T04:16:16.919Z<br>
-        更新日: 2025-09-20T04:16:16.919Z<br>
-        クロール日: 2025-09-20T04:16:14.619Z<br>
+        登録日: 2025-09-21T04:16:57.902Z<br>
+        更新日: 2025-09-21T04:16:57.902Z<br>
+        クロール日: 2025-09-21T04:16:55.269Z<br>
         <br>
-        <a href="https://diskunion.net/jp/ct/detail/DFS210907-106">商品ページ</a>
+        <a href="https://diskunion.net/jp/ct/detail/1006551247">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GEORGE YANAGI 柳ジョージ - HOT TUNE]]></title>
-        <id>https://diskunion.net/jp/ct/detail/TT-DO1-250911-1009107394</id>
-        <link href="https://diskunion.net/jp/ct/detail/TT-DO1-250911-1009107394"/>
-        <updated>2025-09-20T04:16:16.927Z</updated>
+        <title type="html"><![CDATA[CARMEN MAKI & OZ カルメン・マキ & OZ - 午前1時のスケッチ]]></title>
+        <id>https://diskunion.net/jp/ct/detail/DI180507-178</id>
+        <link href="https://diskunion.net/jp/ct/detail/DI180507-178"/>
+        <updated>2025-09-21T04:16:58.006Z</updated>
         <content type="html"><![CDATA[
-        <b>GEORGE YANAGI 柳ジョージ - HOT TUNE</b><br>
+        <b>CARMEN MAKI & OZ カルメン・マキ & OZ - 午前1時のスケッチ</b><br>
+        <br>
+        価格: 1100円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: ポリドール<br>
+        フォーマット: 7"(レコード)<br>
+        <br>
+        登録日: 2025-09-21T04:16:58.006Z<br>
+        更新日: 2025-09-21T04:16:58.006Z<br>
+        クロール日: 2025-09-21T04:16:55.270Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/DI180507-178">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大映レコーディング・オーケストラ - 任侠女一代]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1005533470</id>
+        <link href="https://diskunion.net/jp/ct/detail/1005533470"/>
+        <updated>2025-09-21T04:16:58.061Z</updated>
+        <content type="html"><![CDATA[
+        <b>大映レコーディング・オーケストラ - 任侠女一代</b><br>
         <br>
         価格: 680円<br>
         盤質: B<br>
         <br>
         <br>
         ジャンル: 日本のロック<br>
-        レーベル: JPOPS<br>
+        レーベル: 大映レコード<br>
         フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2025-09-20T04:16:16.927Z<br>
-        更新日: 2025-09-20T04:16:16.927Z<br>
-        クロール日: 2025-09-20T04:16:14.619Z<br>
+        登録日: 2025-09-21T04:16:58.061Z<br>
+        更新日: 2025-09-21T04:16:58.061Z<br>
+        クロール日: 2025-09-21T04:16:55.270Z<br>
         <br>
-        <a href="https://diskunion.net/jp/ct/detail/TT-DO1-250911-1009107394">商品ページ</a>
+        <a href="https://diskunion.net/jp/ct/detail/1005533470">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KATUSTOSHI MORIZONO 森園勝敏 - ロツクギタ-VOL.2]]></title>
-        <id>https://diskunion.net/jp/ct/detail/DFNRP-SPL-11228</id>
-        <link href="https://diskunion.net/jp/ct/detail/DFNRP-SPL-11228"/>
-        <updated>2025-09-20T04:16:16.941Z</updated>
+        <title type="html"><![CDATA[NOBUYASU OKABAYASHI 岡林信康 - オカバヤシノブヤスノセカイダイ2シ]]></title>
+        <id>https://diskunion.net/jp/ct/detail/DFNRP-SPL-19877</id>
+        <link href="https://diskunion.net/jp/ct/detail/DFNRP-SPL-19877"/>
+        <updated>2025-09-21T04:16:58.107Z</updated>
         <content type="html"><![CDATA[
-        <b>KATUSTOSHI MORIZONO 森園勝敏 - ロツクギタ-VOL.2</b><br>
+        <b>NOBUYASU OKABAYASHI 岡林信康 - オカバヤシノブヤスノセカイダイ2シ</b><br>
         <br>
         価格: 480円<br>
-        盤質: A<br>
+        盤質: B<br>
         <br>
         <br>
         ジャンル: 日本のロック<br>
-        レーベル: フォーライフレコード<br>
+        レーベル: ビクター<br>
         フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2025-09-20T04:16:16.941Z<br>
-        更新日: 2025-09-20T04:16:16.941Z<br>
-        クロール日: 2025-09-20T04:16:14.620Z<br>
+        登録日: 2025-09-21T04:16:58.107Z<br>
+        更新日: 2025-09-21T04:16:58.107Z<br>
+        クロール日: 2025-09-21T04:16:55.295Z<br>
         <br>
-        <a href="https://diskunion.net/jp/ct/detail/DFNRP-SPL-11228">商品ページ</a>
+        <a href="https://diskunion.net/jp/ct/detail/DFNRP-SPL-19877">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KENICHI NAGIRA なぎら健壱 - トベトベドラゴン]]></title>
+        <id>https://diskunion.net/jp/ct/detail/DFNRP-SPL-14905</id>
+        <link href="https://diskunion.net/jp/ct/detail/DFNRP-SPL-14905"/>
+        <updated>2025-09-21T04:16:58.229Z</updated>
+        <content type="html"><![CDATA[
+        <b>KENICHI NAGIRA なぎら健壱 - トベトベドラゴン</b><br>
+        <br>
+        価格: 380円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: ワーナー・パイオニア<br>
+        フォーマット: 7"(レコード)<br>
+        <br>
+        登録日: 2025-09-21T04:16:58.229Z<br>
+        更新日: 2025-09-21T04:16:58.229Z<br>
+        クロール日: 2025-09-21T04:16:55.295Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/DFNRP-SPL-14905">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CARMEN MAKI & OZ カルメン・マキ & OZ - ソラヘ]]></title>
+        <id>https://diskunion.net/jp/ct/detail/DFNRP-SPL-09266</id>
+        <link href="https://diskunion.net/jp/ct/detail/DFNRP-SPL-09266"/>
+        <updated>2025-09-21T04:16:58.309Z</updated>
+        <content type="html"><![CDATA[
+        <b>CARMEN MAKI & OZ カルメン・マキ & OZ - ソラヘ</b><br>
+        <br>
+        価格: 380円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: ポリドール<br>
+        フォーマット: 7"(レコード)<br>
+        <br>
+        登録日: 2025-09-21T04:16:58.309Z<br>
+        更新日: 2025-09-21T04:16:58.309Z<br>
+        クロール日: 2025-09-21T04:16:55.295Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/DFNRP-SPL-09266">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[never young beach - fam fam(LP)]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1008858464</id>
+        <link href="https://diskunion.net/jp/ct/detail/1008858464"/>
+        <updated>2025-09-21T04:16:58.509Z</updated>
+        <content type="html"><![CDATA[
+        <b>never young beach - fam fam(LP)</b><br>
+        <br>
+        価格: 8250円<br>
+        盤質: S<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: Roman Label / BAYON PRODUCTION<br>
+        フォーマット: JPN<br>
+        <br>
+        登録日: 2025-09-21T04:16:58.509Z<br>
+        更新日: 2025-09-21T04:16:58.509Z<br>
+        クロール日: 2025-09-21T04:16:55.297Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1008858464">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RYUSENKEI (流線形) - City Music / シティミュージック]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1008153875</id>
+        <link href="https://diskunion.net/jp/ct/detail/1008153875"/>
+        <updated>2025-09-21T04:16:58.576Z</updated>
+        <content type="html"><![CDATA[
+        <b>RYUSENKEI (流線形) - City Music / シティミュージック</b><br>
+        <br>
+        価格: 4850円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: production dessinee<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2025-09-21T04:16:58.576Z<br>
+        更新日: 2025-09-21T04:16:58.576Z<br>
+        クロール日: 2025-09-21T04:16:55.298Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1008153875">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HARUOMI HOSONO / SHIGERU SUZUKI / TATSURO YAMASHITA 細野晴臣 / 鈴木茂 / 山下達郎 - PACIFIC]]></title>
+        <id>https://diskunion.net/jp/ct/detail/DF170502-119</id>
+        <link href="https://diskunion.net/jp/ct/detail/DF170502-119"/>
+        <updated>2025-09-21T04:16:59.027Z</updated>
+        <content type="html"><![CDATA[
+        <b>HARUOMI HOSONO / SHIGERU SUZUKI / TATSURO YAMASHITA 細野晴臣 / 鈴木茂 / 山下達郎 - PACIFIC</b><br>
+        <br>
+        価格: 5850円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: CBSソニー<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2025-09-21T04:16:59.027Z<br>
+        更新日: 2025-09-21T04:16:59.027Z<br>
+        クロール日: 2025-09-21T04:16:55.299Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/DF170502-119">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EIICHI OHTAKI 大滝詠一 - 恋するカレン]]></title>
+        <id>https://diskunion.net/jp/ct/detail/DFNRP-SPL-25803</id>
+        <link href="https://diskunion.net/jp/ct/detail/DFNRP-SPL-25803"/>
+        <updated>2025-09-21T04:16:59.237Z</updated>
+        <content type="html"><![CDATA[
+        <b>EIICHI OHTAKI 大滝詠一 - 恋するカレン</b><br>
+        <br>
+        価格: 20851円<br>
+        盤質: B+<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: ソニー<br>
+        フォーマット: 7"(レコード)<br>
+        <br>
+        登録日: 2025-09-21T04:16:59.237Z<br>
+        更新日: 2025-09-21T04:16:59.237Z<br>
+        クロール日: 2025-09-21T04:16:55.329Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/DFNRP-SPL-25803">商品ページ</a>
         ]]></content>
     </entry>
 </feed>
