@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2025-10-30T04:17:42.865Z</updated>
+    <updated>2025-10-31T04:19:31.253Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,4 +11,50 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_outlet-analog-1.xml"/>
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
+    <entry>
+        <title type="html"><![CDATA[OASIS オアシス - THE MASTERPLAN / ザ・マスタープラン]]></title>
+        <id>https://diskunion.net/indiealt/ct/detail/XAT-1245761008</id>
+        <link href="https://diskunion.net/indiealt/ct/detail/XAT-1245761008"/>
+        <updated>2025-10-31T04:08:43.250Z</updated>
+        <content type="html"><![CDATA[
+        <b>OASIS オアシス - THE MASTERPLAN / ザ・マスタープラン</b><br>
+        <br>
+        価格: 3900円<br>
+        盤質: OUTLET<br>
+        割引率: 40%<br>
+        <br>
+        ジャンル: ROCK / POPS / INDIE<br>
+        レーベル: ソニー・ミュージックレーベルズ<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2025-10-31T04:08:43.250Z<br>
+        更新日: 2025-10-31T04:08:43.250Z<br>
+        クロール日: 2025-10-31T04:08:42.745Z<br>
+        <br>
+        <a href="https://diskunion.net/indiealt/ct/detail/XAT-1245761008">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[STONE ROSES ストーン・ローゼズ - SECOND COMING (2LP)]]></title>
+        <id>https://diskunion.net/indiealt/ct/detail/AW120622SR2-001</id>
+        <link href="https://diskunion.net/indiealt/ct/detail/AW120622SR2-001"/>
+        <updated>2025-10-31T04:08:43.259Z</updated>
+        <content type="html"><![CDATA[
+        <b>STONE ROSES ストーン・ローゼズ - SECOND COMING (2LP)</b><br>
+        <br>
+        価格: 4840円<br>
+        盤質: OUTLET<br>
+        割引率: 20%<br>
+        <br>
+        ジャンル: ROCK / POPS / INDIE<br>
+        レーベル: UNIVERSAL<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2025-10-31T04:08:43.259Z<br>
+        更新日: 2025-10-31T04:08:43.259Z<br>
+        クロール日: 2025-10-31T04:08:42.745Z<br>
+        <br>
+        <a href="https://diskunion.net/indiealt/ct/detail/AW120622SR2-001">商品ページ</a>
+        ]]></content>
+    </entry>
 </feed>
