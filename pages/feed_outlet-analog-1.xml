@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2025-11-19T04:19:01.855Z</updated>
+    <updated>2025-11-20T04:19:15.790Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,4 +11,27 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_outlet-analog-1.xml"/>
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
+    <entry>
+        <title type="html"><![CDATA[CLIFF TAYLOR - LOVE'S FOOLS / ANOTHER DAY IN IPANEMA (7")]]></title>
+        <id>https://diskunion.net/indiealt/ct/detail/1009043561</id>
+        <link href="https://diskunion.net/indiealt/ct/detail/1009043561"/>
+        <updated>2025-11-20T04:07:26.915Z</updated>
+        <content type="html"><![CDATA[
+        <b>CLIFF TAYLOR - LOVE'S FOOLS / ANOTHER DAY IN IPANEMA (7")</b><br>
+        <br>
+        価格: 1782円<br>
+        盤質: OUTLET<br>
+        割引率: 40%<br>
+        <br>
+        ジャンル: SOUL/BLUES/GOSPEL<br>
+        レーベル: PLANET HO<br>
+        フォーマット: 7"(レコード)<br>
+        <br>
+        登録日: 2025-11-20T04:07:26.915Z<br>
+        更新日: 2025-11-20T04:07:26.915Z<br>
+        クロール日: 2025-11-20T04:07:26.364Z<br>
+        <br>
+        <a href="https://diskunion.net/indiealt/ct/detail/1009043561">商品ページ</a>
+        ]]></content>
+    </entry>
 </feed>
