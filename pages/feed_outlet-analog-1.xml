@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2025-12-05T04:24:13.576Z</updated>
+    <updated>2025-12-06T04:32:28.858Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,96 +11,4 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_outlet-analog-1.xml"/>
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
-    <entry>
-        <title type="html"><![CDATA[VEGTABLE - THROUGH THE MOTIONS (LP)]]></title>
-        <id>https://diskunion.net/indiealt/ct/detail/1008998894</id>
-        <link href="https://diskunion.net/indiealt/ct/detail/1008998894"/>
-        <updated>2025-12-05T04:14:02.911Z</updated>
-        <content type="html"><![CDATA[
-        <b>VEGTABLE - THROUGH THE MOTIONS (LP)</b><br>
-        <br>
-        価格: 2600円<br>
-        盤質: A<br>
-        割引率: 15%<br>
-        <br>
-        ジャンル: SOUL/BLUES/GOSPEL<br>
-        レーベル: Big Romantic Records<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2025-12-05T04:14:02.911Z<br>
-        更新日: 2025-12-05T04:14:02.911Z<br>
-        クロール日: 2025-12-05T04:13:57.978Z<br>
-        <br>
-        <a href="https://diskunion.net/indiealt/ct/detail/1008998894">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BRAINSTORY ブレインストーリー - BUCK (LP)]]></title>
-        <id>https://diskunion.net/indiealt/ct/detail/DI200306-020</id>
-        <link href="https://diskunion.net/indiealt/ct/detail/DI200306-020"/>
-        <updated>2025-12-05T04:14:02.924Z</updated>
-        <content type="html"><![CDATA[
-        <b>BRAINSTORY ブレインストーリー - BUCK (LP)</b><br>
-        <br>
-        価格: 1609円<br>
-        盤質: OUTLET<br>
-        割引率: 55%<br>
-        <br>
-        ジャンル: SOUL/BLUES/GOSPEL<br>
-        レーベル: BIG CROWN<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2025-12-05T04:14:02.924Z<br>
-        更新日: 2025-12-05T04:14:02.924Z<br>
-        クロール日: 2025-12-05T04:13:57.978Z<br>
-        <br>
-        <a href="https://diskunion.net/indiealt/ct/detail/DI200306-020">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JUKJAE - VOL.3 (CLICHE) (LP)]]></title>
-        <id>https://diskunion.net/indiealt/ct/detail/1008944505</id>
-        <link href="https://diskunion.net/indiealt/ct/detail/1008944505"/>
-        <updated>2025-12-05T04:14:02.938Z</updated>
-        <content type="html"><![CDATA[
-        <b>JUKJAE - VOL.3 (CLICHE) (LP)</b><br>
-        <br>
-        価格: 5950円<br>
-        盤質: B+<br>
-        割引率: 15%<br>
-        <br>
-        ジャンル: SOUL/BLUES/GOSPEL<br>
-        レーベル: KAKAO ENTERTAINMENT<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2025-12-05T04:14:02.938Z<br>
-        更新日: 2025-12-05T04:14:02.938Z<br>
-        クロール日: 2025-12-05T04:13:57.979Z<br>
-        <br>
-        <a href="https://diskunion.net/indiealt/ct/detail/1008944505">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[V.A. (FAT WRECK CHORDS) - THE SONGS OF TONY SLY: A TRIBUTE (2LP)]]></title>
-        <id>https://diskunion.net/punk/ct/detail/PNK1310-043</id>
-        <link href="https://diskunion.net/punk/ct/detail/PNK1310-043"/>
-        <updated>2025-12-05T04:14:42.402Z</updated>
-        <content type="html"><![CDATA[
-        <b>V.A. (FAT WRECK CHORDS) - THE SONGS OF TONY SLY: A TRIBUTE (2LP)</b><br>
-        <br>
-        価格: 3850円<br>
-        盤質: OUTLET<br>
-        割引率: 30%<br>
-        <br>
-        ジャンル: PUNK<br>
-        レーベル: FAT WRECK CHORDS<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2025-12-05T04:14:42.402Z<br>
-        更新日: 2025-12-05T04:14:42.402Z<br>
-        クロール日: 2025-12-05T04:14:42.207Z<br>
-        <br>
-        <a href="https://diskunion.net/punk/ct/detail/PNK1310-043">商品ページ</a>
-        ]]></content>
-    </entry>
 </feed>
