@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2025-12-24T04:30:45.739Z</updated>
+    <updated>2025-12-25T04:30:32.660Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,27 +11,4 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_outlet-analog-1.xml"/>
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
-    <entry>
-        <title type="html"><![CDATA[QUADECA - VANISHER,HORIZON SCRAPER (WHITE VINYL)]]></title>
-        <id>https://diskunion.net/indiealt/ct/detail/1009094989</id>
-        <link href="https://diskunion.net/indiealt/ct/detail/1009094989"/>
-        <updated>2025-12-24T04:17:09.653Z</updated>
-        <content type="html"><![CDATA[
-        <b>QUADECA - VANISHER,HORIZON SCRAPER (WHITE VINYL)</b><br>
-        <br>
-        価格: 6221円<br>
-        盤質: OUTLET<br>
-        割引率: 35%<br>
-        <br>
-        ジャンル: SOUL/BLUES/GOSPEL<br>
-        レーベル: X8<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2025-12-24T04:17:09.653Z<br>
-        更新日: 2025-12-24T04:17:09.653Z<br>
-        クロール日: 2025-12-24T04:17:09.126Z<br>
-        <br>
-        <a href="https://diskunion.net/indiealt/ct/detail/1009094989">商品ページ</a>
-        ]]></content>
-    </entry>
 </feed>
