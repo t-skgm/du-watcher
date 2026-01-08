@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2026-01-07T04:33:22.023Z</updated>
+    <updated>2026-01-08T04:34:00.175Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,4 +11,50 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_outlet-analog-1.xml"/>
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
+    <entry>
+        <title type="html"><![CDATA[LIAM GALLAGHER リアム・ギャラガー - AS YOU WERE (NATIONAL ALBUM DAY 2025 LP)]]></title>
+        <id>https://diskunion.net/indiealt/ct/detail/1009118045</id>
+        <link href="https://diskunion.net/indiealt/ct/detail/1009118045"/>
+        <updated>2026-01-08T04:20:20.373Z</updated>
+        <content type="html"><![CDATA[
+        <b>LIAM GALLAGHER リアム・ギャラガー - AS YOU WERE (NATIONAL ALBUM DAY 2025 LP)</b><br>
+        <br>
+        価格: 4351円<br>
+        盤質: A<br>
+        割引率: 25%<br>
+        <br>
+        ジャンル: ROCK / POPS / INDIE<br>
+        レーベル: WM UK<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-01-08T04:20:20.373Z<br>
+        更新日: 2026-01-08T04:20:20.373Z<br>
+        クロール日: 2026-01-08T04:20:19.830Z<br>
+        <br>
+        <a href="https://diskunion.net/indiealt/ct/detail/1009118045">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MT. FUJITIVE マウント・フジティヴ - AFTERLIFE - LIMITED GREEN MARBLED LP]]></title>
+        <id>https://diskunion.net/indiealt/ct/detail/1008933629</id>
+        <link href="https://diskunion.net/indiealt/ct/detail/1008933629"/>
+        <updated>2026-01-08T04:20:24.568Z</updated>
+        <content type="html"><![CDATA[
+        <b>MT. FUJITIVE マウント・フジティヴ - AFTERLIFE - LIMITED GREEN MARBLED LP</b><br>
+        <br>
+        価格: 2950円<br>
+        盤質: A<br>
+        割引率: 30%<br>
+        <br>
+        ジャンル: LATIN/BRAZIL/WORLD<br>
+        レーベル: ALDA MUSIC<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-01-08T04:20:24.568Z<br>
+        更新日: 2026-01-08T04:20:24.568Z<br>
+        クロール日: 2026-01-08T04:20:20.251Z<br>
+        <br>
+        <a href="https://diskunion.net/indiealt/ct/detail/1008933629">商品ページ</a>
+        ]]></content>
+    </entry>
 </feed>
