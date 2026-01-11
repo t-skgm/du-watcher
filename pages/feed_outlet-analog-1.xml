@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2026-01-10T04:29:26.790Z</updated>
+    <updated>2026-01-11T04:38:19.623Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,50 +11,4 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_outlet-analog-1.xml"/>
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
-    <entry>
-        <title type="html"><![CDATA[HEADACHE (VEGYN/FRANCIS HORNSBY CLARK) - THANKS YOU FOR ALMOST EVERYTHING]]></title>
-        <id>https://diskunion.net/indiealt/ct/detail/1009116158</id>
-        <link href="https://diskunion.net/indiealt/ct/detail/1009116158"/>
-        <updated>2026-01-10T04:15:59.148Z</updated>
-        <content type="html"><![CDATA[
-        <b>HEADACHE (VEGYN/FRANCIS HORNSBY CLARK) - THANKS YOU FOR ALMOST EVERYTHING</b><br>
-        <br>
-        価格: 4444円<br>
-        盤質: OUTLET<br>
-        割引率: 20%<br>
-        <br>
-        ジャンル: CLUB/DANCE<br>
-        レーベル: PLZ MAKE IT RUINS<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-01-10T04:15:59.148Z<br>
-        更新日: 2026-01-10T04:15:59.148Z<br>
-        クロール日: 2026-01-10T04:15:58.426Z<br>
-        <br>
-        <a href="https://diskunion.net/indiealt/ct/detail/1009116158">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TERRY CALLIER テリー・キャリアー - LOOK AT ME NOW (7")]]></title>
-        <id>https://diskunion.net/indiealt/ct/detail/1009046887</id>
-        <link href="https://diskunion.net/indiealt/ct/detail/1009046887"/>
-        <updated>2026-01-10T04:16:01.156Z</updated>
-        <content type="html"><![CDATA[
-        <b>TERRY CALLIER テリー・キャリアー - LOOK AT ME NOW (7")</b><br>
-        <br>
-        価格: 2475円<br>
-        盤質: OUTLET<br>
-        割引率: 10%<br>
-        <br>
-        ジャンル: SOUL/BLUES/GOSPEL<br>
-        レーベル: OUTTA SIGHT<br>
-        フォーマット: 7"(レコード)<br>
-        <br>
-        登録日: 2026-01-10T04:16:01.156Z<br>
-        更新日: 2026-01-10T04:16:01.156Z<br>
-        クロール日: 2026-01-10T04:15:58.662Z<br>
-        <br>
-        <a href="https://diskunion.net/indiealt/ct/detail/1009046887">商品ページ</a>
-        ]]></content>
-    </entry>
 </feed>
