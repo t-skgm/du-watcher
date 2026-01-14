@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2026-01-13T04:31:25.209Z</updated>
+    <updated>2026-01-14T04:36:04.460Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,4 +11,50 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_outlet-analog-1.xml"/>
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
+    <entry>
+        <title type="html"><![CDATA[MOGWAI モグワイ - YOUNG TEAM (REMASTERED 2022)]]></title>
+        <id>https://diskunion.net/indiealt/ct/detail/1008572324</id>
+        <link href="https://diskunion.net/indiealt/ct/detail/1008572324"/>
+        <updated>2026-01-14T04:24:40.161Z</updated>
+        <content type="html"><![CDATA[
+        <b>MOGWAI モグワイ - YOUNG TEAM (REMASTERED 2022)</b><br>
+        <br>
+        価格: 5456円<br>
+        盤質: OUTLET<br>
+        割引率: 20%<br>
+        <br>
+        ジャンル: ROCK / POPS / INDIE<br>
+        レーベル: CHEMIKAL UNDERGROUND<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-01-14T04:24:40.161Z<br>
+        更新日: 2026-01-14T04:24:40.161Z<br>
+        クロール日: 2026-01-14T04:24:39.567Z<br>
+        <br>
+        <a href="https://diskunion.net/indiealt/ct/detail/1008572324">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[downt - Underlight & Aftertime (CASSETTE)]]></title>
+        <id>https://diskunion.net/punk/ct/detail/1008827568</id>
+        <link href="https://diskunion.net/punk/ct/detail/1008827568"/>
+        <updated>2026-01-14T04:25:29.259Z</updated>
+        <content type="html"><![CDATA[
+        <b>downt - Underlight & Aftertime (CASSETTE)</b><br>
+        <br>
+        価格: 2475円<br>
+        盤質: OUTLET<br>
+        割引率: 10%<br>
+        <br>
+        ジャンル: PUNK<br>
+        レーベル: P-VINE<br>
+        フォーマット: CASSETTE TAPE<br>
+        <br>
+        登録日: 2026-01-14T04:25:29.259Z<br>
+        更新日: 2026-01-14T04:25:29.259Z<br>
+        クロール日: 2026-01-14T04:25:28.907Z<br>
+        <br>
+        <a href="https://diskunion.net/punk/ct/detail/1008827568">商品ページ</a>
+        ]]></content>
+    </entry>
 </feed>
