@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2026-02-23T05:00:49.878Z</updated>
+    <updated>2026-02-24T04:54:02.887Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,4 +11,50 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_outlet-analog-1.xml"/>
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
+    <entry>
+        <title type="html"><![CDATA[DICK SPIKIE ディックスパイキー - BEST OF 1998 TO 1999 (LP)]]></title>
+        <id>https://diskunion.net/punk/ct/detail/1008940918</id>
+        <link href="https://diskunion.net/punk/ct/detail/1008940918"/>
+        <updated>2026-02-24T04:40:05.613Z</updated>
+        <content type="html"><![CDATA[
+        <b>DICK SPIKIE ディックスパイキー - BEST OF 1998 TO 1999 (LP)</b><br>
+        <br>
+        価格: 880円<br>
+        盤質: OUTLET<br>
+        割引率: 0%<br>
+        <br>
+        ジャンル: PUNK<br>
+        レーベル: PUKE N VOMIT<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-02-24T04:40:05.613Z<br>
+        更新日: 2026-02-24T04:40:05.613Z<br>
+        クロール日: 2026-02-24T04:40:04.253Z<br>
+        <br>
+        <a href="https://diskunion.net/punk/ct/detail/1008940918">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VERBAL ABUSE - HOPE IS A LACK OF INFORMATION (LP)]]></title>
+        <id>https://diskunion.net/punk/ct/detail/1008963409</id>
+        <link href="https://diskunion.net/punk/ct/detail/1008963409"/>
+        <updated>2026-02-24T04:40:07.075Z</updated>
+        <content type="html"><![CDATA[
+        <b>VERBAL ABUSE - HOPE IS A LACK OF INFORMATION (LP)</b><br>
+        <br>
+        価格: 880円<br>
+        盤質: OUTLET<br>
+        割引率: 0%<br>
+        <br>
+        ジャンル: PUNK<br>
+        レーベル: MALT SODA<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-02-24T04:40:07.075Z<br>
+        更新日: 2026-02-24T04:40:07.075Z<br>
+        クロール日: 2026-02-24T04:40:04.425Z<br>
+        <br>
+        <a href="https://diskunion.net/punk/ct/detail/1008963409">商品ページ</a>
+        ]]></content>
+    </entry>
 </feed>
