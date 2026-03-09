@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2026-03-08T04:52:27.678Z</updated>
+    <updated>2026-03-09T04:52:29.503Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,4 +11,50 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_outlet-analog-1.xml"/>
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
+    <entry>
+        <title type="html"><![CDATA[R.D.A. - BRAVE UNITED IN TRUST (LP)]]></title>
+        <id>https://diskunion.net/punk/ct/detail/1009046087</id>
+        <link href="https://diskunion.net/punk/ct/detail/1009046087"/>
+        <updated>2026-03-09T04:40:31.688Z</updated>
+        <content type="html"><![CDATA[
+        <b>R.D.A. - BRAVE UNITED IN TRUST (LP)</b><br>
+        <br>
+        価格: 3157円<br>
+        盤質: OUTLET<br>
+        割引率: 30%<br>
+        <br>
+        ジャンル: PUNK<br>
+        レーベル: PUKE N VOMIT<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-03-09T04:40:31.688Z<br>
+        更新日: 2026-03-09T04:40:31.688Z<br>
+        クロール日: 2026-03-09T04:40:31.386Z<br>
+        <br>
+        <a href="https://diskunion.net/punk/ct/detail/1009046087">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EMSCHERKURVE 77 - LERN MA DEUTSCH! UND ANDERE LEKTIONEN (2LP)]]></title>
+        <id>https://diskunion.net/punk/ct/detail/1009063281</id>
+        <link href="https://diskunion.net/punk/ct/detail/1009063281"/>
+        <updated>2026-03-09T04:40:31.696Z</updated>
+        <content type="html"><![CDATA[
+        <b>EMSCHERKURVE 77 - LERN MA DEUTSCH! UND ANDERE LEKTIONEN (2LP)</b><br>
+        <br>
+        価格: 3619円<br>
+        盤質: OUTLET<br>
+        割引率: 30%<br>
+        <br>
+        ジャンル: PUNK<br>
+        レーベル: SUNNY BASTARDS<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-03-09T04:40:31.696Z<br>
+        更新日: 2026-03-09T04:40:31.696Z<br>
+        クロール日: 2026-03-09T04:40:31.386Z<br>
+        <br>
+        <a href="https://diskunion.net/punk/ct/detail/1009063281">商品ページ</a>
+        ]]></content>
+    </entry>
 </feed>
