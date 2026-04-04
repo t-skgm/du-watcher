@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2026-04-03T05:03:53.072Z</updated>
+    <updated>2026-04-04T04:36:02.822Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,27 +11,4 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_outlet-analog-1.xml"/>
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
-    <entry>
-        <title type="html"><![CDATA[SHUDDER TO THINK シャダー・トゥー・シンク - FIRST LOVE, LAST RITES MUSIC FROM THE MOTION PICTURE (LP)]]></title>
-        <id>https://diskunion.net/punk/ct/detail/1009018645</id>
-        <link href="https://diskunion.net/punk/ct/detail/1009018645"/>
-        <updated>2026-04-03T04:50:31.121Z</updated>
-        <content type="html"><![CDATA[
-        <b>SHUDDER TO THINK シャダー・トゥー・シンク - FIRST LOVE, LAST RITES MUSIC FROM THE MOTION PICTURE (LP)</b><br>
-        <br>
-        価格: 5720円<br>
-        盤質: OUTLET<br>
-        割引率: 20%<br>
-        <br>
-        ジャンル: PUNK<br>
-        レーベル: LEGACY<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-04-03T04:50:31.121Z<br>
-        更新日: 2026-04-03T04:50:31.121Z<br>
-        クロール日: 2026-04-03T04:50:30.931Z<br>
-        <br>
-        <a href="https://diskunion.net/punk/ct/detail/1009018645">商品ページ</a>
-        ]]></content>
-    </entry>
 </feed>
