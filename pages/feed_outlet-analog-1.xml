@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2026-04-07T05:04:32.431Z</updated>
+    <updated>2026-04-08T05:08:10.156Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,73 +11,4 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_outlet-analog-1.xml"/>
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
-    <entry>
-        <title type="html"><![CDATA[BOARDS OF CANADA ボーズ・オブ・カナダ - TOMORROW'S HARVEST]]></title>
-        <id>https://diskunion.net/indiealt/ct/detail/CM-0043906</id>
-        <link href="https://diskunion.net/indiealt/ct/detail/CM-0043906"/>
-        <updated>2026-04-07T04:52:17.941Z</updated>
-        <content type="html"><![CDATA[
-        <b>BOARDS OF CANADA ボーズ・オブ・カナダ - TOMORROW'S HARVEST</b><br>
-        <br>
-        価格: 4604円<br>
-        盤質: OUTLET<br>
-        割引率: 10%<br>
-        <br>
-        ジャンル: CLUB/DANCE<br>
-        レーベル: WARP<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-04-07T04:52:17.941Z<br>
-        更新日: 2026-04-07T04:52:17.941Z<br>
-        クロール日: 2026-04-07T04:52:17.329Z<br>
-        <br>
-        <a href="https://diskunion.net/indiealt/ct/detail/CM-0043906">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VITALIC ヴァイタリック - OK COWBOY 20Y (2LP)]]></title>
-        <id>https://diskunion.net/indiealt/ct/detail/1009135542</id>
-        <link href="https://diskunion.net/indiealt/ct/detail/1009135542"/>
-        <updated>2026-04-07T04:52:17.952Z</updated>
-        <content type="html"><![CDATA[
-        <b>VITALIC ヴァイタリック - OK COWBOY 20Y (2LP)</b><br>
-        <br>
-        価格: 5300円<br>
-        盤質: S<br>
-        割引率: 10%<br>
-        <br>
-        ジャンル: CLUB/DANCE<br>
-        レーベル: CITIZEN<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-04-07T04:52:17.951Z<br>
-        更新日: 2026-04-07T04:52:17.952Z<br>
-        クロール日: 2026-04-07T04:52:17.329Z<br>
-        <br>
-        <a href="https://diskunion.net/indiealt/ct/detail/1009135542">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IWDG - IN A LONELY PLACE (12")]]></title>
-        <id>https://diskunion.net/indiealt/ct/detail/1009102911</id>
-        <link href="https://diskunion.net/indiealt/ct/detail/1009102911"/>
-        <updated>2026-04-07T04:52:17.971Z</updated>
-        <content type="html"><![CDATA[
-        <b>IWDG - IN A LONELY PLACE (12")</b><br>
-        <br>
-        価格: 2080円<br>
-        盤質: S<br>
-        割引率: 10%<br>
-        <br>
-        ジャンル: CLUB/DANCE<br>
-        レーベル: ROTTERS GOLF CLUB<br>
-        フォーマット: 12"(レコード)<br>
-        <br>
-        登録日: 2026-04-07T04:52:17.971Z<br>
-        更新日: 2026-04-07T04:52:17.971Z<br>
-        クロール日: 2026-04-07T04:52:17.329Z<br>
-        <br>
-        <a href="https://diskunion.net/indiealt/ct/detail/1009102911">商品ページ</a>
-        ]]></content>
-    </entry>
 </feed>
