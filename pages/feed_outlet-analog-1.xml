@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2026-04-08T05:08:10.156Z</updated>
+    <updated>2026-04-09T05:07:34.237Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,4 +11,50 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_outlet-analog-1.xml"/>
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
+    <entry>
+        <title type="html"><![CDATA[CRUCIAL SECTION - Clear Eyes]]></title>
+        <id>https://diskunion.net/punk/ct/detail/1008860749</id>
+        <link href="https://diskunion.net/punk/ct/detail/1008860749"/>
+        <updated>2026-04-09T04:52:30.260Z</updated>
+        <content type="html"><![CDATA[
+        <b>CRUCIAL SECTION - Clear Eyes</b><br>
+        <br>
+        価格: 330円<br>
+        盤質: OUTLET<br>
+        割引率: 0%<br>
+        <br>
+        ジャンル: PUNK<br>
+        レーベル: CREW FOR LIFE<br>
+        フォーマット: 7"(レコード)<br>
+        <br>
+        登録日: 2026-04-09T04:52:30.260Z<br>
+        更新日: 2026-04-09T04:52:30.260Z<br>
+        クロール日: 2026-04-09T04:52:28.524Z<br>
+        <br>
+        <a href="https://diskunion.net/punk/ct/detail/1008860749">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CHILD OF PANOPTES - CHILD OF PANOPTES]]></title>
+        <id>https://diskunion.net/punk/ct/detail/1008773035</id>
+        <link href="https://diskunion.net/punk/ct/detail/1008773035"/>
+        <updated>2026-04-09T04:52:30.831Z</updated>
+        <content type="html"><![CDATA[
+        <b>CHILD OF PANOPTES - CHILD OF PANOPTES</b><br>
+        <br>
+        価格: 550円<br>
+        盤質: OUTLET<br>
+        割引率: 0%<br>
+        <br>
+        ジャンル: PUNK<br>
+        レーベル: SOUNDFLAT RECORDS<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-04-09T04:52:30.831Z<br>
+        更新日: 2026-04-09T04:52:30.831Z<br>
+        クロール日: 2026-04-09T04:52:28.600Z<br>
+        <br>
+        <a href="https://diskunion.net/punk/ct/detail/1008773035">商品ページ</a>
+        ]]></content>
+    </entry>
 </feed>
