@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2026-04-16T05:17:11.064Z</updated>
+    <updated>2026-04-17T05:15:18.596Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,4 +11,73 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_outlet-analog-1.xml"/>
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
+    <entry>
+        <title type="html"><![CDATA[BRUIT (PROG: FRA) - MONOLITH: LIMITED VINYL]]></title>
+        <id>https://diskunion.net/indiealt/ct/detail/1009147259</id>
+        <link href="https://diskunion.net/indiealt/ct/detail/1009147259"/>
+        <updated>2026-04-17T05:03:24.098Z</updated>
+        <content type="html"><![CDATA[
+        <b>BRUIT (PROG: FRA) - MONOLITH: LIMITED VINYL</b><br>
+        <br>
+        価格: 3960円<br>
+        盤質: OUTLET<br>
+        割引率: 10%<br>
+        <br>
+        ジャンル: PROGRESSIVE ROCK<br>
+        レーベル: PELAGIC<br>
+        フォーマット: 12"(レコード)<br>
+        <br>
+        登録日: 2026-04-17T05:03:24.098Z<br>
+        更新日: 2026-04-17T05:03:24.098Z<br>
+        クロール日: 2026-04-17T05:03:23.417Z<br>
+        <br>
+        <a href="https://diskunion.net/indiealt/ct/detail/1009147259">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TIDES FROM NEBULA - FROM VOODOO TO ZEN: LIMITED CLEAR SPLATTER COLOR VINYL]]></title>
+        <id>https://diskunion.net/indiealt/ct/detail/1009144161</id>
+        <link href="https://diskunion.net/indiealt/ct/detail/1009144161"/>
+        <updated>2026-04-17T05:03:24.105Z</updated>
+        <content type="html"><![CDATA[
+        <b>TIDES FROM NEBULA - FROM VOODOO TO ZEN: LIMITED CLEAR SPLATTER COLOR VINYL</b><br>
+        <br>
+        価格: 5742円<br>
+        盤質: OUTLET<br>
+        割引率: 10%<br>
+        <br>
+        ジャンル: PROGRESSIVE ROCK<br>
+        レーベル: MYSTIC PRODUCTION<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-04-17T05:03:24.105Z<br>
+        更新日: 2026-04-17T05:03:24.105Z<br>
+        クロール日: 2026-04-17T05:03:23.417Z<br>
+        <br>
+        <a href="https://diskunion.net/indiealt/ct/detail/1009144161">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GREYWIND - SEVERED HEART CITY: TURQUOISE COLOR VINYL]]></title>
+        <id>https://diskunion.net/punk/ct/detail/1009102757</id>
+        <link href="https://diskunion.net/punk/ct/detail/1009102757"/>
+        <updated>2026-04-17T05:04:06.460Z</updated>
+        <content type="html"><![CDATA[
+        <b>GREYWIND - SEVERED HEART CITY: TURQUOISE COLOR VINYL</b><br>
+        <br>
+        価格: 5544円<br>
+        盤質: OUTLET<br>
+        割引率: 10%<br>
+        <br>
+        ジャンル: PROGRESSIVE ROCK<br>
+        レーベル: FRONTIERS<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-04-17T05:04:06.460Z<br>
+        更新日: 2026-04-17T05:04:06.460Z<br>
+        クロール日: 2026-04-17T05:04:06.271Z<br>
+        <br>
+        <a href="https://diskunion.net/punk/ct/detail/1009102757">商品ページ</a>
+        ]]></content>
+    </entry>
 </feed>
