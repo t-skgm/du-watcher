@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2026-05-09T05:22:50.361Z</updated>
+    <updated>2026-05-10T05:31:43.142Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,50 +11,4 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_outlet-analog-1.xml"/>
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
-    <entry>
-        <title type="html"><![CDATA[ORIGINAL SOUNDTRACK オリジナル・サウンドトラック - PRETTY IN PINK(ORIGINAL SOUNDTRACK)]]></title>
-        <id>https://diskunion.net/indiealt/ct/detail/1009179818</id>
-        <link href="https://diskunion.net/indiealt/ct/detail/1009179818"/>
-        <updated>2026-05-09T05:09:05.295Z</updated>
-        <content type="html"><![CDATA[
-        <b>ORIGINAL SOUNDTRACK オリジナル・サウンドトラック - PRETTY IN PINK(ORIGINAL SOUNDTRACK)</b><br>
-        <br>
-        価格: 6534円<br>
-        盤質: WEB特別価格<br>
-        割引率: 10%<br>
-        <br>
-        ジャンル: 映画DVD・Blu-ray(ブルーレイ)／サントラ<br>
-        レーベル: UMR / Polydor<br>
-        フォーマット: IMPORT<br>
-        <br>
-        登録日: 2026-05-09T05:09:05.295Z<br>
-        更新日: 2026-05-09T05:09:05.295Z<br>
-        クロール日: 2026-05-09T05:08:59.925Z<br>
-        <br>
-        <a href="https://diskunion.net/indiealt/ct/detail/1009179818">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ORIGINAL SOUNDTRACK オリジナル・サウンドトラック - WILLIAM SHAKESPEARE'S ROMEO + JULIET]]></title>
-        <id>https://diskunion.net/indiealt/ct/detail/XATW-00135253</id>
-        <link href="https://diskunion.net/indiealt/ct/detail/XATW-00135253"/>
-        <updated>2026-05-09T05:09:05.342Z</updated>
-        <content type="html"><![CDATA[
-        <b>ORIGINAL SOUNDTRACK オリジナル・サウンドトラック - WILLIAM SHAKESPEARE'S ROMEO + JULIET</b><br>
-        <br>
-        価格: 5643円<br>
-        盤質: WEB特別価格<br>
-        割引率: 10%<br>
-        <br>
-        ジャンル: 映画DVD・Blu-ray(ブルーレイ)／サントラ<br>
-        レーベル: CAPITOL<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-05-09T05:09:05.342Z<br>
-        更新日: 2026-05-09T05:09:05.342Z<br>
-        クロール日: 2026-05-09T05:08:59.926Z<br>
-        <br>
-        <a href="https://diskunion.net/indiealt/ct/detail/XATW-00135253">商品ページ</a>
-        ]]></content>
-    </entry>
 </feed>
