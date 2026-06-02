@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2026-06-01T05:59:17.629Z</updated>
+    <updated>2026-06-02T05:52:56.722Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,4 +11,73 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_outlet-analog-1.xml"/>
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
+    <entry>
+        <title type="html"><![CDATA[CAROLINE (INDIE ROCK) - caroline(LP)]]></title>
+        <id>https://diskunion.net/indiealt/ct/detail/1008397721</id>
+        <link href="https://diskunion.net/indiealt/ct/detail/1008397721"/>
+        <updated>2026-06-02T05:40:34.238Z</updated>
+        <content type="html"><![CDATA[
+        <b>CAROLINE (INDIE ROCK) - caroline(LP)</b><br>
+        <br>
+        価格: 3234円<br>
+        盤質: OUTLET<br>
+        割引率: 30%<br>
+        <br>
+        ジャンル: ROCK / POPS / INDIE<br>
+        レーベル: ROUGH TRADE<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-06-02T05:40:34.238Z<br>
+        更新日: 2026-06-02T05:40:34.238Z<br>
+        クロール日: 2026-06-02T05:40:33.271Z<br>
+        <br>
+        <a href="https://diskunion.net/indiealt/ct/detail/1008397721">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SLOWDIVE スロウダイヴ - PYGMALION (140G BLACK BIO VINYL)]]></title>
+        <id>https://diskunion.net/indiealt/ct/detail/1009018831</id>
+        <link href="https://diskunion.net/indiealt/ct/detail/1009018831"/>
+        <updated>2026-06-02T05:40:34.246Z</updated>
+        <content type="html"><![CDATA[
+        <b>SLOWDIVE スロウダイヴ - PYGMALION (140G BLACK BIO VINYL)</b><br>
+        <br>
+        価格: 3432円<br>
+        盤質: OUTLET<br>
+        割引率: 35%<br>
+        <br>
+        ジャンル: ROCK / POPS / INDIE<br>
+        レーベル: SONY MUSIC CG<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-06-02T05:40:34.246Z<br>
+        更新日: 2026-06-02T05:40:34.246Z<br>
+        クロール日: 2026-06-02T05:40:33.271Z<br>
+        <br>
+        <a href="https://diskunion.net/indiealt/ct/detail/1009018831">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CORAL コーラル - MAGIC & MEDICINE (VINYL)]]></title>
+        <id>https://diskunion.net/indiealt/ct/detail/1009103413</id>
+        <link href="https://diskunion.net/indiealt/ct/detail/1009103413"/>
+        <updated>2026-06-02T05:40:34.253Z</updated>
+        <content type="html"><![CDATA[
+        <b>CORAL コーラル - MAGIC & MEDICINE (VINYL)</b><br>
+        <br>
+        価格: 3465円<br>
+        盤質: OUTLET<br>
+        割引率: 25%<br>
+        <br>
+        ジャンル: ROCK / POPS / INDIE<br>
+        レーベル: DELTASONIC<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-06-02T05:40:34.253Z<br>
+        更新日: 2026-06-02T05:40:34.253Z<br>
+        クロール日: 2026-06-02T05:40:33.272Z<br>
+        <br>
+        <a href="https://diskunion.net/indiealt/ct/detail/1009103413">商品ページ</a>
+        ]]></content>
+    </entry>
 </feed>
