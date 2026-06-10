@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2026-06-09T05:38:17.859Z</updated>
+    <updated>2026-06-10T05:47:33.549Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,4 +11,50 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_outlet-analog-1.xml"/>
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
+    <entry>
+        <title type="html"><![CDATA[V.A. (MIX PLATE) - MIX PLATE VOL.2 (LP)]]></title>
+        <id>https://diskunion.net/punk/ct/detail/1009140268</id>
+        <link href="https://diskunion.net/punk/ct/detail/1009140268"/>
+        <updated>2026-06-10T05:36:53.105Z</updated>
+        <content type="html"><![CDATA[
+        <b>V.A. (MIX PLATE) - MIX PLATE VOL.2 (LP)</b><br>
+        <br>
+        価格: 4950円<br>
+        盤質: OUTLET<br>
+        割引率: 25%<br>
+        <br>
+        ジャンル: SOUL/BLUES/GOSPEL<br>
+        レーベル: ALOHA GOT SOUL<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-06-10T05:36:53.105Z<br>
+        更新日: 2026-06-10T05:36:53.105Z<br>
+        クロール日: 2026-06-10T05:36:52.881Z<br>
+        <br>
+        <a href="https://diskunion.net/punk/ct/detail/1009140268">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[room10.4 - 1]]></title>
+        <id>https://diskunion.net/punk/ct/detail/1009038462</id>
+        <link href="https://diskunion.net/punk/ct/detail/1009038462"/>
+        <updated>2026-06-10T05:36:53.163Z</updated>
+        <content type="html"><![CDATA[
+        <b>room10.4 - 1</b><br>
+        <br>
+        価格: 110円<br>
+        盤質: OUTLET<br>
+        割引率: 0%<br>
+        <br>
+        ジャンル: PUNK<br>
+        レーベル: room10.4<br>
+        フォーマット: CASSETTE TAPE<br>
+        <br>
+        登録日: 2026-06-10T05:36:53.163Z<br>
+        更新日: 2026-06-10T05:36:53.163Z<br>
+        クロール日: 2026-06-10T05:36:52.882Z<br>
+        <br>
+        <a href="https://diskunion.net/punk/ct/detail/1009038462">商品ページ</a>
+        ]]></content>
+    </entry>
 </feed>
