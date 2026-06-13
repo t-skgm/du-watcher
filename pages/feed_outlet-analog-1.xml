@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2026-06-12T05:53:47.211Z</updated>
+    <updated>2026-06-13T05:49:55.815Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,27 +11,4 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_outlet-analog-1.xml"/>
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
-    <entry>
-        <title type="html"><![CDATA[U.S. MAPLE ユー・エス・メイプル - ACRE THRILLS [LP]]]></title>
-        <id>https://diskunion.net/indiealt/ct/detail/1009095671</id>
-        <link href="https://diskunion.net/indiealt/ct/detail/1009095671"/>
-        <updated>2026-06-12T05:39:53.735Z</updated>
-        <content type="html"><![CDATA[
-        <b>U.S. MAPLE ユー・エス・メイプル - ACRE THRILLS [LP]</b><br>
-        <br>
-        価格: 3157円<br>
-        盤質: OUTLET<br>
-        割引率: 30%<br>
-        <br>
-        ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: DRAG CITY<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-06-12T05:39:53.735Z<br>
-        更新日: 2026-06-12T05:39:53.735Z<br>
-        クロール日: 2026-06-12T05:39:46.984Z<br>
-        <br>
-        <a href="https://diskunion.net/indiealt/ct/detail/1009095671">商品ページ</a>
-        ]]></content>
-    </entry>
 </feed>
