@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2026-06-20T05:49:01.265Z</updated>
+    <updated>2026-06-21T05:54:31.309Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,27 +11,4 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_outlet-analog-1.xml"/>
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
-    <entry>
-        <title type="html"><![CDATA[PAVEMENT ペイヴメント - PAVEMENTS/HECKLERS CHOICE (特典付きセット) [LP]]]></title>
-        <id>https://diskunion.net/indiealt/ct/detail/1009132567</id>
-        <link href="https://diskunion.net/indiealt/ct/detail/1009132567"/>
-        <updated>2026-06-20T05:34:27.788Z</updated>
-        <content type="html"><![CDATA[
-        <b>PAVEMENT ペイヴメント - PAVEMENTS/HECKLERS CHOICE (特典付きセット) [LP]</b><br>
-        <br>
-        価格: 8580円<br>
-        盤質: OUTLET<br>
-        割引率: 25%<br>
-        <br>
-        ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: MATADOR<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-06-20T05:34:27.788Z<br>
-        更新日: 2026-06-20T05:34:27.788Z<br>
-        クロール日: 2026-06-20T05:34:21.310Z<br>
-        <br>
-        <a href="https://diskunion.net/indiealt/ct/detail/1009132567">商品ページ</a>
-        ]]></content>
-    </entry>
 </feed>
