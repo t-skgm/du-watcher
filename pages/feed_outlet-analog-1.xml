@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2026-06-26T05:45:42.948Z</updated>
+    <updated>2026-06-27T05:38:50.661Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,50 +11,4 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_outlet-analog-1.xml"/>
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
-    <entry>
-        <title type="html"><![CDATA[BEN BONDY ベン・ボンディー - XO SALT LLIF3 (LP)]]></title>
-        <id>https://diskunion.net/indiealt/ct/detail/1009109301</id>
-        <link href="https://diskunion.net/indiealt/ct/detail/1009109301"/>
-        <updated>2026-06-26T05:31:14.557Z</updated>
-        <content type="html"><![CDATA[
-        <b>BEN BONDY ベン・ボンディー - XO SALT LLIF3 (LP)</b><br>
-        <br>
-        価格: 3036円<br>
-        盤質: OUTLET<br>
-        割引率: 40%<br>
-        <br>
-        ジャンル: CLUB/DANCE<br>
-        レーベル: 3XL<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-06-26T05:31:14.557Z<br>
-        更新日: 2026-06-26T05:31:14.557Z<br>
-        クロール日: 2026-06-26T05:31:13.570Z<br>
-        <br>
-        <a href="https://diskunion.net/indiealt/ct/detail/1009109301">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RAMONES ラモーンズ - RAMONES [REMASTERED VINYL]]]></title>
-        <id>https://diskunion.net/punk/ct/detail/DIN180126-097</id>
-        <link href="https://diskunion.net/punk/ct/detail/DIN180126-097"/>
-        <updated>2026-06-26T05:31:57.017Z</updated>
-        <content type="html"><![CDATA[
-        <b>RAMONES ラモーンズ - RAMONES [REMASTERED VINYL]</b><br>
-        <br>
-        価格: 3050円<br>
-        盤質: B<br>
-        割引率: 30%<br>
-        <br>
-        ジャンル: PUNK<br>
-        レーベル: RHINO<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-06-26T05:31:57.017Z<br>
-        更新日: 2026-06-26T05:31:57.017Z<br>
-        クロール日: 2026-06-26T05:31:56.817Z<br>
-        <br>
-        <a href="https://diskunion.net/punk/ct/detail/DIN180126-097">商品ページ</a>
-        ]]></content>
-    </entry>
 </feed>
