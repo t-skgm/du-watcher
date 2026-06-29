@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/used-analog-jrock</id>
     <title>DU Watcher: 中古アナログ/日本のロック</title>
-    <updated>2026-06-28T05:51:54.432Z</updated>
+    <updated>2026-06-29T05:55:33.700Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -12,394 +12,1245 @@
     <subtitle>DU Watcher feed: 中古アナログ/日本のロック</subtitle>
     <rights>t-skgm</rights>
     <entry>
-        <title type="html"><![CDATA[MONO モノ - YOU ARE THERE (LP)]]></title>
-        <id>https://diskunion.net/jp/ct/detail/DS190902-078</id>
-        <link href="https://diskunion.net/jp/ct/detail/DS190902-078"/>
-        <updated>2026-06-28T05:50:58.022Z</updated>
+        <title type="html"><![CDATA[MICHIKO HAMAMURA 浜村美智子 - カリプソ娘c/wバナナ・ボート(7インチ)]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1009175598</id>
+        <link href="https://diskunion.net/jp/ct/detail/1009175598"/>
+        <updated>2026-06-29T05:55:09.782Z</updated>
         <content type="html"><![CDATA[
-        <b>MONO モノ - YOU ARE THERE (LP)</b><br>
-        <br>
-        価格: 3650円<br>
-        盤質: S<br>
-        割引率: 30%<br>
-        <br>
-        ジャンル: 日本のロック<br>
-        レーベル: TEMPORARY RESIDENCE<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-06-28T05:50:58.022Z<br>
-        更新日: 2026-06-28T05:50:58.022Z<br>
-        クロール日: 2026-06-28T05:50:56.576Z<br>
-        <br>
-        <a href="https://diskunion.net/jp/ct/detail/DS190902-078">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[aiko - 湿った夏の始まり(LP)]]></title>
-        <id>https://diskunion.net/jp/ct/detail/1008755832</id>
-        <link href="https://diskunion.net/jp/ct/detail/1008755832"/>
-        <updated>2026-06-28T05:50:58.507Z</updated>
-        <content type="html"><![CDATA[
-        <b>aiko - 湿った夏の始まり(LP)</b><br>
-        <br>
-        価格: 3050円<br>
-        盤質: B+<br>
-        <br>
-        <br>
-        ジャンル: 平成J-POP<br>
-        レーベル: ポニーキャニオン<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-06-28T05:50:58.507Z<br>
-        更新日: 2026-06-28T05:50:58.507Z<br>
-        クロール日: 2026-06-28T05:50:56.576Z<br>
-        <br>
-        <a href="https://diskunion.net/jp/ct/detail/1008755832">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[aiko - どうしたって伝えられないから(LP)]]></title>
-        <id>https://diskunion.net/jp/ct/detail/1008755833</id>
-        <link href="https://diskunion.net/jp/ct/detail/1008755833"/>
-        <updated>2026-06-28T05:50:58.519Z</updated>
-        <content type="html"><![CDATA[
-        <b>aiko - どうしたって伝えられないから(LP)</b><br>
-        <br>
-        価格: 2850円<br>
-        盤質: B+<br>
-        <br>
-        <br>
-        ジャンル: 平成J-POP<br>
-        レーベル: ポニーキャニオン<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-06-28T05:50:58.519Z<br>
-        更新日: 2026-06-28T05:50:58.519Z<br>
-        クロール日: 2026-06-28T05:50:56.576Z<br>
-        <br>
-        <a href="https://diskunion.net/jp/ct/detail/1008755833">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[aiko - 今の二人をお互いが見てる(LP)]]></title>
-        <id>https://diskunion.net/jp/ct/detail/1008755816</id>
-        <link href="https://diskunion.net/jp/ct/detail/1008755816"/>
-        <updated>2026-06-28T05:50:58.527Z</updated>
-        <content type="html"><![CDATA[
-        <b>aiko - 今の二人をお互いが見てる(LP)</b><br>
-        <br>
-        価格: 3050円<br>
-        盤質: B+<br>
-        <br>
-        <br>
-        ジャンル: 平成J-POP<br>
-        レーベル: ポニーキャニオン<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-06-28T05:50:58.527Z<br>
-        更新日: 2026-06-28T05:50:58.527Z<br>
-        クロール日: 2026-06-28T05:50:56.577Z<br>
-        <br>
-        <a href="https://diskunion.net/jp/ct/detail/1008755816">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JUN MATSUE 松江潤 - アレンジメントヘアスタイル / 孤独の惑星~only lonely planet]]></title>
-        <id>https://diskunion.net/jp/ct/detail/1008328105</id>
-        <link href="https://diskunion.net/jp/ct/detail/1008328105"/>
-        <updated>2026-06-28T05:50:58.687Z</updated>
-        <content type="html"><![CDATA[
-        <b>JUN MATSUE 松江潤 - アレンジメントヘアスタイル / 孤独の惑星~only lonely planet</b><br>
-        <br>
-        価格: 2450円<br>
-        盤質: B+<br>
-        <br>
-        <br>
-        ジャンル: 日本のロック<br>
-        レーベル: ローソンHMVエンタテイメント<br>
-        フォーマット: 7"(レコード)<br>
-        <br>
-        登録日: 2026-06-28T05:50:58.687Z<br>
-        更新日: 2026-06-28T05:50:58.687Z<br>
-        クロール日: 2026-06-28T05:50:56.577Z<br>
-        <br>
-        <a href="https://diskunion.net/jp/ct/detail/1008328105">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PEDRO & CAPRICIOUS ペドロ&カプリシャス - サン・パティオ]]></title>
-        <id>https://diskunion.net/jp/ct/detail/1008492203</id>
-        <link href="https://diskunion.net/jp/ct/detail/1008492203"/>
-        <updated>2026-06-28T05:50:58.757Z</updated>
-        <content type="html"><![CDATA[
-        <b>PEDRO & CAPRICIOUS ペドロ&カプリシャス - サン・パティオ</b><br>
-        <br>
-        価格: 3950円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: 日本のロック<br>
-        レーベル: ローソンHMVエンタテイメント<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-06-28T05:50:58.757Z<br>
-        更新日: 2026-06-28T05:50:58.757Z<br>
-        クロール日: 2026-06-28T05:50:56.577Z<br>
-        <br>
-        <a href="https://diskunion.net/jp/ct/detail/1008492203">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[bloodthirsty butchers - yamane LP]]></title>
-        <id>https://diskunion.net/jp/ct/detail/1008390474</id>
-        <link href="https://diskunion.net/jp/ct/detail/1008390474"/>
-        <updated>2026-06-28T05:50:58.807Z</updated>
-        <content type="html"><![CDATA[
-        <b>bloodthirsty butchers - yamane LP</b><br>
-        <br>
-        価格: 3251円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: PUNK<br>
-        レーベル: 391TONE<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-06-28T05:50:58.807Z<br>
-        更新日: 2026-06-28T05:50:58.807Z<br>
-        クロール日: 2026-06-28T05:50:56.577Z<br>
-        <br>
-        <a href="https://diskunion.net/jp/ct/detail/1008390474">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YMO (YELLOW MAGIC ORCHESTRA) イエロー・マジック・オーケストラ - TIGHTEN UP]]></title>
-        <id>https://diskunion.net/jp/ct/detail/DI181126-013</id>
-        <link href="https://diskunion.net/jp/ct/detail/DI181126-013"/>
-        <updated>2026-06-28T05:50:58.853Z</updated>
-        <content type="html"><![CDATA[
-        <b>YMO (YELLOW MAGIC ORCHESTRA) イエロー・マジック・オーケストラ - TIGHTEN UP</b><br>
-        <br>
-        価格: 3850円<br>
-        盤質: B+<br>
-        <br>
-        <br>
-        ジャンル: 日本のロック<br>
-        レーベル: A&M<br>
-        フォーマット: 12"(レコード)<br>
-        <br>
-        登録日: 2026-06-28T05:50:58.853Z<br>
-        更新日: 2026-06-28T05:50:58.853Z<br>
-        クロール日: 2026-06-28T05:50:56.577Z<br>
-        <br>
-        <a href="https://diskunion.net/jp/ct/detail/DI181126-013">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CHIEMI MANABE 真鍋ちえみ - うんととおく]]></title>
-        <id>https://diskunion.net/jp/ct/detail/DI190807-036</id>
-        <link href="https://diskunion.net/jp/ct/detail/DI190807-036"/>
-        <updated>2026-06-28T05:50:58.871Z</updated>
-        <content type="html"><![CDATA[
-        <b>CHIEMI MANABE 真鍋ちえみ - うんととおく</b><br>
+        <b>MICHIKO HAMAMURA 浜村美智子 - カリプソ娘c/wバナナ・ボート(7インチ)</b><br>
         <br>
         価格: 2650円<br>
         盤質: B<br>
         <br>
         <br>
-        ジャンル: 日本のロック<br>
-        レーベル: ソニー<br>
+        ジャンル: 昭和歌謡<br>
+        レーベル: PANJA RECORDS<br>
         フォーマット: 7"(レコード)<br>
         <br>
-        登録日: 2026-06-28T05:50:58.871Z<br>
-        更新日: 2026-06-28T05:50:58.871Z<br>
-        クロール日: 2026-06-28T05:50:56.577Z<br>
+        登録日: 2026-06-29T05:55:09.782Z<br>
+        更新日: 2026-06-29T05:55:09.782Z<br>
+        クロール日: 2026-06-29T05:55:07.685Z<br>
         <br>
-        <a href="https://diskunion.net/jp/ct/detail/DI190807-036">商品ページ</a>
+        <a href="https://diskunion.net/jp/ct/detail/1009175598">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ANZENCHITAI 安全地帯 - 安全地帯ベスト]]></title>
-        <id>https://diskunion.net/jp/ct/detail/1007969130</id>
-        <link href="https://diskunion.net/jp/ct/detail/1007969130"/>
-        <updated>2026-06-28T05:50:58.937Z</updated>
+        <title type="html"><![CDATA[スカートとPUNPEE - ODDTAXI (7INCH)]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1009087350</id>
+        <link href="https://diskunion.net/jp/ct/detail/1009087350"/>
+        <updated>2026-06-29T05:55:09.796Z</updated>
         <content type="html"><![CDATA[
-        <b>ANZENCHITAI 安全地帯 - 安全地帯ベスト</b><br>
-        <br>
-        価格: 8850円<br>
-        盤質: A<br>
-        <br>
-        <br>
-        ジャンル: 日本のロック<br>
-        レーベル: ステレオサウンド<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-06-28T05:50:58.937Z<br>
-        更新日: 2026-06-28T05:50:58.937Z<br>
-        クロール日: 2026-06-28T05:50:56.577Z<br>
-        <br>
-        <a href="https://diskunion.net/jp/ct/detail/1007969130">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Milk (RITSUKO/RIE) ミルク - For A Week Story /視線(まなざし)にI feel so love (Extended Edit)]]></title>
-        <id>https://diskunion.net/jp/ct/detail/1007866952</id>
-        <link href="https://diskunion.net/jp/ct/detail/1007866952"/>
-        <updated>2026-06-28T05:50:58.944Z</updated>
-        <content type="html"><![CDATA[
-        <b>Milk (RITSUKO/RIE) ミルク - For A Week Story /視線(まなざし)にI feel so love (Extended Edit)</b><br>
-        <br>
-        価格: 2850円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: 日本のロック<br>
-        レーベル: ローソンHMVエンタテイメント<br>
-        フォーマット: 7"(レコード)<br>
-        <br>
-        登録日: 2026-06-28T05:50:58.944Z<br>
-        更新日: 2026-06-28T05:50:58.944Z<br>
-        クロール日: 2026-06-28T05:50:56.578Z<br>
-        <br>
-        <a href="https://diskunion.net/jp/ct/detail/1007866952">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[G.RINA - フライデーラヴ feat. yoshiro(underslowjams)]]></title>
-        <id>https://diskunion.net/jp/ct/detail/1007373696</id>
-        <link href="https://diskunion.net/jp/ct/detail/1007373696"/>
-        <updated>2026-06-28T05:50:58.951Z</updated>
-        <content type="html"><![CDATA[
-        <b>G.RINA - フライデーラヴ feat. yoshiro(underslowjams)</b><br>
-        <br>
-        価格: 3650円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: CLUB/DANCE<br>
-        レーベル: plusGROUND<br>
-        フォーマット: 7"(レコード)<br>
-        <br>
-        登録日: 2026-06-28T05:50:58.951Z<br>
-        更新日: 2026-06-28T05:50:58.951Z<br>
-        クロール日: 2026-06-28T05:50:56.578Z<br>
-        <br>
-        <a href="https://diskunion.net/jp/ct/detail/1007373696">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[REN TAKADA 高田漣 - コーヒーブルース~高田渡を歌う~(アナログ)]]></title>
-        <id>https://diskunion.net/jp/ct/detail/1007026771</id>
-        <link href="https://diskunion.net/jp/ct/detail/1007026771"/>
-        <updated>2026-06-28T05:50:58.957Z</updated>
-        <content type="html"><![CDATA[
-        <b>REN TAKADA 高田漣 - コーヒーブルース~高田渡を歌う~(アナログ)</b><br>
-        <br>
-        価格: 3450円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: 日本のロック<br>
-        レーベル: Beta Records<br>
-        フォーマット: 12"(レコード)<br>
-        <br>
-        登録日: 2026-06-28T05:50:58.957Z<br>
-        更新日: 2026-06-28T05:50:58.957Z<br>
-        クロール日: 2026-06-28T05:50:56.578Z<br>
-        <br>
-        <a href="https://diskunion.net/jp/ct/detail/1007026771">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ジャッキー吉川とブルーコメッツ - G.S.R.]]></title>
-        <id>https://diskunion.net/jp/ct/detail/DFS200824-064</id>
-        <link href="https://diskunion.net/jp/ct/detail/DFS200824-064"/>
-        <updated>2026-06-28T05:50:59.055Z</updated>
-        <content type="html"><![CDATA[
-        <b>ジャッキー吉川とブルーコメッツ - G.S.R.</b><br>
-        <br>
-        価格: 2650円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: 日本のロック<br>
-        レーベル: 日本コロムビア<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-06-28T05:50:59.055Z<br>
-        更新日: 2026-06-28T05:50:59.055Z<br>
-        クロール日: 2026-06-28T05:50:56.578Z<br>
-        <br>
-        <a href="https://diskunion.net/jp/ct/detail/DFS200824-064">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ホールド・アップ - 島まで10マイル]]></title>
-        <id>https://diskunion.net/jp/ct/detail/DI191206-072</id>
-        <link href="https://diskunion.net/jp/ct/detail/DI191206-072"/>
-        <updated>2026-06-28T05:50:59.069Z</updated>
-        <content type="html"><![CDATA[
-        <b>ホールド・アップ - 島まで10マイル</b><br>
-        <br>
-        価格: 6750円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: 日本のロック<br>
-        レーベル: キングレコード<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-06-28T05:50:59.069Z<br>
-        更新日: 2026-06-28T05:50:59.069Z<br>
-        クロール日: 2026-06-28T05:50:56.592Z<br>
-        <br>
-        <a href="https://diskunion.net/jp/ct/detail/DI191206-072">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FUTENZOKU フーテン族 - 真夜中の幼稚園(10インチ)]]></title>
-        <id>https://diskunion.net/jp/ct/detail/1008781725</id>
-        <link href="https://diskunion.net/jp/ct/detail/1008781725"/>
-        <updated>2026-06-28T05:50:59.421Z</updated>
-        <content type="html"><![CDATA[
-        <b>FUTENZOKU フーテン族 - 真夜中の幼稚園(10インチ)</b><br>
+        <b>スカートとPUNPEE - ODDTAXI (7INCH)</b><br>
         <br>
         価格: 2250円<br>
         盤質: B+<br>
         <br>
         <br>
-        ジャンル: 日本のロック<br>
-        レーベル: 醉象<br>
-        フォーマット: 10"(レコード)<br>
+        ジャンル: HIPHOP/R&B<br>
+        レーベル: IRORI Records/PONY CANYON INC.<br>
+        フォーマット: 7"(レコード)<br>
         <br>
-        登録日: 2026-06-28T05:50:59.421Z<br>
-        更新日: 2026-06-28T05:50:59.421Z<br>
-        クロール日: 2026-06-28T05:50:56.593Z<br>
+        登録日: 2026-06-29T05:55:09.796Z<br>
+        更新日: 2026-06-29T05:55:09.796Z<br>
+        クロール日: 2026-06-29T05:55:07.686Z<br>
         <br>
-        <a href="https://diskunion.net/jp/ct/detail/1008781725">商品ページ</a>
+        <a href="https://diskunion.net/jp/ct/detail/1009087350">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[アフリカ - ファンク・シティ]]></title>
-        <id>https://diskunion.net/jp/ct/detail/1006451177</id>
-        <link href="https://diskunion.net/jp/ct/detail/1006451177"/>
-        <updated>2026-06-28T05:51:00.286Z</updated>
+        <title type="html"><![CDATA[10-FEET / 藤原ヒロシ - TRAIN-TRAIN / 青空 (7")]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1009087914</id>
+        <link href="https://diskunion.net/jp/ct/detail/1009087914"/>
+        <updated>2026-06-29T05:55:09.803Z</updated>
         <content type="html"><![CDATA[
-        <b>アフリカ - ファンク・シティ</b><br>
+        <b>10-FEET / 藤原ヒロシ - TRAIN-TRAIN / 青空 (7")</b><br>
         <br>
-        価格: 6850円<br>
+        価格: 2151円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        レーベル: SMR RECORDS<br>
+        フォーマット: 7"(レコード)<br>
+        <br>
+        登録日: 2026-06-29T05:55:09.803Z<br>
+        更新日: 2026-06-29T05:55:09.803Z<br>
+        クロール日: 2026-06-29T05:55:07.686Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1009087914">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[麗蘭 - 麗蘭(2LP)]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1009154535</id>
+        <link href="https://diskunion.net/jp/ct/detail/1009154535"/>
+        <updated>2026-06-29T05:55:09.816Z</updated>
+        <content type="html"><![CDATA[
+        <b>麗蘭 - 麗蘭(2LP)</b><br>
+        <br>
+        価格: 5750円<br>
+        盤質: A<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: ユニバーサルミュージック<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-06-29T05:55:09.816Z<br>
+        更新日: 2026-06-29T05:55:09.816Z<br>
+        クロール日: 2026-06-29T05:55:07.686Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1009154535">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MOTOHIRO HATA 秦基博 - ひまわりの約束(数量限定盤)]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1007614049</id>
+        <link href="https://diskunion.net/jp/ct/detail/1007614049"/>
+        <updated>2026-06-29T05:55:09.843Z</updated>
+        <content type="html"><![CDATA[
+        <b>MOTOHIRO HATA 秦基博 - ひまわりの約束(数量限定盤)</b><br>
+        <br>
+        価格: 4250円<br>
+        盤質: B+<br>
+        <br>
+        <br>
+        ジャンル: アニソン<br>
+        レーベル: HOBBYLESS RECORDS<br>
+        フォーマット: 7"(レコード)<br>
+        <br>
+        登録日: 2026-06-29T05:55:09.843Z<br>
+        更新日: 2026-06-29T05:55:09.843Z<br>
+        クロール日: 2026-06-29T05:55:07.687Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1007614049">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE CRO-MAGNONS ザ・クロマニヨンズ - キャブレターにひとしずく(7")]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1009052529</id>
+        <link href="https://diskunion.net/jp/ct/detail/1009052529"/>
+        <updated>2026-06-29T05:55:09.850Z</updated>
+        <content type="html"><![CDATA[
+        <b>THE CRO-MAGNONS ザ・クロマニヨンズ - キャブレターにひとしずく(7")</b><br>
+        <br>
+        価格: 1100円<br>
+        盤質: B+<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: ソニー・ミュージック・エンターテイメント<br>
+        フォーマット: 7"(レコード)<br>
+        <br>
+        登録日: 2026-06-29T05:55:09.850Z<br>
+        更新日: 2026-06-29T05:55:09.850Z<br>
+        クロール日: 2026-06-29T05:55:07.687Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1009052529">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[台風クラブ - 京都市南区(7インチ)]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1009096752</id>
+        <link href="https://diskunion.net/jp/ct/detail/1009096752"/>
+        <updated>2026-06-29T05:55:09.856Z</updated>
+        <content type="html"><![CDATA[
+        <b>台風クラブ - 京都市南区(7インチ)</b><br>
+        <br>
+        価格: 1500円<br>
+        盤質: B+<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: NEWFOLK<br>
+        フォーマット: 7"(レコード)<br>
+        <br>
+        登録日: 2026-06-29T05:55:09.856Z<br>
+        更新日: 2026-06-29T05:55:09.856Z<br>
+        クロール日: 2026-06-29T05:55:07.687Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1009096752">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MONO モノ - OATH(LP)]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1008849320</id>
+        <link href="https://diskunion.net/jp/ct/detail/1008849320"/>
+        <updated>2026-06-29T05:55:09.915Z</updated>
+        <content type="html"><![CDATA[
+        <b>MONO モノ - OATH(LP)</b><br>
+        <br>
+        価格: 3950円<br>
+        盤質: S<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: TEMPORARY RESIDENCE<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-06-29T05:55:09.915Z<br>
+        更新日: 2026-06-29T05:55:09.915Z<br>
+        クロール日: 2026-06-29T05:55:07.688Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1008849320">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JUN SKY WALKER(S) ジュン・スカイ・ウォーカーズ - J(S)W]]></title>
+        <id>https://diskunion.net/jp/ct/detail/XAT-1245775409</id>
+        <link href="https://diskunion.net/jp/ct/detail/XAT-1245775409"/>
+        <updated>2026-06-29T05:55:09.944Z</updated>
+        <content type="html"><![CDATA[
+        <b>JUN SKY WALKER(S) ジュン・スカイ・ウォーカーズ - J(S)W</b><br>
+        <br>
+        価格: 3251円<br>
+        盤質: B+<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: SOLID RECORDS<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-06-29T05:55:09.944Z<br>
+        更新日: 2026-06-29T05:55:09.944Z<br>
+        クロール日: 2026-06-29T05:55:07.688Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/XAT-1245775409">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[V.A. オムニバス - 烏龍歌集[チャイ チャイ]サントリーウーロン茶ソングコレクション]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1008544134</id>
+        <link href="https://diskunion.net/jp/ct/detail/1008544134"/>
+        <updated>2026-06-29T05:55:09.950Z</updated>
+        <content type="html"><![CDATA[
+        <b>V.A. オムニバス - 烏龍歌集[チャイ チャイ]サントリーウーロン茶ソングコレクション</b><br>
+        <br>
+        価格: 5750円<br>
+        盤質: B+<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: ローソンHMVエンタテイメント<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-06-29T05:55:09.950Z<br>
+        更新日: 2026-06-29T05:55:09.950Z<br>
+        クロール日: 2026-06-29T05:55:07.688Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1008544134">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE 50 KAITENZ ザ50回転ズ - THE 50KAITENZ NO BIKKURI]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1008623499</id>
+        <link href="https://diskunion.net/jp/ct/detail/1008623499"/>
+        <updated>2026-06-29T05:55:09.963Z</updated>
+        <content type="html"><![CDATA[
+        <b>THE 50 KAITENZ ザ50回転ズ - THE 50KAITENZ NO BIKKURI</b><br>
+        <br>
+        価格: 6750円<br>
+        盤質: B+<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: SOUNDS OF SUBTERRANIA<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-06-29T05:55:09.963Z<br>
+        更新日: 2026-06-29T05:55:09.963Z<br>
+        クロール日: 2026-06-29T05:55:07.688Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1008623499">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NOBODY ノーバディ - マイ・ロード・ショー]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1006158610</id>
+        <link href="https://diskunion.net/jp/ct/detail/1006158610"/>
+        <updated>2026-06-29T05:55:09.976Z</updated>
+        <content type="html"><![CDATA[
+        <b>NOBODY ノーバディ - マイ・ロード・ショー</b><br>
+        <br>
+        価格: 380円<br>
         盤質: B<br>
         <br>
         <br>
         ジャンル: 日本のロック<br>
-        レーベル: キングレコード<br>
+        レーベル: TDK<br>
+        フォーマット: 7"(レコード)<br>
+        <br>
+        登録日: 2026-06-29T05:55:09.976Z<br>
+        更新日: 2026-06-29T05:55:09.976Z<br>
+        クロール日: 2026-06-29T05:55:07.688Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1006158610">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[台風クラブとビフォアーズ - 台風クラブとビフォアーズ(7")]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1008593871</id>
+        <link href="https://diskunion.net/jp/ct/detail/1008593871"/>
+        <updated>2026-06-29T05:55:09.983Z</updated>
+        <content type="html"><![CDATA[
+        <b>台風クラブとビフォアーズ - 台風クラブとビフォアーズ(7")</b><br>
+        <br>
+        価格: 2650円<br>
+        盤質: B+<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: NEWFOLK<br>
+        フォーマット: 7"(レコード)<br>
+        <br>
+        登録日: 2026-06-29T05:55:09.983Z<br>
+        更新日: 2026-06-29T05:55:09.983Z<br>
+        クロール日: 2026-06-29T05:55:07.689Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1008593871">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GONTITI ゴンチチ - Paradise Shift~Eureka! by Orisaka Yuta~]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1008368136</id>
+        <link href="https://diskunion.net/jp/ct/detail/1008368136"/>
+        <updated>2026-06-29T05:55:09.996Z</updated>
+        <content type="html"><![CDATA[
+        <b>GONTITI ゴンチチ - Paradise Shift~Eureka! by Orisaka Yuta~</b><br>
+        <br>
+        価格: 3650円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: GREAT TRACKS<br>
         フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2026-06-28T05:51:00.286Z<br>
-        更新日: 2026-06-28T05:51:00.286Z<br>
-        クロール日: 2026-06-28T05:50:56.611Z<br>
+        登録日: 2026-06-29T05:55:09.996Z<br>
+        更新日: 2026-06-29T05:55:09.996Z<br>
+        クロール日: 2026-06-29T05:55:07.689Z<br>
         <br>
-        <a href="https://diskunion.net/jp/ct/detail/1006451177">商品ページ</a>
+        <a href="https://diskunion.net/jp/ct/detail/1008368136">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Kalua ザ・カルア - 朝陽のスキャット]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1007733237</id>
+        <link href="https://diskunion.net/jp/ct/detail/1007733237"/>
+        <updated>2026-06-29T05:55:10.029Z</updated>
+        <content type="html"><![CDATA[
+        <b>The Kalua ザ・カルア - 朝陽のスキャット</b><br>
+        <br>
+        価格: 680円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: ユニバーサルミュージック<br>
+        フォーマット: 7"(レコード)<br>
+        <br>
+        登録日: 2026-06-29T05:55:10.029Z<br>
+        更新日: 2026-06-29T05:55:10.029Z<br>
+        クロール日: 2026-06-29T05:55:07.689Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1007733237">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LEARNERS - Water The Flowers / Shampoo Planet]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1007375873</id>
+        <link href="https://diskunion.net/jp/ct/detail/1007375873"/>
+        <updated>2026-06-29T05:55:10.064Z</updated>
+        <content type="html"><![CDATA[
+        <b>LEARNERS - Water The Flowers / Shampoo Planet</b><br>
+        <br>
+        価格: 1500円<br>
+        盤質: B+<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        レーベル: KiliKiliVilla<br>
+        フォーマット: 7"(レコード)<br>
+        <br>
+        登録日: 2026-06-29T05:55:10.064Z<br>
+        更新日: 2026-06-29T05:55:10.064Z<br>
+        クロール日: 2026-06-29T05:55:07.690Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1007375873">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE COLLECTORS ザ・コレクターズ - 愛ある世界<LP>]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1007999072</id>
+        <link href="https://diskunion.net/jp/ct/detail/1007999072"/>
+        <updated>2026-06-29T05:55:10.070Z</updated>
+        <content type="html"><![CDATA[
+        <b>THE COLLECTORS ザ・コレクターズ - 愛ある世界<LP></b><br>
+        <br>
+        価格: 5750円<br>
+        盤質: B+<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: CRAFTMAN RECORDS<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-06-29T05:55:10.070Z<br>
+        更新日: 2026-06-29T05:55:10.070Z<br>
+        クロール日: 2026-06-29T05:55:07.690Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1007999072">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LEARNERS / THE DOPED UP DOLLIES - PARKING LOT RENDEzVOUS Vol.2]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1007733299</id>
+        <link href="https://diskunion.net/jp/ct/detail/1007733299"/>
+        <updated>2026-06-29T05:55:10.077Z</updated>
+        <content type="html"><![CDATA[
+        <b>LEARNERS / THE DOPED UP DOLLIES - PARKING LOT RENDEzVOUS Vol.2</b><br>
+        <br>
+        価格: 980円<br>
+        盤質: B+<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        レーベル: PARKING LOT SOUNDS<br>
+        フォーマット: 7"(レコード)<br>
+        <br>
+        登録日: 2026-06-29T05:55:10.077Z<br>
+        更新日: 2026-06-29T05:55:10.077Z<br>
+        クロール日: 2026-06-29T05:55:07.690Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1007733299">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LEARNERS / THE SKINTS - PARKING LOT RENDEzVOUS Vol.1]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1007733270</id>
+        <link href="https://diskunion.net/jp/ct/detail/1007733270"/>
+        <updated>2026-06-29T05:55:10.084Z</updated>
+        <content type="html"><![CDATA[
+        <b>LEARNERS / THE SKINTS - PARKING LOT RENDEzVOUS Vol.1</b><br>
+        <br>
+        価格: 980円<br>
+        盤質: B+<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        レーベル: PARKING LOT SOUNDS<br>
+        フォーマット: 7"(レコード)<br>
+        <br>
+        登録日: 2026-06-29T05:55:10.084Z<br>
+        更新日: 2026-06-29T05:55:10.084Z<br>
+        クロール日: 2026-06-29T05:55:07.690Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1007733270">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MAKOTO KAWAMOTO 川本真琴 - 新しい友達(アナログ)]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1007920972</id>
+        <link href="https://diskunion.net/jp/ct/detail/1007920972"/>
+        <updated>2026-06-29T05:55:10.090Z</updated>
+        <content type="html"><![CDATA[
+        <b>MAKOTO KAWAMOTO 川本真琴 - 新しい友達(アナログ)</b><br>
+        <br>
+        価格: 2750円<br>
+        盤質: B+<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: MY BEST!<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-06-29T05:55:10.090Z<br>
+        更新日: 2026-06-29T05:55:10.090Z<br>
+        クロール日: 2026-06-29T05:55:07.690Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1007920972">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YASUYUKI OKAMURA 岡村靖幸 - 少年サタデー(アナログ)]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1007944758</id>
+        <link href="https://diskunion.net/jp/ct/detail/1007944758"/>
+        <updated>2026-06-29T05:55:10.097Z</updated>
+        <content type="html"><![CDATA[
+        <b>YASUYUKI OKAMURA 岡村靖幸 - 少年サタデー(アナログ)</b><br>
+        <br>
+        価格: 3650円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: V4<br>
+        フォーマット: 12"(レコード)<br>
+        <br>
+        登録日: 2026-06-29T05:55:10.097Z<br>
+        更新日: 2026-06-29T05:55:10.097Z<br>
+        クロール日: 2026-06-29T05:55:07.690Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1007944758">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TOKYO SKA PARADISE ORCHESTRA 東京スカパラダイスオーケストラ - ちえのわ feat.峯田和伸 / およげ!たいやきくん~潜れ!さかなクンVer.~]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1007743606</id>
+        <link href="https://diskunion.net/jp/ct/detail/1007743606"/>
+        <updated>2026-06-29T05:55:10.118Z</updated>
+        <content type="html"><![CDATA[
+        <b>TOKYO SKA PARADISE ORCHESTRA 東京スカパラダイスオーケストラ - ちえのわ feat.峯田和伸 / およげ!たいやきくん~潜れ!さかなクンVer.~</b><br>
+        <br>
+        価格: 3650円<br>
+        盤質: B+<br>
+        <br>
+        <br>
+        ジャンル: 平成J-POP<br>
+        レーベル: 東洋化成<br>
+        フォーマット: 7"(レコード)<br>
+        <br>
+        登録日: 2026-06-29T05:55:10.118Z<br>
+        更新日: 2026-06-29T05:55:10.118Z<br>
+        クロール日: 2026-06-29T05:55:07.711Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1007743606">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TAISEI IWASAKI 岩崎太整 - 血界戦線&BEYOND オリジナルサウンドトラック Limited Edition【LP】]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1007741750</id>
+        <link href="https://diskunion.net/jp/ct/detail/1007741750"/>
+        <updated>2026-06-29T05:55:10.124Z</updated>
+        <content type="html"><![CDATA[
+        <b>TAISEI IWASAKI 岩崎太整 - 血界戦線&BEYOND オリジナルサウンドトラック Limited Edition【LP】</b><br>
+        <br>
+        価格: 28850円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: アニソン<br>
+        レーベル: THINK! RECORDS<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-06-29T05:55:10.124Z<br>
+        更新日: 2026-06-29T05:55:10.124Z<br>
+        クロール日: 2026-06-29T05:55:07.711Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1007741750">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QURULI くるり - 春を待つ/その線は水平線(アナログ)]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1007600219</id>
+        <link href="https://diskunion.net/jp/ct/detail/1007600219"/>
+        <updated>2026-06-29T05:55:10.132Z</updated>
+        <content type="html"><![CDATA[
+        <b>QURULI くるり - 春を待つ/その線は水平線(アナログ)</b><br>
+        <br>
+        価格: 1900円<br>
+        盤質: B+<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: ローソンHMVエンタテイメント<br>
+        フォーマット: 7"(レコード)<br>
+        <br>
+        登録日: 2026-06-29T05:55:10.132Z<br>
+        更新日: 2026-06-29T05:55:10.132Z<br>
+        クロール日: 2026-06-29T05:55:07.712Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1007600219">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CHIYO OKUMURA 奥村チヨ - チヨ・筒美京平を唄う(アナログ)]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1007541873</id>
+        <link href="https://diskunion.net/jp/ct/detail/1007541873"/>
+        <updated>2026-06-29T05:55:10.145Z</updated>
+        <content type="html"><![CDATA[
+        <b>CHIYO OKUMURA 奥村チヨ - チヨ・筒美京平を唄う(アナログ)</b><br>
+        <br>
+        価格: 1100円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: SOLID RECORDS<br>
+        フォーマット: 7"(レコード)<br>
+        <br>
+        登録日: 2026-06-29T05:55:10.145Z<br>
+        更新日: 2026-06-29T05:55:10.145Z<br>
+        クロール日: 2026-06-29T05:55:07.712Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1007541873">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ミッキー吉野グループ(ゴダイゴ) - 男たちの旅路 4曲入り7インチアナログシングル盤]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1007461176</id>
+        <link href="https://diskunion.net/jp/ct/detail/1007461176"/>
+        <updated>2026-06-29T05:55:10.158Z</updated>
+        <content type="html"><![CDATA[
+        <b>ミッキー吉野グループ(ゴダイゴ) - 男たちの旅路 4曲入り7インチアナログシングル盤</b><br>
+        <br>
+        価格: 1500円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: G-matics<br>
+        フォーマット: 7"(レコード)<br>
+        <br>
+        登録日: 2026-06-29T05:55:10.158Z<br>
+        更新日: 2026-06-29T05:55:10.158Z<br>
+        クロール日: 2026-06-29T05:55:07.712Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1007461176">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ごまのはえ - 留子ちゃんたら/のぞきからくり]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1007483790</id>
+        <link href="https://diskunion.net/jp/ct/detail/1007483790"/>
+        <updated>2026-06-29T05:55:10.173Z</updated>
+        <content type="html"><![CDATA[
+        <b>ごまのはえ - 留子ちゃんたら/のぞきからくり</b><br>
+        <br>
+        価格: 680円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: FUJI<br>
+        フォーマット: 7"(レコード)<br>
+        <br>
+        登録日: 2026-06-29T05:55:10.173Z<br>
+        更新日: 2026-06-29T05:55:10.173Z<br>
+        クロール日: 2026-06-29T05:55:07.712Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1007483790">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[URBAN DANCE アーバン・ダンス - 6月の雨 -IN THE BORDER TOWN-(アナログ)]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1007407945</id>
+        <link href="https://diskunion.net/jp/ct/detail/1007407945"/>
+        <updated>2026-06-29T05:55:10.192Z</updated>
+        <content type="html"><![CDATA[
+        <b>URBAN DANCE アーバン・ダンス - 6月の雨 -IN THE BORDER TOWN-(アナログ)</b><br>
+        <br>
+        価格: 900円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: ExT Recordings<br>
+        フォーマット: 7"(レコード)<br>
+        <br>
+        登録日: 2026-06-29T05:55:10.192Z<br>
+        更新日: 2026-06-29T05:55:10.192Z<br>
+        クロール日: 2026-06-29T05:55:07.713Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1007407945">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[こまどり姉妹 - 恋の風車 / 一人ぼっちの二人]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1007383240</id>
+        <link href="https://diskunion.net/jp/ct/detail/1007383240"/>
+        <updated>2026-06-29T05:55:10.199Z</updated>
+        <content type="html"><![CDATA[
+        <b>こまどり姉妹 - 恋の風車 / 一人ぼっちの二人</b><br>
+        <br>
+        価格: 1500円<br>
+        盤質: B+<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: SOLID RECORDS<br>
+        フォーマット: 7"(レコード)<br>
+        <br>
+        登録日: 2026-06-29T05:55:10.199Z<br>
+        更新日: 2026-06-29T05:55:10.199Z<br>
+        クロール日: 2026-06-29T05:55:07.713Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1007383240">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ホット・ピンク - 花嫁はティーンエイジャー / 愛のメモリー(アナログ)]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1007321455</id>
+        <link href="https://diskunion.net/jp/ct/detail/1007321455"/>
+        <updated>2026-06-29T05:55:10.206Z</updated>
+        <content type="html"><![CDATA[
+        <b>ホット・ピンク - 花嫁はティーンエイジャー / 愛のメモリー(アナログ)</b><br>
+        <br>
+        価格: 1500円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: ULTRA-VYBE / HMV record shop<br>
+        フォーマット: JPN<br>
+        <br>
+        登録日: 2026-06-29T05:55:10.206Z<br>
+        更新日: 2026-06-29T05:55:10.206Z<br>
+        クロール日: 2026-06-29T05:55:07.713Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1007321455">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[かんせつかず - ひとりぼっちの音楽会 / 遠くへ(アナログ)]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1007321484</id>
+        <link href="https://diskunion.net/jp/ct/detail/1007321484"/>
+        <updated>2026-06-29T05:55:10.212Z</updated>
+        <content type="html"><![CDATA[
+        <b>かんせつかず - ひとりぼっちの音楽会 / 遠くへ(アナログ)</b><br>
+        <br>
+        価格: 480円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: ULTRA-VYBE / HMV record shop<br>
+        フォーマット: JPN<br>
+        <br>
+        登録日: 2026-06-29T05:55:10.212Z<br>
+        更新日: 2026-06-29T05:55:10.212Z<br>
+        クロール日: 2026-06-29T05:55:07.713Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1007321484">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[エルナンド - 恋はウムウム/勝手なおねがい(アナログ)]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1007280728</id>
+        <link href="https://diskunion.net/jp/ct/detail/1007280728"/>
+        <updated>2026-06-29T05:55:10.219Z</updated>
+        <content type="html"><![CDATA[
+        <b>エルナンド - 恋はウムウム/勝手なおねがい(アナログ)</b><br>
+        <br>
+        価格: 1500円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: SOLID RECORDS<br>
+        フォーマット: 7"(レコード)<br>
+        <br>
+        登録日: 2026-06-29T05:55:10.219Z<br>
+        更新日: 2026-06-29T05:55:10.219Z<br>
+        クロール日: 2026-06-29T05:55:07.713Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1007280728">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TAKURO YOSHIDA 吉田拓郎 - 午後の天気(アナログ)]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1007153272</id>
+        <link href="https://diskunion.net/jp/ct/detail/1007153272"/>
+        <updated>2026-06-29T05:55:10.225Z</updated>
+        <content type="html"><![CDATA[
+        <b>TAKURO YOSHIDA 吉田拓郎 - 午後の天気(アナログ)</b><br>
+        <br>
+        価格: 2650円<br>
+        盤質: B+<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: エイベックス・ミュージック・クリエイティヴ<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-06-29T05:55:10.225Z<br>
+        更新日: 2026-06-29T05:55:10.225Z<br>
+        クロール日: 2026-06-29T05:55:07.713Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1007153272">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TAKURO YOSHIDA 吉田拓郎 - 午前中に・・・(アナログ)]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1007153175</id>
+        <link href="https://diskunion.net/jp/ct/detail/1007153175"/>
+        <updated>2026-06-29T05:55:10.232Z</updated>
+        <content type="html"><![CDATA[
+        <b>TAKURO YOSHIDA 吉田拓郎 - 午前中に・・・(アナログ)</b><br>
+        <br>
+        価格: 2850円<br>
+        盤質: B+<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: エイベックス・ミュージック・クリエイティヴ<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-06-29T05:55:10.232Z<br>
+        更新日: 2026-06-29T05:55:10.232Z<br>
+        クロール日: 2026-06-29T05:55:07.713Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1007153175">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRAZY KEN BAND クレイジーケンバンド - 777]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1006560669</id>
+        <link href="https://diskunion.net/jp/ct/detail/1006560669"/>
+        <updated>2026-06-29T05:55:10.239Z</updated>
+        <content type="html"><![CDATA[
+        <b>CRAZY KEN BAND クレイジーケンバンド - 777</b><br>
+        <br>
+        価格: 6950円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: 平成J-POP<br>
+        レーベル: スペースシャワーネットワーク<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-06-29T05:55:10.239Z<br>
+        更新日: 2026-06-29T05:55:10.239Z<br>
+        クロール日: 2026-06-29T05:55:07.714Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1006560669">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KAZUSHI INAMURA & DAI1KAN DAI100SHOU 稲村一志と第一巻第百章 - 二月の匂い b/w イースト・ナエボ]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1006828013</id>
+        <link href="https://diskunion.net/jp/ct/detail/1006828013"/>
+        <updated>2026-06-29T05:55:10.252Z</updated>
+        <content type="html"><![CDATA[
+        <b>KAZUSHI INAMURA & DAI1KAN DAI100SHOU 稲村一志と第一巻第百章 - 二月の匂い b/w イースト・ナエボ</b><br>
+        <br>
+        価格: 1100円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: Light Mellow 和モノ45<br>
+        フォーマット: 7"(レコード)<br>
+        <br>
+        登録日: 2026-06-29T05:55:10.252Z<br>
+        更新日: 2026-06-29T05:55:10.252Z<br>
+        クロール日: 2026-06-29T05:55:07.714Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1006828013">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MAKOTO KAWAMOTO 川本真琴 - ホラーすぎる彼女です c/w クローバーフィールド]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1007011890</id>
+        <link href="https://diskunion.net/jp/ct/detail/1007011890"/>
+        <updated>2026-06-29T05:55:10.259Z</updated>
+        <content type="html"><![CDATA[
+        <b>MAKOTO KAWAMOTO 川本真琴 - ホラーすぎる彼女です c/w クローバーフィールド</b><br>
+        <br>
+        価格: 480円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: MY BEST!<br>
+        フォーマット: 7"(レコード)<br>
+        <br>
+        登録日: 2026-06-29T05:55:10.259Z<br>
+        更新日: 2026-06-29T05:55:10.259Z<br>
+        クロール日: 2026-06-29T05:55:07.714Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1007011890">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SEIKO OOMORI 大森靖子 - 「呪いは水色」 C/W 「呪いは水色」(ライブバージョン)]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1006889435</id>
+        <link href="https://diskunion.net/jp/ct/detail/1006889435"/>
+        <updated>2026-06-29T05:55:10.266Z</updated>
+        <content type="html"><![CDATA[
+        <b>SEIKO OOMORI 大森靖子 - 「呪いは水色」 C/W 「呪いは水色」(ライブバージョン)</b><br>
+        <br>
+        価格: 1100円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: 雷音レコード<br>
+        フォーマット: 7"(レコード)<br>
+        <br>
+        登録日: 2026-06-29T05:55:10.266Z<br>
+        更新日: 2026-06-29T05:55:10.266Z<br>
+        クロール日: 2026-06-29T05:55:07.714Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1006889435">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MAKOTO IWABUCHI 岩渕まこと - ムーンライト・フライト / 風が吹いたら]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1006874877</id>
+        <link href="https://diskunion.net/jp/ct/detail/1006874877"/>
+        <updated>2026-06-29T05:55:10.272Z</updated>
+        <content type="html"><![CDATA[
+        <b>MAKOTO IWABUCHI 岩渕まこと - ムーンライト・フライト / 風が吹いたら</b><br>
+        <br>
+        価格: 1700円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: HMV Record Shop<br>
+        フォーマット: 7"(レコード)<br>
+        <br>
+        登録日: 2026-06-29T05:55:10.272Z<br>
+        更新日: 2026-06-29T05:55:10.272Z<br>
+        クロール日: 2026-06-29T05:55:07.714Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1006874877">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MIYUKI NAKAJIMA 中島みゆき - 組曲(Suite)]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1006883465</id>
+        <link href="https://diskunion.net/jp/ct/detail/1006883465"/>
+        <updated>2026-06-29T05:55:10.279Z</updated>
+        <content type="html"><![CDATA[
+        <b>MIYUKI NAKAJIMA 中島みゆき - 組曲(Suite)</b><br>
+        <br>
+        価格: 5750円<br>
+        盤質: B+<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: ヤマハミュージックコミュニケーションズ<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-06-29T05:55:10.279Z<br>
+        更新日: 2026-06-29T05:55:10.279Z<br>
+        クロール日: 2026-06-29T05:55:07.714Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1006883465">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE BAWDIES - BOYS! (LP)【RECORD STORE DAY 04.18.2015】]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1006473092</id>
+        <link href="https://diskunion.net/jp/ct/detail/1006473092"/>
+        <updated>2026-06-29T05:55:10.286Z</updated>
+        <content type="html"><![CDATA[
+        <b>THE BAWDIES - BOYS! (LP)【RECORD STORE DAY 04.18.2015】</b><br>
+        <br>
+        価格: 2250円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: 平成J-POP<br>
+        レーベル: SEEZ RECORDS<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-06-29T05:55:10.286Z<br>
+        更新日: 2026-06-29T05:55:10.286Z<br>
+        クロール日: 2026-06-29T05:55:07.714Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1006473092">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE BAWDIES - GOING BACK HOME (レコード)【RECORD STORE DAY 04.18.2015】]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1006058876</id>
+        <link href="https://diskunion.net/jp/ct/detail/1006058876"/>
+        <updated>2026-06-29T05:55:10.299Z</updated>
+        <content type="html"><![CDATA[
+        <b>THE BAWDIES - GOING BACK HOME (レコード)【RECORD STORE DAY 04.18.2015】</b><br>
+        <br>
+        価格: 3050円<br>
+        盤質: B+<br>
+        <br>
+        <br>
+        ジャンル: 平成J-POP<br>
+        レーベル: SEEZ RECORDS<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-06-29T05:55:10.299Z<br>
+        更新日: 2026-06-29T05:55:10.299Z<br>
+        クロール日: 2026-06-29T05:55:07.714Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1006058876">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE 50 KAITENZ ザ50回転ズ - ロックンロール・マジック]]></title>
+        <id>https://diskunion.net/jp/ct/detail/IND6277</id>
+        <link href="https://diskunion.net/jp/ct/detail/IND6277"/>
+        <updated>2026-06-29T05:55:10.305Z</updated>
+        <content type="html"><![CDATA[
+        <b>THE 50 KAITENZ ザ50回転ズ - ロックンロール・マジック</b><br>
+        <br>
+        価格: 5250円<br>
+        盤質: B+<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: FILE RECORDS<br>
+        フォーマット: 10"(レコード)<br>
+        <br>
+        登録日: 2026-06-29T05:55:10.305Z<br>
+        更新日: 2026-06-29T05:55:10.305Z<br>
+        クロール日: 2026-06-29T05:55:07.715Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/IND6277">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MIYUKI NAKAJIMA 中島みゆき - グッバイ・ガール]]></title>
+        <id>https://diskunion.net/jp/ct/detail/DI07029-153</id>
+        <link href="https://diskunion.net/jp/ct/detail/DI07029-153"/>
+        <updated>2026-06-29T05:55:10.515Z</updated>
+        <content type="html"><![CDATA[
+        <b>MIYUKI NAKAJIMA 中島みゆき - グッバイ・ガール</b><br>
+        <br>
+        価格: 9851円<br>
+        盤質: B+<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: ポニーキャニオン<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-06-29T05:55:10.515Z<br>
+        更新日: 2026-06-29T05:55:10.515Z<br>
+        クロール日: 2026-06-29T05:55:07.744Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/DI07029-153">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[信天翁V - あほうどり]]></title>
+        <id>https://diskunion.net/jp/ct/detail/TT-DOM-260627-1009263290</id>
+        <link href="https://diskunion.net/jp/ct/detail/TT-DOM-260627-1009263290"/>
+        <updated>2026-06-29T05:55:10.528Z</updated>
+        <content type="html"><![CDATA[
+        <b>信天翁V - あほうどり</b><br>
+        <br>
+        価格: 9851円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: JPOPS<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-06-29T05:55:10.528Z<br>
+        更新日: 2026-06-29T05:55:10.528Z<br>
+        クロール日: 2026-06-29T05:55:07.744Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/TT-DOM-260627-1009263290">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[タイガース - トカイ]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1002766160</id>
+        <link href="https://diskunion.net/jp/ct/detail/1002766160"/>
+        <updated>2026-06-29T05:55:10.535Z</updated>
+        <content type="html"><![CDATA[
+        <b>タイガース - トカイ</b><br>
+        <br>
+        価格: 380円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: ユニバーサルミュージック<br>
+        フォーマット: 7"(レコード)<br>
+        <br>
+        登録日: 2026-06-29T05:55:10.535Z<br>
+        更新日: 2026-06-29T05:55:10.535Z<br>
+        クロール日: 2026-06-29T05:55:07.744Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1002766160">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE KINGTONES ザ・キングトーンズ - ゲツコウノノクタ-ン]]></title>
+        <id>https://diskunion.net/jp/ct/detail/DFNRP-SPL-09437</id>
+        <link href="https://diskunion.net/jp/ct/detail/DFNRP-SPL-09437"/>
+        <updated>2026-06-29T05:55:10.541Z</updated>
+        <content type="html"><![CDATA[
+        <b>THE KINGTONES ザ・キングトーンズ - ゲツコウノノクタ-ン</b><br>
+        <br>
+        価格: 380円<br>
+        盤質: B+<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: ユニバーサルミュージック<br>
+        フォーマット: 7"(レコード)<br>
+        <br>
+        登録日: 2026-06-29T05:55:10.541Z<br>
+        更新日: 2026-06-29T05:55:10.541Z<br>
+        クロール日: 2026-06-29T05:55:07.744Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/DFNRP-SPL-09437">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DOWN TOWN BOOGIE WOOGIE BAND ダウン・タウン・ブギウギ・バンド - ミハテヌユメノブルース]]></title>
+        <id>https://diskunion.net/jp/ct/detail/DFNRP-SPL-02976</id>
+        <link href="https://diskunion.net/jp/ct/detail/DFNRP-SPL-02976"/>
+        <updated>2026-06-29T05:55:10.547Z</updated>
+        <content type="html"><![CDATA[
+        <b>DOWN TOWN BOOGIE WOOGIE BAND ダウン・タウン・ブギウギ・バンド - ミハテヌユメノブルース</b><br>
+        <br>
+        価格: 380円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: 東芝<br>
+        フォーマット: 7"(レコード)<br>
+        <br>
+        登録日: 2026-06-29T05:55:10.547Z<br>
+        更新日: 2026-06-29T05:55:10.547Z<br>
+        クロール日: 2026-06-29T05:55:07.744Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/DFNRP-SPL-02976">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BUCK-TICK バクチク - darker than darkness -style93-(2LP)]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1009172314</id>
+        <link href="https://diskunion.net/jp/ct/detail/1009172314"/>
+        <updated>2026-06-29T05:55:10.567Z</updated>
+        <content type="html"><![CDATA[
+        <b>BUCK-TICK バクチク - darker than darkness -style93-(2LP)</b><br>
+        <br>
+        価格: 6450円<br>
+        盤質: A<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: ビクターエンタテインメント<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-06-29T05:55:10.567Z<br>
+        更新日: 2026-06-29T05:55:10.567Z<br>
+        クロール日: 2026-06-29T05:55:07.744Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1009172314">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE BLUE HEARTS ザ・ブルーハーツ - TRAIN-TRAIN [Cassette+Tシャツ(白/XLサイズ)]]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1009071958</id>
+        <link href="https://diskunion.net/jp/ct/detail/1009071958"/>
+        <updated>2026-06-29T05:55:10.665Z</updated>
+        <content type="html"><![CDATA[
+        <b>THE BLUE HEARTS ザ・ブルーハーツ - TRAIN-TRAIN [Cassette+Tシャツ(白/XLサイズ)]</b><br>
+        <br>
+        価格: 7950円<br>
+        盤質: S<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: 徳間コミュニケーションズ<br>
+        フォーマット: CASSETTE TAPE<br>
+        <br>
+        登録日: 2026-06-29T05:55:10.665Z<br>
+        更新日: 2026-06-29T05:55:10.665Z<br>
+        クロール日: 2026-06-29T05:55:07.746Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1009071958">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE BLUE HEARTS ザ・ブルーハーツ - Bust Waste Hip [Cassette+Tシャツ(白/XLサイズ)]]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1009071966</id>
+        <link href="https://diskunion.net/jp/ct/detail/1009071966"/>
+        <updated>2026-06-29T05:55:10.671Z</updated>
+        <content type="html"><![CDATA[
+        <b>THE BLUE HEARTS ザ・ブルーハーツ - Bust Waste Hip [Cassette+Tシャツ(白/XLサイズ)]</b><br>
+        <br>
+        価格: 7950円<br>
+        盤質: S<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: ワーナーミュージック<br>
+        フォーマット: CASSETTE TAPE<br>
+        <br>
+        登録日: 2026-06-29T05:55:10.671Z<br>
+        更新日: 2026-06-29T05:55:10.671Z<br>
+        クロール日: 2026-06-29T05:55:07.746Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1009071966">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE BLUE HEARTS ザ・ブルーハーツ - HIGH KICKS [Cassette+Tシャツ(白/XLサイズ)]]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1009071974</id>
+        <link href="https://diskunion.net/jp/ct/detail/1009071974"/>
+        <updated>2026-06-29T05:55:10.684Z</updated>
+        <content type="html"><![CDATA[
+        <b>THE BLUE HEARTS ザ・ブルーハーツ - HIGH KICKS [Cassette+Tシャツ(白/XLサイズ)]</b><br>
+        <br>
+        価格: 7950円<br>
+        盤質: S<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: ワーナーミュージック<br>
+        フォーマット: CASSETTE TAPE<br>
+        <br>
+        登録日: 2026-06-29T05:55:10.684Z<br>
+        更新日: 2026-06-29T05:55:10.684Z<br>
+        クロール日: 2026-06-29T05:55:07.746Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1009071974">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE BLUE HEARTS ザ・ブルーハーツ - DUG OUT [Cassette+Tシャツ(白/XLサイズ)]]]></title>
+        <id>https://diskunion.net/jp/ct/detail/1009071990</id>
+        <link href="https://diskunion.net/jp/ct/detail/1009071990"/>
+        <updated>2026-06-29T05:55:10.697Z</updated>
+        <content type="html"><![CDATA[
+        <b>THE BLUE HEARTS ザ・ブルーハーツ - DUG OUT [Cassette+Tシャツ(白/XLサイズ)]</b><br>
+        <br>
+        価格: 7950円<br>
+        盤質: S<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: ワーナーミュージック<br>
+        フォーマット: CASSETTE TAPE<br>
+        <br>
+        登録日: 2026-06-29T05:55:10.697Z<br>
+        更新日: 2026-06-29T05:55:10.697Z<br>
+        クロール日: 2026-06-29T05:55:07.746Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/1009071990">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INU - 牛若丸なめとったらどついたるぞ!]]></title>
+        <id>https://diskunion.net/jp/ct/detail/DI171010-054</id>
+        <link href="https://diskunion.net/jp/ct/detail/DI171010-054"/>
+        <updated>2026-06-29T05:55:12.904Z</updated>
+        <content type="html"><![CDATA[
+        <b>INU - 牛若丸なめとったらどついたるぞ!</b><br>
+        <br>
+        価格: 8050円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック<br>
+        レーベル: アルケミーレコード<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-06-29T05:55:12.904Z<br>
+        更新日: 2026-06-29T05:55:12.904Z<br>
+        クロール日: 2026-06-29T05:55:07.956Z<br>
+        <br>
+        <a href="https://diskunion.net/jp/ct/detail/DI171010-054">商品ページ</a>
         ]]></content>
     </entry>
 </feed>
