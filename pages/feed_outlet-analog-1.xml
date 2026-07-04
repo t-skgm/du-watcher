@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2026-07-03T07:14:31.430Z</updated>
+    <updated>2026-07-04T07:02:34.918Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,73 +11,4 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_outlet-analog-1.xml"/>
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
-    <entry>
-        <title type="html"><![CDATA[TOM MISCH トム・ミッシュ - FULL CIRCLE (LP) / レコード]]></title>
-        <id>https://diskunion.net/indiealt/ct/detail/1009181505</id>
-        <link href="https://diskunion.net/indiealt/ct/detail/1009181505"/>
-        <updated>2026-07-03T07:03:06.387Z</updated>
-        <content type="html"><![CDATA[
-        <b>TOM MISCH トム・ミッシュ - FULL CIRCLE (LP) / レコード</b><br>
-        <br>
-        価格: 4650円<br>
-        盤質: B+<br>
-        割引率: 10%<br>
-        <br>
-        ジャンル: CLUB/DANCE<br>
-        レーベル: BEYOND THE GROOVE<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-07-03T07:03:06.387Z<br>
-        更新日: 2026-07-03T07:03:06.387Z<br>
-        クロール日: 2026-07-03T07:03:05.387Z<br>
-        <br>
-        <a href="https://diskunion.net/indiealt/ct/detail/1009181505">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CAT BURNS キャット・バーンズ - HOW TO BE HUMAN (TRANSPARENT SKY BLUE VINYL)]]></title>
-        <id>https://diskunion.net/indiealt/ct/detail/1009103408</id>
-        <link href="https://diskunion.net/indiealt/ct/detail/1009103408"/>
-        <updated>2026-07-03T07:03:06.408Z</updated>
-        <content type="html"><![CDATA[
-        <b>CAT BURNS キャット・バーンズ - HOW TO BE HUMAN (TRANSPARENT SKY BLUE VINYL)</b><br>
-        <br>
-        価格: 4455円<br>
-        盤質: OUTLET<br>
-        割引率: 25%<br>
-        <br>
-        ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: SINCE 93<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-07-03T07:03:06.408Z<br>
-        更新日: 2026-07-03T07:03:06.408Z<br>
-        クロール日: 2026-07-03T07:03:05.388Z<br>
-        <br>
-        <a href="https://diskunion.net/indiealt/ct/detail/1009103408">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SUPPRESSION - GUILTY OF THINKING - 1992-1998 (CD+LP/DIEHARD COLOR VINYL)]]></title>
-        <id>https://diskunion.net/punk/ct/detail/1009252709</id>
-        <link href="https://diskunion.net/punk/ct/detail/1009252709"/>
-        <updated>2026-07-03T07:03:48.304Z</updated>
-        <content type="html"><![CDATA[
-        <b>SUPPRESSION - GUILTY OF THINKING - 1992-1998 (CD+LP/DIEHARD COLOR VINYL)</b><br>
-        <br>
-        価格: 5500円<br>
-        盤質: OUTLET<br>
-        割引率: 0%<br>
-        <br>
-        ジャンル: PUNK<br>
-        レーベル: F.O.A.D.<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-07-03T07:03:48.304Z<br>
-        更新日: 2026-07-03T07:03:48.304Z<br>
-        クロール日: 2026-07-03T07:03:48.084Z<br>
-        <br>
-        <a href="https://diskunion.net/punk/ct/detail/1009252709">商品ページ</a>
-        ]]></content>
-    </entry>
 </feed>
