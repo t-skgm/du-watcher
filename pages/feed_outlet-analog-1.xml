@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2026-07-15T06:27:37.745Z</updated>
+    <updated>2026-07-16T06:30:15.590Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,73 +11,4 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_outlet-analog-1.xml"/>
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
-    <entry>
-        <title type="html"><![CDATA[FCUKERS ファッカーズ - O(LP)]]></title>
-        <id>https://diskunion.net/indiealt/ct/detail/1009173194</id>
-        <link href="https://diskunion.net/indiealt/ct/detail/1009173194"/>
-        <updated>2026-07-15T06:14:28.681Z</updated>
-        <content type="html"><![CDATA[
-        <b>FCUKERS ファッカーズ - O(LP)</b><br>
-        <br>
-        価格: 4650円<br>
-        盤質: B+<br>
-        割引率: 10%<br>
-        <br>
-        ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: NINJA TUNE<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-07-15T06:14:28.681Z<br>
-        更新日: 2026-07-15T06:14:28.681Z<br>
-        クロール日: 2026-07-15T06:14:27.609Z<br>
-        <br>
-        <a href="https://diskunion.net/indiealt/ct/detail/1009173194">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DEFTONES デフトーンズ - DIAMOND EYES (LP)]]></title>
-        <id>https://diskunion.net/indiealt/ct/detail/04IA22722</id>
-        <link href="https://diskunion.net/indiealt/ct/detail/04IA22722"/>
-        <updated>2026-07-15T06:14:28.698Z</updated>
-        <content type="html"><![CDATA[
-        <b>DEFTONES デフトーンズ - DIAMOND EYES (LP)</b><br>
-        <br>
-        価格: 1568円<br>
-        盤質: OUTLET<br>
-        割引率: 75%<br>
-        <br>
-        ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: REPRISE<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-07-15T06:14:28.698Z<br>
-        更新日: 2026-07-15T06:14:28.698Z<br>
-        クロール日: 2026-07-15T06:14:27.609Z<br>
-        <br>
-        <a href="https://diskunion.net/indiealt/ct/detail/04IA22722">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PINHEAD GUNPOWDER ピンヘッドガンパウダー - UNT (LP/JAPAN EXCLUSIVE COLOR VINYL)]]></title>
-        <id>https://diskunion.net/punk/ct/detail/1008915415</id>
-        <link href="https://diskunion.net/punk/ct/detail/1008915415"/>
-        <updated>2026-07-15T06:15:00.114Z</updated>
-        <content type="html"><![CDATA[
-        <b>PINHEAD GUNPOWDER ピンヘッドガンパウダー - UNT (LP/JAPAN EXCLUSIVE COLOR VINYL)</b><br>
-        <br>
-        価格: 1800円<br>
-        盤質: OUTLET<br>
-        割引率: 0%<br>
-        <br>
-        ジャンル: PUNK<br>
-        レーベル: 1-2-3-4 GO! (1234GO!)<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-07-15T06:15:00.114Z<br>
-        更新日: 2026-07-15T06:15:00.114Z<br>
-        クロール日: 2026-07-15T06:14:59.988Z<br>
-        <br>
-        <a href="https://diskunion.net/punk/ct/detail/1008915415">商品ページ</a>
-        ]]></content>
-    </entry>
 </feed>
