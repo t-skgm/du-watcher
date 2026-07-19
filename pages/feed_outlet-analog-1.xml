@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2026-07-18T06:21:31.308Z</updated>
+    <updated>2026-07-19T06:44:01.041Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,27 +11,4 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_outlet-analog-1.xml"/>
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
-    <entry>
-        <title type="html"><![CDATA[AMY WINEHOUSE エイミー・ワインハウス - FRANK]]></title>
-        <id>https://diskunion.net/indiealt/ct/detail/110328HH019</id>
-        <link href="https://diskunion.net/indiealt/ct/detail/110328HH019"/>
-        <updated>2026-07-18T06:05:23.141Z</updated>
-        <content type="html"><![CDATA[
-        <b>AMY WINEHOUSE エイミー・ワインハウス - FRANK</b><br>
-        <br>
-        価格: 7574円<br>
-        盤質: OUTLET<br>
-        割引率: 10%<br>
-        <br>
-        ジャンル: HIPHOP/R&B<br>
-        レーベル: UNIVERSAL<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-07-18T06:05:23.141Z<br>
-        更新日: 2026-07-18T06:05:23.141Z<br>
-        クロール日: 2026-07-18T06:05:21.132Z<br>
-        <br>
-        <a href="https://diskunion.net/indiealt/ct/detail/110328HH019">商品ページ</a>
-        ]]></content>
-    </entry>
 </feed>
