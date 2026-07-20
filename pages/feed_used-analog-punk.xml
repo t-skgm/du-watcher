@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/used-analog-punk</id>
     <title>DU Watcher: 中古アナログ/Punk</title>
-    <updated>2026-07-19T06:44:01.032Z</updated>
+    <updated>2026-07-20T06:53:08.022Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -12,14 +12,14 @@
     <subtitle>DU Watcher feed: 中古アナログ/Punk</subtitle>
     <rights>t-skgm</rights>
     <entry>
-        <title type="html"><![CDATA[WILD ONES (US) - KEEP IT SAFE (LP)]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/1006156118</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/1006156118"/>
-        <updated>2026-07-19T06:27:22.071Z</updated>
+        <title type="html"><![CDATA[LITE / MOUSE ON THE KEYS - SPLIT (12")]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/1007177333</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/1007177333"/>
+        <updated>2026-07-20T06:42:56.759Z</updated>
         <content type="html"><![CDATA[
-        <b>WILD ONES (US) - KEEP IT SAFE (LP)</b><br>
+        <b>LITE / MOUSE ON THE KEYS - SPLIT (12")</b><br>
         <br>
-        価格: 1100円<br>
+        価格: 1300円<br>
         盤質: B<br>
         <br>
         <br>
@@ -27,22 +27,68 @@
         レーベル: TOPSHELF RECORDS<br>
         フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2026-07-19T06:27:22.071Z<br>
-        更新日: 2026-07-19T06:27:22.071Z<br>
-        クロール日: 2026-07-19T06:27:22.056Z<br>
+        登録日: 2026-07-20T06:42:56.759Z<br>
+        更新日: 2026-07-20T06:42:56.759Z<br>
+        クロール日: 2026-07-20T06:42:56.736Z<br>
         <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/1006156118">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/punk/udetail/1007177333">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EFFECTS - EYES TO THE LIGHT (LP)]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/1007467682</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/1007467682"/>
-        <updated>2026-07-19T06:27:22.078Z</updated>
+        <title type="html"><![CDATA[ENGINE DOWN エンジンダウン - ENGINE DOWN]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/PNK0409-123</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/PNK0409-123"/>
+        <updated>2026-07-20T06:42:56.765Z</updated>
         <content type="html"><![CDATA[
-        <b>EFFECTS - EYES TO THE LIGHT (LP)</b><br>
+        <b>ENGINE DOWN エンジンダウン - ENGINE DOWN</b><br>
         <br>
-        価格: 1601円<br>
+        価格: 6750円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        レーベル: LOVITT RECORDS<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-07-20T06:42:56.765Z<br>
+        更新日: 2026-07-20T06:42:56.765Z<br>
+        クロール日: 2026-07-20T06:42:56.736Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/PNK0409-123">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FUGAZI フガジ - FUGAZI (LP)]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/PNK0901-378</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/PNK0901-378"/>
+        <updated>2026-07-20T06:42:56.785Z</updated>
+        <content type="html"><![CDATA[
+        <b>FUGAZI フガジ - FUGAZI (LP)</b><br>
+        <br>
+        価格: 3251円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        レーベル: DISCHORD<br>
+        フォーマット: 12"(レコード)<br>
+        <br>
+        登録日: 2026-07-20T06:42:56.785Z<br>
+        更新日: 2026-07-20T06:42:56.785Z<br>
+        クロール日: 2026-07-20T06:42:56.737Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/PNK0901-378">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FUGAZI フガジ - RED MEDICINE (LP)]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/PNK1211-219</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/PNK1211-219"/>
+        <updated>2026-07-20T06:42:56.798Z</updated>
+        <content type="html"><![CDATA[
+        <b>FUGAZI フガジ - RED MEDICINE (LP)</b><br>
+        <br>
+        価格: 4650円<br>
         盤質: B<br>
         <br>
         <br>
@@ -50,597 +96,459 @@
         レーベル: DISCHORD<br>
         フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2026-07-19T06:27:22.078Z<br>
-        更新日: 2026-07-19T06:27:22.078Z<br>
-        クロール日: 2026-07-19T06:27:22.057Z<br>
+        登録日: 2026-07-20T06:42:56.798Z<br>
+        更新日: 2026-07-20T06:42:56.798Z<br>
+        クロール日: 2026-07-20T06:42:56.737Z<br>
         <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/1007467682">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/punk/udetail/PNK1211-219">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BLIND GIRLS - RESIDUE (LP/REISSUE)]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/1008092798</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/1008092798"/>
-        <updated>2026-07-19T06:27:22.093Z</updated>
+        <title type="html"><![CDATA[GREEN DAY グリーン・デイ - WAITING]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/1000382763</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/1000382763"/>
+        <updated>2026-07-20T06:43:54.677Z</updated>
         <content type="html"><![CDATA[
-        <b>BLIND GIRLS - RESIDUE (LP/REISSUE)</b><br>
-        <br>
-        価格: 2050円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: PUNK<br>
-        レーベル: LEFT HAND LABEL<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-07-19T06:27:22.093Z<br>
-        更新日: 2026-07-19T06:27:22.093Z<br>
-        クロール日: 2026-07-19T06:27:22.057Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/1008092798">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RIP ROOM - ALIGHT AND RESOUND (LP)]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/1008494779</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/1008494779"/>
-        <updated>2026-07-19T06:27:22.100Z</updated>
-        <content type="html"><![CDATA[
-        <b>RIP ROOM - ALIGHT AND RESOUND (LP)</b><br>
-        <br>
-        価格: 2701円<br>
-        盤質: S<br>
-        <br>
-        <br>
-        ジャンル: PUNK<br>
-        レーベル: SPARTAN<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-07-19T06:27:22.100Z<br>
-        更新日: 2026-07-19T06:27:22.100Z<br>
-        クロール日: 2026-07-19T06:27:22.057Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/1008494779">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[INTO IT. OVER IT.: HIKES - RECIPROCITY (LP)]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/1008568749</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/1008568749"/>
-        <updated>2026-07-19T06:27:22.107Z</updated>
-        <content type="html"><![CDATA[
-        <b>INTO IT. OVER IT.: HIKES - RECIPROCITY (LP)</b><br>
-        <br>
-        価格: 1900円<br>
-        盤質: B+<br>
-        <br>
-        <br>
-        ジャンル: PUNK<br>
-        レーベル: STORM CHASERS<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-07-19T06:27:22.107Z<br>
-        更新日: 2026-07-19T06:27:22.107Z<br>
-        クロール日: 2026-07-19T06:27:22.057Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/1008568749">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[COPPER - DRAG QUEEN]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/DFS200703-034</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/DFS200703-034"/>
-        <updated>2026-07-19T06:27:22.113Z</updated>
-        <content type="html"><![CDATA[
-        <b>COPPER - DRAG QUEEN</b><br>
-        <br>
-        価格: 3200円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: PUNK<br>
-        レーベル: EQUAL VISION<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-07-19T06:27:22.113Z<br>
-        更新日: 2026-07-19T06:27:22.113Z<br>
-        クロール日: 2026-07-19T06:27:22.057Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/DFS200703-034">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BIRTHMARK (US) - ANTIBODIES (レコード)]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/PNK1205-215</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/PNK1205-215"/>
-        <updated>2026-07-19T06:27:22.120Z</updated>
-        <content type="html"><![CDATA[
-        <b>BIRTHMARK (US) - ANTIBODIES (レコード)</b><br>
-        <br>
-        価格: 1100円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: PUNK<br>
-        レーベル: POLYVINYL<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-07-19T06:27:22.120Z<br>
-        更新日: 2026-07-19T06:27:22.120Z<br>
-        クロール日: 2026-07-19T06:27:22.057Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/PNK1205-215">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LOOK MEXICO - UNIOLA]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/TT-DKI-260707-1007695571</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DKI-260707-1007695571"/>
-        <updated>2026-07-19T06:27:22.127Z</updated>
-        <content type="html"><![CDATA[
-        <b>LOOK MEXICO - UNIOLA</b><br>
-        <br>
-        価格: 1800円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: PUNK<br>
-        レーベル: PUNK<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-07-19T06:27:22.127Z<br>
-        更新日: 2026-07-19T06:27:22.127Z<br>
-        クロール日: 2026-07-19T06:27:22.057Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DKI-260707-1007695571">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MARVINS REVOLT マーヴィンズ・リヴォルト - KILLEC]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/TT-DKI-260707-1009206631</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DKI-260707-1009206631"/>
-        <updated>2026-07-19T06:27:22.134Z</updated>
-        <content type="html"><![CDATA[
-        <b>MARVINS REVOLT マーヴィンズ・リヴォルト - KILLEC</b><br>
-        <br>
-        価格: 2200円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: PUNK<br>
-        レーベル: PUNK<br>
-        フォーマット: 10"(レコード)<br>
-        <br>
-        登録日: 2026-07-19T06:27:22.134Z<br>
-        更新日: 2026-07-19T06:27:22.134Z<br>
-        クロール日: 2026-07-19T06:27:22.057Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DKI-260707-1009206631">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SECRET STUFF - THIS IS FINE]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/TT-DKI-260707-1009207163</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DKI-260707-1009207163"/>
-        <updated>2026-07-19T06:27:22.141Z</updated>
-        <content type="html"><![CDATA[
-        <b>SECRET STUFF - THIS IS FINE</b><br>
-        <br>
-        価格: 980円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: PUNK<br>
-        レーベル: PUNK<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-07-19T06:27:22.141Z<br>
-        更新日: 2026-07-19T06:27:22.141Z<br>
-        クロール日: 2026-07-19T06:27:22.058Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DKI-260707-1009207163">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APPLESEED CAST アップルシード・キャスト - LOST SONGS]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/TT-DS18-240822-1008851270</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DS18-240822-1008851270"/>
-        <updated>2026-07-19T06:27:22.148Z</updated>
-        <content type="html"><![CDATA[
-        <b>APPLESEED CAST アップルシード・キャスト - LOST SONGS</b><br>
-        <br>
-        価格: 2050円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: PUNK<br>
-        
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-07-19T06:27:22.148Z<br>
-        更新日: 2026-07-19T06:27:22.148Z<br>
-        クロール日: 2026-07-19T06:27:22.058Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DS18-240822-1008851270">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SPECIAL EXPLOSION - THE ART OF MOTHERING]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/TT-DS7-220413-1008374118</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DS7-220413-1008374118"/>
-        <updated>2026-07-19T06:27:22.155Z</updated>
-        <content type="html"><![CDATA[
-        <b>SPECIAL EXPLOSION - THE ART OF MOTHERING</b><br>
-        <br>
-        価格: 480円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: PUNK<br>
-        レーベル: TOPSHELF RECORDS<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-07-19T06:27:22.155Z<br>
-        更新日: 2026-07-19T06:27:22.155Z<br>
-        クロール日: 2026-07-19T06:27:22.058Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DS7-220413-1008374118">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[carpool カープール - EROTIC NIGHTMARE SUMMER]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/TT-DY2-240913-1008806920</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DY2-240913-1008806920"/>
-        <updated>2026-07-19T06:27:22.165Z</updated>
-        <content type="html"><![CDATA[
-        <b>carpool カープール - EROTIC NIGHTMARE SUMMER</b><br>
-        <br>
-        価格: 980円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: PUNK<br>
-        
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-07-19T06:27:22.165Z<br>
-        更新日: 2026-07-19T06:27:22.165Z<br>
-        クロール日: 2026-07-19T06:27:22.058Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DY2-240913-1008806920">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FRENZAL RHOMB - NOT SO TOUGH NOW (LP)]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/1009131032</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/1009131032"/>
-        <updated>2026-07-19T06:28:20.852Z</updated>
-        <content type="html"><![CDATA[
-        <b>FRENZAL RHOMB - NOT SO TOUGH NOW (LP)</b><br>
+        <b>GREEN DAY グリーン・デイ - WAITING</b><br>
         <br>
         価格: 3550円<br>
-        盤質: A<br>
-        <br>
-        <br>
-        ジャンル: PUNK<br>
-        レーベル: SBÄM<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-07-19T06:28:20.852Z<br>
-        更新日: 2026-07-19T06:28:20.852Z<br>
-        クロール日: 2026-07-19T06:28:20.545Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/1009131032">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[V.A.  オムニバス - THIS IS BOSTON NOT L.A.]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/DF180302-086</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/DF180302-086"/>
-        <updated>2026-07-19T06:28:20.876Z</updated>
-        <content type="html"><![CDATA[
-        <b>V.A.  オムニバス - THIS IS BOSTON NOT L.A.</b><br>
-        <br>
-        価格: 25850円<br>
         盤質: B<br>
         <br>
         <br>
         ジャンル: PUNK<br>
-        レーベル: MODERN METHOD<br>
-        フォーマット: LP(レコード)<br>
+        レーベル: ADELINE<br>
+        フォーマット: 7"(レコード)<br>
         <br>
-        登録日: 2026-07-19T06:28:20.876Z<br>
-        更新日: 2026-07-19T06:28:20.876Z<br>
-        クロール日: 2026-07-19T06:28:20.545Z<br>
+        登録日: 2026-07-20T06:43:54.677Z<br>
+        更新日: 2026-07-20T06:43:54.677Z<br>
+        クロール日: 2026-07-20T06:43:54.417Z<br>
         <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/DF180302-086">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/punk/udetail/1000382763">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BLACK FLAG ブラック・フラッグ - DAMAGED]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/DF180302-107</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/DF180302-107"/>
-        <updated>2026-07-19T06:28:20.884Z</updated>
+        <title type="html"><![CDATA[PUNK LUREX - UUSI SUUNTA(LP)]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/1008953157</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/1008953157"/>
+        <updated>2026-07-20T06:43:54.684Z</updated>
         <content type="html"><![CDATA[
-        <b>BLACK FLAG ブラック・フラッグ - DAMAGED</b><br>
+        <b>PUNK LUREX - UUSI SUUNTA(LP)</b><br>
         <br>
-        価格: 78850円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: PUNK<br>
-        レーベル: UNICORNIO RECORDS<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-07-19T06:28:20.884Z<br>
-        更新日: 2026-07-19T06:28:20.884Z<br>
-        クロール日: 2026-07-19T06:28:20.545Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/DF180302-107">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BASEMENT BRATS  ベースメント・ブラッツ - BRATBEAT (LP)]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/DF210415-101</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/DF210415-101"/>
-        <updated>2026-07-19T06:28:20.898Z</updated>
-        <content type="html"><![CDATA[
-        <b>BASEMENT BRATS  ベースメント・ブラッツ - BRATBEAT (LP)</b><br>
-        <br>
-        価格: 1100円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: PUNK<br>
-        レーベル: SCREAMING APPLE<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-07-19T06:28:20.898Z<br>
-        更新日: 2026-07-19T06:28:20.898Z<br>
-        クロール日: 2026-07-19T06:28:20.545Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/DF210415-101">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZOINKS - BAD MOVE SPACE CADET]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/DF210721-098</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/DF210721-098"/>
-        <updated>2026-07-19T06:28:20.904Z</updated>
-        <content type="html"><![CDATA[
-        <b>ZOINKS - BAD MOVE SPACE CADET</b><br>
-        <br>
-        価格: 1400円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: PUNK<br>
-        
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-07-19T06:28:20.904Z<br>
-        更新日: 2026-07-19T06:28:20.904Z<br>
-        クロール日: 2026-07-19T06:28:20.545Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/DF210721-098">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GUNJAH - HEREDITY]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/DF220804-043</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/DF220804-043"/>
-        <updated>2026-07-19T06:28:20.911Z</updated>
-        <content type="html"><![CDATA[
-        <b>GUNJAH - HEREDITY</b><br>
-        <br>
-        価格: 780円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: PUNK<br>
-        
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-07-19T06:28:20.911Z<br>
-        更新日: 2026-07-19T06:28:20.911Z<br>
-        クロール日: 2026-07-19T06:28:20.546Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/DF220804-043">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MINOR THREAT マイナー・スレット - OUT OF STEP]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/DF260129-004</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/DF260129-004"/>
-        <updated>2026-07-19T06:28:20.918Z</updated>
-        <content type="html"><![CDATA[
-        <b>MINOR THREAT マイナー・スレット - OUT OF STEP</b><br>
-        <br>
-        価格: 198000円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: PUNK<br>
-        レーベル: DISCHORD<br>
-        フォーマット: 12"(レコード)<br>
-        <br>
-        登録日: 2026-07-19T06:28:20.918Z<br>
-        更新日: 2026-07-19T06:28:20.918Z<br>
-        クロール日: 2026-07-19T06:28:20.546Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/DF260129-004">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STAINS (80'S PUNK/L.A.) - STAINS]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/DF260313-017</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/DF260313-017"/>
-        <updated>2026-07-19T06:28:20.925Z</updated>
-        <content type="html"><![CDATA[
-        <b>STAINS (80'S PUNK/L.A.) - STAINS</b><br>
-        <br>
-        価格: 108851円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: PUNK<br>
-        レーベル: SST<br>
-        フォーマット: 12"(レコード)<br>
-        <br>
-        登録日: 2026-07-19T06:28:20.925Z<br>
-        更新日: 2026-07-19T06:28:20.925Z<br>
-        クロール日: 2026-07-19T06:28:20.546Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/DF260313-017">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ANTI-BAND - ANTI-BAND'S ONLY ALBUM]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/DF260329-031</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/DF260329-031"/>
-        <updated>2026-07-19T06:28:20.932Z</updated>
-        <content type="html"><![CDATA[
-        <b>ANTI-BAND - ANTI-BAND'S ONLY ALBUM</b><br>
-        <br>
-        価格: 248850円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: PUNK<br>
-        レーベル: ZEBIAN<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-07-19T06:28:20.932Z<br>
-        更新日: 2026-07-19T06:28:20.932Z<br>
-        クロール日: 2026-07-19T06:28:20.546Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/DF260329-031">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DONNAS ドナス - AMERICAN TEENAGE ROCK 'N' ROLL MACHINE]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/DFS220121-112</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/DFS220121-112"/>
-        <updated>2026-07-19T06:28:20.946Z</updated>
-        <content type="html"><![CDATA[
-        <b>DONNAS ドナス - AMERICAN TEENAGE ROCK 'N' ROLL MACHINE</b><br>
-        <br>
-        価格: 4050円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: PUNK<br>
-        レーベル: LOOKOUT<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-07-19T06:28:20.946Z<br>
-        更新日: 2026-07-19T06:28:20.946Z<br>
-        クロール日: 2026-07-19T06:28:20.546Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/DFS220121-112">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALL - SHE'S MY EX]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/DI0105-137</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/DI0105-137"/>
-        <updated>2026-07-19T06:28:20.953Z</updated>
-        <content type="html"><![CDATA[
-        <b>ALL - SHE'S MY EX</b><br>
-        <br>
-        価格: 2850円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: PUNK<br>
-        
-        フォーマット: CRZ703<br>
-        <br>
-        登録日: 2026-07-19T06:28:20.953Z<br>
-        更新日: 2026-07-19T06:28:20.953Z<br>
-        クロール日: 2026-07-19T06:28:20.546Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/DI0105-137">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NOFX - LIBERAL ANIMATION]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/DI161021-132</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/DI161021-132"/>
-        <updated>2026-07-19T06:28:20.960Z</updated>
-        <content type="html"><![CDATA[
-        <b>NOFX - LIBERAL ANIMATION</b><br>
-        <br>
-        価格: 58850円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: PUNK<br>
-        レーベル: WASSAIL RECORDS<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-07-19T06:28:20.960Z<br>
-        更新日: 2026-07-19T06:28:20.960Z<br>
-        クロール日: 2026-07-19T06:28:20.546Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/DI161021-132">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DEAD KENNEDYS デッド・ケネディーズ - 暗殺]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/DI170512-094</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/DI170512-094"/>
-        <updated>2026-07-19T06:28:20.975Z</updated>
-        <content type="html"><![CDATA[
-        <b>DEAD KENNEDYS デッド・ケネディーズ - 暗殺</b><br>
-        <br>
-        価格: 14850円<br>
+        価格: 2151円<br>
         盤質: B+<br>
         <br>
         <br>
         ジャンル: PUNK<br>
-        レーベル: TRIO<br>
+        レーベル: HILJAISET LEVYT<br>
         フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2026-07-19T06:28:20.975Z<br>
-        更新日: 2026-07-19T06:28:20.975Z<br>
-        クロール日: 2026-07-19T06:28:20.547Z<br>
+        登録日: 2026-07-20T06:43:54.684Z<br>
+        更新日: 2026-07-20T06:43:54.684Z<br>
+        クロール日: 2026-07-20T06:43:54.417Z<br>
         <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/DI170512-094">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/punk/udetail/1008953157">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DISCHARGE ディスチャージ - ホワイ]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/DI170630-004</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/DI170630-004"/>
-        <updated>2026-07-19T06:28:20.989Z</updated>
+        <title type="html"><![CDATA[VARUKERS - BLOODSUCKERS]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/DF170130-7</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/DF170130-7"/>
+        <updated>2026-07-20T06:43:54.690Z</updated>
         <content type="html"><![CDATA[
-        <b>DISCHARGE ディスチャージ - ホワイ</b><br>
+        <b>VARUKERS - BLOODSUCKERS</b><br>
+        <br>
+        価格: 5750円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        レーベル: RIOT CITY RECORDS<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-07-20T06:43:54.690Z<br>
+        更新日: 2026-07-20T06:43:54.690Z<br>
+        クロール日: 2026-07-20T06:43:54.417Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/DF170130-7">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BROKEN BONES - DEM BONES]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/DF170405-144</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/DF170405-144"/>
+        <updated>2026-07-20T06:43:54.697Z</updated>
+        <content type="html"><![CDATA[
+        <b>BROKEN BONES - DEM BONES</b><br>
+        <br>
+        価格: 5250円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-07-20T06:43:54.697Z<br>
+        更新日: 2026-07-20T06:43:54.697Z<br>
+        クロール日: 2026-07-20T06:43:54.418Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/DF170405-144">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CITIZEN FISH シチズンフィッシュ - MILLENNIA MADNESS]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/DF180501-090</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/DF180501-090"/>
+        <updated>2026-07-20T06:43:54.712Z</updated>
+        <content type="html"><![CDATA[
+        <b>CITIZEN FISH シチズンフィッシュ - MILLENNIA MADNESS</b><br>
+        <br>
+        価格: 2650円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-07-20T06:43:54.712Z<br>
+        更新日: 2026-07-20T06:43:54.712Z<br>
+        クロール日: 2026-07-20T06:43:54.418Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/DF180501-090">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRASS - HOW DOES IT FEEL]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/DF180522-201</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/DF180522-201"/>
+        <updated>2026-07-20T06:43:54.718Z</updated>
+        <content type="html"><![CDATA[
+        <b>CRASS - HOW DOES IT FEEL</b><br>
+        <br>
+        価格: 3251円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        レーベル: CRASS<br>
+        フォーマット: 7"(レコード)<br>
+        <br>
+        登録日: 2026-07-20T06:43:54.718Z<br>
+        更新日: 2026-07-20T06:43:54.718Z<br>
+        クロール日: 2026-07-20T06:43:54.418Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/DF180522-201">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OFFSPRING オフスプリング - BAGHDAD]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/DF180814-179</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/DF180814-179"/>
+        <updated>2026-07-20T06:43:54.724Z</updated>
+        <content type="html"><![CDATA[
+        <b>OFFSPRING オフスプリング - BAGHDAD</b><br>
         <br>
         価格: 3850円<br>
         盤質: B<br>
         <br>
         <br>
         ジャンル: PUNK<br>
-        レーベル: バップ<br>
+        レーベル: JEM<br>
+        フォーマット: 7"(レコード)<br>
+        <br>
+        登録日: 2026-07-20T06:43:54.724Z<br>
+        更新日: 2026-07-20T06:43:54.724Z<br>
+        クロール日: 2026-07-20T06:43:54.419Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/DF180814-179">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BULGE - PENNIS RISING]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/DF181116-083</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/DF181116-083"/>
+        <updated>2026-07-20T06:43:54.731Z</updated>
+        <content type="html"><![CDATA[
+        <b>BULGE - PENNIS RISING</b><br>
+        <br>
+        価格: 980円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        
+        フォーマット: 10"(レコード)<br>
+        <br>
+        登録日: 2026-07-20T06:43:54.731Z<br>
+        更新日: 2026-07-20T06:43:54.731Z<br>
+        クロール日: 2026-07-20T06:43:54.419Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/DF181116-083">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LETHAL AGGRESSION - LIFE IS HARD...BUT THAT'S NO EXCUSE AT ALL!]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/DF191115-011</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/DF191115-011"/>
+        <updated>2026-07-20T06:43:54.737Z</updated>
+        <content type="html"><![CDATA[
+        <b>LETHAL AGGRESSION - LIFE IS HARD...BUT THAT'S NO EXCUSE AT ALL!</b><br>
+        <br>
+        価格: 3550円<br>
+        盤質: B+<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        レーベル: FUNHOUSE<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-07-20T06:43:54.737Z<br>
+        更新日: 2026-07-20T06:43:54.737Z<br>
+        クロール日: 2026-07-20T06:43:54.419Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/DF191115-011">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OFFSPRING オフスプリング - SELF ESTEEM]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/DF230124-050</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/DF230124-050"/>
+        <updated>2026-07-20T06:43:54.744Z</updated>
+        <content type="html"><![CDATA[
+        <b>OFFSPRING オフスプリング - SELF ESTEEM</b><br>
+        <br>
+        価格: 3850円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        
+        フォーマット: 7"(レコード)<br>
+        <br>
+        登録日: 2026-07-20T06:43:54.744Z<br>
+        更新日: 2026-07-20T06:43:54.744Z<br>
+        クロール日: 2026-07-20T06:43:54.419Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/DF230124-050">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BRATMOBILE ブラットモービル - LADIES, WOMEN AND GIRLS]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/DFS230516-043</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/DFS230516-043"/>
+        <updated>2026-07-20T06:43:54.750Z</updated>
+        <content type="html"><![CDATA[
+        <b>BRATMOBILE ブラットモービル - LADIES, WOMEN AND GIRLS</b><br>
+        <br>
+        価格: 8850円<br>
+        盤質: B+<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        レーベル: LOOKOUT<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-07-20T06:43:54.750Z<br>
+        更新日: 2026-07-20T06:43:54.750Z<br>
+        クロール日: 2026-07-20T06:43:54.419Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/DFS230516-043">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DEAD MILKMEN デット・ミルクメン - BEELZEBUBBA]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/DFS240221-049</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/DFS240221-049"/>
+        <updated>2026-07-20T06:43:54.756Z</updated>
+        <content type="html"><![CDATA[
+        <b>DEAD MILKMEN デット・ミルクメン - BEELZEBUBBA</b><br>
+        <br>
+        価格: 8850円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        レーベル: ENIGMA<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-07-20T06:43:54.756Z<br>
+        更新日: 2026-07-20T06:43:54.756Z<br>
+        クロール日: 2026-07-20T06:43:54.419Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/DFS240221-049">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DISASSOCIATE ディサソシエイト - CONTROLLED POWER]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/DI110602-98</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/DI110602-98"/>
+        <updated>2026-07-20T06:43:54.769Z</updated>
+        <content type="html"><![CDATA[
+        <b>DISASSOCIATE ディサソシエイト - CONTROLLED POWER</b><br>
+        <br>
+        価格: 680円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-07-20T06:43:54.769Z<br>
+        更新日: 2026-07-20T06:43:54.769Z<br>
+        クロール日: 2026-07-20T06:43:54.419Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/DI110602-98">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[V.A.  オムニバス - RIOT CITY THE PUNK SINGLES COLLECTION VOL.]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/DI160826-181</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/DI160826-181"/>
+        <updated>2026-07-20T06:43:54.776Z</updated>
+        <content type="html"><![CDATA[
+        <b>V.A.  オムニバス - RIOT CITY THE PUNK SINGLES COLLECTION VOL.</b><br>
+        <br>
+        価格: 2250円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-07-20T06:43:54.776Z<br>
+        更新日: 2026-07-20T06:43:54.776Z<br>
+        クロール日: 2026-07-20T06:43:54.420Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/DI160826-181">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[STRATFORD MERCENARIES - SENSE OF SOLITUDE]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/DI161117-202</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/DI161117-202"/>
+        <updated>2026-07-20T06:43:54.782Z</updated>
+        <content type="html"><![CDATA[
+        <b>STRATFORD MERCENARIES - SENSE OF SOLITUDE</b><br>
+        <br>
+        価格: 1900円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-07-20T06:43:54.782Z<br>
+        更新日: 2026-07-20T06:43:54.782Z<br>
+        クロール日: 2026-07-20T06:43:54.420Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/DI161117-202">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KEROSENE 454 ケロシン・454 - CAME BY TO KILL ME (LP)]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/DI161130-168</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/DI161130-168"/>
+        <updated>2026-07-20T06:43:54.789Z</updated>
+        <content type="html"><![CDATA[
+        <b>KEROSENE 454 ケロシン・454 - CAME BY TO KILL ME (LP)</b><br>
+        <br>
+        価格: 2850円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        レーベル: DISCHORD<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-07-20T06:43:54.789Z<br>
+        更新日: 2026-07-20T06:43:54.789Z<br>
+        クロール日: 2026-07-20T06:43:54.420Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/DI161130-168">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OFFSPRING オフスプリング - WHY DON'T YOU GET A JOB?]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/DI170224-340</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/DI170224-340"/>
+        <updated>2026-07-20T06:43:54.795Z</updated>
+        <content type="html"><![CDATA[
+        <b>OFFSPRING オフスプリング - WHY DON'T YOU GET A JOB?</b><br>
+        <br>
+        価格: 1700円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        レーベル: COLUMBIA<br>
         フォーマット: 12"(レコード)<br>
         <br>
-        登録日: 2026-07-19T06:28:20.989Z<br>
-        更新日: 2026-07-19T06:28:20.989Z<br>
-        クロール日: 2026-07-19T06:28:20.547Z<br>
+        登録日: 2026-07-20T06:43:54.795Z<br>
+        更新日: 2026-07-20T06:43:54.795Z<br>
+        クロール日: 2026-07-20T06:43:54.420Z<br>
         <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/DI170630-004">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/punk/udetail/DI170224-340">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[63 MONROE - HIJACK VICTIM]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/DI171208-037</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/DI171208-037"/>
-        <updated>2026-07-19T06:28:21.003Z</updated>
+        <title type="html"><![CDATA[CRASS - BEST BEFORE 1984]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/DI170810-024</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/DI170810-024"/>
+        <updated>2026-07-20T06:43:54.802Z</updated>
         <content type="html"><![CDATA[
-        <b>63 MONROE - HIJACK VICTIM</b><br>
+        <b>CRASS - BEST BEFORE 1984</b><br>
         <br>
-        価格: 1100円<br>
+        価格: 3650円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        レーベル: CRASS<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-07-20T06:43:54.802Z<br>
+        更新日: 2026-07-20T06:43:54.802Z<br>
+        クロール日: 2026-07-20T06:43:54.420Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/DI170810-024">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BAD BRAINS バッド・ブレインズ - PAY TO CUM]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/DI180125-049</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/DI180125-049"/>
+        <updated>2026-07-20T06:43:54.815Z</updated>
+        <content type="html"><![CDATA[
+        <b>BAD BRAINS バッド・ブレインズ - PAY TO CUM</b><br>
+        <br>
+        価格: 2650円<br>
+        盤質: B+<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-07-20T06:43:54.815Z<br>
+        更新日: 2026-07-20T06:43:54.815Z<br>
+        クロール日: 2026-07-20T06:43:54.420Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/DI180125-049">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ABRASIVE WHEELS アブレイシブ・ホイールズ - PUNK SINGLES COLLECTION]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/DI180426-069</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/DI180426-069"/>
+        <updated>2026-07-20T06:43:54.821Z</updated>
+        <content type="html"><![CDATA[
+        <b>ABRASIVE WHEELS アブレイシブ・ホイールズ - PUNK SINGLES COLLECTION</b><br>
+        <br>
+        価格: 1900円<br>
         盤質: B<br>
         <br>
         <br>
@@ -648,22 +556,22 @@
         
         フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2026-07-19T06:28:21.003Z<br>
-        更新日: 2026-07-19T06:28:21.003Z<br>
-        クロール日: 2026-07-19T06:28:20.547Z<br>
+        登録日: 2026-07-20T06:43:54.821Z<br>
+        更新日: 2026-07-20T06:43:54.821Z<br>
+        クロール日: 2026-07-20T06:43:54.422Z<br>
         <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/DI171208-037">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/punk/udetail/DI180426-069">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NEGATIVE APPROACH ネガティブ・アプローチ - TIED DOWN]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/DI180104-049</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/DI180104-049"/>
-        <updated>2026-07-19T06:28:21.009Z</updated>
+        <title type="html"><![CDATA[SUICIDAL TENDENCIES スーサイダル・テンデンシーズ - HOW WILL I LAUGH TOM]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/DS0629-206</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/DS0629-206"/>
+        <updated>2026-07-20T06:43:54.853Z</updated>
         <content type="html"><![CDATA[
-        <b>NEGATIVE APPROACH ネガティブ・アプローチ - TIED DOWN</b><br>
+        <b>SUICIDAL TENDENCIES スーサイダル・テンデンシーズ - HOW WILL I LAUGH TOM</b><br>
         <br>
-        価格: 48850円<br>
+        価格: 6750円<br>
         盤質: B<br>
         <br>
         <br>
@@ -671,20 +579,20 @@
         
         フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2026-07-19T06:28:21.009Z<br>
-        更新日: 2026-07-19T06:28:21.009Z<br>
-        クロール日: 2026-07-19T06:28:20.547Z<br>
+        登録日: 2026-07-20T06:43:54.853Z<br>
+        更新日: 2026-07-20T06:43:54.853Z<br>
+        クロール日: 2026-07-20T06:43:54.422Z<br>
         <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/DI180104-049">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/punk/udetail/DS0629-206">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HALIBUTS - GNARLY!]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/DI180314-950</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/DI180314-950"/>
-        <updated>2026-07-19T06:28:21.017Z</updated>
+        <title type="html"><![CDATA[9 SHOCKS TERROR ナインショックステラー - ZEN AND THE ART OF BEATING YOUR ASS]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/DS0710-107</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/DS0710-107"/>
+        <updated>2026-07-20T06:43:54.860Z</updated>
         <content type="html"><![CDATA[
-        <b>HALIBUTS - GNARLY!</b><br>
+        <b>9 SHOCKS TERROR ナインショックステラー - ZEN AND THE ART OF BEATING YOUR ASS</b><br>
         <br>
         価格: 880円<br>
         盤質: B<br>
@@ -694,22 +602,22 @@
         
         フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2026-07-19T06:28:21.017Z<br>
-        更新日: 2026-07-19T06:28:21.017Z<br>
-        クロール日: 2026-07-19T06:28:20.547Z<br>
+        登録日: 2026-07-20T06:43:54.860Z<br>
+        更新日: 2026-07-20T06:43:54.860Z<br>
+        クロール日: 2026-07-20T06:43:54.422Z<br>
         <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/DI180314-950">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/punk/udetail/DS0710-107">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[POISON IDEA - PAJAMA PARTY]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/DI201211-154</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/DI201211-154"/>
-        <updated>2026-07-19T06:28:21.023Z</updated>
+        <title type="html"><![CDATA[D.R.I. ディーアールアイ - DEALING WITH IT!]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/DS160918-167</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/DS160918-167"/>
+        <updated>2026-07-20T06:43:54.866Z</updated>
         <content type="html"><![CDATA[
-        <b>POISON IDEA - PAJAMA PARTY</b><br>
+        <b>D.R.I. ディーアールアイ - DEALING WITH IT!</b><br>
         <br>
-        価格: 6850円<br>
+        価格: 5750円<br>
         盤質: B+<br>
         <br>
         <br>
@@ -717,344 +625,275 @@
         
         フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2026-07-19T06:28:21.023Z<br>
-        更新日: 2026-07-19T06:28:21.023Z<br>
-        クロール日: 2026-07-19T06:28:20.547Z<br>
+        登録日: 2026-07-20T06:43:54.866Z<br>
+        更新日: 2026-07-20T06:43:54.866Z<br>
+        クロール日: 2026-07-20T06:43:54.422Z<br>
         <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/DI201211-154">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/punk/udetail/DS160918-167">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DEAD KENNEDYS デッド・ケネディーズ - HOLIDAY IN CAMBODIA]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/DI210125-054</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/DI210125-054"/>
-        <updated>2026-07-19T06:28:21.031Z</updated>
+        <title type="html"><![CDATA[ENDPOINT - IF THE SPIRITS ARE WILLING]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/DS170120-58</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/DS170120-58"/>
+        <updated>2026-07-20T06:43:54.873Z</updated>
         <content type="html"><![CDATA[
-        <b>DEAD KENNEDYS デッド・ケネディーズ - HOLIDAY IN CAMBODIA</b><br>
+        <b>ENDPOINT - IF THE SPIRITS ARE WILLING</b><br>
         <br>
-        価格: 2850円<br>
+        価格: 3251円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        レーベル: DOGHOUSE<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-07-20T06:43:54.873Z<br>
+        更新日: 2026-07-20T06:43:54.873Z<br>
+        クロール日: 2026-07-20T06:43:54.422Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/DS170120-58">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HANK WOOD AND THE HAMMERHEADS - HANK WOOD AND THE HAMMERHEADS]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/DS170708-163</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/DS170708-163"/>
+        <updated>2026-07-20T06:43:54.880Z</updated>
+        <content type="html"><![CDATA[
+        <b>HANK WOOD AND THE HAMMERHEADS - HANK WOOD AND THE HAMMERHEADS</b><br>
+        <br>
+        価格: 880円<br>
         盤質: B<br>
         <br>
         <br>
         ジャンル: PUNK<br>
         
-        フォーマット: 12"(レコード)<br>
+        フォーマット: 7"(レコード)<br>
         <br>
-        登録日: 2026-07-19T06:28:21.031Z<br>
-        更新日: 2026-07-19T06:28:21.031Z<br>
-        クロール日: 2026-07-19T06:28:20.548Z<br>
+        登録日: 2026-07-20T06:43:54.880Z<br>
+        更新日: 2026-07-20T06:43:54.880Z<br>
+        クロール日: 2026-07-20T06:43:54.422Z<br>
         <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/DI210125-054">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/punk/udetail/DS170708-163">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V.A. オムニバス - NOTHING'S QUIET ON THE EASTERN FRONT]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/DS0310-183</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/DS0310-183"/>
-        <updated>2026-07-19T06:28:21.058Z</updated>
+        <title type="html"><![CDATA[URBAN DOGS アーバン・ドッグス - URBAN DOGS]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/DS170708-185</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/DS170708-185"/>
+        <updated>2026-07-20T06:43:54.886Z</updated>
         <content type="html"><![CDATA[
-        <b>V.A. オムニバス - NOTHING'S QUIET ON THE EASTERN FRONT</b><br>
+        <b>URBAN DOGS アーバン・ドッグス - URBAN DOGS</b><br>
+        <br>
+        価格: 3850円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-07-20T06:43:54.886Z<br>
+        更新日: 2026-07-20T06:43:54.886Z<br>
+        クロール日: 2026-07-20T06:43:54.422Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/DS170708-185">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BOBBY AITKEN ボビー・エイトキン - ROCKSTEADY ORIGINAL AND RED HOT]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/DS171031-202</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/DS171031-202"/>
+        <updated>2026-07-20T06:43:54.893Z</updated>
+        <content type="html"><![CDATA[
+        <b>BOBBY AITKEN ボビー・エイトキン - ROCKSTEADY ORIGINAL AND RED HOT</b><br>
+        <br>
+        価格: 4250円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-07-20T06:43:54.893Z<br>
+        更新日: 2026-07-20T06:43:54.893Z<br>
+        クロール日: 2026-07-20T06:43:54.423Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/DS171031-202">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MILKSHAKES VS PRISONERS - LIVE]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/DS180523-048</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/DS180523-048"/>
+        <updated>2026-07-20T06:43:54.899Z</updated>
+        <content type="html"><![CDATA[
+        <b>MILKSHAKES VS PRISONERS - LIVE</b><br>
+        <br>
+        価格: 3650円<br>
+        盤質: B+<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-07-20T06:43:54.899Z<br>
+        更新日: 2026-07-20T06:43:54.899Z<br>
+        クロール日: 2026-07-20T06:43:54.423Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/DS180523-048">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DOLL ドール(雑誌) - 1986年2月号]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/DS180720-018</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/DS180720-018"/>
+        <updated>2026-07-20T06:43:54.905Z</updated>
+        <content type="html"><![CDATA[
+        <b>DOLL ドール(雑誌) - 1986年2月号</b><br>
+        <br>
+        価格: 2250円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        
+        フォーマット: BOOK<br>
+        <br>
+        登録日: 2026-07-20T06:43:54.905Z<br>
+        更新日: 2026-07-20T06:43:54.905Z<br>
+        クロール日: 2026-07-20T06:43:54.423Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/DS180720-018">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SUM 41 - NO KILLER NO FILLER]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/PNK0305-093</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/PNK0305-093"/>
+        <updated>2026-07-20T06:43:54.912Z</updated>
+        <content type="html"><![CDATA[
+        <b>SUM 41 - NO KILLER NO FILLER</b><br>
+        <br>
+        価格: 30850円<br>
+        盤質: S<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        レーベル: ISLAND<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-07-20T06:43:54.912Z<br>
+        更新日: 2026-07-20T06:43:54.912Z<br>
+        クロール日: 2026-07-20T06:43:54.423Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/PNK0305-093">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GREEN DAY グリーン・デイ - AMERICAN IDIOT]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/PNK0409-178</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/PNK0409-178"/>
+        <updated>2026-07-20T06:43:54.925Z</updated>
+        <content type="html"><![CDATA[
+        <b>GREEN DAY グリーン・デイ - AMERICAN IDIOT</b><br>
+        <br>
+        価格: 5550円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        レーベル: REPRISE<br>
+        フォーマット: 7"(レコード)<br>
+        <br>
+        登録日: 2026-07-20T06:43:54.925Z<br>
+        更新日: 2026-07-20T06:43:54.925Z<br>
+        クロール日: 2026-07-20T06:43:54.423Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/PNK0409-178">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NOFX - BACKSTAGE PASSPORT (DVD)]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/PNK0902-276</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/PNK0902-276"/>
+        <updated>2026-07-20T06:43:54.931Z</updated>
+        <content type="html"><![CDATA[
+        <b>NOFX - BACKSTAGE PASSPORT (DVD)</b><br>
         <br>
         価格: 680円<br>
         盤質: B<br>
         <br>
         <br>
         ジャンル: PUNK<br>
-        
-        フォーマット: LP(レコード)<br>
+        レーベル: FAT WRECK CHORDS<br>
+        フォーマット: DVD<br>
         <br>
-        登録日: 2026-07-19T06:28:21.058Z<br>
-        更新日: 2026-07-19T06:28:21.058Z<br>
-        クロール日: 2026-07-19T06:28:20.548Z<br>
+        登録日: 2026-07-20T06:43:54.931Z<br>
+        更新日: 2026-07-20T06:43:54.931Z<br>
+        クロール日: 2026-07-20T06:43:54.423Z<br>
         <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/DS0310-183">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/punk/udetail/PNK0902-276">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HUSKER DU ハスカーデュー - ZEN ARCADE]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/DS0810-178</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/DS0810-178"/>
-        <updated>2026-07-19T06:28:21.065Z</updated>
+        <title type="html"><![CDATA[GREEN DAY グリーン・デイ - MINORITY (7")]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/PNK0903-616</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/PNK0903-616"/>
+        <updated>2026-07-20T06:43:54.938Z</updated>
         <content type="html"><![CDATA[
-        <b>HUSKER DU ハスカーデュー - ZEN ARCADE</b><br>
+        <b>GREEN DAY グリーン・デイ - MINORITY (7")</b><br>
         <br>
-        価格: 8850円<br>
-        盤質: S<br>
+        価格: 3251円<br>
+        盤質: B+<br>
         <br>
         <br>
         ジャンル: PUNK<br>
-        
-        フォーマット: LP(レコード)<br>
+        レーベル: ADELINE<br>
+        フォーマット: 7"(レコード)<br>
         <br>
-        登録日: 2026-07-19T06:28:21.065Z<br>
-        更新日: 2026-07-19T06:28:21.065Z<br>
-        クロール日: 2026-07-19T06:28:20.548Z<br>
+        登録日: 2026-07-20T06:43:54.938Z<br>
+        更新日: 2026-07-20T06:43:54.938Z<br>
+        クロール日: 2026-07-20T06:43:54.423Z<br>
         <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/DS0810-178">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/punk/udetail/PNK0903-616">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[REPLACEMENTS リプレイスメンツ - DON'T TELL A SOUL]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/DS160918-187</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/DS160918-187"/>
-        <updated>2026-07-19T06:28:21.079Z</updated>
+        <title type="html"><![CDATA[FRANTICS フランティクス - DOWNTOWN DELIRIUM (7")]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/PNK1007-472</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/PNK1007-472"/>
+        <updated>2026-07-20T06:43:54.944Z</updated>
         <content type="html"><![CDATA[
-        <b>REPLACEMENTS リプレイスメンツ - DON'T TELL A SOUL</b><br>
-        <br>
-        価格: 5650円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: PUNK<br>
-        
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-07-19T06:28:21.079Z<br>
-        更新日: 2026-07-19T06:28:21.079Z<br>
-        クロール日: 2026-07-19T06:28:20.548Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/DS160918-187">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EXCEL - USED T-SHIRT]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/TT-DIB-240128-1008673050</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DIB-240128-1008673050"/>
-        <updated>2026-07-19T06:28:21.148Z</updated>
-        <content type="html"><![CDATA[
-        <b>EXCEL - USED T-SHIRT</b><br>
-        <br>
-        価格: 1700円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: PUNK<br>
-        
-        フォーマット: APPAREL(アパレル)<br>
-        <br>
-        登録日: 2026-07-19T06:28:21.148Z<br>
-        更新日: 2026-07-19T06:28:21.148Z<br>
-        クロール日: 2026-07-19T06:28:20.549Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DIB-240128-1008673050">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TERROR - USED T-SHIRT]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/TT-DIB-260224-1009112140</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DIB-260224-1009112140"/>
-        <updated>2026-07-19T06:28:21.159Z</updated>
-        <content type="html"><![CDATA[
-        <b>TERROR - USED T-SHIRT</b><br>
-        <br>
-        価格: 1700円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: PUNK<br>
-        レーベル: USED APPAREL<br>
-        フォーマット: APPAREL(アパレル)<br>
-        <br>
-        登録日: 2026-07-19T06:28:21.159Z<br>
-        更新日: 2026-07-19T06:28:21.159Z<br>
-        クロール日: 2026-07-19T06:28:20.549Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DIB-260224-1009112140">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEA MONKEYS - PIZZA FACE]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/TT-DKI-260707-1000519092</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DKI-260707-1000519092"/>
-        <updated>2026-07-19T06:28:21.165Z</updated>
-        <content type="html"><![CDATA[
-        <b>SEA MONKEYS - PIZZA FACE</b><br>
+        <b>FRANTICS フランティクス - DOWNTOWN DELIRIUM (7")</b><br>
         <br>
         価格: 480円<br>
         盤質: B<br>
         <br>
         <br>
         ジャンル: PUNK<br>
-        レーベル: DIONYSUS<br>
-        フォーマット: 10"(レコード)<br>
-        <br>
-        登録日: 2026-07-19T06:28:21.165Z<br>
-        更新日: 2026-07-19T06:28:21.165Z<br>
-        クロール日: 2026-07-19T06:28:20.550Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DKI-260707-1000519092">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NIGHTMARES FOR A WEEK - DON'T DIE]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/TT-DKI-260707-1009207222</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DKI-260707-1009207222"/>
-        <updated>2026-07-19T06:28:21.173Z</updated>
-        <content type="html"><![CDATA[
-        <b>NIGHTMARES FOR A WEEK - DON'T DIE</b><br>
-        <br>
-        価格: 980円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: PUNK<br>
-        レーベル: ACADEMY FIGHT SONG<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-07-19T06:28:21.173Z<br>
-        更新日: 2026-07-19T06:28:21.173Z<br>
-        クロール日: 2026-07-19T06:28:20.550Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DKI-260707-1009207222">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SURF PUNKS - MY BEACH]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/TT-DN-260220-1003080990</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DN-260220-1003080990"/>
-        <updated>2026-07-19T06:28:21.194Z</updated>
-        <content type="html"><![CDATA[
-        <b>SURF PUNKS - MY BEACH</b><br>
-        <br>
-        価格: 900円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: PUNK<br>
-        レーベル: EPIC<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-07-19T06:28:21.194Z<br>
-        更新日: 2026-07-19T06:28:21.194Z<br>
-        クロール日: 2026-07-19T06:28:20.550Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DN-260220-1003080990">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MEREL:ICONOCLAST - SPLIT]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/TT-DO1-260117-1000513358</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DO1-260117-1000513358"/>
-        <updated>2026-07-19T06:28:21.208Z</updated>
-        <content type="html"><![CDATA[
-        <b>MEREL:ICONOCLAST - SPLIT</b><br>
-        <br>
-        価格: 680円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: PUNK<br>
-        レーベル: OLD GLORY<br>
+        レーベル: MUTANT POP<br>
         フォーマット: 7"(レコード)<br>
         <br>
-        登録日: 2026-07-19T06:28:21.208Z<br>
-        更新日: 2026-07-19T06:28:21.208Z<br>
-        クロール日: 2026-07-19T06:28:20.579Z<br>
+        登録日: 2026-07-20T06:43:54.944Z<br>
+        更新日: 2026-07-20T06:43:54.944Z<br>
+        クロール日: 2026-07-20T06:43:54.423Z<br>
         <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DO1-260117-1000513358">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/punk/udetail/PNK1007-472">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FIGHT IT OUT - USED T-SHIRT]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/TT-DO2-260121-1009160639</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DO2-260121-1009160639"/>
-        <updated>2026-07-19T06:28:21.214Z</updated>
+        <title type="html"><![CDATA[SOCIAL DISTORTION ソーシャル・ディストーション - HARD TIMES AND NURSERY RHYMES (2LP)]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/PNK1101-284</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/PNK1101-284"/>
+        <updated>2026-07-20T06:43:54.950Z</updated>
         <content type="html"><![CDATA[
-        <b>FIGHT IT OUT - USED T-SHIRT</b><br>
+        <b>SOCIAL DISTORTION ソーシャル・ディストーション - HARD TIMES AND NURSERY RHYMES (2LP)</b><br>
         <br>
-        価格: 1700円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: PUNK<br>
-        レーベル: USED APPAREL<br>
-        フォーマット: APPAREL(アパレル)<br>
-        <br>
-        登録日: 2026-07-19T06:28:21.214Z<br>
-        更新日: 2026-07-19T06:28:21.214Z<br>
-        クロール日: 2026-07-19T06:28:20.579Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DO2-260121-1009160639">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CHILDREN OF TECHNOLOGY / CANCER SPREADING - THE ROAD WARRIORS / THE NIGHTMARE OF EXISTENCE]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/TT-DO2-260718-1007841654</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DO2-260718-1007841654"/>
-        <updated>2026-07-19T06:28:21.222Z</updated>
-        <content type="html"><![CDATA[
-        <b>CHILDREN OF TECHNOLOGY / CANCER SPREADING - THE ROAD WARRIORS / THE NIGHTMARE OF EXISTENCE</b><br>
-        <br>
-        価格: 580円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: PUNK<br>
-        レーベル: METAL<br>
-        フォーマット: 7"(レコード)<br>
-        <br>
-        登録日: 2026-07-19T06:28:21.222Z<br>
-        更新日: 2026-07-19T06:28:21.222Z<br>
-        クロール日: 2026-07-19T06:28:20.579Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DO2-260718-1007841654">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KRAUT クラウト - ADJUSTMENT TO SOCIET]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/TT-DP5-260505-1002900287</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DP5-260505-1002900287"/>
-        <updated>2026-07-19T06:28:21.228Z</updated>
-        <content type="html"><![CDATA[
-        <b>KRAUT クラウト - ADJUSTMENT TO SOCIET</b><br>
-        <br>
-        価格: 16850円<br>
-        盤質: B+<br>
-        <br>
-        <br>
-        ジャンル: PUNK<br>
-        レーベル: PUNK<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-07-19T06:28:21.228Z<br>
-        更新日: 2026-07-19T06:28:21.228Z<br>
-        クロール日: 2026-07-19T06:28:20.579Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DP5-260505-1002900287">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OFFSPRING オフスプリング - USED T-SHIRT]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/TT-DP6-240303-1008642639</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DP6-240303-1008642639"/>
-        <updated>2026-07-19T06:28:21.235Z</updated>
-        <content type="html"><![CDATA[
-        <b>OFFSPRING オフスプリング - USED T-SHIRT</b><br>
-        <br>
-        価格: 1500円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: PUNK<br>
-        
-        フォーマット: APPAREL(アパレル)<br>
-        <br>
-        登録日: 2026-07-19T06:28:21.235Z<br>
-        更新日: 2026-07-19T06:28:21.235Z<br>
-        クロール日: 2026-07-19T06:28:20.579Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DP6-240303-1008642639">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BAD RELIGION バッド・レリジョン - HOW COULD HELL BE ANY WORSE?]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/TT-DP6-240920-1008915612</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DP6-240920-1008915612"/>
-        <updated>2026-07-19T06:28:21.242Z</updated>
-        <content type="html"><![CDATA[
-        <b>BAD RELIGION バッド・レリジョン - HOW COULD HELL BE ANY WORSE?</b><br>
-        <br>
-        価格: 58850円<br>
+        価格: 3650円<br>
         盤質: B<br>
         <br>
         <br>
@@ -1062,22 +901,45 @@
         レーベル: EPITAPH<br>
         フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2026-07-19T06:28:21.242Z<br>
-        更新日: 2026-07-19T06:28:21.242Z<br>
-        クロール日: 2026-07-19T06:28:20.580Z<br>
+        登録日: 2026-07-20T06:43:54.950Z<br>
+        更新日: 2026-07-20T06:43:54.950Z<br>
+        クロール日: 2026-07-20T06:43:54.423Z<br>
         <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DP6-240920-1008915612">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/punk/udetail/PNK1101-284">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SUMMER OF DEATH - T-SHIRT]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/TT-DS11-260327-1009176050</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DS11-260327-1009176050"/>
-        <updated>2026-07-19T06:28:21.256Z</updated>
+        <title type="html"><![CDATA[NOMEANSNO ノーミーンズノー - WOULD WE BE ALIVE?]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/TT-DIB-250805-1000221162</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DIB-250805-1000221162"/>
+        <updated>2026-07-20T06:43:54.963Z</updated>
         <content type="html"><![CDATA[
-        <b>SUMMER OF DEATH - T-SHIRT</b><br>
+        <b>NOMEANSNO ノーミーンズノー - WOULD WE BE ALIVE?</b><br>
         <br>
-        価格: 1700円<br>
+        価格: 4250円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        レーベル: ALTERNATIVE TENTACLES<br>
+        フォーマット: 12"(レコード)<br>
+        <br>
+        登録日: 2026-07-20T06:43:54.963Z<br>
+        更新日: 2026-07-20T06:43:54.963Z<br>
+        クロール日: 2026-07-20T06:43:54.424Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DIB-250805-1000221162">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GAMY ゲイミー - USED T-SHIRT]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/TT-DIB-260224-1009194186</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DIB-260224-1009194186"/>
+        <updated>2026-07-20T06:43:54.970Z</updated>
+        <content type="html"><![CDATA[
+        <b>GAMY ゲイミー - USED T-SHIRT</b><br>
+        <br>
+        価格: 2200円<br>
         盤質: B<br>
         <br>
         <br>
@@ -1085,22 +947,22 @@
         レーベル: USED APPAREL<br>
         フォーマット: APPAREL(アパレル)<br>
         <br>
-        登録日: 2026-07-19T06:28:21.256Z<br>
-        更新日: 2026-07-19T06:28:21.256Z<br>
-        クロール日: 2026-07-19T06:28:20.580Z<br>
+        登録日: 2026-07-20T06:43:54.970Z<br>
+        更新日: 2026-07-20T06:43:54.970Z<br>
+        クロール日: 2026-07-20T06:43:54.424Z<br>
         <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DS11-260327-1009176050">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DIB-260224-1009194186">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ZYMETIME PARTY - USED T-SHIRT]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/TT-DS11-260327-1009176069</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DS11-260327-1009176069"/>
-        <updated>2026-07-19T06:28:21.262Z</updated>
+        <title type="html"><![CDATA[KEN TAKAKURA 高倉健 - USED T-SHIRT]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/TT-DIB-260408-1009219845</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DIB-260408-1009219845"/>
+        <updated>2026-07-20T06:43:54.976Z</updated>
         <content type="html"><![CDATA[
-        <b>ZYMETIME PARTY - USED T-SHIRT</b><br>
+        <b>KEN TAKAKURA 高倉健 - USED T-SHIRT</b><br>
         <br>
-        価格: 1400円<br>
+        価格: 1100円<br>
         盤質: B<br>
         <br>
         <br>
@@ -1108,22 +970,22 @@
         レーベル: USED APPAREL<br>
         フォーマット: APPAREL(アパレル)<br>
         <br>
-        登録日: 2026-07-19T06:28:21.262Z<br>
-        更新日: 2026-07-19T06:28:21.262Z<br>
-        クロール日: 2026-07-19T06:28:20.580Z<br>
+        登録日: 2026-07-20T06:43:54.976Z<br>
+        更新日: 2026-07-20T06:43:54.976Z<br>
+        クロール日: 2026-07-20T06:43:54.424Z<br>
         <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DS11-260327-1009176069">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DIB-260408-1009219845">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KOHTI TUHOA - USED T-SHIRT]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/TT-DS11-260327-1009176095</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DS11-260327-1009176095"/>
-        <updated>2026-07-19T06:28:21.270Z</updated>
+        <title type="html"><![CDATA[SPIKE SHOES - USED T-SHIRT]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/TT-DIB-260512-1009117073</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DIB-260512-1009117073"/>
+        <updated>2026-07-20T06:43:54.982Z</updated>
         <content type="html"><![CDATA[
-        <b>KOHTI TUHOA - USED T-SHIRT</b><br>
+        <b>SPIKE SHOES - USED T-SHIRT</b><br>
         <br>
-        価格: 1400円<br>
+        価格: 1100円<br>
         盤質: B<br>
         <br>
         <br>
@@ -1131,43 +993,273 @@
         レーベル: USED APPAREL<br>
         フォーマット: APPAREL(アパレル)<br>
         <br>
-        登録日: 2026-07-19T06:28:21.270Z<br>
-        更新日: 2026-07-19T06:28:21.270Z<br>
-        クロール日: 2026-07-19T06:28:20.580Z<br>
+        登録日: 2026-07-20T06:43:54.982Z<br>
+        更新日: 2026-07-20T06:43:54.982Z<br>
+        クロール日: 2026-07-20T06:43:54.424Z<br>
         <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DS11-260327-1009176095">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DIB-260512-1009117073">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GELD - USED T-SHIRT]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/TT-DS11-260327-1009176097</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DS11-260327-1009176097"/>
-        <updated>2026-07-19T06:28:21.276Z</updated>
+        <title type="html"><![CDATA[JELLO BIAFRA WITH TH - SIEG HOWDY!]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/TT-DKP-220316-1005527867</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DKP-220316-1005527867"/>
+        <updated>2026-07-20T06:43:54.989Z</updated>
         <content type="html"><![CDATA[
-        <b>GELD - USED T-SHIRT</b><br>
+        <b>JELLO BIAFRA WITH TH - SIEG HOWDY!</b><br>
         <br>
-        価格: 1400円<br>
+        価格: 3850円<br>
+        盤質: S<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        レーベル: ALTERNATIVE TENTACLES<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-07-20T06:43:54.989Z<br>
+        更新日: 2026-07-20T06:43:54.989Z<br>
+        クロール日: 2026-07-20T06:43:54.424Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DKP-220316-1005527867">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SIGUE SIGUE SPUTNIK ジグ・ジグ・スパトニック - LOVE MISSILE]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/TT-DN-240923-1002572033</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DN-240923-1002572033"/>
+        <updated>2026-07-20T06:43:54.995Z</updated>
+        <content type="html"><![CDATA[
+        <b>SIGUE SIGUE SPUTNIK ジグ・ジグ・スパトニック - LOVE MISSILE</b><br>
+        <br>
+        価格: 880円<br>
         盤質: B<br>
         <br>
         <br>
         ジャンル: PUNK<br>
-        レーベル: USED APPAREL<br>
-        フォーマット: APPAREL(アパレル)<br>
+        レーベル: PARLOPHONE<br>
+        フォーマット: 7"(レコード)<br>
         <br>
-        登録日: 2026-07-19T06:28:21.276Z<br>
-        更新日: 2026-07-19T06:28:21.276Z<br>
-        クロール日: 2026-07-19T06:28:20.580Z<br>
+        登録日: 2026-07-20T06:43:54.995Z<br>
+        更新日: 2026-07-20T06:43:54.995Z<br>
+        クロール日: 2026-07-20T06:43:54.424Z<br>
         <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DS11-260327-1009176097">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DN-240923-1002572033">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AUTHORITIES オーソリティーズ - PUPPY LOVE]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/TT-DS7-220411-1007261093</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DS7-220411-1007261093"/>
-        <updated>2026-07-19T06:28:21.283Z</updated>
+        <title type="html"><![CDATA[FIFTEEN フィフティーン - CHOICE OF A NEW GENERATION]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/TT-DNS-250515-1007855335</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DNS-250515-1007855335"/>
+        <updated>2026-07-20T06:43:55.002Z</updated>
         <content type="html"><![CDATA[
-        <b>AUTHORITIES オーソリティーズ - PUPPY LOVE</b><br>
+        <b>FIFTEEN フィフティーン - CHOICE OF A NEW GENERATION</b><br>
+        <br>
+        価格: 6750円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        レーベル: LOOKOUT<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-07-20T06:43:55.002Z<br>
+        更新日: 2026-07-20T06:43:55.002Z<br>
+        クロール日: 2026-07-20T06:43:54.453Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DNS-250515-1007855335">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COCKNEY REJECTS コックニー・リジェクツ - WILD ONES]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/TT-DO1-220620-1000516574</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DO1-220620-1000516574"/>
+        <updated>2026-07-20T06:43:55.008Z</updated>
+        <content type="html"><![CDATA[
+        <b>COCKNEY REJECTS コックニー・リジェクツ - WILD ONES</b><br>
+        <br>
+        価格: 1500円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-07-20T06:43:55.008Z<br>
+        更新日: 2026-07-20T06:43:55.008Z<br>
+        クロール日: 2026-07-20T06:43:54.453Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DO1-220620-1000516574">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KLAUS FLOURIDE - BECAUSE I SAY SO]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/TT-DS16-241125-1007198946</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DS16-241125-1007198946"/>
+        <updated>2026-07-20T06:43:55.014Z</updated>
+        <content type="html"><![CDATA[
+        <b>KLAUS FLOURIDE - BECAUSE I SAY SO</b><br>
+        <br>
+        価格: 1900円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        レーベル: ALTERNATIVE TENTACLES<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-07-20T06:43:55.014Z<br>
+        更新日: 2026-07-20T06:43:55.014Z<br>
+        クロール日: 2026-07-20T06:43:54.453Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DS16-241125-1007198946">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KLAUS FLOURIDE - SHORTNIN BREAD]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/TT-DS16-241125-1007669691</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DS16-241125-1007669691"/>
+        <updated>2026-07-20T06:43:55.020Z</updated>
+        <content type="html"><![CDATA[
+        <b>KLAUS FLOURIDE - SHORTNIN BREAD</b><br>
+        <br>
+        価格: 1900円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        
+        フォーマット: 12"(レコード)<br>
+        <br>
+        登録日: 2026-07-20T06:43:55.020Z<br>
+        更新日: 2026-07-20T06:43:55.020Z<br>
+        クロール日: 2026-07-20T06:43:54.453Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DS16-241125-1007669691">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LURCH - STEEL POLE BATH TUB]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/TT-DS18-240416-1007225171</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DS18-240416-1007225171"/>
+        <updated>2026-07-20T06:43:55.027Z</updated>
+        <content type="html"><![CDATA[
+        <b>LURCH - STEEL POLE BATH TUB</b><br>
+        <br>
+        価格: 2650円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        
+        フォーマット: 12"(レコード)<br>
+        <br>
+        登録日: 2026-07-20T06:43:55.027Z<br>
+        更新日: 2026-07-20T06:43:55.027Z<br>
+        クロール日: 2026-07-20T06:43:54.453Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DS18-240416-1007225171">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MY NAME - MEGACRUSH]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/TT-DS7-220413-1006881195</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DS7-220413-1006881195"/>
+        <updated>2026-07-20T06:43:55.033Z</updated>
+        <content type="html"><![CDATA[
+        <b>MY NAME - MEGACRUSH</b><br>
+        <br>
+        価格: 1300円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-07-20T06:43:55.033Z<br>
+        更新日: 2026-07-20T06:43:55.033Z<br>
+        クロール日: 2026-07-20T06:43:54.453Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DS7-220413-1006881195">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HENRY ROLLINS ヘンリーロリンズ - LET THERE BE ROCK]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/TT-DS7-220413-1006975645</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DS7-220413-1006975645"/>
+        <updated>2026-07-20T06:43:55.039Z</updated>
+        <content type="html"><![CDATA[
+        <b>HENRY ROLLINS ヘンリーロリンズ - LET THERE BE ROCK</b><br>
+        <br>
+        価格: 4250円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        レーベル: NAGASHIMA<br>
+        フォーマット: 10"(レコード)<br>
+        <br>
+        登録日: 2026-07-20T06:43:55.039Z<br>
+        更新日: 2026-07-20T06:43:55.039Z<br>
+        クロール日: 2026-07-20T06:43:54.454Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DS7-220413-1006975645">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CLUTCH クラッチ - PASSIVE RESTRAINTS]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/TT-DS7-220604-1006554005</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DS7-220604-1006554005"/>
+        <updated>2026-07-20T06:43:55.045Z</updated>
+        <content type="html"><![CDATA[
+        <b>CLUTCH クラッチ - PASSIVE RESTRAINTS</b><br>
+        <br>
+        価格: 4550円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        レーベル: EARACHE<br>
+        フォーマット: 12"(レコード)<br>
+        <br>
+        登録日: 2026-07-20T06:43:55.045Z<br>
+        更新日: 2026-07-20T06:43:55.045Z<br>
+        クロール日: 2026-07-20T06:43:54.454Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DS7-220604-1006554005">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SPAZZ : BRUTAL TRUTH - SPLIT]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/TT-DS7-221018-1003256572</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DS7-221018-1003256572"/>
+        <updated>2026-07-20T06:43:55.052Z</updated>
+        <content type="html"><![CDATA[
+        <b>SPAZZ : BRUTAL TRUTH - SPLIT</b><br>
+        <br>
+        価格: 3050円<br>
+        盤質: B+<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        レーベル: BOVINE<br>
+        フォーマット: 7"(レコード)<br>
+        <br>
+        登録日: 2026-07-20T06:43:55.052Z<br>
+        更新日: 2026-07-20T06:43:55.052Z<br>
+        クロール日: 2026-07-20T06:43:54.454Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DS7-221018-1003256572">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BLAGGERS ITA - THE WAY WE OPERATE]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/TT-DS7-230923-1007232672</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DS7-230923-1007232672"/>
+        <updated>2026-07-20T06:43:55.065Z</updated>
+        <content type="html"><![CDATA[
+        <b>BLAGGERS ITA - THE WAY WE OPERATE</b><br>
         <br>
         価格: 680円<br>
         盤質: B<br>
@@ -1175,358 +1267,335 @@
         <br>
         ジャンル: PUNK<br>
         
-        フォーマット: LP(レコード)<br>
+        フォーマット: 7"(レコード)<br>
         <br>
-        登録日: 2026-07-19T06:28:21.283Z<br>
-        更新日: 2026-07-19T06:28:21.283Z<br>
-        クロール日: 2026-07-19T06:28:20.580Z<br>
+        登録日: 2026-07-20T06:43:55.065Z<br>
+        更新日: 2026-07-20T06:43:55.065Z<br>
+        クロール日: 2026-07-20T06:43:54.454Z<br>
         <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DS7-220411-1007261093">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DS7-230923-1007232672">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EXTERMINIO (Brazilian Thrash Metal) - DEMO 84]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/TT-DS7-220603-1008430003</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DS7-220603-1008430003"/>
-        <updated>2026-07-19T06:28:21.290Z</updated>
+        <title type="html"><![CDATA[TOY DOLLS トイ・ドールズ - TOY DOLLS ALBUM]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/TT-DS7-240114-1002905830</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DS7-240114-1002905830"/>
+        <updated>2026-07-20T06:43:55.071Z</updated>
         <content type="html"><![CDATA[
-        <b>EXTERMINIO (Brazilian Thrash Metal) - DEMO 84</b><br>
+        <b>TOY DOLLS トイ・ドールズ - TOY DOLLS ALBUM</b><br>
         <br>
-        価格: 1700円<br>
-        盤質: B+<br>
-        <br>
-        <br>
-        ジャンル: PUNK<br>
-        
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-07-19T06:28:21.290Z<br>
-        更新日: 2026-07-19T06:28:21.290Z<br>
-        クロール日: 2026-07-19T06:28:20.580Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DS7-220603-1008430003">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEDITION : PINK TURDS IN SPACE - SPLIT]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/TT-DS7-221212-1002902950</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DS7-221212-1002902950"/>
-        <updated>2026-07-19T06:28:21.311Z</updated>
-        <content type="html"><![CDATA[
-        <b>SEDITION : PINK TURDS IN SPACE - SPLIT</b><br>
-        <br>
-        価格: 2050円<br>
+        価格: 3450円<br>
         盤質: B<br>
         <br>
         <br>
         ジャンル: PUNK<br>
         
-        フォーマット: LP(レコード)<br>
+        フォーマット: 12"(レコード)<br>
         <br>
-        登録日: 2026-07-19T06:28:21.311Z<br>
-        更新日: 2026-07-19T06:28:21.311Z<br>
-        クロール日: 2026-07-19T06:28:20.581Z<br>
+        登録日: 2026-07-20T06:43:55.071Z<br>
+        更新日: 2026-07-20T06:43:55.071Z<br>
+        クロール日: 2026-07-20T06:43:54.454Z<br>
         <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DS7-221212-1002902950">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DS7-240114-1002905830">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SMARTIES - WHOLE BUNCHO WEIRDOS]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/TT-DS7-230301-1002973461</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DS7-230301-1002973461"/>
-        <updated>2026-07-19T06:28:21.319Z</updated>
+        <title type="html"><![CDATA[PINKZ - SOMETHING ABOUT YOU]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/TT-DS7-240314-1000393795</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DS7-240314-1000393795"/>
+        <updated>2026-07-20T06:43:55.078Z</updated>
         <content type="html"><![CDATA[
-        <b>SMARTIES - WHOLE BUNCHO WEIRDOS</b><br>
-        <br>
-        価格: 1100円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: PUNK<br>
-        レーベル: BYO<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-07-19T06:28:21.319Z<br>
-        更新日: 2026-07-19T06:28:21.319Z<br>
-        クロール日: 2026-07-19T06:28:20.581Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DS7-230301-1002973461">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SKARNIO - POBRE NATUREZA]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/TT-DS7-240329-1008833564</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DS7-240329-1008833564"/>
-        <updated>2026-07-19T06:28:21.331Z</updated>
-        <content type="html"><![CDATA[
-        <b>SKARNIO - POBRE NATUREZA</b><br>
-        <br>
-        価格: 1200円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: PUNK<br>
-        
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-07-19T06:28:21.331Z<br>
-        更新日: 2026-07-19T06:28:21.331Z<br>
-        クロール日: 2026-07-19T06:28:20.581Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DS7-240329-1008833564">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[REAGAN YOUTH レーガン・ユース - YOUTH ANTHEMS FOR THE NEW ORDER]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/TT-DS7-241115-1006066927</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DS7-241115-1006066927"/>
-        <updated>2026-07-19T06:28:21.352Z</updated>
-        <content type="html"><![CDATA[
-        <b>REAGAN YOUTH レーガン・ユース - YOUTH ANTHEMS FOR THE NEW ORDER</b><br>
-        <br>
-        価格: 88850円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: PUNK<br>
-        
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-07-19T06:28:21.352Z<br>
-        更新日: 2026-07-19T06:28:21.352Z<br>
-        クロール日: 2026-07-19T06:28:20.581Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DS7-241115-1006066927">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FRICTION (METAL from US) - BLURRED IN SIX]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/TT-DS7-260314-1000518900</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DS7-260314-1000518900"/>
-        <updated>2026-07-19T06:28:21.359Z</updated>
-        <content type="html"><![CDATA[
-        <b>FRICTION (METAL from US) - BLURRED IN SIX</b><br>
-        <br>
-        価格: 3200円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: PUNK<br>
-        レーベル: ALLIED<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-07-19T06:28:21.359Z<br>
-        更新日: 2026-07-19T06:28:21.359Z<br>
-        クロール日: 2026-07-19T06:28:20.581Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DS7-260314-1000518900">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SOUND OF FAILURE サウンドオブフェイリュア - PARTY IS OVER]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/TT-DS7-260319-1009209328</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DS7-260319-1009209328"/>
-        <updated>2026-07-19T06:28:21.366Z</updated>
-        <content type="html"><![CDATA[
-        <b>SOUND OF FAILURE サウンドオブフェイリュア - PARTY IS OVER</b><br>
+        <b>PINKZ - SOMETHING ABOUT YOU</b><br>
         <br>
         価格: 480円<br>
         盤質: B<br>
         <br>
         <br>
         ジャンル: PUNK<br>
-        レーベル: ED WALTERS<br>
-        フォーマット: LP(レコード)<br>
+        レーベル: GEARHEAD<br>
+        フォーマット: 7"(レコード)<br>
         <br>
-        登録日: 2026-07-19T06:28:21.366Z<br>
-        更新日: 2026-07-19T06:28:21.366Z<br>
-        クロール日: 2026-07-19T06:28:20.582Z<br>
+        登録日: 2026-07-20T06:43:55.078Z<br>
+        更新日: 2026-07-20T06:43:55.078Z<br>
+        クロール日: 2026-07-20T06:43:54.454Z<br>
         <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DS7-260319-1009209328">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DS7-240314-1000393795">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hooper - NO MONUMENT]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/TT-DS7-260323-1009211910</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DS7-260323-1009211910"/>
-        <updated>2026-07-19T06:28:21.375Z</updated>
+        <title type="html"><![CDATA[ALGODON - ALGODON]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/TT-DS7-240421-1008845355</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DS7-240421-1008845355"/>
+        <updated>2026-07-20T06:43:55.084Z</updated>
         <content type="html"><![CDATA[
-        <b>Hooper - NO MONUMENT</b><br>
+        <b>ALGODON - ALGODON</b><br>
         <br>
-        価格: 980円<br>
+        価格: 480円<br>
+        盤質: B+<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        
+        フォーマット: 7"(レコード)<br>
+        <br>
+        登録日: 2026-07-20T06:43:55.084Z<br>
+        更新日: 2026-07-20T06:43:55.084Z<br>
+        クロール日: 2026-07-20T06:43:54.454Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DS7-240421-1008845355">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHITE LUNG - BLOW IT SOUTH]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/TT-DS7-240507-1006380950</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DS7-240507-1006380950"/>
+        <updated>2026-07-20T06:43:55.091Z</updated>
+        <content type="html"><![CDATA[
+        <b>WHITE LUNG - BLOW IT SOUTH</b><br>
+        <br>
+        価格: 480円<br>
         盤質: B<br>
         <br>
         <br>
         ジャンル: PUNK<br>
-        レーベル: SNAPPY LITTLE NUMBERS<br>
-        フォーマット: LP(レコード)<br>
+        
+        フォーマット: 7"(レコード)<br>
         <br>
-        登録日: 2026-07-19T06:28:21.375Z<br>
-        更新日: 2026-07-19T06:28:21.375Z<br>
-        クロール日: 2026-07-19T06:28:20.582Z<br>
+        登録日: 2026-07-20T06:43:55.091Z<br>
+        更新日: 2026-07-20T06:43:55.091Z<br>
+        クロール日: 2026-07-20T06:43:54.454Z<br>
         <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DS7-260323-1009211910">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DS7-240507-1006380950">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NERVOUS TWITCH - GET BACK IN LINE]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/TT-DSC-250519-1009047219</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DSC-250519-1009047219"/>
-        <updated>2026-07-19T06:28:21.382Z</updated>
+        <title type="html"><![CDATA[DESTROY ALL MONSTERS デストロイ・オール・モンスターズ - BORED YOU'RE GONNA D]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/TT-DS7-250120-1005185109</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DS7-250120-1005185109"/>
+        <updated>2026-07-20T06:43:55.097Z</updated>
         <content type="html"><![CDATA[
-        <b>NERVOUS TWITCH - GET BACK IN LINE</b><br>
+        <b>DESTROY ALL MONSTERS デストロイ・オール・モンスターズ - BORED YOU'RE GONNA D</b><br>
         <br>
-        価格: 1100円<br>
+        価格: 4650円<br>
         盤質: B<br>
         <br>
         <br>
         ジャンル: PUNK<br>
-        レーベル: MIDDLE EARTH<br>
-        フォーマット: LP(レコード)<br>
+        レーベル: CHERRY RED<br>
+        フォーマット: 7"(レコード)<br>
         <br>
-        登録日: 2026-07-19T06:28:21.382Z<br>
-        更新日: 2026-07-19T06:28:21.382Z<br>
-        クロール日: 2026-07-19T06:28:20.582Z<br>
+        登録日: 2026-07-20T06:43:55.097Z<br>
+        更新日: 2026-07-20T06:43:55.097Z<br>
+        クロール日: 2026-07-20T06:43:54.454Z<br>
         <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DSC-250519-1009047219">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DS7-250120-1005185109">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[サウンドトラック (GERMS他) - クル-ジング]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/TT-DSK-231004-1005172125</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DSK-231004-1005172125"/>
-        <updated>2026-07-19T06:28:21.389Z</updated>
+        <title type="html"><![CDATA[PETER & THE TEST TUB - BANNED FROM THE PUBS]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/TT-DS7-250309-1005185679</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DS7-250309-1005185679"/>
+        <updated>2026-07-20T06:43:55.103Z</updated>
         <content type="html"><![CDATA[
-        <b>サウンドトラック (GERMS他) - クル-ジング</b><br>
+        <b>PETER & THE TEST TUB - BANNED FROM THE PUBS</b><br>
         <br>
-        価格: 1200円<br>
+        価格: 3251円<br>
         盤質: B<br>
         <br>
         <br>
         ジャンル: PUNK<br>
-        レーベル: ソニー・ミュージック・エンターテイメント<br>
-        フォーマット: LP(レコード)<br>
+        レーベル: NO FUTURE<br>
+        フォーマット: 7"(レコード)<br>
         <br>
-        登録日: 2026-07-19T06:28:21.389Z<br>
-        更新日: 2026-07-19T06:28:21.389Z<br>
-        クロール日: 2026-07-19T06:28:20.582Z<br>
+        登録日: 2026-07-20T06:43:55.103Z<br>
+        更新日: 2026-07-20T06:43:55.103Z<br>
+        クロール日: 2026-07-20T06:43:54.455Z<br>
         <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DSK-231004-1005172125">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DS7-250309-1005185679">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[G.B.H. - MIDNIGHT MADNESS AND]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/TT-DY-220929-1006137033</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DY-220929-1006137033"/>
-        <updated>2026-07-19T06:28:21.395Z</updated>
+        <title type="html"><![CDATA[HIATUS - FROM RESIGNATION... (LP)]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/TT-DS8-260718-1008542841</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DS8-260718-1008542841"/>
+        <updated>2026-07-20T06:43:55.110Z</updated>
         <content type="html"><![CDATA[
-        <b>G.B.H. - MIDNIGHT MADNESS AND</b><br>
+        <b>HIATUS - FROM RESIGNATION... (LP)</b><br>
+        <br>
+        価格: 3251円<br>
+        盤質: B+<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        レーベル: RUIN NATION<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-07-20T06:43:55.110Z<br>
+        更新日: 2026-07-20T06:43:55.110Z<br>
+        クロール日: 2026-07-20T06:43:54.455Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DS8-260718-1008542841">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MOURNING NOISE モーニングノイズ - ...AT THE SEVILLE]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/TT-DS8-260718-1009261225</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DS8-260718-1009261225"/>
+        <updated>2026-07-20T06:43:55.116Z</updated>
+        <content type="html"><![CDATA[
+        <b>MOURNING NOISE モーニングノイズ - ...AT THE SEVILLE</b><br>
+        <br>
+        価格: 1601円<br>
+        盤質: B+<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        レーベル: CLEOPATRA<br>
+        フォーマット: 7"(レコード)<br>
+        <br>
+        登録日: 2026-07-20T06:43:55.116Z<br>
+        更新日: 2026-07-20T06:43:55.116Z<br>
+        クロール日: 2026-07-20T06:43:54.455Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DS8-260718-1009261225">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TRUMANS WATER トルーマンズ・ウォーター - GODSPEED THE PUNCHLI]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/TT-DSK-240206-1005097383</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DSK-240206-1005097383"/>
+        <updated>2026-07-20T06:43:55.123Z</updated>
+        <content type="html"><![CDATA[
+        <b>TRUMANS WATER トルーマンズ・ウォーター - GODSPEED THE PUNCHLI</b><br>
+        <br>
+        価格: 780円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        レーベル: DRUNKEN FISH<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-07-20T06:43:55.123Z<br>
+        更新日: 2026-07-20T06:43:55.123Z<br>
+        クロール日: 2026-07-20T06:43:54.455Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DSK-240206-1005097383">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HAAVAT - MYRSKY NO?USEE]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/TT-DY2-260317-1009201137</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DY2-260317-1009201137"/>
+        <updated>2026-07-20T06:43:55.129Z</updated>
+        <content type="html"><![CDATA[
+        <b>HAAVAT - MYRSKY NO?USEE</b><br>
+        <br>
+        価格: 1300円<br>
+        盤質: B+<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        レーベル: SANCTUS PROPAGANDA<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-07-20T06:43:55.129Z<br>
+        更新日: 2026-07-20T06:43:55.129Z<br>
+        クロール日: 2026-07-20T06:43:54.455Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DY2-260317-1009201137">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BUSINESS - WELCOME TO THE REAL]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/XAT-1245498473</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/XAT-1245498473"/>
+        <updated>2026-07-20T06:43:55.135Z</updated>
+        <content type="html"><![CDATA[
+        <b>BUSINESS - WELCOME TO THE REAL</b><br>
         <br>
         価格: 1800円<br>
         盤質: B<br>
         <br>
         <br>
         ジャンル: PUNK<br>
-        レーベル: COMBAT<br>
-        フォーマット: LP(レコード)<br>
+        レーベル: TAANG!<br>
+        フォーマット: XAT-1245498473<br>
         <br>
-        登録日: 2026-07-19T06:28:21.395Z<br>
-        更新日: 2026-07-19T06:28:21.395Z<br>
-        クロール日: 2026-07-19T06:28:20.582Z<br>
+        登録日: 2026-07-20T06:43:55.135Z<br>
+        更新日: 2026-07-20T06:43:55.135Z<br>
+        クロール日: 2026-07-20T06:43:54.455Z<br>
         <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DY-220929-1006137033">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/punk/udetail/XAT-1245498473">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NOFX - I HEARD THEY SUCK LIVE (LP)]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/XATW-00068186</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/XATW-00068186"/>
-        <updated>2026-07-19T06:28:21.471Z</updated>
+        <title type="html"><![CDATA[DOWN BY LAW ダウンバイロー - PUNKROCKACADEMYFIGHTSONG]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/XATW-00026973</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/XATW-00026973"/>
+        <updated>2026-07-20T06:43:55.142Z</updated>
         <content type="html"><![CDATA[
-        <b>NOFX - I HEARD THEY SUCK LIVE (LP)</b><br>
-        <br>
-        価格: 3850円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: PUNK<br>
-        レーベル: FAT WRECK CHORDS<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-07-19T06:28:21.471Z<br>
-        更新日: 2026-07-19T06:28:21.471Z<br>
-        クロール日: 2026-07-19T06:28:20.583Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/XATW-00068186">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[V.A. - SECRET AGENT S.O.U...-U.S.A]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/XATW-00104710</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/XATW-00104710"/>
-        <updated>2026-07-19T06:28:21.489Z</updated>
-        <content type="html"><![CDATA[
-        <b>V.A. - SECRET AGENT S.O.U...-U.S.A</b><br>
-        <br>
-        価格: 680円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: PUNK<br>
-        レーベル: DOCTOR DREAM<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-07-19T06:28:21.489Z<br>
-        更新日: 2026-07-19T06:28:21.489Z<br>
-        クロール日: 2026-07-19T06:28:20.583Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/XATW-00104710">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[V.A.  オムニバス - PUNK AND DISORDERLY]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/DF171108-135</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/DF171108-135"/>
-        <updated>2026-07-19T06:28:21.544Z</updated>
-        <content type="html"><![CDATA[
-        <b>V.A.  オムニバス - PUNK AND DISORDERLY</b><br>
+        <b>DOWN BY LAW ダウンバイロー - PUNKROCKACADEMYFIGHTSONG</b><br>
         <br>
         価格: 3650円<br>
         盤質: B<br>
         <br>
         <br>
         ジャンル: PUNK<br>
-        
+        レーベル: EPITAPH<br>
         フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2026-07-19T06:28:21.544Z<br>
-        更新日: 2026-07-19T06:28:21.544Z<br>
-        クロール日: 2026-07-19T06:28:20.584Z<br>
+        登録日: 2026-07-20T06:43:55.142Z<br>
+        更新日: 2026-07-20T06:43:55.142Z<br>
+        クロール日: 2026-07-20T06:43:54.455Z<br>
         <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/DF171108-135">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/punk/udetail/XATW-00026973">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[STRUNG OUT ストラング・アウト - AN AMERICAN PARADOX (LP)]]></title>
-        <id>https://diskunion.net/used/ct/punk/udetail/PNK0204-246B</id>
-        <link href="https://diskunion.net/used/ct/punk/udetail/PNK0204-246B"/>
-        <updated>2026-07-19T06:28:21.660Z</updated>
+        <title type="html"><![CDATA[SATANIC SURFERS サタニック・サーファーズ - GOING NOWHERE FAST]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/XATW-00081681</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/XATW-00081681"/>
+        <updated>2026-07-20T06:43:55.148Z</updated>
         <content type="html"><![CDATA[
-        <b>STRUNG OUT ストラング・アウト - AN AMERICAN PARADOX (LP)</b><br>
+        <b>SATANIC SURFERS サタニック・サーファーズ - GOING NOWHERE FAST</b><br>
         <br>
-        価格: 2250円<br>
+        価格: 5250円<br>
         盤質: B<br>
         <br>
         <br>
         ジャンル: PUNK<br>
-        レーベル: FAT WRECK CHORDS<br>
+        レーベル: BURNING HEART<br>
         フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2026-07-19T06:28:21.660Z<br>
-        更新日: 2026-07-19T06:28:21.660Z<br>
-        クロール日: 2026-07-19T06:28:20.621Z<br>
+        登録日: 2026-07-20T06:43:55.148Z<br>
+        更新日: 2026-07-20T06:43:55.148Z<br>
+        クロール日: 2026-07-20T06:43:54.455Z<br>
         <br>
-        <a href="https://diskunion.net/used/ct/punk/udetail/PNK0204-246B">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/punk/udetail/XATW-00081681">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SLOPPY SECONDS スロッピー・セカンズ - MORE TROUBLE THAN TH]]></title>
+        <id>https://diskunion.net/used/ct/punk/udetail/TT-DS7-240802-1006073498</id>
+        <link href="https://diskunion.net/used/ct/punk/udetail/TT-DS7-240802-1006073498"/>
+        <updated>2026-07-20T06:43:55.611Z</updated>
+        <content type="html"><![CDATA[
+        <b>SLOPPY SECONDS スロッピー・セカンズ - MORE TROUBLE THAN TH</b><br>
+        <br>
+        価格: 10850円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: PUNK<br>
+        レーベル: NITRO<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-07-20T06:43:55.611Z<br>
+        更新日: 2026-07-20T06:43:55.611Z<br>
+        クロール日: 2026-07-20T06:43:54.490Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/punk/udetail/TT-DS7-240802-1006073498">商品ページ</a>
         ]]></content>
     </entry>
 </feed>
