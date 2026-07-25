@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2026-07-24T06:38:29.173Z</updated>
+    <updated>2026-07-25T06:27:24.142Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,73 +11,4 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_outlet-analog-1.xml"/>
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
-    <entry>
-        <title type="html"><![CDATA[NINE INCH NAILS ナイン・インチ・ネイルズ - BROKEN (12"+7"/180G)]]></title>
-        <id>https://diskunion.net/indiealt/ct/detail/AWS171201NIN2</id>
-        <link href="https://diskunion.net/indiealt/ct/detail/AWS171201NIN2"/>
-        <updated>2026-07-24T06:25:24.963Z</updated>
-        <content type="html"><![CDATA[
-        <b>NINE INCH NAILS ナイン・インチ・ネイルズ - BROKEN (12"+7"/180G)</b><br>
-        <br>
-        価格: 3465円<br>
-        盤質: OUTLET<br>
-        割引率: 30%<br>
-        <br>
-        ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: NOTHING<br>
-        フォーマット: 12"(レコード)<br>
-        <br>
-        登録日: 2026-07-24T06:25:24.963Z<br>
-        更新日: 2026-07-24T06:25:24.963Z<br>
-        クロール日: 2026-07-24T06:25:24.045Z<br>
-        <br>
-        <a href="https://diskunion.net/indiealt/ct/detail/AWS171201NIN2">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STROKES ザ・ストロークス - IS THIS IT (LP/BLACK VINYL)]]></title>
-        <id>https://diskunion.net/indiealt/ct/detail/1008155368</id>
-        <link href="https://diskunion.net/indiealt/ct/detail/1008155368"/>
-        <updated>2026-07-24T06:25:24.992Z</updated>
-        <content type="html"><![CDATA[
-        <b>STROKES ザ・ストロークス - IS THIS IT (LP/BLACK VINYL)</b><br>
-        <br>
-        価格: 3861円<br>
-        盤質: OUTLET<br>
-        割引率: 10%<br>
-        <br>
-        ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: RCA<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-07-24T06:25:24.992Z<br>
-        更新日: 2026-07-24T06:25:24.992Z<br>
-        クロール日: 2026-07-24T06:25:24.046Z<br>
-        <br>
-        <a href="https://diskunion.net/indiealt/ct/detail/1008155368">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JEFF PARKER ジェフ・パーカー - Forfolks(LP)]]></title>
-        <id>https://diskunion.net/indiealt/ct/detail/1008400758</id>
-        <link href="https://diskunion.net/indiealt/ct/detail/1008400758"/>
-        <updated>2026-07-24T06:25:26.220Z</updated>
-        <content type="html"><![CDATA[
-        <b>JEFF PARKER ジェフ・パーカー - Forfolks(LP)</b><br>
-        <br>
-        価格: 3432円<br>
-        盤質: OUTLET<br>
-        割引率: 20%<br>
-        <br>
-        ジャンル: JAZZ<br>
-        レーベル: INTERNATIONAL ANTHEM<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-07-24T06:25:26.220Z<br>
-        更新日: 2026-07-24T06:25:26.220Z<br>
-        クロール日: 2026-07-24T06:25:24.177Z<br>
-        <br>
-        <a href="https://diskunion.net/indiealt/ct/detail/1008400758">商品ページ</a>
-        ]]></content>
-    </entry>
 </feed>
