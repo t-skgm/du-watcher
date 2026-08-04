@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2026-08-03T07:06:55.623Z</updated>
+    <updated>2026-08-04T06:40:38.424Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,27 +11,4 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_outlet-analog-1.xml"/>
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
-    <entry>
-        <title type="html"><![CDATA[TURNSTILE ターンスタイル - GLOW ON (LP)]]></title>
-        <id>https://diskunion.net/punk/ct/detail/DFN210726-001</id>
-        <link href="https://diskunion.net/punk/ct/detail/DFN210726-001"/>
-        <updated>2026-08-03T07:00:37.232Z</updated>
-        <content type="html"><![CDATA[
-        <b>TURNSTILE ターンスタイル - GLOW ON (LP)</b><br>
-        <br>
-        価格: 5016円<br>
-        盤質: OUTLET<br>
-        割引率: 20%<br>
-        <br>
-        ジャンル: PUNK<br>
-        レーベル: ROADRUNNER<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-08-03T07:00:37.232Z<br>
-        更新日: 2026-08-03T07:00:37.232Z<br>
-        クロール日: 2026-08-03T07:00:37.119Z<br>
-        <br>
-        <a href="https://diskunion.net/punk/ct/detail/DFN210726-001">商品ページ</a>
-        ]]></content>
-    </entry>
 </feed>
