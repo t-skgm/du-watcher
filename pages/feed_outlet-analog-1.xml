@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2026-08-12T05:48:44.922Z</updated>
+    <updated>2026-08-13T05:52:31.654Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,4 +11,50 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_outlet-analog-1.xml"/>
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
+    <entry>
+        <title type="html"><![CDATA[VULFPECK ヴルフペック - MSG II (2LP)]]></title>
+        <id>https://diskunion.net/indiealt/ct/detail/1009191730</id>
+        <link href="https://diskunion.net/indiealt/ct/detail/1009191730"/>
+        <updated>2026-08-13T05:40:43.788Z</updated>
+        <content type="html"><![CDATA[
+        <b>VULFPECK ヴルフペック - MSG II (2LP)</b><br>
+        <br>
+        価格: 12584円<br>
+        盤質: OUTLET<br>
+        割引率: 20%<br>
+        <br>
+        ジャンル: SOUL/BLUES/GOSPEL<br>
+        レーベル: VULF RECORDS<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-08-13T05:40:43.788Z<br>
+        更新日: 2026-08-13T05:40:43.788Z<br>
+        クロール日: 2026-08-13T05:40:42.950Z<br>
+        <br>
+        <a href="https://diskunion.net/indiealt/ct/detail/1009191730">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JAMES HORNER ジェームズ・ホーナー - TITANIC (MOV YELLOW VINYL)]]></title>
+        <id>https://diskunion.net/indiealt/ct/detail/DF250922-001</id>
+        <link href="https://diskunion.net/indiealt/ct/detail/DF250922-001"/>
+        <updated>2026-08-13T05:40:43.805Z</updated>
+        <content type="html"><![CDATA[
+        <b>JAMES HORNER ジェームズ・ホーナー - TITANIC (MOV YELLOW VINYL)</b><br>
+        <br>
+        価格: 5280円<br>
+        盤質: WEB特別価格<br>
+        割引率: 25%<br>
+        <br>
+        ジャンル: 映画DVD・Blu-ray(ブルーレイ)／サントラ<br>
+        レーベル: MUSIC ON VINYL<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-08-13T05:40:43.805Z<br>
+        更新日: 2026-08-13T05:40:43.805Z<br>
+        クロール日: 2026-08-13T05:40:42.950Z<br>
+        <br>
+        <a href="https://diskunion.net/indiealt/ct/detail/DF250922-001">商品ページ</a>
+        ]]></content>
+    </entry>
 </feed>
