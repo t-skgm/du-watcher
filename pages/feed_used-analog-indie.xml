@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/used-analog-indie</id>
     <title>DU Watcher: 中古アナログ/Indie</title>
-    <updated>2026-08-15T04:39:36.843Z</updated>
+    <updated>2026-08-16T04:47:09.885Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -12,256 +12,210 @@
     <subtitle>DU Watcher feed: 中古アナログ/Indie</subtitle>
     <rights>t-skgm</rights>
     <entry>
-        <title type="html"><![CDATA[ANTHONY ADVERSE アンソニー・アドヴァース - PARADISE LOST]]></title>
-        <id>https://diskunion.net/used/ct/indiealt/udetail/04IA06857</id>
-        <link href="https://diskunion.net/used/ct/indiealt/udetail/04IA06857"/>
-        <updated>2026-08-15T04:23:54.436Z</updated>
+        <title type="html"><![CDATA[BELLE & SEBASTIAN ベル・アンド・セバスチャン - IF YOU'RE FEELING SINISTER (LP)]]></title>
+        <id>https://diskunion.net/used/ct/indiealt/udetail/1001057205</id>
+        <link href="https://diskunion.net/used/ct/indiealt/udetail/1001057205"/>
+        <updated>2026-08-16T04:30:22.660Z</updated>
         <content type="html"><![CDATA[
-        <b>ANTHONY ADVERSE アンソニー・アドヴァース - PARADISE LOST</b><br>
+        <b>BELLE & SEBASTIAN ベル・アンド・セバスチャン - IF YOU'RE FEELING SINISTER (LP)</b><br>
         <br>
-        価格: 1100円<br>
+        価格: 8850円<br>
         盤質: B<br>
         <br>
         <br>
         ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: EL RECORDS<br>
-        フォーマット: 12"(レコード)<br>
+        レーベル: JEEPSTER<br>
+        フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2026-08-15T04:23:54.436Z<br>
-        更新日: 2026-08-15T04:23:54.436Z<br>
-        クロール日: 2026-08-15T04:23:54.145Z<br>
+        登録日: 2026-08-16T04:30:22.660Z<br>
+        更新日: 2026-08-16T04:30:22.660Z<br>
+        クロール日: 2026-08-16T04:30:22.516Z<br>
         <br>
-        <a href="https://diskunion.net/used/ct/indiealt/udetail/04IA06857">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/indiealt/udetail/1001057205">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MITSKI ミツキ - NOTHING'S ABOUT TO HAPPEN TO ME (BLACK VINYL)]]></title>
-        <id>https://diskunion.net/used/ct/indiealt/udetail/1009193239</id>
-        <link href="https://diskunion.net/used/ct/indiealt/udetail/1009193239"/>
-        <updated>2026-08-15T04:23:55.099Z</updated>
+        <title type="html"><![CDATA[LIBERTINES リバティーンズ - UP THE BRACKET (LP)]]></title>
+        <id>https://diskunion.net/used/ct/indiealt/udetail/04IA15204</id>
+        <link href="https://diskunion.net/used/ct/indiealt/udetail/04IA15204"/>
+        <updated>2026-08-16T04:30:22.926Z</updated>
         <content type="html"><![CDATA[
-        <b>MITSKI ミツキ - NOTHING'S ABOUT TO HAPPEN TO ME (BLACK VINYL)</b><br>
+        <b>LIBERTINES リバティーンズ - UP THE BRACKET (LP)</b><br>
+        <br>
+        価格: 2850円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: ROCK / POPS / INDIE<br>
+        レーベル: ROUGH TRADE<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-08-16T04:30:22.926Z<br>
+        更新日: 2026-08-16T04:30:22.926Z<br>
+        クロール日: 2026-08-16T04:30:22.526Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/indiealt/udetail/04IA15204">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ROSE MCDOWALL ローズ・マクドウォール - CUT WITH THE CAKE KNIFE (LP)]]></title>
+        <id>https://diskunion.net/used/ct/indiealt/udetail/1009206459</id>
+        <link href="https://diskunion.net/used/ct/indiealt/udetail/1009206459"/>
+        <updated>2026-08-16T04:30:23.084Z</updated>
+        <content type="html"><![CDATA[
+        <b>ROSE MCDOWALL ローズ・マクドウォール - CUT WITH THE CAKE KNIFE (LP)</b><br>
+        <br>
+        価格: 5850円<br>
+        盤質: A<br>
+        <br>
+        <br>
+        ジャンル: ROCK / POPS / INDIE<br>
+        レーベル: NIGHT SCHOOL<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-08-16T04:30:23.084Z<br>
+        更新日: 2026-08-16T04:30:23.084Z<br>
+        クロール日: 2026-08-16T04:30:22.566Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/indiealt/udetail/1009206459">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SENTRIDOH セントリドー - THE ORIGINAL LOSING LOSERS '82 - '91]]></title>
+        <id>https://diskunion.net/used/ct/indiealt/udetail/1002964971</id>
+        <link href="https://diskunion.net/used/ct/indiealt/udetail/1002964971"/>
+        <updated>2026-08-16T04:31:00.657Z</updated>
+        <content type="html"><![CDATA[
+        <b>SENTRIDOH セントリドー - THE ORIGINAL LOSING LOSERS '82 - '91</b><br>
+        <br>
+        価格: 2850円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: ROCK / POPS / INDIE<br>
+        
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-08-16T04:31:00.657Z<br>
+        更新日: 2026-08-16T04:31:00.657Z<br>
+        クロール日: 2026-08-16T04:31:00.439Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/indiealt/udetail/1002964971">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HAYDEN PEDIGO - THE HAPPIEST TIMES I EVER IGNORED (COLOUR VINYL)]]></title>
+        <id>https://diskunion.net/used/ct/indiealt/udetail/1008686054</id>
+        <link href="https://diskunion.net/used/ct/indiealt/udetail/1008686054"/>
+        <updated>2026-08-16T04:31:00.690Z</updated>
+        <content type="html"><![CDATA[
+        <b>HAYDEN PEDIGO - THE HAPPIEST TIMES I EVER IGNORED (COLOUR VINYL)</b><br>
         <br>
         価格: 4650円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: DEAD OCEANS<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-08-15T04:23:55.099Z<br>
-        更新日: 2026-08-15T04:23:55.099Z<br>
-        クロール日: 2026-08-15T04:24:52.456Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/indiealt/udetail/1009193239">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE SMILE (THOM YORKE, JONNY GREENWOOD & TOM SKINNER) ザ・スマイル (トム・ヨーク,ジョニー・グリーンウッド,トム・スキナー) - EUROPE LIVE RECORDINGS 2022]]></title>
-        <id>https://diskunion.net/used/ct/indiealt/udetail/1008619785</id>
-        <link href="https://diskunion.net/used/ct/indiealt/udetail/1008619785"/>
-        <updated>2026-08-15T04:24:32.202Z</updated>
-        <content type="html"><![CDATA[
-        <b>THE SMILE (THOM YORKE, JONNY GREENWOOD & TOM SKINNER) ザ・スマイル (トム・ヨーク,ジョニー・グリーンウッド,トム・スキナー) - EUROPE LIVE RECORDINGS 2022</b><br>
-        <br>
-        価格: 5950円<br>
-        盤質: S<br>
-        <br>
-        <br>
-        ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: XL RECORDINGS<br>
-        フォーマット: 12"(レコード)<br>
-        <br>
-        登録日: 2026-08-15T04:24:32.202Z<br>
-        更新日: 2026-08-15T04:24:32.202Z<br>
-        クロール日: 2026-08-15T04:24:31.971Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/indiealt/udetail/1008619785">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BETTER THAN EZRA ベター・ザン・エズラ - HOW DOES YOUR GARDEN GROW? (LIMITED 2-LP VINYL EDITION)]]></title>
-        <id>https://diskunion.net/used/ct/indiealt/udetail/1009000242</id>
-        <link href="https://diskunion.net/used/ct/indiealt/udetail/1009000242"/>
-        <updated>2026-08-15T04:24:32.210Z</updated>
-        <content type="html"><![CDATA[
-        <b>BETTER THAN EZRA ベター・ザン・エズラ - HOW DOES YOUR GARDEN GROW? (LIMITED 2-LP VINYL EDITION)</b><br>
-        <br>
-        価格: 6750円<br>
-        盤質: S<br>
-        <br>
-        <br>
-        ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: REAL GONE MUSIC<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-08-15T04:24:32.210Z<br>
-        更新日: 2026-08-15T04:24:32.210Z<br>
-        クロール日: 2026-08-15T04:24:31.971Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/indiealt/udetail/1009000242">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MUSE ミューズ - THE WOW! SIGNAL [INDIE EXCLUSIVE VINYL]]]></title>
-        <id>https://diskunion.net/used/ct/indiealt/udetail/1009218881</id>
-        <link href="https://diskunion.net/used/ct/indiealt/udetail/1009218881"/>
-        <updated>2026-08-15T04:24:32.393Z</updated>
-        <content type="html"><![CDATA[
-        <b>MUSE ミューズ - THE WOW! SIGNAL [INDIE EXCLUSIVE VINYL]</b><br>
-        <br>
-        価格: 3650円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: WM UK<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-08-15T04:24:32.393Z<br>
-        更新日: 2026-08-15T04:24:32.393Z<br>
-        クロール日: 2026-08-15T04:24:31.972Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/indiealt/udetail/1009218881">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WET LEG ウェット・レッグ - MOISTURIZER (DELUXE / 数量限定 / トランスペアレント・レッド・ヴァイナル)]]></title>
-        <id>https://diskunion.net/used/ct/indiealt/udetail/1009248120</id>
-        <link href="https://diskunion.net/used/ct/indiealt/udetail/1009248120"/>
-        <updated>2026-08-15T04:24:32.401Z</updated>
-        <content type="html"><![CDATA[
-        <b>WET LEG ウェット・レッグ - MOISTURIZER (DELUXE / 数量限定 / トランスペアレント・レッド・ヴァイナル)</b><br>
-        <br>
-        価格: 5350円<br>
-        盤質: S<br>
-        <br>
-        <br>
-        ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: DOMINO<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-08-15T04:24:32.401Z<br>
-        更新日: 2026-08-15T04:24:32.401Z<br>
-        クロール日: 2026-08-15T04:24:31.973Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/indiealt/udetail/1009248120">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DEATH CAB FOR CUTIE デス・キャブ・フォー・キューティー - PLANS (2LP)]]></title>
-        <id>https://diskunion.net/used/ct/indiealt/udetail/AWS160203-DCFC1</id>
-        <link href="https://diskunion.net/used/ct/indiealt/udetail/AWS160203-DCFC1"/>
-        <updated>2026-08-15T04:24:32.558Z</updated>
-        <content type="html"><![CDATA[
-        <b>DEATH CAB FOR CUTIE デス・キャブ・フォー・キューティー - PLANS (2LP)</b><br>
-        <br>
-        価格: 4850円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: MUSIC ON VINYL<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-08-15T04:24:32.558Z<br>
-        更新日: 2026-08-15T04:24:32.558Z<br>
-        クロール日: 2026-08-15T04:24:31.973Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/indiealt/udetail/AWS160203-DCFC1">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LEMON TWIGS レモン・ツイッグス - GO TO SCHOOL (2LP)]]></title>
-        <id>https://diskunion.net/used/ct/indiealt/udetail/AWS180719LEMON2</id>
-        <link href="https://diskunion.net/used/ct/indiealt/udetail/AWS180719LEMON2"/>
-        <updated>2026-08-15T04:24:32.566Z</updated>
-        <content type="html"><![CDATA[
-        <b>LEMON TWIGS レモン・ツイッグス - GO TO SCHOOL (2LP)</b><br>
-        <br>
-        価格: 3050円<br>
-        盤質: S<br>
-        <br>
-        <br>
-        ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: 4AD<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-08-15T04:24:32.566Z<br>
-        更新日: 2026-08-15T04:24:32.566Z<br>
-        クロール日: 2026-08-15T04:24:31.973Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/indiealt/udetail/AWS180719LEMON2">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JAPANESE BREAKFAST ジャパニーズ・ブレックファスト - JUBILEE (SECRETLY SOCIETY CLUB EXCLUSIVE)]]></title>
-        <id>https://diskunion.net/used/ct/indiealt/udetail/1008476081</id>
-        <link href="https://diskunion.net/used/ct/indiealt/udetail/1008476081"/>
-        <updated>2026-08-15T04:24:32.802Z</updated>
-        <content type="html"><![CDATA[
-        <b>JAPANESE BREAKFAST ジャパニーズ・ブレックファスト - JUBILEE (SECRETLY SOCIETY CLUB EXCLUSIVE)</b><br>
-        <br>
-        価格: 3850円<br>
-        盤質: S<br>
-        <br>
-        <br>
-        ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: DEAD OCEANS<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-08-15T04:24:32.802Z<br>
-        更新日: 2026-08-15T04:24:32.802Z<br>
-        クロール日: 2026-08-15T04:24:31.973Z<br>
-        <br>
-        <a href="https://diskunion.net/used/ct/indiealt/udetail/1008476081">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MARK EITZEL マーク・アイツェル - THE UGLY AMERICAN (LP)]]></title>
-        <id>https://diskunion.net/used/ct/indiealt/udetail/1008264829</id>
-        <link href="https://diskunion.net/used/ct/indiealt/udetail/1008264829"/>
-        <updated>2026-08-15T04:24:52.599Z</updated>
-        <content type="html"><![CDATA[
-        <b>MARK EITZEL マーク・アイツェル - THE UGLY AMERICAN (LP)</b><br>
-        <br>
-        価格: 1900円<br>
         盤質: B+<br>
         <br>
         <br>
         ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: TONGUEMASTER<br>
+        レーベル: MEXICAN SUMMER<br>
         フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2026-08-15T04:24:52.599Z<br>
-        更新日: 2026-08-15T04:24:52.599Z<br>
-        クロール日: 2026-08-15T04:24:52.456Z<br>
+        登録日: 2026-08-16T04:31:00.690Z<br>
+        更新日: 2026-08-16T04:31:00.690Z<br>
+        クロール日: 2026-08-16T04:31:13.716Z<br>
         <br>
-        <a href="https://diskunion.net/used/ct/indiealt/udetail/1008264829">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/indiealt/udetail/1008686054">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HOWARD JONES ハワード・ジョーンズ - PIANO COMPOSED IVORY VINYL EDITION]]></title>
-        <id>https://diskunion.net/used/ct/indiealt/udetail/1009017145</id>
-        <link href="https://diskunion.net/used/ct/indiealt/udetail/1009017145"/>
-        <updated>2026-08-15T04:24:52.615Z</updated>
+        <title type="html"><![CDATA[EMPIRE STATE BASTARD エンパイア・ステイト・バスタード - RIVERS OF HERESY [VINYL]]]></title>
+        <id>https://diskunion.net/used/ct/indiealt/udetail/1008686749</id>
+        <link href="https://diskunion.net/used/ct/indiealt/udetail/1008686749"/>
+        <updated>2026-08-16T04:31:00.697Z</updated>
         <content type="html"><![CDATA[
-        <b>HOWARD JONES ハワード・ジョーンズ - PIANO COMPOSED IVORY VINYL EDITION</b><br>
+        <b>EMPIRE STATE BASTARD エンパイア・ステイト・バスタード - RIVERS OF HERESY [VINYL]</b><br>
+        <br>
+        価格: 1400円<br>
+        盤質: S<br>
+        <br>
+        <br>
+        ジャンル: HARDROCK & HEAVYMETAL<br>
+        レーベル: ROADRUNNER<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-08-16T04:31:00.697Z<br>
+        更新日: 2026-08-16T04:31:00.697Z<br>
+        クロール日: 2026-08-16T04:31:00.439Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/indiealt/udetail/1008686749">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[U2 - THE BEST OF 1990-2000 (2LP/180G/REMASTERED)]]></title>
+        <id>https://diskunion.net/used/ct/indiealt/udetail/DIN180803-018</id>
+        <link href="https://diskunion.net/used/ct/indiealt/udetail/DIN180803-018"/>
+        <updated>2026-08-16T04:31:00.746Z</updated>
+        <content type="html"><![CDATA[
+        <b>U2 - THE BEST OF 1990-2000 (2LP/180G/REMASTERED)</b><br>
         <br>
         価格: 5750円<br>
+        盤質: B+<br>
+        <br>
+        <br>
+        ジャンル: ROCK / POPS / INDIE<br>
+        レーベル: ISLAND<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-08-16T04:31:00.746Z<br>
+        更新日: 2026-08-16T04:31:00.746Z<br>
+        クロール日: 2026-08-16T04:31:00.441Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/indiealt/udetail/DIN180803-018">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JIM O'ROURKE ジム・オルーク - HALFWAY TO A THREEWAY (12")]]></title>
+        <id>https://diskunion.net/used/ct/indiealt/udetail/1006725415</id>
+        <link href="https://diskunion.net/used/ct/indiealt/udetail/1006725415"/>
+        <updated>2026-08-16T04:31:00.755Z</updated>
+        <content type="html"><![CDATA[
+        <b>JIM O'ROURKE ジム・オルーク - HALFWAY TO A THREEWAY (12")</b><br>
+        <br>
+        価格: 3750円<br>
         盤質: S<br>
         <br>
         <br>
         ジャンル: ROCK / POPS / INDIE<br>
-        レーベル: DTOX<br>
+        レーベル: DRAG CITY<br>
+        フォーマット: 12"(レコード)<br>
+        <br>
+        登録日: 2026-08-16T04:31:00.755Z<br>
+        更新日: 2026-08-16T04:31:00.755Z<br>
+        クロール日: 2026-08-16T04:31:13.717Z<br>
+        <br>
+        <a href="https://diskunion.net/used/ct/indiealt/udetail/1006725415">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ANDREA MOTIS  アンドレア・モティス - Intimate(2LP/180G)]]></title>
+        <id>https://diskunion.net/used/ct/indiealt/udetail/1009164742</id>
+        <link href="https://diskunion.net/used/ct/indiealt/udetail/1009164742"/>
+        <updated>2026-08-16T04:31:13.839Z</updated>
+        <content type="html"><![CDATA[
+        <b>ANDREA MOTIS  アンドレア・モティス - Intimate(2LP/180G)</b><br>
+        <br>
+        価格: 4950円<br>
+        盤質: S<br>
+        <br>
+        <br>
+        ジャンル: JAZZ<br>
+        レーベル: ELEMENTAL MUSIC<br>
         フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2026-08-15T04:24:52.615Z<br>
-        更新日: 2026-08-15T04:24:52.615Z<br>
-        クロール日: 2026-08-15T04:24:52.456Z<br>
+        登録日: 2026-08-16T04:31:13.839Z<br>
+        更新日: 2026-08-16T04:31:13.839Z<br>
+        クロール日: 2026-08-16T04:31:13.718Z<br>
         <br>
-        <a href="https://diskunion.net/used/ct/indiealt/udetail/1009017145">商品ページ</a>
+        <a href="https://diskunion.net/used/ct/indiealt/udetail/1009164742">商品ページ</a>
         ]]></content>
     </entry>
 </feed>
