@@ -1,26 +1,28 @@
 import { sleep } from 'bun'
+import { buildPageUrl } from './buildPageUrl'
 import { fetchHTML } from './fetchHTML'
-import { parseNextPageUrl } from './parser/parseNextPageUrl'
+import { hasNextPage } from './parser/hasNextPage'
 import { parsePages } from './parser/parsePages'
 
 /** crawl (with sleeping) */
 export const crawl = async ({
   targetUrl,
   baseUrl,
+  maxPageNum = 5,
   sleepMs = 300
 }: {
   targetUrl: string
   baseUrl: string
+  maxPageNum?: number
   sleepMs?: number
 }) => {
   const htmls: string[] = []
-  let nextPageUrl: string | undefined = targetUrl
 
   // fetch with pagenate
-  while (nextPageUrl != null) {
-    const firstHtml = await fetchHTML({ url: nextPageUrl, referer: `${baseUrl}/used/` })
-    nextPageUrl = parseNextPageUrl(firstHtml, baseUrl)
-    htmls.push(firstHtml)
+  for (let pageNo = 1; pageNo <= maxPageNum; pageNo++) {
+    const html = await fetchHTML({ url: buildPageUrl(targetUrl, pageNo), referer: `${baseUrl}/used` })
+    htmls.push(html)
+    if (!hasNextPage(html)) break
     await sleep(sleepMs)
   }
 

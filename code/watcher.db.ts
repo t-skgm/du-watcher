@@ -41,7 +41,7 @@ const run = () =>
 const _crawlAndSavePage = async (db: DB, page: Page) =>
   safeTry(async function* () {
     const items = yield* ResultAsync.fromPromise(
-      crawl({ targetUrl: page.url, baseUrl: BASE_URL }),
+      crawl({ targetUrl: page.url, baseUrl: BASE_URL, maxPageNum: page.limitPageNum }),
       err => err as Error
     ).safeUnwrap()
 

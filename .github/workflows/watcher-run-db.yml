@@ -21,6 +21,9 @@ jobs:
       - name: Install deps
         run: bun install
 
+      - name: Run DB migration
+        run: bun run migration:up
+
       - name: Run crawl (with DB)
         env:
           DU_SITE_BASE_URL: ${{ secrets.DU_SITE_BASE_URL }}
