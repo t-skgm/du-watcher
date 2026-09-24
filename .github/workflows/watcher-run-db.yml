@@ -1,10 +1,10 @@
-name: 'Watcher: run [DB]'
+name: "Watcher: run [DB]"
 
 on:
   workflow_dispatch:
   schedule:
     # 毎日 13:00 (4:00 UTC) 実行
-    - cron: '0 4 * * *'
+    - cron: "0 4 * * *"
 
 jobs:
   watch-and-build-feed:
@@ -12,9 +12,9 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v7
 
-      - uses: oven-sh/setup-bun@v1
+      - uses: oven-sh/setup-bun@v2
         with:
           bun-version: 1.1.0
 
@@ -24,13 +24,13 @@ jobs:
       - name: Run DB migration
         run: bun run migration:up
 
-      - name: Run crawl (with DB)
+      - name: Run crawl
         env:
           DU_SITE_BASE_URL: ${{ secrets.DU_SITE_BASE_URL }}
-        run: bun run start:watcher:db
+        run: bun run start:watcher
 
       - name: Build feed
-        run: bun run start:build-feed:db
+        run: bun run start:build-feed
 
       - name: Commit changes
         env:
@@ -43,7 +43,7 @@ jobs:
           git push origin main
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v5
         with:
           path: pages/
 
@@ -60,4 +60,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5

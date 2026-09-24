@@ -1,47 +1,71 @@
 import { crawl } from '@/lib/crawler/crawl'
-import { saveItems } from '@/sdk/notion/saveItemsNotion'
-import { createNotionClient } from '@/sdk/notion/notion'
-import { queryExistingNotionPages } from '@/sdk/notion/queryExistingNotionPages'
 import { log } from './utils/log'
-import { notionPages } from './sdk/notion/constant'
+import { createDB, type DB } from './sdk/db/createDB'
+import { saveItemsAction } from './action/saveItems'
+import { ResultAsync, ok, safeTry } from 'neverthrow'
+import { getPagesAction } from './action/getPages'
+import { savePageToCrawledAtAction } from './action/savePageToCrawledAt'
+import type { Page } from './sdk/db/model/Page'
+import { addActionLogAction } from './action/addActionLog'
 
 const BASE_URL = process.env.DU_SITE_BASE_URL!
 
-const run = async () => {
-  log(`[crawl] start`)
-  const client = createNotionClient()
+/* eslint-disable neverthrow/must-use-result -- ResultAsync対応してない？ */
 
-  log(`[crawl] query existing pages`)
-  const pages = await queryExistingNotionPages(client, { pagesDbID: notionPages.pagesDbID })
+const run = () =>
+  safeTry(async function* () {
+    log(`[crawl] start`)
+    const db = createDB()
 
-  log(`[crawl] crawl starting: ${pages.length} pages`)
+    log(`[crawl] log action start`)
+    yield* addActionLogAction({ db, actionType: 'crawlStart', metadata: {} }).safeUnwrap()
 
-  let pageCount = 0
-  for (const page of pages) {
-    if (page.url == null) continue
-    pageCount++
+    log(`[crawl] query existing pages`)
+    const pages = yield* getPagesAction({ db }).safeUnwrap()
 
-    log(`[crawl] crawl #${pageCount}/${pages.length}, title: ${page.title}, url: ${page.url}`)
+    log(`[crawl] crawl starting: ${pages.length} pages`)
+    let pageCount = 1
+    for (const page of pages) {
+      if (page.url == null) continue
+      log(`[crawl] crawl #${pageCount}/${pages.length}, title: ${page.title}, url: ${page.url}`)
+      await _crawlAndSavePage(db, page)
+      pageCount++
+    }
 
-    const items = await crawl({ targetUrl: page.url, baseUrl: BASE_URL })
-    log(`[crawl] crawl success`)
+    log(`[crawl] log action result`)
+    yield* addActionLogAction({ db, actionType: 'crawlEnd', metadata: { pageCount } }).safeUnwrap()
+
+    return ok(pageCount)
+  })
+
+const _crawlAndSavePage = async (db: DB, page: Page) =>
+  safeTry(async function* () {
+    const items = yield* ResultAsync.fromPromise(
+      crawl({ targetUrl: page.url, baseUrl: BASE_URL, maxPageNum: page.limitPageNum }),
+      err => err as Error
+    ).safeUnwrap()
 
     log(`[crawl] save items... size: ${items.length}`)
-    await saveItems(client, { items, pageId: page.id })
+    yield* saveItemsAction({ db })({ items, pageId: page.id }).safeUnwrap()
 
-    log(`[crawl] update page`)
-    await client.pages.update({
-      page_id: page.id,
-      properties: {
-        LastCrawled: { date: { start: new Date().toISOString() } }
-      }
-    })
-  }
+    log(`[crawl] update page crawled time`)
+    const [saveResult] = yield* savePageToCrawledAtAction({ db, pageId: page.id }).safeUnwrap()
 
-  log(`[crawl] all crawl finished! page size: ${pageCount}`)
-}
+    log(
+      `[crawl] save success. changed: ${saveResult.numChangedRows?.toString()}, updated: ${saveResult.numUpdatedRows?.toString()}`
+    )
 
-run().catch(async e => {
-  console.error(e)
-  process.exit(1)
-})
+    return ok(null)
+  })
+
+run().then(result =>
+  result.match(
+    pageCount => {
+      log(`[crawl] all crawl finished! page size: ${pageCount}`)
+    },
+    err => {
+      console.error(err)
+      process.exit(1)
+    }
+  )
+)
