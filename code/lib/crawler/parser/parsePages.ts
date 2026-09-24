@@ -1,114 +1,103 @@
 import { parsePriceStr } from '@/utils/formatPrice'
 import { HTMLElement, parse } from 'node-html-parser'
 
-export const parsePages = (htmls: string[], baseUrl: string): UsedItem[] => {
-  const results: UsedItem[] = []
+/**
+ * 商品一覧ページのHTMLをパースする
+ * - 中古一覧 (`/used/{genre}/new_release`): `li.used-wide-product-item`
+ * - 新品・アウトレット一覧 (`/{genre}/outlet` 等): `li.wide-product-item`
+ */
+export const parsePages = (htmls: string[], baseUrl: string): UsedItem[] =>
+  htmls.flatMap(html =>
+    parse(html)
+      .querySelectorAll('li.used-wide-product-item, li.wide-product-item')
+      .map(item => parseItem(item, baseUrl))
+  )
 
-  for (const html of htmls) {
-    const doc = parse(html)
-    const subGenreList = doc.querySelectorAll('.subGenreResult > .subGenreResult__li')
+const parseItem = (item: HTMLElement, baseUrl: string): UsedItem => {
+  const href = item.querySelector('.product-name a')?.getAttribute('href')
+  const itemPageUrl = href ? new URL(href, baseUrl).toString() : undefined
 
-    if (subGenreList.length > 0) {
-      results.push(...parseSubGenreResults(subGenreList, baseUrl))
-    } else {
-      const searchList = doc.querySelectorAll('.subGenreResult > .searchAll__li')
-      results.push(...parseSearchResults(searchList, baseUrl))
-    }
+  const isUsedItem = item.classList.contains('used-wide-product-item')
+  const cheapest = isUsedItem ? pickUsedItemOffer(item) : pickCheapestOffer(item)
+
+  return {
+    itemId: ItemIdRegexp.exec(href ?? '')?.[1],
+    artist: textOf(item.querySelector('.product-artist')),
+    productTitle: textOf(item.querySelector('.product-name a')),
+    labelName: textOf(item.querySelector('.produt-sell-infos a[href*="/label/"]')),
+    genre: textOf(item.querySelector('.product-category')),
+    cheapestItemPrice: cheapest.price != null ? formatters.numberToPrice(cheapest.price) : undefined,
+    cheapestItemStatus: cheapest.status,
+    media: pickMedia(item.querySelector('.produt-sell-infos li')),
+    isDiscountedPrice: item.querySelector('.after-price-off-container') != null,
+    discountRatePercentage: pickDiscountRate(item),
+    itemPageUrl,
+    crawledAt: new Date()
   }
-
-  return results
 }
 
-const parseSubGenreResults = (resultList: HTMLElement[], baseUrl: string) => {
-  const results: UsedItem[] = []
+type Offer = { price: number | undefined; status: string | undefined }
 
-  for (const item of resultList) {
-    const artist = item.querySelector('h3.subGenreResult__artist a')?.textContent?.trim()
-    const productTitle = item.querySelector('h2.subGenreResult__name a')?.textContent?.trim()
-    const labelName = item.querySelector('p.subGenreResult__other a')?.textContent?.trim()
+/** 中古一覧の商品: 中古価格と盤質 */
+const pickUsedItemOffer = (item: HTMLElement): Offer => ({
+  price: priceOf(item.querySelector('.product-action-area .price')),
+  status: textOf(item.querySelector('.product-conditoin-rank .rank-alpha'))
+})
 
-    const isDiscountedPrice = item.querySelector('.u-priceDiscount') != null
-    const discountRatePercentage = formatters.pickDiscountedRate(
-      item.querySelector('.u-discountRate')?.textContent?.trim()
-    )
-
-    const cheapestItemPrice = isDiscountedPrice
-      ? formatters.cutOffText(item.querySelector('p.u-priceDiscount')?.textContent?.trim())
-      : item.querySelector('p.u-priceNormal--Blue')?.textContent?.trim()
-
-    const cheapestItemStatus = item.querySelector('figure.subGenreResult__thumb > span > span')?.textContent?.trim()
-
-    const genre = item.querySelector('p.subGenreResult__tag')?.textContent?.trim()
-    const itemPageUrl = item.querySelector('h2.subGenreResult__name a')?.getAttribute('href')
-    const itemId = ItemIdRegexp.exec(itemPageUrl ?? '')?.[1]
-    const media = formatters.pickMediaText(item.querySelector('.subGenreResult__other')?.textContent ?? '')
-
-    results.push({
-      itemId,
-      artist,
-      productTitle,
-      labelName,
-      genre,
-      cheapestItemPrice,
-      cheapestItemStatus,
-      media,
-      isDiscountedPrice,
-      discountRatePercentage,
-      itemPageUrl: itemPageUrl ? `${baseUrl}${itemPageUrl}` : undefined,
-      crawledAt: new Date()
-    })
+/** 新品一覧の商品: 新品価格と「中古 ¥X より」のうち安い方 */
+const pickCheapestOffer = (item: HTMLElement): Offer => {
+  const newOffer: Offer = {
+    price: priceOf(item.querySelector('.after-price-off-container') ?? item.querySelector('.product-price-contena')),
+    status: textOf(item.querySelector('.outlet-label')) ?? textOf(item.querySelector('.product-status-label'))
+  }
+  const usedInfo = item.querySelector('.product-old-and-rank-infos')
+  const usedOffer: Offer = {
+    price: priceOf(usedInfo?.querySelector('.old-price') ?? null),
+    status: textOf(usedInfo?.querySelector('.rank-alpha') ?? null)
   }
 
-  return results
+  if (usedOffer.price == null) return newOffer
+  if (newOffer.price == null) return usedOffer
+  return usedOffer.price < newOffer.price ? usedOffer : newOffer
 }
 
-const parseSearchResults = (resultList: HTMLElement[], baseUrl: string) => {
-  const results: UsedItem[] = []
+const priceOf = (el: HTMLElement | null) => (el ? parsePriceStr(el.text) : undefined)
 
-  for (const item of resultList) {
-    const artist = item.querySelector('h2.searchAll__artist a')?.textContent?.trim()
-    const productTitle = item.querySelector('h2.searchAll__name a')?.textContent?.replace(/\s+/g, ' ')?.trim()
-    const labelName = item.querySelector('p.searchAll__other a')?.textContent?.trim()
+/**
+ * 割引率 (%)
+ * 表示は "30%OFF" のほか "¥5,700 OFF" (金額) の場合があるので、後者は元値と割引後価格から算出する
+ */
+const pickDiscountRate = (item: HTMLElement): string | undefined => {
+  const label = textOf(item.querySelector('.price-off .text-danger'))
+  const rate = label?.match(/^(\d+)%OFF$/)?.[1]
+  if (rate) return rate
 
-    const isDiscountedPrice = item.querySelector('.u-priceDiscount') != null
-    const discountRatePercentage = formatters.pickDiscountedRate(
-      item.querySelector('.u-discountRate')?.textContent?.trim()
-    )
-    const normalItemPrice = isDiscountedPrice
-      ? getPriceString(item.querySelector('p.u-priceDiscount'))
-      : getPriceString(item.querySelector('p.u-priceNormal--Blue'))
-    const normalItemStatus = item.querySelector('.tag-menbersSale')?.textContent?.trim()
+  const origin = priceOf(item.querySelector('.price-off .origin-price'))
+  const discounted = priceOf(item.querySelector('.after-price-off-container'))
+  if (!origin || discounted == null) return undefined
+  return String(Math.round(((origin - discounted) / origin) * 100))
+}
 
-    const subGenreUsedPrice = getPriceString(item.querySelector('.priceUsed__price'))
-    // 最初のStatus
-    const subGenreUsedStatus = item.querySelector('.qualityArea__li')?.textContent?.trim()
+/**
+ * 販売情報からフォーマットを取り出す
+ * ex. "[LABEL] / IMPORT / LP(レコード) / CATNO / 1008187327 / 2020年10月16日" -> "LP(レコード)"
+ * レーベル名に " / " を含むことがあるため、レーベルのリンクを除去してから分割する
+ */
+const pickMedia = (sellInfo: HTMLElement | null) => {
+  if (!sellInfo) return undefined
+  const cloned = sellInfo.clone() as HTMLElement
+  cloned.querySelectorAll('a[href*="/label/"]').forEach(a => a.remove())
+  const segments = cloned.text
+    .split(' / ')
+    .map(s => s.trim())
+    .filter(s => s !== '')
+  // segments[0] は IMPORT / JPN などの輸入区分
+  return segments[1]
+}
 
-    const isNormalItemCheapest = normalItemPrice < subGenreUsedPrice
-    const cheapestItemPrice = formatters.numberToPrice(isNormalItemCheapest ? normalItemPrice : subGenreUsedPrice)
-    const cheapestItemStatus = isNormalItemCheapest ? normalItemStatus : subGenreUsedStatus
-
-    const genre = item.querySelector('p.searchAll__tag')?.textContent?.trim()
-    const itemPageUrl = item.querySelector('h2.searchAll__name a')?.getAttribute('href')
-    const itemId = ItemIdRegexp.exec(itemPageUrl ?? '')?.[1]
-    const media = formatters.pickMediaText(item.querySelector('.searchAll__other')?.textContent ?? '')
-
-    results.push({
-      itemId,
-      artist,
-      productTitle,
-      labelName,
-      genre,
-      cheapestItemPrice,
-      cheapestItemStatus,
-      media,
-      isDiscountedPrice,
-      discountRatePercentage,
-      itemPageUrl: itemPageUrl ? `${baseUrl}${itemPageUrl}` : undefined,
-      crawledAt: new Date()
-    })
-  }
-
-  return results
+const textOf = (el: HTMLElement | null) => {
+  const text = el?.text.replace(/\s+/g, ' ').trim()
+  return text ? text : undefined
 }
 
 export type UsedItem = {
@@ -126,19 +115,9 @@ export type UsedItem = {
   crawledAt: Date
 }
 
-const ItemIdRegexp = /detail\/(.*)/
+const ItemIdRegexp = /detail\/(\d+)/
 
 const formatters = {
-  // X%OFF -> X
-  pickDiscountedRate: (text: string | undefined) => text?.replace(/(\d+)%OFF$/, '$1'),
-  cutOffText: (text: string | undefined) => text?.replace(/^\d+%OFF\s*/, ''),
-  pickMediaText: (text: string | undefined) => text?.replace(/\s+/g, ' ')?.split(' / ')[2].trim(),
-  // ex. 1000 -> 1,000円
+  // ex. 1000 -> 1,000円(税込)
   numberToPrice: (priceNum: number) => `${priceNum.toLocaleString()}円(税込)`
-}
-
-const getPriceString = (priceNode: HTMLElement | null): number => {
-  if (!priceNode) return Number.MAX_SAFE_INTEGER
-  priceNode.querySelectorAll('span').forEach(span => span.remove())
-  return parsePriceStr(priceNode.textContent.trim()) ?? Number.MAX_SAFE_INTEGER
 }
