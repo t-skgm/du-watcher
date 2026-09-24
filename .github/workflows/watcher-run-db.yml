@@ -1,10 +1,10 @@
-name: 'Watcher: run [DB]'
+name: "Watcher: run [DB]"
 
 on:
   workflow_dispatch:
   schedule:
     # 毎日 13:00 (4:00 UTC) 実行
-    - cron: '0 4 * * *'
+    - cron: "0 4 * * *"
 
 jobs:
   watch-and-build-feed:
@@ -24,13 +24,13 @@ jobs:
       - name: Run DB migration
         run: bun run migration:up
 
-      - name: Run crawl (with DB)
+      - name: Run crawl
         env:
           DU_SITE_BASE_URL: ${{ secrets.DU_SITE_BASE_URL }}
-        run: bun run start:watcher:db
+        run: bun run start:watcher
 
       - name: Build feed
-        run: bun run start:build-feed:db
+        run: bun run start:build-feed
 
       - name: Commit changes
         env:
