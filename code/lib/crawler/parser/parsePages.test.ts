@@ -74,7 +74,7 @@ describe('parsePages()', () => {
     test('全件で割引情報が取れている', () => {
       for (const item of parsePages([html], BASE_URL)) {
         // 新品一覧のリンクは絶対URLなのでそのまま使う
-        expect(item.itemPageUrl).toMatch(/^https:\/\/diskunion\.net\/detail\/\d+$/)
+        expect(item.itemPageUrl).toMatch(/^https:\/\/example\.net\/detail\/\d+$/)
         expect(item.isDiscountedPrice).toBe(true)
         expect(item.discountRatePercentage).toMatch(/^\d+$/)
         expect(item.cheapestItemPrice).toMatch(/^[\d,]+円\(税込\)$/)

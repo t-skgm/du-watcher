@@ -88,6 +88,8 @@ const pickMedia = (sellInfo: HTMLElement | null) => {
   const cloned = sellInfo.clone() as HTMLElement
   cloned.querySelectorAll('a[href*="/label/"]').forEach(a => a.remove())
   const segments = cloned.text
+    // 区切りの前後に改行が入ることがあるため、空白をまとめてから分割する
+    .replace(/\s+/g, ' ')
     .split(' / ')
     .map(s => s.trim())
     .filter(s => s !== '')
