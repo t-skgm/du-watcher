@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/used-analog-jrock</id>
     <title>DU Watcher: 中古アナログ/日本のロック</title>
-    <updated>2026-09-25T09:18:38.700Z</updated>
+    <updated>2026-09-26T09:00:24.942Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,50 +11,4 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_used-analog-jrock.xml"/>
     <subtitle>DU Watcher feed: 中古アナログ/日本のロック</subtitle>
     <rights>t-skgm</rights>
-    <entry>
-        <title type="html"><![CDATA[SHOGO HAMADA / 浜田省吾 - Home Bound（LP）]]></title>
-        <id>https://diskunion.net/used/detail/1009220151</id>
-        <link href="https://diskunion.net/used/detail/1009220151"/>
-        <updated>2026-09-25T09:18:37.337Z</updated>
-        <content type="html"><![CDATA[
-        <b>SHOGO HAMADA / 浜田省吾 - Home Bound（LP）</b><br>
-        <br>
-        価格: 3850円<br>
-        盤質: B<br>
-        <br>
-        <br>
-        ジャンル: 日本のロック・J-POP・インディーズ<br>
-        レーベル: ソニー・ミュージック・エンターテイメント<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-09-25T09:18:37.337Z<br>
-        更新日: 2026-09-25T09:18:37.337Z<br>
-        クロール日: 2026-09-25T09:18:37.185Z<br>
-        <br>
-        <a href="https://diskunion.net/used/detail/1009220151">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEIKO MATSUDA / 松田聖子 - Seiko harmony -Haruomi Hosono Works- vinyl edition（LP）]]></title>
-        <id>https://diskunion.net/used/detail/1009101610</id>
-        <link href="https://diskunion.net/used/detail/1009101610"/>
-        <updated>2026-09-25T09:18:38.320Z</updated>
-        <content type="html"><![CDATA[
-        <b>SEIKO MATSUDA / 松田聖子 - Seiko harmony -Haruomi Hosono Works- vinyl edition（LP）</b><br>
-        <br>
-        価格: 4250円<br>
-        盤質: A<br>
-        <br>
-        <br>
-        ジャンル: 昭和歌謡<br>
-        レーベル: ソニー・ミュージック・エンターテイメント<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-09-25T09:18:38.320Z<br>
-        更新日: 2026-09-25T09:18:38.320Z<br>
-        クロール日: 2026-09-25T09:18:37.278Z<br>
-        <br>
-        <a href="https://diskunion.net/used/detail/1009101610">商品ページ</a>
-        ]]></content>
-    </entry>
 </feed>
