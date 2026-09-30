@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/used-analog-jrock</id>
     <title>DU Watcher: 中古アナログ/日本のロック</title>
-    <updated>2026-09-29T10:21:36.276Z</updated>
+    <updated>2026-09-30T10:14:38.854Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,4 +11,27 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_used-analog-jrock.xml"/>
     <subtitle>DU Watcher feed: 中古アナログ/日本のロック</subtitle>
     <rights>t-skgm</rights>
+    <entry>
+        <title type="html"><![CDATA[Les Rallizes Denudes / 裸のラリーズ - Disque 4 - '76 Studio et Live -（LP）]]></title>
+        <id>https://diskunion.net/used/detail/1009189686</id>
+        <link href="https://diskunion.net/used/detail/1009189686"/>
+        <updated>2026-09-30T10:14:38.305Z</updated>
+        <content type="html"><![CDATA[
+        <b>Les Rallizes Denudes / 裸のラリーズ - Disque 4 - '76 Studio et Live -（LP）</b><br>
+        <br>
+        価格: 5750円<br>
+        盤質: B+<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック・J-POP・インディーズ<br>
+        レーベル: The Last One Musique / Tuff Beats<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-09-30T10:14:38.305Z<br>
+        更新日: 2026-09-30T10:14:38.305Z<br>
+        クロール日: 2026-09-30T10:14:37.379Z<br>
+        <br>
+        <a href="https://diskunion.net/used/detail/1009189686">商品ページ</a>
+        ]]></content>
+    </entry>
 </feed>
