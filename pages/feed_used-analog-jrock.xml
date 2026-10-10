@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/used-analog-jrock</id>
     <title>DU Watcher: 中古アナログ/日本のロック</title>
-    <updated>2026-10-09T11:06:12.755Z</updated>
+    <updated>2026-10-10T10:23:43.257Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -12,49 +12,26 @@
     <subtitle>DU Watcher feed: 中古アナログ/日本のロック</subtitle>
     <rights>t-skgm</rights>
     <entry>
-        <title type="html"><![CDATA[CHICKS/YUKA - すいみん不足 / お料理行進曲]]></title>
-        <id>https://diskunion.net/used/detail/1009173256</id>
-        <link href="https://diskunion.net/used/detail/1009173256"/>
-        <updated>2026-10-09T11:06:12.213Z</updated>
+        <title type="html"><![CDATA[TETSUJI HAYASHI / 林哲司 - ブルージェ]]></title>
+        <id>https://diskunion.net/used/detail/1009192196</id>
+        <link href="https://diskunion.net/used/detail/1009192196"/>
+        <updated>2026-10-10T10:23:42.396Z</updated>
         <content type="html"><![CDATA[
-        <b>CHICKS/YUKA - すいみん不足 / お料理行進曲</b><br>
+        <b>TETSUJI HAYASHI / 林哲司 - ブルージェ</b><br>
         <br>
-        価格: 2250円<br>
-        盤質: B+<br>
-        <br>
-        <br>
-        ジャンル: アニソン<br>
-        レーベル: 日本コロムビア<br>
-        フォーマット: 7"(レコード)<br>
-        <br>
-        登録日: 2026-10-09T11:06:12.213Z<br>
-        更新日: 2026-10-09T11:06:12.213Z<br>
-        クロール日: 2026-10-09T11:06:10.544Z<br>
-        <br>
-        <a href="https://diskunion.net/used/detail/1009173256">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NRQ - RETRONYM / レトロニム（LP）]]></title>
-        <id>https://diskunion.net/used/detail/1009150666</id>
-        <link href="https://diskunion.net/used/detail/1009150666"/>
-        <updated>2026-10-09T11:06:12.536Z</updated>
-        <content type="html"><![CDATA[
-        <b>NRQ - RETRONYM / レトロニム（LP）</b><br>
-        <br>
-        価格: 3650円<br>
-        盤質: S<br>
+        価格: 2650円<br>
+        盤質: A<br>
         <br>
         <br>
         ジャンル: 日本のロック・J-POP・インディーズ<br>
-        レーベル: ピーヴァインレコード<br>
+        レーベル: ユニバーサルミュージック<br>
         フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2026-10-09T11:06:12.536Z<br>
-        更新日: 2026-10-09T11:06:12.536Z<br>
-        クロール日: 2026-10-09T11:06:10.558Z<br>
+        登録日: 2026-10-10T10:23:42.396Z<br>
+        更新日: 2026-10-10T10:23:42.396Z<br>
+        クロール日: 2026-10-10T10:23:41.835Z<br>
         <br>
-        <a href="https://diskunion.net/used/detail/1009150666">商品ページ</a>
+        <a href="https://diskunion.net/used/detail/1009192196">商品ページ</a>
         ]]></content>
     </entry>
 </feed>
