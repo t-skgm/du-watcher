@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/used-analog-jrock</id>
     <title>DU Watcher: 中古アナログ/日本のロック</title>
-    <updated>2026-10-10T10:23:43.257Z</updated>
+    <updated>2026-10-11T10:31:59.426Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -12,26 +12,26 @@
     <subtitle>DU Watcher feed: 中古アナログ/日本のロック</subtitle>
     <rights>t-skgm</rights>
     <entry>
-        <title type="html"><![CDATA[TETSUJI HAYASHI / 林哲司 - ブルージェ]]></title>
-        <id>https://diskunion.net/used/detail/1009192196</id>
-        <link href="https://diskunion.net/used/detail/1009192196"/>
-        <updated>2026-10-10T10:23:42.396Z</updated>
+        <title type="html"><![CDATA[chilldspot - INGREDIENTS]]></title>
+        <id>https://diskunion.net/used/detail/1009183764</id>
+        <link href="https://diskunion.net/used/detail/1009183764"/>
+        <updated>2026-10-11T10:31:58.512Z</updated>
         <content type="html"><![CDATA[
-        <b>TETSUJI HAYASHI / 林哲司 - ブルージェ</b><br>
+        <b>chilldspot - INGREDIENTS</b><br>
         <br>
-        価格: 2650円<br>
-        盤質: A<br>
+        価格: 5750円<br>
+        盤質: B<br>
         <br>
         <br>
-        ジャンル: 日本のロック・J-POP・インディーズ<br>
-        レーベル: ユニバーサルミュージック<br>
+        ジャンル: ソウル・ブルース<br>
+        レーベル: レインボーエンタテインメント<br>
         フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2026-10-10T10:23:42.396Z<br>
-        更新日: 2026-10-10T10:23:42.396Z<br>
-        クロール日: 2026-10-10T10:23:41.835Z<br>
+        登録日: 2026-10-11T10:31:58.512Z<br>
+        更新日: 2026-10-11T10:31:58.512Z<br>
+        クロール日: 2026-10-11T10:31:57.932Z<br>
         <br>
-        <a href="https://diskunion.net/used/detail/1009192196">商品ページ</a>
+        <a href="https://diskunion.net/used/detail/1009183764">商品ページ</a>
         ]]></content>
     </entry>
 </feed>
