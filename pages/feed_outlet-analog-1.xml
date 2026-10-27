@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2026-10-26T09:36:46.580Z</updated>
+    <updated>2026-10-27T09:32:48.536Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -12,26 +12,72 @@
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
     <entry>
-        <title type="html"><![CDATA[V.A. / オムニバス - PIONEERS]]></title>
-        <id>https://diskunion.net/detail/1009193193</id>
-        <link href="https://diskunion.net/detail/1009193193"/>
-        <updated>2026-10-26T09:36:31.796Z</updated>
+        <title type="html"><![CDATA[EVANESCENCE / エヴァネッセンス - SANCTUARY (NEW TWILIGHT VINYL)]]></title>
+        <id>https://diskunion.net/detail/1009241015</id>
+        <link href="https://diskunion.net/detail/1009241015"/>
+        <updated>2026-10-27T09:32:34.603Z</updated>
         <content type="html"><![CDATA[
-        <b>V.A. / オムニバス - PIONEERS</b><br>
+        <b>EVANESCENCE / エヴァネッセンス - SANCTUARY (NEW TWILIGHT VINYL)</b><br>
         <br>
-        価格: 2000円<br>
+        価格: 6435円<br>
         盤質: アウトレット<br>
-        割引率: 66%<br>
+        割引率: 10%<br>
         <br>
-        ジャンル: ロック・ポップス・インディーロック<br>
-        レーベル: MERCURY/UNIVERSAL<br>
+        ジャンル: ハードロック・ヘヴィメタル<br>
+        
         フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2026-10-26T09:36:31.796Z<br>
-        更新日: 2026-10-26T09:36:31.796Z<br>
-        クロール日: 2026-10-26T09:36:31.712Z<br>
+        登録日: 2026-10-27T09:32:34.603Z<br>
+        更新日: 2026-10-27T09:32:34.603Z<br>
+        クロール日: 2026-10-27T09:32:33.573Z<br>
         <br>
-        <a href="https://diskunion.net/detail/1009193193">商品ページ</a>
+        <a href="https://diskunion.net/detail/1009241015">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PRESIDENT (from UK) - BLOOD OF YOUR EMPIRE [VINYL]]]></title>
+        <id>https://diskunion.net/detail/1009248313</id>
+        <link href="https://diskunion.net/detail/1009248313"/>
+        <updated>2026-10-27T09:32:34.610Z</updated>
+        <content type="html"><![CDATA[
+        <b>PRESIDENT (from UK) - BLOOD OF YOUR EMPIRE [VINYL]</b><br>
+        <br>
+        価格: 5049円<br>
+        盤質: アウトレット<br>
+        割引率: 10%<br>
+        <br>
+        ジャンル: ハードロック・ヘヴィメタル<br>
+        
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-10-27T09:32:34.610Z<br>
+        更新日: 2026-10-27T09:32:34.610Z<br>
+        クロール日: 2026-10-27T09:32:33.573Z<br>
+        <br>
+        <a href="https://diskunion.net/detail/1009248313">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EVANESCENCE / エヴァネッセンス - SANCTUARY (VINYL)]]></title>
+        <id>https://diskunion.net/detail/1009241038</id>
+        <link href="https://diskunion.net/detail/1009241038"/>
+        <updated>2026-10-27T09:32:34.616Z</updated>
+        <content type="html"><![CDATA[
+        <b>EVANESCENCE / エヴァネッセンス - SANCTUARY (VINYL)</b><br>
+        <br>
+        価格: 6138円<br>
+        盤質: アウトレット<br>
+        割引率: 10%<br>
+        <br>
+        ジャンル: ハードロック・ヘヴィメタル<br>
+        
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-10-27T09:32:34.616Z<br>
+        更新日: 2026-10-27T09:32:34.616Z<br>
+        クロール日: 2026-10-27T09:32:33.573Z<br>
+        <br>
+        <a href="https://diskunion.net/detail/1009241038">商品ページ</a>
         ]]></content>
     </entry>
 </feed>
