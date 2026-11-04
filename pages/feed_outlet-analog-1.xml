@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2026-11-03T11:33:25.390Z</updated>
+    <updated>2026-11-04T11:48:52.700Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,27 +11,4 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_outlet-analog-1.xml"/>
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
-    <entry>
-        <title type="html"><![CDATA[SICK THOUGHTS - BORN TO BLITZKRIEG (12")]]></title>
-        <id>https://diskunion.net/detail/1009217947</id>
-        <link href="https://diskunion.net/detail/1009217947"/>
-        <updated>2026-11-03T11:33:17.768Z</updated>
-        <content type="html"><![CDATA[
-        <b>SICK THOUGHTS - BORN TO BLITZKRIEG (12")</b><br>
-        <br>
-        価格: 3344円<br>
-        盤質: アウトレット<br>
-        割引率: 5%<br>
-        <br>
-        ジャンル: パンク<br>
-        レーベル: SLOVENLY<br>
-        フォーマット: 12"(レコード)<br>
-        <br>
-        登録日: 2026-11-03T11:33:17.768Z<br>
-        更新日: 2026-11-03T11:33:17.768Z<br>
-        クロール日: 2026-11-03T11:33:17.686Z<br>
-        <br>
-        <a href="https://diskunion.net/detail/1009217947">商品ページ</a>
-        ]]></content>
-    </entry>
 </feed>
