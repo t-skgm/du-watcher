@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/used-analog-jrock</id>
     <title>DU Watcher: 中古アナログ/日本のロック</title>
-    <updated>2026-11-05T11:48:27.409Z</updated>
+    <updated>2026-11-06T11:44:43.089Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -12,187 +12,95 @@
     <subtitle>DU Watcher feed: 中古アナログ/日本のロック</subtitle>
     <rights>t-skgm</rights>
     <entry>
-        <title type="html"><![CDATA[SHOGO HAMADA / 浜田省吾 - Illumination（LP）]]></title>
-        <id>https://diskunion.net/used/detail/1009220147</id>
-        <link href="https://diskunion.net/used/detail/1009220147"/>
-        <updated>2026-11-05T11:48:26.314Z</updated>
+        <title type="html"><![CDATA[MoritaSaki in the pool - This is a Portrait of MoritaSaki / Ice box]]></title>
+        <id>https://diskunion.net/used/detail/1009254863</id>
+        <link href="https://diskunion.net/used/detail/1009254863"/>
+        <updated>2026-11-06T11:44:41.723Z</updated>
         <content type="html"><![CDATA[
-        <b>SHOGO HAMADA / 浜田省吾 - Illumination（LP）</b><br>
+        <b>MoritaSaki in the pool - This is a Portrait of MoritaSaki / Ice box</b><br>
         <br>
-        価格: 2050円<br>
+        価格: 6200円<br>
         盤質: A<br>
         <br>
         <br>
         ジャンル: 日本のロック・J-POP・インディーズ<br>
-        レーベル: ソニー・ミュージック・エンターテイメント<br>
+        レーベル: Tokyo Beatniks Record Label/DIW<br>
         フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2026-11-05T11:48:26.314Z<br>
-        更新日: 2026-11-05T11:48:26.314Z<br>
-        クロール日: 2026-11-05T11:48:25.900Z<br>
+        登録日: 2026-11-06T11:44:41.723Z<br>
+        更新日: 2026-11-06T11:44:41.723Z<br>
+        クロール日: 2026-11-06T11:44:41.639Z<br>
         <br>
-        <a href="https://diskunion.net/used/detail/1009220147">商品ページ</a>
+        <a href="https://diskunion.net/used/detail/1009254863">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SHOGO HAMADA / 浜田省吾 - MIND SCREEN（LP）]]></title>
-        <id>https://diskunion.net/used/detail/1009220149</id>
-        <link href="https://diskunion.net/used/detail/1009220149"/>
-        <updated>2026-11-05T11:48:26.321Z</updated>
+        <title type="html"><![CDATA[KYOKO KOIZUMI / 小泉今日子 - Fade Out Remixes（12インチ）]]></title>
+        <id>https://diskunion.net/used/detail/1009243318</id>
+        <link href="https://diskunion.net/used/detail/1009243318"/>
+        <updated>2026-11-06T11:44:41.757Z</updated>
         <content type="html"><![CDATA[
-        <b>SHOGO HAMADA / 浜田省吾 - MIND SCREEN（LP）</b><br>
+        <b>KYOKO KOIZUMI / 小泉今日子 - Fade Out Remixes（12インチ）</b><br>
         <br>
-        価格: 2050円<br>
-        盤質: A<br>
-        <br>
-        <br>
-        ジャンル: 日本のロック・J-POP・インディーズ<br>
-        レーベル: ソニー・ミュージック・エンターテイメント<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-11-05T11:48:26.321Z<br>
-        更新日: 2026-11-05T11:48:26.321Z<br>
-        クロール日: 2026-11-05T11:48:25.900Z<br>
-        <br>
-        <a href="https://diskunion.net/used/detail/1009220149">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SHOGO HAMADA / 浜田省吾 - 君が人生の時…（LP）]]></title>
-        <id>https://diskunion.net/used/detail/1009220150</id>
-        <link href="https://diskunion.net/used/detail/1009220150"/>
-        <updated>2026-11-05T11:48:26.347Z</updated>
-        <content type="html"><![CDATA[
-        <b>SHOGO HAMADA / 浜田省吾 - 君が人生の時…（LP）</b><br>
-        <br>
-        価格: 2050円<br>
-        盤質: A<br>
-        <br>
-        <br>
-        ジャンル: 日本のロック・J-POP・インディーズ<br>
-        レーベル: ソニー・ミュージック・エンターテイメント<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-11-05T11:48:26.347Z<br>
-        更新日: 2026-11-05T11:48:26.347Z<br>
-        クロール日: 2026-11-05T11:48:25.901Z<br>
-        <br>
-        <a href="https://diskunion.net/used/detail/1009220150">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SUMIKO YAMAGATA / やまがたすみこ - エメラルド･シャワー（LP Clear Green Vinyl） / EMERALD SHOWER]]></title>
-        <id>https://diskunion.net/used/detail/1009196608</id>
-        <link href="https://diskunion.net/used/detail/1009196608"/>
-        <updated>2026-11-05T11:48:26.385Z</updated>
-        <content type="html"><![CDATA[
-        <b>SUMIKO YAMAGATA / やまがたすみこ - エメラルド･シャワー（LP Clear Green Vinyl） / EMERALD SHOWER</b><br>
-        <br>
-        価格: 3750円<br>
+        価格: 4200円<br>
         盤質: A<br>
         <br>
         <br>
         ジャンル: 昭和歌謡<br>
+        レーベル: U/M/A/A<br>
+        フォーマット: 12"(レコード)<br>
+        <br>
+        登録日: 2026-11-06T11:44:41.757Z<br>
+        更新日: 2026-11-06T11:44:41.757Z<br>
+        クロール日: 2026-11-06T11:44:41.640Z<br>
+        <br>
+        <a href="https://diskunion.net/used/detail/1009243318">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JADOES / ジャドーズ - DUMPO -Vinyl Edition-（LP）]]></title>
+        <id>https://diskunion.net/used/detail/1009196606</id>
+        <link href="https://diskunion.net/used/detail/1009196606"/>
+        <updated>2026-11-06T11:44:42.164Z</updated>
+        <content type="html"><![CDATA[
+        <b>JADOES / ジャドーズ - DUMPO -Vinyl Edition-（LP）</b><br>
+        <br>
+        価格: 3850円<br>
+        盤質: B<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック・J-POP・インディーズ<br>
         レーベル: 日本コロムビア<br>
         フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2026-11-05T11:48:26.385Z<br>
-        更新日: 2026-11-05T11:48:26.385Z<br>
-        クロール日: 2026-11-05T11:48:25.926Z<br>
+        登録日: 2026-11-06T11:44:42.164Z<br>
+        更新日: 2026-11-06T11:44:42.164Z<br>
+        クロール日: 2026-11-06T11:44:41.667Z<br>
         <br>
-        <a href="https://diskunion.net/used/detail/1009196608">商品ページ</a>
+        <a href="https://diskunion.net/used/detail/1009196606">商品ページ</a>
         ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[808 / かりゆし58 - アンマー（7インチ）]]></title>
-        <id>https://diskunion.net/used/detail/1009189379</id>
-        <link href="https://diskunion.net/used/detail/1009189379"/>
-        <updated>2026-11-05T11:48:26.752Z</updated>
+        <title type="html"><![CDATA[KINGO HAMADA / 濱田金吾 (浜田金吾) - MUGSHOT（LP）]]></title>
+        <id>https://diskunion.net/used/detail/1009232687</id>
+        <link href="https://diskunion.net/used/detail/1009232687"/>
+        <updated>2026-11-06T11:44:42.190Z</updated>
         <content type="html"><![CDATA[
-        <b>808 / かりゆし58 - アンマー（7インチ）</b><br>
+        <b>KINGO HAMADA / 濱田金吾 (浜田金吾) - MUGSHOT（LP）</b><br>
         <br>
-        価格: 1700円<br>
-        盤質: B+<br>
+        価格: 3850円<br>
+        盤質: B<br>
         <br>
         <br>
         ジャンル: 日本のロック・J-POP・インディーズ<br>
-        レーベル: LD&K<br>
-        フォーマット: 7"(レコード)<br>
-        <br>
-        登録日: 2026-11-05T11:48:26.752Z<br>
-        更新日: 2026-11-05T11:48:26.752Z<br>
-        クロール日: 2026-11-05T11:48:25.945Z<br>
-        <br>
-        <a href="https://diskunion.net/used/detail/1009189379">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BiSH - Too fast to disband Too young to die（4LP）]]></title>
-        <id>https://diskunion.net/used/detail/1009063943</id>
-        <link href="https://diskunion.net/used/detail/1009063943"/>
-        <updated>2026-11-05T11:48:26.938Z</updated>
-        <content type="html"><![CDATA[
-        <b>BiSH - Too fast to disband Too young to die（4LP）</b><br>
-        <br>
-        価格: 25650円<br>
-        盤質: A<br>
-        <br>
-        <br>
-        ジャンル: 日本のロック・J-POP・インディーズ<br>
-        レーベル: 株式会社ハッツアンリミテッド<br>
+        レーベル: ワーナーミュージック<br>
         フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2026-11-05T11:48:26.938Z<br>
-        更新日: 2026-11-05T11:48:26.938Z<br>
-        クロール日: 2026-11-05T11:48:25.974Z<br>
+        登録日: 2026-11-06T11:44:42.190Z<br>
+        更新日: 2026-11-06T11:44:42.190Z<br>
+        クロール日: 2026-11-06T11:44:41.668Z<br>
         <br>
-        <a href="https://diskunion.net/used/detail/1009063943">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FCO. (Ryoto Ohara and The Franchise Owner) / FCO.（小原綾斗とフランチャイズオーナー） - Inc（LP）]]></title>
-        <id>https://diskunion.net/used/detail/1009174594</id>
-        <link href="https://diskunion.net/used/detail/1009174594"/>
-        <updated>2026-11-05T11:48:26.963Z</updated>
-        <content type="html"><![CDATA[
-        <b>FCO. (Ryoto Ohara and The Franchise Owner) / FCO.（小原綾斗とフランチャイズオーナー） - Inc（LP）</b><br>
-        <br>
-        価格: 2150円<br>
-        盤質: B+<br>
-        <br>
-        <br>
-        ジャンル: 日本のロック・J-POP・インディーズ<br>
-        
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-11-05T11:48:26.963Z<br>
-        更新日: 2026-11-05T11:48:26.963Z<br>
-        クロール日: 2026-11-05T11:48:25.975Z<br>
-        <br>
-        <a href="https://diskunion.net/used/detail/1009174594">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ラブリーサマーちゃん - #ラブリーミュージック（Lovely Scarlet Clear Vinyl）]]></title>
-        <id>https://diskunion.net/used/detail/1009142132</id>
-        <link href="https://diskunion.net/used/detail/1009142132"/>
-        <updated>2026-11-05T11:48:27.003Z</updated>
-        <content type="html"><![CDATA[
-        <b>ラブリーサマーちゃん - #ラブリーミュージック（Lovely Scarlet Clear Vinyl）</b><br>
-        <br>
-        価格: 4000円<br>
-        盤質: A<br>
-        <br>
-        <br>
-        ジャンル: 日本のロック・J-POP・インディーズ<br>
-        レーベル: Victor Entertainment / JET SET<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-11-05T11:48:27.003Z<br>
-        更新日: 2026-11-05T11:48:27.003Z<br>
-        クロール日: 2026-11-05T11:48:25.978Z<br>
-        <br>
-        <a href="https://diskunion.net/used/detail/1009142132">商品ページ</a>
+        <a href="https://diskunion.net/used/detail/1009232687">商品ページ</a>
         ]]></content>
     </entry>
 </feed>
