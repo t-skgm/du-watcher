@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/used-analog-jrock</id>
     <title>DU Watcher: 中古アナログ/日本のロック</title>
-    <updated>2026-11-08T11:00:57.760Z</updated>
+    <updated>2026-11-09T12:27:29.015Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -12,26 +12,72 @@
     <subtitle>DU Watcher feed: 中古アナログ/日本のロック</subtitle>
     <rights>t-skgm</rights>
     <entry>
-        <title type="html"><![CDATA[SHUTA HASUNUMA TEAM / 蓮沼執太チーム - TEAM（Clear Vinyl）]]></title>
-        <id>https://diskunion.net/used/detail/1009188895</id>
-        <link href="https://diskunion.net/used/detail/1009188895"/>
-        <updated>2026-11-08T11:00:56.757Z</updated>
+        <title type="html"><![CDATA[MASAYOSHI TAKANAKA / 高中正義 - OCEAN BREEZE（LP）]]></title>
+        <id>https://diskunion.net/used/detail/1009128773</id>
+        <link href="https://diskunion.net/used/detail/1009128773"/>
+        <updated>2026-11-09T12:27:28.570Z</updated>
         <content type="html"><![CDATA[
-        <b>SHUTA HASUNUMA TEAM / 蓮沼執太チーム - TEAM（Clear Vinyl）</b><br>
+        <b>MASAYOSHI TAKANAKA / 高中正義 - OCEAN BREEZE（LP）</b><br>
         <br>
-        価格: 4850円<br>
-        盤質: B<br>
+        価格: 7650円<br>
+        盤質: A<br>
         <br>
         <br>
         ジャンル: 日本のロック・J-POP・インディーズ<br>
-        レーベル: windandwindows / JET SET<br>
+        レーベル: ユニバーサルミュージック<br>
         フォーマット: LP(レコード)<br>
         <br>
-        登録日: 2026-11-08T11:00:56.757Z<br>
-        更新日: 2026-11-08T11:00:56.757Z<br>
-        クロール日: 2026-11-08T11:00:56.278Z<br>
+        登録日: 2026-11-09T12:27:28.570Z<br>
+        更新日: 2026-11-09T12:27:28.570Z<br>
+        クロール日: 2026-11-09T12:27:27.530Z<br>
         <br>
-        <a href="https://diskunion.net/used/detail/1009188895">商品ページ</a>
+        <a href="https://diskunion.net/used/detail/1009128773">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MASAYOSHI TAKANAKA / 高中正義 - SAUDADE（LP）]]></title>
+        <id>https://diskunion.net/used/detail/1009128775</id>
+        <link href="https://diskunion.net/used/detail/1009128775"/>
+        <updated>2026-11-09T12:27:28.577Z</updated>
+        <content type="html"><![CDATA[
+        <b>MASAYOSHI TAKANAKA / 高中正義 - SAUDADE（LP）</b><br>
+        <br>
+        価格: 6950円<br>
+        盤質: A<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック・J-POP・インディーズ<br>
+        レーベル: ユニバーサルミュージック<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-11-09T12:27:28.577Z<br>
+        更新日: 2026-11-09T12:27:28.577Z<br>
+        クロール日: 2026-11-09T12:27:27.530Z<br>
+        <br>
+        <a href="https://diskunion.net/used/detail/1009128775">商品ページ</a>
+        ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MASAYOSHI TAKANAKA / 高中正義 - CAN I SING?（LP）]]></title>
+        <id>https://diskunion.net/used/detail/1009128776</id>
+        <link href="https://diskunion.net/used/detail/1009128776"/>
+        <updated>2026-11-09T12:27:28.584Z</updated>
+        <content type="html"><![CDATA[
+        <b>MASAYOSHI TAKANAKA / 高中正義 - CAN I SING?（LP）</b><br>
+        <br>
+        価格: 6950円<br>
+        盤質: A<br>
+        <br>
+        <br>
+        ジャンル: 日本のロック・J-POP・インディーズ<br>
+        レーベル: ユニバーサルミュージック<br>
+        フォーマット: LP(レコード)<br>
+        <br>
+        登録日: 2026-11-09T12:27:28.584Z<br>
+        更新日: 2026-11-09T12:27:28.584Z<br>
+        クロール日: 2026-11-09T12:27:27.531Z<br>
+        <br>
+        <a href="https://diskunion.net/used/detail/1009128776">商品ページ</a>
         ]]></content>
     </entry>
 </feed>
