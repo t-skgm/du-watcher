@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2026-11-11T11:39:44.282Z</updated>
+    <updated>2026-11-12T12:05:59.853Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,50 +11,4 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_outlet-analog-1.xml"/>
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
-    <entry>
-        <title type="html"><![CDATA[BIRDS OF PANDAEMONIUM - EUDAEMONIA]]></title>
-        <id>https://diskunion.net/detail/1009266591</id>
-        <link href="https://diskunion.net/detail/1009266591"/>
-        <updated>2026-11-11T11:39:28.433Z</updated>
-        <content type="html"><![CDATA[
-        <b>BIRDS OF PANDAEMONIUM - EUDAEMONIA</b><br>
-        <br>
-        価格: 4300円<br>
-        盤質: A<br>
-        割引率: 10%<br>
-        <br>
-        ジャンル: クラブミュージック・ダンスミュージック<br>
-        レーベル: SPRECHEN<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-11-11T11:39:28.433Z<br>
-        更新日: 2026-11-11T11:39:28.433Z<br>
-        クロール日: 2026-11-11T11:39:28.360Z<br>
-        <br>
-        <a href="https://diskunion.net/detail/1009266591">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BONOBO / ボノボ - DISTANCE IN STATIC (2LP INDIE EXCLUSIVE PASTEL) / DISTANCE IN STATIC (数量限定／Indie Exclusive／パステルブルー・ヴァイナル／ポストカード封入)]]></title>
-        <id>https://diskunion.net/detail/1009255128</id>
-        <link href="https://diskunion.net/detail/1009255128"/>
-        <updated>2026-11-11T11:39:28.446Z</updated>
-        <content type="html"><![CDATA[
-        <b>BONOBO / ボノボ - DISTANCE IN STATIC (2LP INDIE EXCLUSIVE PASTEL) / DISTANCE IN STATIC (数量限定／Indie Exclusive／パステルブルー・ヴァイナル／ポストカード封入)</b><br>
-        <br>
-        価格: 7029円<br>
-        盤質: アウトレット<br>
-        割引率: 10%<br>
-        <br>
-        ジャンル: クラブミュージック・ダンスミュージック<br>
-        レーベル: NINJA TUNE<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-11-11T11:39:28.446Z<br>
-        更新日: 2026-11-11T11:39:28.446Z<br>
-        クロール日: 2026-11-11T11:39:28.360Z<br>
-        <br>
-        <a href="https://diskunion.net/detail/1009255128">商品ページ</a>
-        ]]></content>
-    </entry>
 </feed>
