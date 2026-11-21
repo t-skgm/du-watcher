@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/t-skgm/du-watcher/outlet-analog-1</id>
     <title>DU Watcher: アウトレットアナログ</title>
-    <updated>2026-11-20T12:26:50.722Z</updated>
+    <updated>2026-11-21T12:00:39.925Z</updated>
     <generator>du-watcher</generator>
     <author>
         <name>t-skgm</name>
@@ -11,50 +11,4 @@
     <link rel="self" href="https://t-skgm.github.io/du-watcher/feed_outlet-analog-1.xml"/>
     <subtitle>DU Watcher feed: アウトレットアナログ</subtitle>
     <rights>t-skgm</rights>
-    <entry>
-        <title type="html"><![CDATA[PORTISHEAD / ポーティスヘッド - DUMMY (LP)]]></title>
-        <id>https://diskunion.net/detail/1000061082</id>
-        <link href="https://diskunion.net/detail/1000061082"/>
-        <updated>2026-11-20T12:26:37.913Z</updated>
-        <content type="html"><![CDATA[
-        <b>PORTISHEAD / ポーティスヘッド - DUMMY (LP)</b><br>
-        <br>
-        価格: 5940円<br>
-        盤質: アウトレット<br>
-        割引率: 10%<br>
-        <br>
-        ジャンル: ロック・ポップス・インディーロック<br>
-        レーベル: GO! BEAT<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-11-20T12:26:37.913Z<br>
-        更新日: 2026-11-20T12:26:37.913Z<br>
-        クロール日: 2026-11-20T12:26:37.832Z<br>
-        <br>
-        <a href="https://diskunion.net/detail/1000061082">商品ページ</a>
-        ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GUDON / 愚鈍 - オマエノコトナドシラン - DISCOGRAPHY 1986-1990 (2LP/2ND PRESS) / DISCOGRAPHY 1986-1990]]></title>
-        <id>https://diskunion.net/detail/1009252717</id>
-        <link href="https://diskunion.net/detail/1009252717"/>
-        <updated>2026-11-20T12:26:44.070Z</updated>
-        <content type="html"><![CDATA[
-        <b>GUDON / 愚鈍 - オマエノコトナドシラン - DISCOGRAPHY 1986-1990 (2LP/2ND PRESS) / DISCOGRAPHY 1986-1990</b><br>
-        <br>
-        価格: 7920円<br>
-        盤質: アウトレット<br>
-        割引率: 10%<br>
-        <br>
-        ジャンル: パンク<br>
-        レーベル: F.O.A.D.<br>
-        フォーマット: LP(レコード)<br>
-        <br>
-        登録日: 2026-11-20T12:26:44.070Z<br>
-        更新日: 2026-11-20T12:26:44.070Z<br>
-        クロール日: 2026-11-20T12:26:43.403Z<br>
-        <br>
-        <a href="https://diskunion.net/detail/1009252717">商品ページ</a>
-        ]]></content>
-    </entry>
 </feed>
